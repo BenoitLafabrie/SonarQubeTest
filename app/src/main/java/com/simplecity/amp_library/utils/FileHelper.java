@@ -26,7 +26,11 @@ import java.util.NoSuchElementException;
 
 public class FileHelper {
 
-    private final static String TAG = "FileHelper";
+    // Private constructor to prevent instantiation
+    private FileHelper() {
+        throw new UnsupportedOperationException("Utility class");
+    }
+
 
     /**
      * The root directory
@@ -143,7 +147,7 @@ public class FileHelper {
                 filePath = file.getAbsolutePath();
             }
         } catch (IOException ignored) {
-
+            // Exception ignored because resolving symlink failure is non-critical here
         }
 
         if (!TextUtils.isEmpty(filePath) && filePath.equals("/storage/emulated/0") ||
@@ -284,7 +288,7 @@ public class FileHelper {
      * @return true if the deletion was successful
      */
     public static boolean deleteFile(File file) {
-        return DeleteRecursive(file);
+        return deleteRecursive(file);
     }
 
     /**
@@ -293,17 +297,25 @@ public class FileHelper {
      * @param fileOrDirectory the file or directory to delete
      * @return true id the deletion was successful
      */
-    private static boolean DeleteRecursive(File fileOrDirectory) {
+    private static boolean deleteRecursive(File fileOrDirectory) {
         if (fileOrDirectory == null) {
             return false;
         } else if (fileOrDirectory.isDirectory()) {
             File[] fileList = fileOrDirectory.listFiles();
             if (fileList != null) {
                 for (File child : fileList)
-                    DeleteRecursive(child);
+                    deleteRecursive(child);
             }
         }
-        return fileOrDirectory.delete();
+        try {
+            java.nio.file.Files.delete(fileOrDirectory.toPath());
+            return true;
+        } catch (IOException e) {
+            if (BuildConfig.DEBUG) {
+                e.printStackTrace();
+            }
+            return false;
+        }
     }
 
     /**
@@ -338,13 +350,20 @@ public class FileHelper {
     /**
      * An array of accepted/supported audio extensions.
      */
-    public static String[] sExtensions = new String[] {
+    protected static final String[] sExtensions = new String[] {
             "mp3", "3gp", "mp4", "m4a",
             "aac", "ts", "flac", "mid",
             "xmf", "mxmf", "midi", "rtttl",
             "rtx", "ota", "imy", "ogg",
             "mkv", "wav"
     };
+
+    /**
+     * Returns the supported audio file extensions.
+     */
+    public static String[] getSupportedExtensions() {
+        return sExtensions.clone();
+    }
 
     /**
      * An {@link FileFilter} which only accepts directories & supported audio filetypes, based on extension
@@ -355,17 +374,29 @@ public class FileHelper {
                 if (file.isDirectory()) {
                     return true;
                 } else {
-                    String ext = getExtension(file.getName());
-                    for (String allowedExtension : sExtensions) {
-                        if (!TextUtils.isEmpty(ext)) {
-                            if (allowedExtension.equalsIgnoreCase(ext)) {
-                                return true;
-                            }
-                        }
-                    }
+                    return isSupportedAudioFile(file);
                 }
             }
             return false;
         };
+    }
+
+    /**
+     * Checks if the file has a supported audio extension.
+     *
+     * @param file the File to check
+     * @return true if the file has a supported audio extension
+     */
+    private static boolean isSupportedAudioFile(File file) {
+        String ext = getExtension(file.getName());
+        if (TextUtils.isEmpty(ext)) {
+            return false;
+        }
+        for (String allowedExtension : sExtensions) {
+            if (allowedExtension.equalsIgnoreCase(ext)) {
+                return true;
+            }
+        }
+        return false;
     }
 }

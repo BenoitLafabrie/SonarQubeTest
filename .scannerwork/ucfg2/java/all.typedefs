@@ -208,13 +208,9 @@ valueOf(Z)-java.lang.String#valueOf(Z)Ljava/lang/String;=
 setBackgroundColor(I)Bcom.afollestad.aesthetic.AestheticTabLayout#setBackgroundColor(I)VQ
 setIconsColor(I)=com.afollestad.aesthetic.AestheticTabLayout#setIconsColor(I)V
 Consumerjava.lang.Object9
--com.afollestad.aesthetic.AestheticTabLayout$1Consumer&
-java.lang.Runnablejava.lang.ObjectŸ
--com.afollestad.aesthetic.AestheticTabLayout$2java.lang.Objectjava.lang.RunnableC
-<init>()7com.afollestad.aesthetic.AestheticTabLayout$2#<init>()V=
-run()4com.afollestad.aesthetic.AestheticTabLayout$2#run()V§
--com.afollestad.aesthetic.AestheticTabLayout$3Consumeri
-accept(Ljava/lang/Integer;)Jcom.afollestad.aesthetic.AestheticTabLayout$3#accept(Ljava/lang/Integer;)Võ
+-com.afollestad.aesthetic.AestheticTabLayout$1Consumer§
+-com.afollestad.aesthetic.AestheticTabLayout$2Consumeri
+accept(Ljava/lang/Integer;)Jcom.afollestad.aesthetic.AestheticTabLayout$2#accept(Ljava/lang/Integer;)Võ
 java.lang.Throwablejava.io.Serializablejava.lang.Object)
 <init>()java.lang.Throwable#<init>()VM
 <init>(Ljava/lang/String;)/java.lang.Throwable#<init>(Ljava/lang/String;)Vw
@@ -261,12 +257,12 @@ toString()0java.lang.Throwable#toString()Ljava/lang/String;}
 <init>(Ljava/lang/String;);java.lang.IllegalStateException#<init>(Ljava/lang/String;)VÉ
 /<init>(Ljava/lang/String;Ljava/lang/Throwable;)Pjava.lang.IllegalStateException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)V_
 <init>(Ljava/lang/Throwable;)>java.lang.IllegalStateException#<init>(Ljava/lang/Throwable;)V§
--com.afollestad.aesthetic.AestheticTabLayout$4Consumeri
-accept(Ljava/lang/Integer;)Jcom.afollestad.aesthetic.AestheticTabLayout$4#accept(Ljava/lang/Integer;)V®
-/com.afollestad.aesthetic.AestheticTabLayout$4$1Consumerk
-accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$4$1#accept(Ljava/lang/Integer;)V®
-/com.afollestad.aesthetic.AestheticTabLayout$4$2Consumerk
-accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$4$2#accept(Ljava/lang/Integer;)V#
+-com.afollestad.aesthetic.AestheticTabLayout$3Consumeri
+accept(Ljava/lang/Integer;)Jcom.afollestad.aesthetic.AestheticTabLayout$3#accept(Ljava/lang/Integer;)V®
+/com.afollestad.aesthetic.AestheticTabLayout$3$1Consumerk
+accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$3$1#accept(Ljava/lang/Integer;)V®
+/com.afollestad.aesthetic.AestheticTabLayout$3$2Consumerk
+accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$3$2#accept(Ljava/lang/Integer;)V#
 RequestListenerjava.lang.Object!
 BitmapPalettejava.lang.Object•
 .com.github.florent37.glidepalette.GlidePaletteBitmapPaletteRequestListenerD
@@ -556,20 +552,23 @@ stream([J)8java.util.Arrays#stream([J)Ljava/util/stream/LongStream;J
 toString([Z)/java.util.Arrays#toString([Z)Ljava/lang/String;Q
 =com.simplecity.amp_library.ui.modelviews.AlbumView$ViewHolderjava.lang.Object#
 ArtworkProviderjava.lang.Object
-Sortablejava.lang.Objectì
+Sortablejava.lang.Object≠
 ,com.simplecity.amp_library.model.AlbumArtistArtworkProviderSortablejava.io.Serializablejava.lang.Comparablejava.lang.Object§
 9compareTo(Lcom/simplecity/amp_library/model/AlbumArtist;)gcom.simplecity.amp_library.model.AlbumArtist#compareTo(Lcom/simplecity/amp_library/model/AlbumArtist;)If
-equals(Ljava/lang/Object;)Hcom.simplecity.amp_library.model.AlbumArtist#equals(Ljava/lang/Object;)Za
+equals(Ljava/lang/Object;)Hcom.simplecity.amp_library.model.AlbumArtist#equals(Ljava/lang/Object;)ZW
+getAlbums()Hcom.simplecity.amp_library.model.AlbumArtist#getAlbums()Ljava/util/List;a
 getArtworkKey()Ncom.simplecity.amp_library.model.AlbumArtist#getArtworkKey()Ljava/lang/String;j
 getFolderArtwork()Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtwork()Ljava/io/InputStream;o
-getFolderArtworkFiles()Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtworkFiles()Ljava/util/List;N
+getFolderArtworkFiles()Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtworkFiles()Ljava/util/List;U
+	getName()Hcom.simplecity.amp_library.model.AlbumArtist#getName()Ljava/lang/String;N
 getNumAlbums()<com.simplecity.amp_library.model.AlbumArtist#getNumAlbums()IL
 getNumSongs();com.simplecity.amp_library.model.AlbumArtist#getNumSongs()Im
 getRemoteArtworkUrl()Tcom.simplecity.amp_library.model.AlbumArtist#getRemoteArtworkUrl()Ljava/lang/String;[
 getSortKey()Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;d
 getTagArtwork()Qcom.simplecity.amp_library.model.AlbumArtist#getTagArtwork()Ljava/io/InputStream;F
 
-hashCode()8com.simplecity.amp_library.model.AlbumArtist#hashCode()IJ
+hashCode()8com.simplecity.amp_library.model.AlbumArtist#hashCode()Ih
+setName(Ljava/lang/String;)Icom.simplecity.amp_library.model.AlbumArtist#setName(Ljava/lang/String;)VJ
 setSortKey():com.simplecity.amp_library.model.AlbumArtist#setSortKey()VW
 
 toString()Icom.simplecity.amp_library.model.AlbumArtist#toString()Ljava/lang/String;÷
@@ -857,7 +856,8 @@ Ecom.simplecity.amp_library.ui.modelviews.SuggestedSongView$ViewHolderjava.lan
 doRepeat(Z)Ecom.simplecity.amp_library.ui.views.RepeatingImageButton#doRepeat(Z)Vd
 invalidateColors(I)Mcom.simplecity.amp_library.ui.views.RepeatingImageButton#invalidateColors(I)Vb
 performLongClick()Lcom.simplecity.amp_library.ui.views.RepeatingImageButton#performLongClick()Z˜
-\setRepeatListener(Lcom/simplecity/amp_library/ui/views/RepeatingImageButton$RepeatListener;)ñcom.simplecity.amp_library.ui.views.RepeatingImageButton#setRepeatListener(Lcom/simplecity/amp_library/ui/views/RepeatingImageButton$RepeatListener;)VÄ
+\setRepeatListener(Lcom/simplecity/amp_library/ui/views/RepeatingImageButton$RepeatListener;)ñcom.simplecity.amp_library.ui.views.RepeatingImageButton#setRepeatListener(Lcom/simplecity/amp_library/ui/views/RepeatingImageButton$RepeatListener;)V&
+java.lang.Runnablejava.lang.ObjectÄ
 :com.simplecity.amp_library.ui.views.RepeatingImageButton$1java.lang.Objectjava.lang.RunnableP
 <init>()Dcom.simplecity.amp_library.ui.views.RepeatingImageButton$1#<init>()VJ
 run()Acom.simplecity.amp_library.ui.views.RepeatingImageButton$1#run()V[
@@ -1239,29 +1239,24 @@ Scom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideE
 <init>(II)_com.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#<init>(II)Vo
 <init>(IIF)`com.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#<init>(IIF)VÉ
 nowPlayingCollapsed()jcom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#nowPlayingCollapsed()ZÅ
-nowPlayingExpanded()icom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#nowPlayingExpanded()Z¿	
+nowPlayingExpanded()icom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#nowPlayingExpanded()Z˝
 2com.simplecity.amp_library.utils.color.ColorHelperjava.lang.ObjectH
 <init>()<com.simplecity.amp_library.utils.color.ColorHelper#<init>()Vb
 calculateContrast(II)Icom.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)Db
 calculateLuminance(I)Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)Dh
-changeColorLightness(II)Lcom.simplecity.amp_library.utils.color.ColorHelper#changeColorLightness(II)Ip
+changeColorLightness(II)Lcom.simplecity.amp_library.utils.color.ColorHelper#changeColorLightness(II)Iy
+ensureColorsWithForeground(II)Wcom.simplecity.amp_library.utils.color.ColorHelper#ensureColorsWithForeground(II)LPair;p
 findAlphaToMeetContrast(IID)Pcom.simplecity.amp_library.utils.color.ColorHelper#findAlphaToMeetContrast(IID)If
 findContrastColor(IIZD)Kcom.simplecity.amp_library.utils.color.ColorHelper#findContrastColor(IIZD)I|
-"findContrastColorAgainstDark(IIZD)Vcom.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)IÖ
-getInstance()tcom.simplecity.amp_library.utils.color.ColorHelper#getInstance()Lcom/simplecity/amp_library/utils/color/ColorHelper;V
+"findContrastColorAgainstDark(IIZD)Vcom.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)Iq
+getHighContrastColors(ZII)Scom.simplecity.amp_library.utils.color.ColorHelper#getHighContrastColors(ZII)LPair;o
+getLowContrastColors(ZII)Rcom.simplecity.amp_library.utils.color.ColorHelper#getLowContrastColors(ZII)LPair;d
+isBackgroundLight(DDI)Jcom.simplecity.amp_library.utils.color.ColorHelper#isBackgroundLight(DDI)ZV
 isColorLight(I)Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Zj
 satisfiesTextContrast(II)Mcom.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)ZX
 shouldUseDark(I)Dcom.simplecity.amp_library.utils.color.ColorHelper#shouldUseDark(I)Zâ
 Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatjava.lang.Object]
-<init>()Qcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#<init>()Vi
-HSLToColor([F)Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#HSLToColor([F)Ik
-LABToColor(DDD)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)Ik
-LABToXYZ(DDD[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToXYZ(DDD[D)Vk
-RGBToHSL(III[F)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#RGBToHSL(III[F)Vk
-RGBToLAB(III[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#RGBToLAB(III[D)Vk
-RGBToXYZ(III[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#RGBToXYZ(III[D)Vk
-XYZToColor(DDD)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#XYZToColor(DDD)Ik
-XYZToLAB(DDD[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#XYZToLAB(DDD[D)Vw
+<init>()Qcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#<init>()Vw
 calculateContrast(II)^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)Dw
 calculateLuminance(I)^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)Dk
 colorToHSL(I[F)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToHSL(I[F)Vk
@@ -1272,8 +1267,16 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatjava.l
 compositeComponent(IIIII)bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)Ii
 constrain(FFF)Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(FFF)Fi
 constrain(III)Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(III)Ix
-getTempDouble3Array()_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[Du
-pivotXyzComponent(D)]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)D¿
+getTempDouble3Array()_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[Di
+hslToColor([F)Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#hslToColor([F)Ik
+labToColor(DDD)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#labToColor(DDD)Ik
+labToXyz(DDD[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#labToXyz(DDD[D)Vu
+pivotXyzComponent(D)]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)Dk
+rgbToHSL(III[F)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#rgbToHSL(III[F)Vk
+rgbToLab(III[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#rgbToLab(III[D)Vk
+rgbToXyz(III[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#rgbToXyz(III[D)Vk
+xyzToColor(DDD)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#xyzToColor(DDD)Ik
+xyzToLab(DDD[D)Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#xyzToLab(DDD[D)V¿
 java.lang.Numberjava.io.Serializablejava.lang.Object&
 <init>()java.lang.Number#<init>()V,
 byteValue()java.lang.Number#byteValue()B.
@@ -1632,58 +1635,7 @@ Bcom.simplecity.amp_library.ui.screens.folders.FolderFragmentModulejava.lang.O
 setImageResource(I)Hcom.simplecity.amp_library.ui.views.CircleImageView#setImageResource(I)VG
 setup()<com.simplecity.amp_library.ui.views.CircleImageView#setup()Va
 updateShaderMatrix()Icom.simplecity.amp_library.ui.views.CircleImageView#updateShaderMatrix()V=
-)com.simplecity.amp_library.model.Sortablejava.lang.Object(
-View.OnClickListenerjava.lang.Object4
- CheckBox.OnCheckedChangeListenerjava.lang.Object3
-SeekBar.OnSeekBarChangeListenerjava.lang.Object4
- ColorChooserDialog.ColorCallbackjava.lang.Object 
-BaseActivityjava.lang.Object“
-Acom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivityBaseActivity CheckBox.OnCheckedChangeListener ColorChooserDialog.ColorCallbackSeekBar.OnSeekBarChangeListenerView.OnClickListenerViewPager.OnPageChangeListenerW
-<init>()Kcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#<init>()Vb
-key()Ycom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#key()Ljava/lang/String;e
-onBackPressed()Rcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onBackPressed()V}
-onPageScrollStateChanged(I)^com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageScrollStateChanged(I)Vm
-onPageScrolled(IFI)Vcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageScrolled(IFI)Vi
-onPageSelected(I)Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageSelected(I)Vg
-updateWidgetUI()Scom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#updateWidgetUI()V-
-FragmentStatePagerAdapterjava.lang.ObjectÇ
-Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapterFragmentStatePagerAdaptern
-
-getCount()`com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getCount()Iw
-
-getItem(I)icom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getItem(I)LFragment;è
-getPageTitle(I)|com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;ì
-getRegisteredFragment(I)wcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getRegisteredFragment(I)LFragment;¨
-0com.simplecity.amp_library.playback.MediaManagerjava.lang.ObjectN
-clearQueue()>com.simplecity.amp_library.playback.MediaManager#clearQueue()Vj
-closeEqualizerSessions(ZI)Lcom.simplecity.amp_library.playback.MediaManager#closeEqualizerSessions(ZI)VP
-cycleRepeat()?com.simplecity.amp_library.playback.MediaManager#cycleRepeat()Vq
-
-getAlbum()ccom.simplecity.amp_library.playback.MediaManager#getAlbum()Lcom/simplecity/amp_library/model/Album;b
-getAlbumArtist()Ncom.simplecity.amp_library.playback.MediaManager#getAlbumArtist()LAlbumArtist;\
-getAudioSessionId()Ecom.simplecity.amp_library.playback.MediaManager#getAudioSessionId()IP
-getDuration()?com.simplecity.amp_library.playback.MediaManager#getDuration()Ja
-getFilePath()Pcom.simplecity.amp_library.playback.MediaManager#getFilePath()Ljava/lang/String;P
-getPosition()?com.simplecity.amp_library.playback.MediaManager#getPosition()JY
-
-getQueue()Kcom.simplecity.amp_library.playback.MediaManager#getQueue()Ljava/util/List;Z
-getQueuePosition()Dcom.simplecity.amp_library.playback.MediaManager#getQueuePosition()I\
-getQueueReloading()Ecom.simplecity.amp_library.playback.MediaManager#getQueueReloading()ZT
-getRepeatMode()Acom.simplecity.amp_library.playback.MediaManager#getRepeatMode()IV
-getShuffleMode()Bcom.simplecity.amp_library.playback.MediaManager#getShuffleMode()IM
-	getSong()@com.simplecity.amp_library.playback.MediaManager#getSong()LSong;L
-isPlaying()=com.simplecity.amp_library.playback.MediaManager#isPlaying()ZX
-moveQueueItem(II)Ccom.simplecity.amp_library.playback.MediaManager#moveQueueItem(II)VB
-next()8com.simplecity.amp_library.playback.MediaManager#next()Vf
-openEqualizerSession(ZI)Jcom.simplecity.amp_library.playback.MediaManager#openEqualizerSession(ZI)VL
-previous(Z)=com.simplecity.amp_library.playback.MediaManager#previous(Z)VH
-	seekTo(J);com.simplecity.amp_library.playback.MediaManager#seekTo(J)V\
-setQueuePosition(I)Ecom.simplecity.amp_library.playback.MediaManager#setQueuePosition(I)VX
-setShuffleMode(I)Ccom.simplecity.amp_library.playback.MediaManager#setShuffleMode(I)VV
-toggleFavorite()Bcom.simplecity.amp_library.playback.MediaManager#toggleFavorite()VV
-togglePlayback()Bcom.simplecity.amp_library.playback.MediaManager#togglePlayback()V\
-toggleShuffleMode()Ecom.simplecity.amp_library.playback.MediaManager#toggleShuffleMode()VX
-updateEqualizer()Ccom.simplecity.amp_library.playback.MediaManager#updateEqualizer()VÂ
+)com.simplecity.amp_library.model.Sortablejava.lang.ObjectÂ
 1com.simplecity.amp_library.ui.views.ShuffleButton.android.support.v7.widget.AppCompatImageButton_
 invalidateColors(II)Gcom.simplecity.amp_library.ui.views.ShuffleButton#invalidateColors(II)V_
 onAttachedToWindow()Gcom.simplecity.amp_library.ui.views.ShuffleButton#onAttachedToWindow()Vc
@@ -1759,13 +1711,7 @@ $ValueAnimator.AnimatorUpdateListenerjava.lang.Object\
 onCreateAnimation(IZI)Scom.simplecity.amp_library.ui.common.BaseFragment#onCreateAnimation(IZI)LAnimation;M
 onDestroy()>com.simplecity.amp_library.ui.common.BaseFragment#onDestroy()VK
 
-onResume()=com.simplecity.amp_library.ui.common.BaseFragment#onResume()V¶
-<com.simplecity.amp_library.utils.MusicServiceConnectionUtilsjava.lang.ObjectR
-<init>()Fcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#<init>()Vˇ
-^unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)úcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)V%
-ServiceConnectionjava.lang.Objectq
-Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinderServiceConnectionjava.lang.Object]
-Icom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceTokenjava.lang.ObjectG
+onResume()=com.simplecity.amp_library.ui.common.BaseFragment#onResume()VG
 3MediaScannerConnection.MediaScannerConnectionClientjava.lang.Objectç
 3com.simplecity.amp_library.utils.CustomMediaScanner3MediaScannerConnection.MediaScannerConnectionClientjava.lang.ObjectK
 	cleanup()>com.simplecity.amp_library.utils.CustomMediaScanner#cleanup()Vk
@@ -2377,74 +2323,7 @@ onCreate()Fcom.simplecity.amp_library.services.ArtworkDownloadService#onCreate(
 <init>()+com.afollestad.aesthetic.ViewUtil#<init>()V&
 ResourceTranscoderjava.lang.Object≈
 ;com.simplecity.amp_library.glide.palette.ColorSetTranscoderResourceTranscoderjava.lang.Object`
-getId()Ucom.simplecity.amp_library.glide.palette.ColorSetTranscoder#getId()Ljava/lang/String;-
-MediaBrowserServiceCompatjava.lang.Objectê%
-0com.simplecity.amp_library.playback.MusicServiceMediaBrowserServiceCompatF
-<init>():com.simplecity.amp_library.playback.MusicService#<init>()V^
-cancelNotification()Fcom.simplecity.amp_library.playback.MusicService#cancelNotification()VV
-cancelShutdown()Bcom.simplecity.amp_library.playback.MusicService#cancelShutdown()VN
-clearQueue()>com.simplecity.amp_library.playback.MusicService#clearQueue()Vj
-closeEqualizerSessions(ZI)Lcom.simplecity.amp_library.playback.MusicService#closeEqualizerSessions(ZI)Vl
-closeExternalStorageFiles()Mcom.simplecity.amp_library.playback.MusicService#closeExternalStorageFiles()Vç
-#commandToAction(Ljava/lang/String;)fcom.simplecity.amp_library.playback.MusicService#commandToAction(Ljava/lang/String;)Ljava/lang/String;\
-getAudioSessionId()Ecom.simplecity.amp_library.playback.MusicService#getAudioSessionId()IY
-
-getQueue()Kcom.simplecity.amp_library.playback.MusicService#getQueue()Ljava/util/List;Z
-getQueuePosition()Dcom.simplecity.amp_library.playback.MusicService#getQueuePosition()I\
-getQueueReloading()Ecom.simplecity.amp_library.playback.MusicService#getQueueReloading()ZT
-getRepeatMode()Acom.simplecity.amp_library.playback.MusicService#getRepeatMode()IX
-getSeekPosition()Ccom.simplecity.amp_library.playback.MusicService#getSeekPosition()JV
-getShuffleMode()Bcom.simplecity.amp_library.playback.MusicService#getShuffleMode()IM
-	getSong()@com.simplecity.amp_library.playback.MusicService#getSong()LSong;L
-gotoNext(Z)=com.simplecity.amp_library.playback.MusicService#gotoNext(Z)VL
-isPlaying()=com.simplecity.amp_library.playback.MusicService#isPlaying()ZX
-moveQueueItem(II)Ccom.simplecity.amp_library.playback.MusicService#moveQueueItem(II)Vv
- notifyChange(Ljava/lang/String;)Rcom.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)VJ
-
-onCreate()<com.simplecity.amp_library.playback.MusicService#onCreate()VL
-onDestroy()=com.simplecity.amp_library.playback.MusicService#onDestroy()VT
-onMetaChanged()Acom.simplecity.amp_library.playback.MusicService#onMetaChanged()V^
-onPlayStateChanged()Fcom.simplecity.amp_library.playback.MusicService#onPlayStateChanged()VV
-onQueueChanged()Bcom.simplecity.amp_library.playback.MusicService#onQueueChanged()VR
-onTrackEnded()@com.simplecity.amp_library.playback.MusicService#onTrackEnded()Vf
-openEqualizerSession(ZI)Jcom.simplecity.amp_library.playback.MusicService#openEqualizerSession(ZI)Vî
-/openFile(Ljava/lang/String;Ljava/lang/Boolean;)acom.simplecity.amp_library.playback.MusicService#openFile(Ljava/lang/String;Ljava/lang/Boolean;)VF
-pause(Z):com.simplecity.amp_library.playback.MusicService#pause(Z)VB
-play()8com.simplecity.amp_library.playback.MusicService#play()V`
-playAutoShuffleList()Gcom.simplecity.amp_library.playback.MusicService#playAutoShuffleList()VL
-previous(Z)=com.simplecity.amp_library.playback.MusicService#previous(Z)VV
-recentlyPlayed()Bcom.simplecity.amp_library.playback.MusicService#recentlyPlayed()Zx
-!registerExternalStorageListener()Scom.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()Vh
-releaseServiceUiAndStop()Kcom.simplecity.amp_library.playback.MusicService#releaseServiceUiAndStop()VN
-saveState(Z)>com.simplecity.amp_library.playback.MusicService#saveState(Z)Vh
-scheduleDelayedShutdown()Kcom.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()VH
-	seekTo(J);com.simplecity.amp_library.playback.MusicService#seekTo(J)VR
-setNextTrack()@com.simplecity.amp_library.playback.MusicService#setNextTrack()V\
-setQueuePosition(I)Ecom.simplecity.amp_library.playback.MusicService#setQueuePosition(I)VV
-setRepeatMode(I)Bcom.simplecity.amp_library.playback.MusicService#setRepeatMode(I)VX
-setShuffleMode(I)Ccom.simplecity.amp_library.playback.MusicService#setShuffleMode(I)VN
-showToast(I)>com.simplecity.amp_library.playback.MusicService#showToast(I)V`
-startForegroundImpl()Gcom.simplecity.amp_library.playback.MusicService#startForegroundImpl()VB
-stop()8com.simplecity.amp_library.playback.MusicService#stop()Vb
-stopForegroundImpl(ZZ)Hcom.simplecity.amp_library.playback.MusicService#stopForegroundImpl(ZZ)VV
-toggleFavorite()Bcom.simplecity.amp_library.playback.MusicService#toggleFavorite()VV
-togglePlayback()Bcom.simplecity.amp_library.playback.MusicService#togglePlayback()VR
-toggleRepeat()@com.simplecity.amp_library.playback.MusicService#toggleRepeat()V\
-toggleShuffleMode()Ecom.simplecity.amp_library.playback.MusicService#toggleShuffleMode()VX
-updateEqualizer()Ccom.simplecity.amp_library.playback.MusicService#updateEqualizer()V^
-updateNotification()Fcom.simplecity.amp_library.playback.MusicService#updateNotification()VN
-:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.Object«
-Fcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.Object¡
-:<init>(Lcom/simplecity/amp_library/playback/MusicService;)Çcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#<init>(Lcom/simplecity/amp_library/playback/MusicService;)Vl
-cancelShutdown()Xcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#cancelShutdown()Vå
- notifyChange(Ljava/lang/String;)hcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#notifyChange(Ljava/lang/String;)V~
-scheduleDelayedShutdown()acom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#scheduleDelayedShutdown()Vx
-stopForegroundImpl(ZZ)^com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#stopForegroundImpl(ZZ)Vt
-updateNotification()\com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#updateNotification()Vp
-;com.simplecity.amp_library.playback.MusicService$NotifyModejava.lang.Objectjava.lang.annotation.Annotation%
-BroadcastReceiverjava.lang.ObjectG
-2com.simplecity.amp_library.playback.MusicService$1BroadcastReceiverG
-2com.simplecity.amp_library.playback.MusicService$2BroadcastReceiverî
+getId()Ucom.simplecity.amp_library.glide.palette.ColorSetTranscoder#getId()Ljava/lang/String;î
 4com.jp.wasabeef.glide.transformations.internal.Utilsjava.lang.ObjectJ
 <init>()>com.jp.wasabeef.glide.transformations.internal.Utils#<init>()V-
 AestheticDrawableTextViewjava.lang.Object…
@@ -2747,9 +2626,90 @@ onResume()Hcom.simplecity.amp_library.ui.screens.folders.FolderFragment#onResum
 showToast(Ljava/lang/String;)]com.simplecity.amp_library.ui.screens.folders.FolderFragment$2#showToast(Ljava/lang/String;)V∆
 Mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModulejava.lang.Objectc
 <init>()Wcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#<init>()VD
-0com.simplecity.amp_library.ui.views.PurchaseViewjava.lang.Objectà
+0com.simplecity.amp_library.ui.views.PurchaseViewjava.lang.Object˙
 .com.simplecity.amp_library.utils.ArtworkDialogjava.lang.ObjectD
-<init>()8com.simplecity.amp_library.utils.ArtworkDialog#<init>()V
+<init>()8com.simplecity.amp_library.utils.ArtworkDialog#<init>()Vp
+clearDirectory(Ljava/io/File;)Ncom.simplecity.amp_library.utils.ArtworkDialog#clearDirectory(Ljava/io/File;)V⁄f
+java.nio.file.Filesjava.lang.Object)
+<init>()java.nio.file.Files#<init>()V|
+(asUncheckedRunnable(Ljava/io/Closeable;)Pjava.nio.file.Files#asUncheckedRunnable(Ljava/io/Closeable;)Ljava/lang/Runnable;≠
+Jcopy(Ljava/io/InputStream;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)_java.nio.file.Files#copy(Ljava/io/InputStream;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Jy
+0copy(Ljava/nio/file/Path;Ljava/io/OutputStream;)Ejava.nio.file.Files#copy(Ljava/nio/file/Path;Ljava/io/OutputStream;)Jæ
+Icopy(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)qjava.nio.file.Files#copy(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Ljava/nio/file/Path;«
+WcreateAndCheckIsDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)ljava.nio.file.Files#createAndCheckIsDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)V£
+9createBufferedReaderLinesStream(Ljava/io/BufferedReader;)fjava.nio.file.Files#createBufferedReaderLinesStream(Ljava/io/BufferedReader;)Ljava/util/stream/Stream; 
+OcreateDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)wjava.nio.file.Files#createDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;∆
+McreateDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)ujava.nio.file.Files#createDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;º
+HcreateFile(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)pjava.nio.file.Files#createFile(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;‡
+WcreateFileChannelLinesStream(Ljava/nio/channels/FileChannel;Ljava/nio/charset/Charset;)Ñjava.nio.file.Files#createFileChannelLinesStream(Ljava/nio/channels/FileChannel;Ljava/nio/charset/Charset;)Ljava/util/stream/Stream;î
+4createLink(Ljava/nio/file/Path;Ljava/nio/file/Path;)\java.nio.file.Files#createLink(Ljava/nio/file/Path;Ljava/nio/file/Path;)Ljava/nio/file/Path;ı
+dcreateSymbolicLink(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)åjava.nio.file.Files#createSymbolicLink(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path; 
+OcreateTempDirectory(Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)wjava.nio.file.Files#createTempDirectory(Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Û
+ccreateTempDirectory(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)ãjava.nio.file.Files#createTempDirectory(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Â
+\createTempFile(Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ñjava.nio.file.Files#createTempFile(Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;ç
+pcreateTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)òjava.nio.file.Files#createTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Q
+delete(Ljava/nio/file/Path;)1java.nio.file.Files#delete(Ljava/nio/file/Path;)Va
+$deleteIfExists(Ljava/nio/file/Path;)9java.nio.file.Files#deleteIfExists(Ljava/nio/file/Path;)Zá
+7exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)ZË
+[find(Ljava/nio/file/Path;ILjava/util/function/BiPredicate;[Ljava/nio/file/FileVisitOption;)àjava.nio.file.Files#find(Ljava/nio/file/Path;ILjava/util/function/BiPredicate;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;i
+(followLinks([Ljava/nio/file/LinkOption;)=java.nio.file.Files#followLinks([Ljava/nio/file/LinkOption;)Z»
+OgetAttribute(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)ujava.nio.file.Files#getAttribute(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)Ljava/lang/Object;
+VgetFileAttributeView(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)ïjava.nio.file.Files#getFileAttributeView(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileAttributeView;u
+"getFileStore(Ljava/nio/file/Path;)Ojava.nio.file.Files#getFileStore(Ljava/nio/file/Path;)Ljava/nio/file/FileStore;¬
+DgetLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;±
+9getOwner(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)tjava.nio.file.Files#getOwner(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/UserPrincipal;∑
+HgetPosixFilePermissions(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)kjava.nio.file.Files#getPosixFilePermissions(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/util/Set;ì
+=isAccessible(Ljava/nio/file/Path;[Ljava/nio/file/AccessMode;)Rjava.nio.file.Files#isAccessible(Ljava/nio/file/Path;[Ljava/nio/file/AccessMode;)Zë
+<isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z]
+"isExecutable(Ljava/nio/file/Path;)7java.nio.file.Files#isExecutable(Ljava/nio/file/Path;)ZU
+isHidden(Ljava/nio/file/Path;)3java.nio.file.Files#isHidden(Ljava/nio/file/Path;)ZY
+ isReadable(Ljava/nio/file/Path;)5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Zï
+>isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Sjava.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)ZÅ
+4isSameFile(Ljava/nio/file/Path;Ljava/nio/file/Path;)Ijava.nio.file.Files#isSameFile(Ljava/nio/file/Path;Ljava/nio/file/Path;)Za
+$isSymbolicLink(Ljava/nio/file/Path;)9java.nio.file.Files#isSymbolicLink(Ljava/nio/file/Path;)ZY
+ isWritable(Ljava/nio/file/Path;)5java.nio.file.Files#isWritable(Ljava/nio/file/Path;)Zg
+lines(Ljava/nio/file/Path;)Hjava.nio.file.Files#lines(Ljava/nio/file/Path;)Ljava/util/stream/Stream;õ
+5lines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)bjava.nio.file.Files#lines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/util/stream/Stream;e
+list(Ljava/nio/file/Path;)Gjava.nio.file.Files#list(Ljava/nio/file/Path;)Ljava/util/stream/Stream;}
+2mismatch(Ljava/nio/file/Path;Ljava/nio/file/Path;)Gjava.nio.file.Files#mismatch(Ljava/nio/file/Path;Ljava/nio/file/Path;)Jæ
+Imove(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)qjava.nio.file.Files#move(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Ljava/nio/file/Path;~
+'newBufferedReader(Ljava/nio/file/Path;)Sjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;)Ljava/io/BufferedReader;≤
+AnewBufferedReader(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)mjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/io/BufferedReader;È
+\newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)àjava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;¥
+BnewBufferedWriter(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)njava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;ˆ
+[newByteChannel(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute;)ñjava.nio.file.Files#newByteChannel(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/channels/SeekableByteChannel;Ω
+?newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)zjava.nio.file.Files#newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/SeekableByteChannel;á
+(newDirectoryStream(Ljava/nio/file/Path;)[java.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;)Ljava/nio/file/DirectoryStream;´
+:newDirectoryStream(Ljava/nio/file/Path;Ljava/lang/String;)mjava.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;Ljava/lang/String;)Ljava/nio/file/DirectoryStream;‘
+NnewDirectoryStream(Ljava/nio/file/Path;Ljava/nio/file/DirectoryStream$Filter;)Åjava.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;Ljava/nio/file/DirectoryStream$Filter;)Ljava/nio/file/DirectoryStream;´
+?newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;Æ
+@newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)jjava.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;ç
+:notExists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ojava.nio.file.Files#notExists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Zv
+&probeContentType(Ljava/nio/file/Path;)Ljava.nio.file.Files#probeContentType(Ljava/nio/file/Path;)Ljava/lang/String;z
+provider(Ljava/nio/file/Path;)Xjava.nio.file.Files#provider(Ljava/nio/file/Path;)Ljava/nio/file/spi/FileSystemProvider;R
+read(Ljava/io/InputStream;I)2java.nio.file.Files#read(Ljava/io/InputStream;I)[B^
+"readAllBytes(Ljava/nio/file/Path;)8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[Bl
+"readAllLines(Ljava/nio/file/Path;)Fjava.nio.file.Files#readAllLines(Ljava/nio/file/Path;)Ljava/util/List;†
+<readAllLines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)`java.nio.file.Files#readAllLines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/util/List;Ê
+PreadAttributes(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)ëjava.nio.file.Files#readAttributes(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/BasicFileAttributes;…
+QreadAttributes(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)tjava.nio.file.Files#readAttributes(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)Ljava/util/Map;j
+ readString(Ljava/nio/file/Path;)Fjava.nio.file.Files#readString(Ljava/nio/file/Path;)Ljava/lang/String;û
+:readString(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)`java.nio.file.Files#readString(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/lang/String;x
+&readSymbolicLink(Ljava/nio/file/Path;)Njava.nio.file.Files#readSymbolicLink(Ljava/nio/file/Path;)Ljava/nio/file/Path;Ô
+asetAttribute(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/Object;[Ljava/nio/file/LinkOption;)âjava.nio.file.Files#setAttribute(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/Object;[Ljava/nio/file/LinkOption;)Ljava/nio/file/Path;¬
+KsetLastModifiedTime(Ljava/nio/file/Path;Ljava/nio/file/attribute/FileTime;)sjava.nio.file.Files#setLastModifiedTime(Ljava/nio/file/Path;Ljava/nio/file/attribute/FileTime;)Ljava/nio/file/Path;∂
+EsetOwner(Ljava/nio/file/Path;Ljava/nio/file/attribute/UserPrincipal;)mjava.nio.file.Files#setOwner(Ljava/nio/file/Path;Ljava/nio/file/attribute/UserPrincipal;)Ljava/nio/file/Path;§
+<setPosixFilePermissions(Ljava/nio/file/Path;Ljava/util/Set;)djava.nio.file.Files#setPosixFilePermissions(Ljava/nio/file/Path;Ljava/util/Set;)Ljava/nio/file/Path;M
+size(Ljava/nio/file/Path;)/java.nio.file.Files#size(Ljava/nio/file/Path;)Jß
+;walk(Ljava/nio/file/Path;I[Ljava/nio/file/FileVisitOption;)hjava.nio.file.Files#walk(Ljava/nio/file/Path;I[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;•
+:walk(Ljava/nio/file/Path;[Ljava/nio/file/FileVisitOption;)gjava.nio.file.Files#walk(Ljava/nio/file/Path;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;¶
+=walkFileTree(Ljava/nio/file/Path;Ljava/nio/file/FileVisitor;)ejava.nio.file.Files#walkFileTree(Ljava/nio/file/Path;Ljava/nio/file/FileVisitor;)Ljava/nio/file/Path;∆
+MwalkFileTree(Ljava/nio/file/Path;Ljava/util/Set;ILjava/nio/file/FileVisitor;)ujava.nio.file.Files#walkFileTree(Ljava/nio/file/Path;Ljava/util/Set;ILjava/nio/file/FileVisitor;)Ljava/nio/file/Path;ı
+dwrite(Ljava/nio/file/Path;Ljava/lang/Iterable;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)åjava.nio.file.Files#write(Ljava/nio/file/Path;Ljava/lang/Iterable;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;¿
+Jwrite(Ljava/nio/file/Path;Ljava/lang/Iterable;[Ljava/nio/file/OpenOption;)rjava.nio.file.Files#write(Ljava/nio/file/Path;Ljava/lang/Iterable;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;ú
+8write(Ljava/nio/file/Path;[B[Ljava/nio/file/OpenOption;)`java.nio.file.Files#write(Ljava/nio/file/Path;[B[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;â
+nwriteString(Ljava/nio/file/Path;Ljava/lang/CharSequence;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)ñjava.nio.file.Files#writeString(Ljava/nio/file/Path;Ljava/lang/CharSequence;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;‘
+TwriteString(Ljava/nio/file/Path;Ljava/lang/CharSequence;[Ljava/nio/file/OpenOption;)|java.nio.file.Files#writeString(Ljava/nio/file/Path;Ljava/lang/CharSequence;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;
 	AlbumViewjava.lang.Object≠
 <com.simplecity.amp_library.ui.modelviews.HorizontalAlbumView	AlbumViewb
 getLayoutResId()Ncom.simplecity.amp_library.ui.modelviews.HorizontalAlbumView#getLayoutResId()Iû
@@ -3138,10 +3098,8 @@ Ccom.simplecity.amp_library.ui.modelviews.BreadcrumbsView$ViewHolderBaseViewHo
 
 toString()`com.simplecity.amp_library.ui.modelviews.BreadcrumbsView$ViewHolder#toString()Ljava/lang/String;7
 +com.afollestad.aesthetic.AestheticToolbar$1Consumer7
-+com.afollestad.aesthetic.AestheticToolbar$2Consumerˇ
-1com.simplecity.amp_library.ui.views.PlayPauseViewFrameLayoutK
-
-getColor()=com.simplecity.amp_library.ui.views.PlayPauseView#getColor()IG
++com.afollestad.aesthetic.AestheticToolbar$2Consumer≤
+1com.simplecity.amp_library.ui.views.PlayPauseViewFrameLayoutG
 isPlay();com.simplecity.amp_library.ui.views.PlayPauseView#isPlay()ZQ
 onMeasure(II)@com.simplecity.amp_library.ui.views.PlayPauseView#onMeasure(II)V]
 onSizeChanged(IIII)Fcom.simplecity.amp_library.ui.views.PlayPauseView#onSizeChanged(IIII)VM
@@ -3206,87 +3164,7 @@ Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener
 	write(IZ)#java.io.FileOutputStream#write(IZ)V0
 	write([B)#java.io.FileOutputStream#write([B)V4
 write([BII)%java.io.FileOutputStream#write([BII)V@
-writeBytes([BIIZ)+java.io.FileOutputStream#writeBytes([BIIZ)V⁄f
-java.nio.file.Filesjava.lang.Object)
-<init>()java.nio.file.Files#<init>()V|
-(asUncheckedRunnable(Ljava/io/Closeable;)Pjava.nio.file.Files#asUncheckedRunnable(Ljava/io/Closeable;)Ljava/lang/Runnable;≠
-Jcopy(Ljava/io/InputStream;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)_java.nio.file.Files#copy(Ljava/io/InputStream;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Jy
-0copy(Ljava/nio/file/Path;Ljava/io/OutputStream;)Ejava.nio.file.Files#copy(Ljava/nio/file/Path;Ljava/io/OutputStream;)Jæ
-Icopy(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)qjava.nio.file.Files#copy(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Ljava/nio/file/Path;«
-WcreateAndCheckIsDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)ljava.nio.file.Files#createAndCheckIsDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)V£
-9createBufferedReaderLinesStream(Ljava/io/BufferedReader;)fjava.nio.file.Files#createBufferedReaderLinesStream(Ljava/io/BufferedReader;)Ljava/util/stream/Stream; 
-OcreateDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)wjava.nio.file.Files#createDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;∆
-McreateDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)ujava.nio.file.Files#createDirectory(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;º
-HcreateFile(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)pjava.nio.file.Files#createFile(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;‡
-WcreateFileChannelLinesStream(Ljava/nio/channels/FileChannel;Ljava/nio/charset/Charset;)Ñjava.nio.file.Files#createFileChannelLinesStream(Ljava/nio/channels/FileChannel;Ljava/nio/charset/Charset;)Ljava/util/stream/Stream;î
-4createLink(Ljava/nio/file/Path;Ljava/nio/file/Path;)\java.nio.file.Files#createLink(Ljava/nio/file/Path;Ljava/nio/file/Path;)Ljava/nio/file/Path;ı
-dcreateSymbolicLink(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)åjava.nio.file.Files#createSymbolicLink(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path; 
-OcreateTempDirectory(Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)wjava.nio.file.Files#createTempDirectory(Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Û
-ccreateTempDirectory(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)ãjava.nio.file.Files#createTempDirectory(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Â
-\createTempFile(Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ñjava.nio.file.Files#createTempFile(Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;ç
-pcreateTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)òjava.nio.file.Files#createTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;Q
-delete(Ljava/nio/file/Path;)1java.nio.file.Files#delete(Ljava/nio/file/Path;)Va
-$deleteIfExists(Ljava/nio/file/Path;)9java.nio.file.Files#deleteIfExists(Ljava/nio/file/Path;)Zá
-7exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)ZË
-[find(Ljava/nio/file/Path;ILjava/util/function/BiPredicate;[Ljava/nio/file/FileVisitOption;)àjava.nio.file.Files#find(Ljava/nio/file/Path;ILjava/util/function/BiPredicate;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;i
-(followLinks([Ljava/nio/file/LinkOption;)=java.nio.file.Files#followLinks([Ljava/nio/file/LinkOption;)Z»
-OgetAttribute(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)ujava.nio.file.Files#getAttribute(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)Ljava/lang/Object;
-VgetFileAttributeView(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)ïjava.nio.file.Files#getFileAttributeView(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileAttributeView;u
-"getFileStore(Ljava/nio/file/Path;)Ojava.nio.file.Files#getFileStore(Ljava/nio/file/Path;)Ljava/nio/file/FileStore;¬
-DgetLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;±
-9getOwner(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)tjava.nio.file.Files#getOwner(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/UserPrincipal;∑
-HgetPosixFilePermissions(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)kjava.nio.file.Files#getPosixFilePermissions(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/util/Set;ì
-=isAccessible(Ljava/nio/file/Path;[Ljava/nio/file/AccessMode;)Rjava.nio.file.Files#isAccessible(Ljava/nio/file/Path;[Ljava/nio/file/AccessMode;)Zë
-<isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z]
-"isExecutable(Ljava/nio/file/Path;)7java.nio.file.Files#isExecutable(Ljava/nio/file/Path;)ZU
-isHidden(Ljava/nio/file/Path;)3java.nio.file.Files#isHidden(Ljava/nio/file/Path;)ZY
- isReadable(Ljava/nio/file/Path;)5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Zï
->isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Sjava.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)ZÅ
-4isSameFile(Ljava/nio/file/Path;Ljava/nio/file/Path;)Ijava.nio.file.Files#isSameFile(Ljava/nio/file/Path;Ljava/nio/file/Path;)Za
-$isSymbolicLink(Ljava/nio/file/Path;)9java.nio.file.Files#isSymbolicLink(Ljava/nio/file/Path;)ZY
- isWritable(Ljava/nio/file/Path;)5java.nio.file.Files#isWritable(Ljava/nio/file/Path;)Zg
-lines(Ljava/nio/file/Path;)Hjava.nio.file.Files#lines(Ljava/nio/file/Path;)Ljava/util/stream/Stream;õ
-5lines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)bjava.nio.file.Files#lines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/util/stream/Stream;e
-list(Ljava/nio/file/Path;)Gjava.nio.file.Files#list(Ljava/nio/file/Path;)Ljava/util/stream/Stream;}
-2mismatch(Ljava/nio/file/Path;Ljava/nio/file/Path;)Gjava.nio.file.Files#mismatch(Ljava/nio/file/Path;Ljava/nio/file/Path;)Jæ
-Imove(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)qjava.nio.file.Files#move(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Ljava/nio/file/Path;~
-'newBufferedReader(Ljava/nio/file/Path;)Sjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;)Ljava/io/BufferedReader;≤
-AnewBufferedReader(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)mjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/io/BufferedReader;È
-\newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)àjava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;¥
-BnewBufferedWriter(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)njava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;ˆ
-[newByteChannel(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute;)ñjava.nio.file.Files#newByteChannel(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/channels/SeekableByteChannel;Ω
-?newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)zjava.nio.file.Files#newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/SeekableByteChannel;á
-(newDirectoryStream(Ljava/nio/file/Path;)[java.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;)Ljava/nio/file/DirectoryStream;´
-:newDirectoryStream(Ljava/nio/file/Path;Ljava/lang/String;)mjava.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;Ljava/lang/String;)Ljava/nio/file/DirectoryStream;‘
-NnewDirectoryStream(Ljava/nio/file/Path;Ljava/nio/file/DirectoryStream$Filter;)Åjava.nio.file.Files#newDirectoryStream(Ljava/nio/file/Path;Ljava/nio/file/DirectoryStream$Filter;)Ljava/nio/file/DirectoryStream;´
-?newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;Æ
-@newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)jjava.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;ç
-:notExists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ojava.nio.file.Files#notExists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Zv
-&probeContentType(Ljava/nio/file/Path;)Ljava.nio.file.Files#probeContentType(Ljava/nio/file/Path;)Ljava/lang/String;z
-provider(Ljava/nio/file/Path;)Xjava.nio.file.Files#provider(Ljava/nio/file/Path;)Ljava/nio/file/spi/FileSystemProvider;R
-read(Ljava/io/InputStream;I)2java.nio.file.Files#read(Ljava/io/InputStream;I)[B^
-"readAllBytes(Ljava/nio/file/Path;)8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[Bl
-"readAllLines(Ljava/nio/file/Path;)Fjava.nio.file.Files#readAllLines(Ljava/nio/file/Path;)Ljava/util/List;†
-<readAllLines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)`java.nio.file.Files#readAllLines(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/util/List;Ê
-PreadAttributes(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)ëjava.nio.file.Files#readAttributes(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/BasicFileAttributes;…
-QreadAttributes(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)tjava.nio.file.Files#readAttributes(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)Ljava/util/Map;j
- readString(Ljava/nio/file/Path;)Fjava.nio.file.Files#readString(Ljava/nio/file/Path;)Ljava/lang/String;û
-:readString(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)`java.nio.file.Files#readString(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/lang/String;x
-&readSymbolicLink(Ljava/nio/file/Path;)Njava.nio.file.Files#readSymbolicLink(Ljava/nio/file/Path;)Ljava/nio/file/Path;Ô
-asetAttribute(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/Object;[Ljava/nio/file/LinkOption;)âjava.nio.file.Files#setAttribute(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/Object;[Ljava/nio/file/LinkOption;)Ljava/nio/file/Path;¬
-KsetLastModifiedTime(Ljava/nio/file/Path;Ljava/nio/file/attribute/FileTime;)sjava.nio.file.Files#setLastModifiedTime(Ljava/nio/file/Path;Ljava/nio/file/attribute/FileTime;)Ljava/nio/file/Path;∂
-EsetOwner(Ljava/nio/file/Path;Ljava/nio/file/attribute/UserPrincipal;)mjava.nio.file.Files#setOwner(Ljava/nio/file/Path;Ljava/nio/file/attribute/UserPrincipal;)Ljava/nio/file/Path;§
-<setPosixFilePermissions(Ljava/nio/file/Path;Ljava/util/Set;)djava.nio.file.Files#setPosixFilePermissions(Ljava/nio/file/Path;Ljava/util/Set;)Ljava/nio/file/Path;M
-size(Ljava/nio/file/Path;)/java.nio.file.Files#size(Ljava/nio/file/Path;)Jß
-;walk(Ljava/nio/file/Path;I[Ljava/nio/file/FileVisitOption;)hjava.nio.file.Files#walk(Ljava/nio/file/Path;I[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;•
-:walk(Ljava/nio/file/Path;[Ljava/nio/file/FileVisitOption;)gjava.nio.file.Files#walk(Ljava/nio/file/Path;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;¶
-=walkFileTree(Ljava/nio/file/Path;Ljava/nio/file/FileVisitor;)ejava.nio.file.Files#walkFileTree(Ljava/nio/file/Path;Ljava/nio/file/FileVisitor;)Ljava/nio/file/Path;∆
-MwalkFileTree(Ljava/nio/file/Path;Ljava/util/Set;ILjava/nio/file/FileVisitor;)ujava.nio.file.Files#walkFileTree(Ljava/nio/file/Path;Ljava/util/Set;ILjava/nio/file/FileVisitor;)Ljava/nio/file/Path;ı
-dwrite(Ljava/nio/file/Path;Ljava/lang/Iterable;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)åjava.nio.file.Files#write(Ljava/nio/file/Path;Ljava/lang/Iterable;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;¿
-Jwrite(Ljava/nio/file/Path;Ljava/lang/Iterable;[Ljava/nio/file/OpenOption;)rjava.nio.file.Files#write(Ljava/nio/file/Path;Ljava/lang/Iterable;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;ú
-8write(Ljava/nio/file/Path;[B[Ljava/nio/file/OpenOption;)`java.nio.file.Files#write(Ljava/nio/file/Path;[B[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;â
-nwriteString(Ljava/nio/file/Path;Ljava/lang/CharSequence;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)ñjava.nio.file.Files#writeString(Ljava/nio/file/Path;Ljava/lang/CharSequence;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;‘
-TwriteString(Ljava/nio/file/Path;Ljava/lang/CharSequence;[Ljava/nio/file/OpenOption;)|java.nio.file.Files#writeString(Ljava/nio/file/Path;Ljava/lang/CharSequence;[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;Ú
+writeBytes([BIIZ)+java.io.FileOutputStream#writeBytes([BIIZ)VÚ
 java.io.IOExceptionjava.lang.Exception)
 <init>()java.io.IOException#<init>()VM
 <init>(Ljava/lang/String;)/java.io.IOException#<init>(Ljava/lang/String;)Vw
@@ -3360,10 +3238,15 @@ toString()Ccom.simplecity.amp_library.model.Query#toString()Ljava/lang/String;Â
 Rcom.simplecity.amp_library.ui.screens.playlist.detail.PlaylistDetailFragmentModulejava.lang.Objecth
 <init>()\com.simplecity.amp_library.ui.screens.playlist.detail.PlaylistDetailFragmentModule#<init>()V 
 PurchaseViewjava.lang.ObjectU
-3com.simplecity.amp_library.ui.settings.SettingsViewPurchaseViewjava.lang.Object¥	
+3com.simplecity.amp_library.ui.settings.SettingsViewPurchaseViewjava.lang.Object¶
 ,com.simplecity.amp_library.utils.StringUtilsjava.lang.ObjectB
-<init>()6com.simplecity.amp_library.utils.StringUtils#<init>()V¢
-8containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)fcom.simplecity.amp_library.utils.StringUtils#containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Zæ
+<init>()6com.simplecity.amp_library.utils.StringUtils#<init>()Vè
+.buildMatchedChars(Ljava/lang/CharSequence;[II)]com.simplecity.amp_library.utils.StringUtils#buildMatchedChars(Ljava/lang/CharSequence;[II)[Cè
+.buildMatchedChars(Ljava/lang/CharSequence;[ZI)]com.simplecity.amp_library.utils.StringUtils#buildMatchedChars(Ljava/lang/CharSequence;[ZI)[C¢
+8containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)fcom.simplecity.amp_library.utils.StringUtils#containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Z¨
+=countPrefix(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)kcom.simplecity.amp_library.utils.StringUtils#countPrefix(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Id
+countTranspositions([C[C)Gcom.simplecity.amp_library.utils.StringUtils#countTranspositions([C[C)I∂
+BfindMatches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I[I[Z)pcom.simplecity.amp_library.utils.StringUtils#findMatches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I[I[Z)Iæ
 FgetAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)tcom.simplecity.amp_library.utils.StringUtils#getAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)DÆ
 >getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)Dw
 keyFor(Ljava/lang/String;)Ycom.simplecity.amp_library.utils.StringUtils#keyFor(Ljava/lang/String;)Ljava/lang/String;â
@@ -3712,9 +3595,9 @@ Zcom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay$MultiSheetE
 onDetachedFromWindow()Bcom.afollestad.aesthetic.AestheticListView#onDetachedFromWindow()V¢
 ,com.afollestad.aesthetic.AestheticListView$1Consumerh
 accept(Ljava/lang/Integer;)Icom.afollestad.aesthetic.AestheticListView$1#accept(Ljava/lang/Integer;)V1
-RecyclerView.RecyclerListenerjava.lang.ObjectÕ
-Acom.simplecityapps.recycler_adapter.recyclerview.RecyclerListenerRecyclerView.RecyclerListenerjava.lang.ObjectW
-<init>()Kcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#<init>()V∆
+RecyclerView.RecyclerListenerjava.lang.ObjectŸ
+Gcom.simplecityapps.recycler_adapter.recyclerview.CustomRecyclerListenerRecyclerView.RecyclerListenerjava.lang.Object]
+<init>()Qcom.simplecityapps.recycler_adapter.recyclerview.CustomRecyclerListener#<init>()V∆
 Mcom.simplecity.amp_library.ui.screens.album.detail.AlbumsDetailFragmentModulejava.lang.Objectc
 <init>()Wcom.simplecity.amp_library.ui.screens.album.detail.AlbumsDetailFragmentModule#<init>()V&
 DashClockExtensionjava.lang.Object≥
@@ -3725,7 +3608,8 @@ onCreate()@com.simplecity.amp_library.services.DashClockService#onCreate()VP
 onDestroy()Acom.simplecity.amp_library.services.DashClockService#onDestroy()VX
 onInitialize(Z)Ecom.simplecity.amp_library.services.DashClockService#onInitialize(Z)VX
 onUpdateData(I)Ecom.simplecity.amp_library.services.DashClockService#onUpdateData(I)Vƒ
-EpublishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;){com.simplecity.amp_library.services.DashClockService#publishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)VK
+EpublishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;){com.simplecity.amp_library.services.DashClockService#publishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V%
+BroadcastReceiverjava.lang.ObjectK
 6com.simplecity.amp_library.services.DashClockService$1BroadcastReceiverT
 @com.simplecity.amp_library.playback.constants.MediaButtonCommandjava.lang.Object 
 DrawerLayoutjava.lang.Object˛
@@ -3804,7 +3688,8 @@ nanoTime()java.lang.System#nanoTime()J¢
 
 toString()\com.simplecity.amp_library.ui.modelviews.ArtworkView$ViewHolder#toString()Ljava/lang/String;#
 ToolbarListenerjava.lang.Object"
-DrawerProviderjava.lang.ObjectŸ
+DrawerProviderjava.lang.Object 
+BaseActivityjava.lang.ObjectŸ
 7com.simplecity.amp_library.ui.screens.main.MainActivityBackPressHandlerBaseActivityDrawerProviderToolbarListenerM
 <init>()Acom.simplecity.amp_library.ui.screens.main.MainActivity#<init>()Vl
 getDrawerLayout()Wcom.simplecity.amp_library.ui.screens.main.MainActivity#getDrawerLayout()LDrawerLayout;y
@@ -3847,40 +3732,7 @@ Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackDiff
 getNewItem(I)icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;o
 getNewListSize()[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewListSize()Iz
 getOldItem(I)icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;o
-getOldListSize()[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldListSize()ID
-0com.simplecity.amp_library.model.ArtworkProviderjava.lang.Objectº
-%com.simplecity.amp_library.model.SongSortable0com.simplecity.amp_library.model.ArtworkProviderjava.io.Serializablejava.lang.Comparablejava.lang.Object;
-<init>()/com.simplecity.amp_library.model.Song#<init>()Vè
-2compareTo(Lcom/simplecity/amp_library/model/Song;)Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)I_
-equals(Ljava/lang/Object;)Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)ZE
-
-getAlbum()7com.simplecity.amp_library.model.Song#getAlbum()LAlbum;W
-getAlbumArtist()Ccom.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;Z
-getArtworkKey()Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;d
-getDiscNumberLabel()Lcom.simplecity.amp_library.model.Song#getDiscNumberLabel()Ljava/lang/String;K
-getElapsedTime()7com.simplecity.amp_library.model.Song#getElapsedTime()J`
-getFileSizeLabel()Jcom.simplecity.amp_library.model.Song#getFileSizeLabel()Ljava/lang/String;c
-getFolderArtwork()Mcom.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;h
-getFolderArtworkFiles()Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;\
-getFormatLabel()Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;[
-getProjection()Hcom.simplecity.amp_library.model.Song#getProjection()[Ljava/lang/String;E
-
-getQuery()7com.simplecity.amp_library.model.Song#getQuery()LQuery;f
-getRemoteArtworkUrl()Mcom.simplecity.amp_library.model.Song#getRemoteArtworkUrl()Ljava/lang/String;T
-getSortKey()Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;]
-getTagArtwork()Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;K
-getTagInfo();com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;f
-getTrackNumberLabel()Mcom.simplecity.amp_library.model.Song#getTrackNumberLabel()Ljava/lang/String;A
-hasPlayed()2com.simplecity.amp_library.model.Song#hasPlayed()Z?
-
-hashCode()1com.simplecity.amp_library.model.Song#hashCode()II
-setArtworkKey()6com.simplecity.amp_library.model.Song#setArtworkKey()VA
-setPaused()2com.simplecity.amp_library.model.Song#setPaused()VC
-setResumed()3com.simplecity.amp_library.model.Song#setResumed()VC
-setSortKey()3com.simplecity.amp_library.model.Song#setSortKey()VG
-setStartTime()5com.simplecity.amp_library.model.Song#setStartTime()VP
-
-toString()Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;G
+getOldListSize()[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldListSize()IG
 3com.simplecity.amp_library.http.lastfm.LastFmResultjava.lang.Object
 Viewjava.lang.Object†
 0com.simplecity.amp_library.ui.views.SnowfallViewViewJ
@@ -4086,11 +3938,14 @@ getSnowY()Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowY(
 reset()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#reset()VN
 snowX()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()FÇ
 +com.simplecity.amp_library.constants.Configjava.lang.ObjectA
-<init>()5com.simplecity.amp_library.constants.Config#<init>()Vó
-3com.afollestad.aesthetic.AestheticCoordinatorLayout$AppBarLayout.OnOffsetChangedListenerCoordinatorLayout]
+<init>()5com.simplecity.amp_library.constants.Config#<init>()Vﬁ
+3com.afollestad.aesthetic.AestheticCoordinatorLayout$AppBarLayout.OnOffsetChangedListenerCoordinatorLayoutk
+findToolbarAndColorView()Ncom.afollestad.aesthetic.AestheticCoordinatorLayout#findToolbarAndColorView()V]
 invalidateColors()Gcom.afollestad.aesthetic.AestheticCoordinatorLayout#invalidateColors()Va
 onAttachedToWindow()Icom.afollestad.aesthetic.AestheticCoordinatorLayout#onAttachedToWindow()Ve
-onDetachedFromWindow()Kcom.afollestad.aesthetic.AestheticCoordinatorLayout#onDetachedFromWindow()VC
+onDetachedFromWindow()Kcom.afollestad.aesthetic.AestheticCoordinatorLayout#onDetachedFromWindow()Vm
+subscribeStatusBarColors()Ocom.afollestad.aesthetic.AestheticCoordinatorLayout#subscribeStatusBarColors()Vi
+subscribeToolbarColors()Mcom.afollestad.aesthetic.AestheticCoordinatorLayout#subscribeToolbarColors()VC
 5com.afollestad.aesthetic.AestheticCoordinatorLayout$1
 BiFunctionA
 5com.afollestad.aesthetic.AestheticCoordinatorLayout$2Consumer¥
@@ -4298,7 +4153,8 @@ Gcom.simplecity.amp_library.ui.screens.suggested.SuggestedFragmentModulejava.l
 ?<init>(Ljava/lang/Object;Ljava/lang/String;[Ljava/lang/String;)com.simplecity.amp_library.ui.screens.search.JaroWinklerObject#<init>(Ljava/lang/Object;Ljava/lang/String;[Ljava/lang/String;)VÔ
 6com.simplecity.amp_library.ui.common.PurchasePresenter	PresenterL
 <init>()@com.simplecity.amp_library.ui.common.PurchasePresenter#<init>()V\
-upgradeClicked()Hcom.simplecity.amp_library.ui.common.PurchasePresenter#upgradeClicked()Vj
+upgradeClicked()Hcom.simplecity.amp_library.ui.common.PurchasePresenter#upgradeClicked()VD
+0com.simplecity.amp_library.model.ArtworkProviderjava.lang.Objectj
 5com.simplecity.amp_library.model.ArtworkProvider$Typejava.lang.Objectjava.lang.annotation.Annotation)
 LayoutInflaterFactoryjava.lang.Objectù
 -com.afollestad.aesthetic.InflationInterceptorLayoutInflaterFactoryjava.lang.ObjectC
@@ -4468,14 +4324,7 @@ hashCode()<com.simplecity.amp_library.model.SuggestedHeader#hashCode()I§
 getItemPath()Rcom.simplecity.amp_library.ui.views.BreadcrumbItem#getItemPath()Ljava/lang/String;v
 setItemPath(Ljava/lang/String;)Scom.simplecity.amp_library.ui.views.BreadcrumbItem#setItemPath(Ljava/lang/String;)Vº
 Hcom.simplecity.amp_library.ui.screens.album.list.AlbumListFragmentModulejava.lang.Object^
-<init>()Rcom.simplecity.amp_library.ui.screens.album.list.AlbumListFragmentModule#<init>()V‡
-+com.simplecity.amp_library.utils.SleepTimerjava.lang.ObjectA
-<init>()5com.simplecity.amp_library.utils.SleepTimer#<init>()Vn
-getCurrentTimeObservable()Pcom.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;w
-getInstance()fcom.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;o
-getTimerActiveSubject()Tcom.simplecity.amp_library.utils.SleepTimer#getTimerActiveSubject()LBehaviorSubject;C
-	start(IZ)6com.simplecity.amp_library.utils.SleepTimer#start(IZ)V=
-stop()3com.simplecity.amp_library.utils.SleepTimer#stop()Vˇ
+<init>()Rcom.simplecity.amp_library.ui.screens.album.list.AlbumListFragmentModule#<init>()Vˇ
 *com.simplecity.amp_library.utils.Operatorsjava.lang.Object@
 <init>()4com.simplecity.amp_library.utils.Operators#<init>()V}
 songsToAlbums(Ljava/util/List;)Zcom.simplecity.amp_library.utils.Operators#songsToAlbums(Ljava/util/List;)Ljava/util/List;Ï
@@ -4519,11 +4368,12 @@ Xcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnSwip
 <init>()5com.simplecity.amp_library.model.FileObject#<init>()VV
 
 toString()Hcom.simplecity.amp_library.model.FileObject#toString()Ljava/lang/String;M
-9com.simplecity.amp_library.ui.views.ContextualToolbarHostjava.lang.Object◊
+9com.simplecity.amp_library.ui.views.ContextualToolbarHostjava.lang.Object√	
 5com.simplecity.amp_library.ui.modelviews.InclExclViewBaseViewModelÉ
 $areContentsEqual(Ljava/lang/Object;)[com.simplecity.amp_library.ui.modelviews.InclExclView#areContentsEqual(Ljava/lang/Object;)Z‘
 LbindView(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;)Écom.simplecity.amp_library.ui.modelviews.InclExclView#bindView(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;)Vo
-equals(Ljava/lang/Object;)Qcom.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Z[
+equals(Ljava/lang/Object;)Qcom.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Zj
+getInclExclItem()Ucom.simplecity.amp_library.ui.modelviews.InclExclView#getInclExclItem()LInclExclItem;[
 getLayoutResId()Gcom.simplecity.amp_library.ui.modelviews.InclExclView#getLayoutResId()IU
 getViewType()Dcom.simplecity.amp_library.ui.modelviews.InclExclView#getViewType()IO
 
@@ -4562,9 +4412,10 @@ onCreate()Qcom.simplecity.amp_library.sql.providers.CustomArtworkContentProvide
 @com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerViewjava.lang.ObjectÜ
 -com.simplecity.amp_library.utils.ColorPalettejava.lang.ObjectC
 <init>()7com.simplecity.amp_library.utils.ColorPalette#<init>()V+
-DaggerBroadcastReceiverjava.lang.Object•
+DaggerBroadcastReceiverjava.lang.Object©
 :com.simplecity.amp_library.utils.MediaButtonIntentReceiverDaggerBroadcastReceiverP
-<init>()Dcom.simplecity.amp_library.utils.MediaButtonIntentReceiver#<init>()V|
+<init>()Dcom.simplecity.amp_library.utils.MediaButtonIntentReceiver#<init>()VÅ
+getMediaButtonCommand(I)ecom.simplecity.amp_library.utils.MediaButtonIntentReceiver#getMediaButtonCommand(I)Ljava/lang/String;|
 releaseWakeLockIfHandlerIdle()Zcom.simplecity.amp_library.utils.MediaButtonIntentReceiver#releaseWakeLockIfHandlerIdle()V…
 Scom.simplecity.amp_library.utils.MediaButtonIntentReceiver$MediaButtonMessageHanderHandleri
 <init>()]com.simplecity.amp_library.utils.MediaButtonIntentReceiver$MediaButtonMessageHander#<init>()V 
@@ -4600,7 +4451,8 @@ Ccom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1Qcom.simple
 	<init>(I)Ncom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1#<init>(I)Ve
 isActionable()Scom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1#isActionable()Zã
 Vcom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$NavigationEvent$Typejava.lang.Objectjava.lang.annotation.Annotation.
-HasSupportFragmentInjectorjava.lang.Object9
+HasSupportFragmentInjectorjava.lang.Object%
+ServiceConnectionjava.lang.Object9
 %BillingManager.BillingUpdatesListenerjava.lang.Object%
 AestheticActivityjava.lang.Object˚
 1com.simplecity.amp_library.ui.common.BaseActivityAestheticActivity%BillingManager.BillingUpdatesListenerHasSupportFragmentInjectorServiceConnectionG
@@ -4800,17 +4652,10 @@ Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmallBaseWidgetC
 ,com.afollestad.aesthetic.ViewTextColorActionConsumerjava.lang.Objecth
 accept(Ljava/lang/Integer;)Icom.afollestad.aesthetic.ViewTextColorAction#accept(Ljava/lang/Integer;)Vº
 0com.afollestad.aesthetic.ViewHintTextColorActionConsumerjava.lang.Objectl
-accept(Ljava/lang/Integer;)Mcom.afollestad.aesthetic.ViewHintTextColorAction#accept(Ljava/lang/Integer;)VÒ
-5com.afollestad.aesthetic.AestheticTextInputEditText$2java.lang.Objectjava.lang.RunnableK
-<init>()?com.afollestad.aesthetic.AestheticTextInputEditText$2#<init>()VE
-run()<com.afollestad.aesthetic.AestheticTextInputEditText$2#run()VK
+accept(Ljava/lang/Integer;)Mcom.afollestad.aesthetic.ViewHintTextColorAction#accept(Ljava/lang/Integer;)VK
 7com.simplecity.amp_library.androidauto.PackageValidatorjava.lang.Object˚
 Bcom.simplecity.amp_library.androidauto.PackageValidator$CallerInfojava.lang.Object¢
--<init>(Ljava/lang/String;Ljava/lang/String;Z)qcom.simplecity.amp_library.androidauto.PackageValidator$CallerInfo#<init>(Ljava/lang/String;Ljava/lang/String;Z)V∆
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity1com.simplecity.amp_library.ui.common.BaseActivity\
-<init>()Pcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()Vu
-screenName()ecom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#screenName()Ljava/lang/String;t
-searchAndPlaySongs()\com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()V¿
+-<init>(Ljava/lang/String;Ljava/lang/String;Z)qcom.simplecity.amp_library.androidauto.PackageValidator$CallerInfo#<init>(Ljava/lang/String;Ljava/lang/String;Z)V¿
 Jcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentModulejava.lang.Object`
 <init>()Tcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentModule#<init>()Væ
 )com.simplecity.amp_library.utils.LogUtilsjava.lang.Object?
@@ -4830,7 +4675,8 @@ $MiniPlayerLockManager.MiniPlayerLockjava.lang.Object’
 	onPause()Hcom.simplecity.amp_library.ui.settings.SettingsParentFragment#onPause()VW
 
 onResume()Icom.simplecity.amp_library.ui.settings.SettingsParentFragment#onResume()V 
-SettingsViewjava.lang.Object,
+SettingsViewjava.lang.Object4
+ ColorChooserDialog.ColorCallbackjava.lang.Object,
 PreferenceFragmentCompatjava.lang.Objectê
 Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment ColorChooserDialog.ColorCallback
 ControllerPreferenceFragmentCompatSettingsView2com.simplecity.amp_library.ui.settings.SupportViewd
@@ -4885,10 +4731,10 @@ Mcom.jp.wasabeef.glide.transformations.RoundedCornersTransformation$CornerType
 <init>()Fcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#<init>()Vú
 newInstance(I)âcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#newInstance(I)Lcom/simplecity/amp_library/ui/screens/widgets/WidgetFragment;k
 screenName()[com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#screenName()Ljava/lang/String;4
- GridLayoutManager.SpanSizeLookupjava.lang.Object´
-?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup GridLayoutManager.SpanSizeLookupa
-getSpanSize(I)Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)Ic
-setSpanCount(I)Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#setSpanCount(I)V≈
+ GridLayoutManager.SpanSizeLookupjava.lang.ObjectΩ
+Ecom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup GridLayoutManager.SpanSizeLookupg
+getSpanSize(I)Ucom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup#getSpanSize(I)Ii
+setSpanCount(I)Vcom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup#setSpanCount(I)V≈
 =com.simplecity.amp_library.utils.color.BitmapPaletteProcessorjava.lang.ObjectS
 <init>()Gcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#<init>()VY
 isBlack([F)Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)ZY
@@ -4899,7 +4745,7 @@ Hcom.simplecity.amp_library.di.app.activity.fragment.DialogFragmentModulejava.
 (com.afollestad.aesthetic.AestheticButtonAppCompatButtonV
 onAttachedToWindow()>com.afollestad.aesthetic.AestheticButton#onAttachedToWindow()VZ
 onDetachedFromWindow()@com.afollestad.aesthetic.AestheticButton#onDetachedFromWindow()V6
-*com.afollestad.aesthetic.AestheticButton$1Consumer‚
+*com.afollestad.aesthetic.AestheticButton$1Consumer⁄
 0com.simplecity.amp_library.playback.QueueManagerjava.lang.ObjectN
 clearQueue()>com.simplecity.amp_library.playback.QueueManager#clearQueue()Vm
 getCurrentPlaylist()Ucom.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;j
@@ -4907,7 +4753,8 @@ Hcom.simplecity.amp_library.di.app.activity.fragment.DialogFragmentModulejava.
 getCurrentSong()Gcom.simplecity.amp_library.playback.QueueManager#getCurrentSong()LSong;Z
 getNextPosition(Z)Dcom.simplecity.amp_library.playback.QueueManager#getNextPosition(Z)IX
 makeShuffleList()Ccom.simplecity.amp_library.playback.QueueManager#makeShuffleList()VX
-moveQueueItem(II)Ccom.simplecity.amp_library.playback.QueueManager#moveQueueItem(II)V\
+moveQueueItem(II)Ccom.simplecity.amp_library.playback.QueueManager#moveQueueItem(II)Vv
+ normalizeRepeatAndShuffleModes()Rcom.simplecity.amp_library.playback.QueueManager#normalizeRepeatAndShuffleModes()V\
 notifyMetaChanged()Ecom.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V^
 notifyQueueChanged()Fcom.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()Vb
 notifyShuffleChanged()Hcom.simplecity.amp_library.playback.QueueManager#notifyShuffleChanged()Vì
@@ -5161,19 +5008,21 @@ toString()Zcom.simplecity.amp_library.ui.modelviews.GenreView$ViewHolder#toStri
 
 hashCode();com.simplecity.amp_library.model.BaseFileObject#hashCode()IZ
 
-toString()Lcom.simplecity.amp_library.model.BaseFileObject#toString()Ljava/lang/String;Á
+toString()Lcom.simplecity.amp_library.model.BaseFileObject#toString()Ljava/lang/String;◊
 +com.simplecity.amp_library.utils.FileHelperjava.lang.ObjectA
-<init>()5com.simplecity.amp_library.utils.FileHelper#<init>()Vo
-DeleteRecursive(Ljava/io/File;)Lcom.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Zi
+<init>()5com.simplecity.amp_library.utils.FileHelper#<init>()Vi
 canReadWrite(Ljava/io/File;)Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Ze
-deleteFile(Ljava/io/File;)Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Zd
+deleteFile(Ljava/io/File;)Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Zo
+deleteRecursive(Ljava/io/File;)Lcom.simplecity.amp_library.utils.FileHelper#deleteRecursive(Ljava/io/File;)Zd
 getAudioFilter()Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;Ç
  getExtension(Ljava/lang/String;)^com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;p
 getHumanReadableSize(J)Ucom.simplecity.amp_library.utils.FileHelper#getHumanReadableSize(J)Ljava/lang/String;x
 getName(Ljava/lang/String;)Ycom.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;p
 getPath(Ljava/io/File;)Ucom.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;v
-getPathList(Ljava/io/File;ZZ)Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;o
-isRootDirectory(Ljava/io/File;)Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Zc
+getPathList(Ljava/io/File;ZZ)Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;s
+getSupportedExtensions()Wcom.simplecity.amp_library.utils.FileHelper#getSupportedExtensions()[Ljava/lang/String;o
+isRootDirectory(Ljava/io/File;)Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Zy
+$isSupportedAudioFile(Ljava/io/File;)Qcom.simplecity.amp_library.utils.FileHelper#isSupportedAudioFile(Ljava/io/File;)Zc
 isSymlink(Ljava/io/File;)Fcom.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Zz
 resolveSymlink(Ljava/io/File;)Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;å
 &walk(Ljava/io/File;Ljava/util/List;ZZ)bcom.simplecity.amp_library.utils.FileHelper#walk(Ljava/io/File;Ljava/util/List;ZZ)Ljava/util/List; 
@@ -5292,22 +5141,7 @@ Acom.simplecity.amp_library.ui.modelviews.MultiItemView$ViewHolder?com.simpleci
 toString()^com.simplecity.amp_library.ui.modelviews.MultiItemView$ViewHolder#toString()Ljava/lang/String;ô
 <com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtilsjava.lang.ObjectR
 <init>()Fcom.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#<init>()Vs
-getQuickLyricIntent()Zcom.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getQuickLyricIntent()LIntent;Ë
-7com.simplecity.amp_library.playback.MediaSessionManagerjava.lang.ObjectO
-	destroy()Bcom.simplecity.amp_library.playback.MediaSessionManager#destroy()Vm
-getMediaSessionActions()Qcom.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()Jx
-getSessionToken()ccom.simplecity.amp_library.playback.MediaSessionManager#getSessionToken()LMediaSessionCompat/Token;U
-setActive(Z)Ecom.simplecity.amp_library.playback.MediaSessionManager#setActive(Z)Vâ
-&updateMediaSession(Ljava/lang/String;)_com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)V/
-MediaSessionCompat.Callbackjava.lang.Objectœ
-9com.simplecity.amp_library.playback.MediaSessionManager$1MediaSessionCompat.CallbackQ
-	onPause()Dcom.simplecity.amp_library.playback.MediaSessionManager$1#onPause()VO
-onPlay()Ccom.simplecity.amp_library.playback.MediaSessionManager$1#onPlay()VU
-onSeekTo(J)Fcom.simplecity.amp_library.playback.MediaSessionManager$1#onSeekTo(J)V[
-onSkipToNext()Icom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToNext()Vc
-onSkipToPrevious()Mcom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToPrevious()Vg
-onSkipToQueueItem(J)Ocom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToQueueItem(J)VO
-onStop()Ccom.simplecity.amp_library.playback.MediaSessionManager$1#onStop()VU
+getQuickLyricIntent()Zcom.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getQuickLyricIntent()LIntent;U
 Acom.simplecity.amp_library.ui.screens.drawer.DrawerLockControllerjava.lang.Objectª
 8com.jp.wasabeef.glide.transformations.MaskTransformationTransformationjava.lang.Object]
 getId()Rcom.jp.wasabeef.glide.transformations.MaskTransformation#getId()Ljava/lang/String;ÿ
@@ -5775,24 +5609,32 @@ Ycom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaR
 onAttachedToWindow()ocom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaRouteButton#onAttachedToWindow()Vã
 onDetachedFromWindow()qcom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaRouteButton#onDetachedFromWindow()Vé
 1com.simplecity.amp_library.glide.utils.GlideUtilsjava.lang.ObjectG
-<init>();com.simplecity.amp_library.glide.utils.GlideUtils#<init>()VÌ
+<init>();com.simplecity.amp_library.glide.utils.GlideUtils#<init>()Vû
 ,com.simplecity.amp_library.utils.FileBrowserjava.lang.Objectq
 albumNameComparator()Xcom.simplecity.amp_library.utils.FileBrowser#albumNameComparator()Ljava/util/Comparator;s
 artistNameComparator()Ycom.simplecity.amp_library.utils.FileBrowser#artistNameComparator()Ljava/util/Comparator;T
 atHomeDirectory()?com.simplecity.amp_library.utils.FileBrowser#atHomeDirectory()ZN
-clearHomeDir()<com.simplecity.amp_library.utils.FileBrowser#clearHomeDir()Vq
+clearHomeDir()<com.simplecity.amp_library.utils.FileBrowser#clearHomeDir()V}
+ createFileObject(Ljava/io/File;)Ycom.simplecity.amp_library.utils.FileBrowser#createFileObject(Ljava/io/File;)LFileObject;É
+"createFolderObject(Ljava/io/File;)]com.simplecity.amp_library.utils.FileBrowser#createFolderObject(Ljava/io/File;)LFolderObject;q
 fileCountComparator()Xcom.simplecity.amp_library.utils.FileBrowser#fileCountComparator()Ljava/util/Comparator;o
 filenameComparator()Wcom.simplecity.amp_library.utils.FileBrowser#filenameComparator()Ljava/util/Comparator;u
 folderCountComparator()Zcom.simplecity.amp_library.utils.FileBrowser#folderCountComparator()Ljava/util/Comparator;]
-getCurrentDir()Jcom.simplecity.amp_library.utils.FileBrowser#getCurrentDir()Ljava/io/File;W
+getCurrentDir()Jcom.simplecity.amp_library.utils.FileBrowser#getCurrentDir()Ljava/io/File;ô
+-getExtSdCardDirectoryIfExists(Ljava/io/File;)hcom.simplecity.amp_library.utils.FileBrowser#getExtSdCardDirectoryIfExists(Ljava/io/File;)Ljava/io/File;ß
+4getExternalStorageDirectoryIfMounted(Ljava/io/File;)ocom.simplecity.amp_library.utils.FileBrowser#getExternalStorageDirectoryIfMounted(Ljava/io/File;)Ljava/io/File;W
 getHomeDir()Gcom.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;R
 getHomeDirIcon()>com.simplecity.amp_library.utils.FileBrowser#getHomeDirIcon()IT
 getHomeDirTitle()?com.simplecity.amp_library.utils.FileBrowser#getHomeDirTitle()I]
-getInitialDir()Jcom.simplecity.amp_library.utils.FileBrowser#getInitialDir()Ljava/io/File;J
+getInitialDir()Jcom.simplecity.amp_library.utils.FileBrowser#getInitialDir()Ljava/io/File;u
+getInitialDirFromSettings()Vcom.simplecity.amp_library.utils.FileBrowser#getInitialDirFromSettings()Ljava/io/File;ë
+)getMusicDirectoryIfExists(Ljava/io/File;)dcom.simplecity.amp_library.utils.FileBrowser#getMusicDirectoryIfExists(Ljava/io/File;)Ljava/io/File;i
+getStorageDirectory()Pcom.simplecity.amp_library.utils.FileBrowser#getStorageDirectory()Ljava/io/File;J
 hasHomeDir():com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Zo
 loadDir(Ljava/io/File;)Tcom.simplecity.amp_library.utils.FileBrowser#loadDir(Ljava/io/File;)Ljava/util/List;§
 9nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)IJ
-setHomeDir():com.simplecity.amp_library.utils.FileBrowser#setHomeDir()Vg
+setHomeDir():com.simplecity.amp_library.utils.FileBrowser#setHomeDir()Vn
+shouldSkipFile(Ljava/io/File;)Lcom.simplecity.amp_library.utils.FileBrowser#shouldSkipFile(Ljava/io/File;)Zg
 sizeComparator()Scom.simplecity.amp_library.utils.FileBrowser#sizeComparator()Ljava/util/Comparator;q
 trackNameComparator()Xcom.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Comparator;u
 trackNumberComparator()Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;@
@@ -5823,9 +5665,11 @@ Ycom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaR
 serveImage([B):com.simplecity.amp_library.http.HttpServer#serveImage([B)V>
 start()3com.simplecity.amp_library.http.HttpServer#start()V<
 stop()2com.simplecity.amp_library.http.HttpServer#stop()VU
-&java.nio.channels.InterruptibleChanneljava.lang.Objectjava.nio.channels.Channelc
+&java.nio.channels.InterruptibleChanneljava.lang.Objectjava.nio.channels.Channel]
+Icom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceTokenjava.lang.Objectc
 .com.simplecity.amp_library.model.Playlist$Typejava.lang.Objectjava.lang.annotation.AnnotationK
-7com.simplecity.amp_library.sql.providers.PlayCountTableSQLiteOpenHelperù
+7com.simplecity.amp_library.sql.providers.PlayCountTableSQLiteOpenHelper-
+MediaBrowserServiceCompatjava.lang.Objectù
 .com.simplecity.amp_library.model.Album$Builderjava.lang.ObjectD
 <init>()8com.simplecity.amp_library.model.Album$Builder#<init>()V°
 albumArtist(Ljava/lang/String;)~com.simplecity.amp_library.model.Album$Builder#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Album$Builder;i
@@ -5876,7 +5720,9 @@ toString(),java.lang.Float#toString()Ljava/lang/String;<
 toString(F)-java.lang.Float#toString(F)Ljava/lang/String;9
 
 valueOf(F)+java.lang.Float#valueOf(F)Ljava/lang/Float;[
-valueOf(Ljava/lang/String;)<java.lang.Float#valueOf(Ljava/lang/String;)Ljava/lang/Float;µ
+valueOf(Ljava/lang/String;)<java.lang.Float#valueOf(Ljava/lang/String;)Ljava/lang/Float;§
+-com.afollestad.aesthetic.AestheticTabLayout$4Consumeri
+accept(Ljava/lang/Integer;)Jcom.afollestad.aesthetic.AestheticTabLayout$4#accept(Ljava/lang/Integer;)Vµ
 7com.simplecity.amp_library.ui.adapters.SectionedAdapter'FastScrollRecyclerView.SectionedAdapterViewModelAdapterM
 <init>()Acom.simplecity.amp_library.ui.adapters.SectionedAdapter#<init>()Vp
 getSectionName(I)[com.simplecity.amp_library.ui.adapters.SectionedAdapter#getSectionName(I)Ljava/lang/String;ë
@@ -5905,8 +5751,14 @@ hashCode()2com.simplecity.amp_library.model.Album#hashCode()IJ
 setArtworkKey()7com.simplecity.amp_library.model.Album#setArtworkKey()VD
 setSortKey()4com.simplecity.amp_library.model.Album#setSortKey()VQ
 
-toString()Ccom.simplecity.amp_library.model.Album#toString()Ljava/lang/String;a
-&java.nio.channels.GatheringByteChanneljava.lang.Object%java.nio.channels.WritableByteChannel
+toString()Ccom.simplecity.amp_library.model.Album#toString()Ljava/lang/String;®
+/com.afollestad.aesthetic.AestheticTabLayout$4$2Consumerk
+accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$4$2#accept(Ljava/lang/Integer;)V®
+/com.afollestad.aesthetic.AestheticTabLayout$4$1Consumerk
+accept(Ljava/lang/Integer;)Lcom.afollestad.aesthetic.AestheticTabLayout$4$1#accept(Ljava/lang/Integer;)V4
+ CheckBox.OnCheckedChangeListenerjava.lang.Objecta
+&java.nio.channels.GatheringByteChanneljava.lang.Object%java.nio.channels.WritableByteChannelp
+;com.simplecity.amp_library.playback.MusicService$NotifyModejava.lang.Objectjava.lang.annotation.Annotation
 java.nio.channels.ByteChanneljava.lang.Object%java.nio.channels.ReadableByteChannel%java.nio.channels.WritableByteChannel¯
 2java.nio.channels.spi.AbstractInterruptibleChanneljava.lang.Objectjava.nio.channels.Channel&java.nio.channels.InterruptibleChannelH
 <init>()<java.nio.channels.spi.AbstractInterruptibleChannel#<init>()VF
@@ -5915,9 +5767,23 @@ toString()Ccom.simplecity.amp_library.model.Album#toString()Ljava/lang/String;a
 close();java.nio.channels.spi.AbstractInterruptibleChannel#close()VD
 end(Z):java.nio.channels.spi.AbstractInterruptibleChannel#end(Z)VH
 isOpen()<java.nio.channels.spi.AbstractInterruptibleChannel#isOpen()Z6
-"AdapterView.OnItemSelectedListenerjava.lang.ObjectT
+"AdapterView.OnItemSelectedListenerjava.lang.Object-
+FragmentStatePagerAdapterjava.lang.ObjectT
 ?com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity$2BroadcastReceiverT
-?com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity$1BroadcastReceiverÎ
+?com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity$1BroadcastReceiver«
+Fcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.Object¡
+:<init>(Lcom/simplecity/amp_library/playback/MusicService;)Çcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#<init>(Lcom/simplecity/amp_library/playback/MusicService;)Vl
+cancelShutdown()Xcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#cancelShutdown()Vå
+ notifyChange(Ljava/lang/String;)hcom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#notifyChange(Ljava/lang/String;)V~
+scheduleDelayedShutdown()acom.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#scheduleDelayedShutdown()Vx
+stopForegroundImpl(ZZ)^com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#stopForegroundImpl(ZZ)Vt
+updateNotification()\com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#updateNotification()VÒ
+5com.afollestad.aesthetic.AestheticTextInputEditText$2java.lang.Objectjava.lang.RunnableK
+<init>()?com.afollestad.aesthetic.AestheticTextInputEditText$2#<init>()VE
+run()<com.afollestad.aesthetic.AestheticTextInputEditText$2#run()V´
+?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup GridLayoutManager.SpanSizeLookupa
+getSpanSize(I)Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)Ic
+setSpanCount(I)Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#setSpanCount(I)VÎ
 @com.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1CompletionListUpdateCallbackÑ
 onChanged(IILjava/lang/Object;)acom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onChanged(IILjava/lang/Object;)V^
 onComplete()Ncom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter$1#onComplete()Vb
@@ -5933,16 +5799,24 @@ Qopen(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute
 5open(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)rjava.nio.channels.FileChannel#open(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/FileChannel;[
 read([Ljava/nio/ByteBuffer;);java.nio.channels.FileChannel#read([Ljava/nio/ByteBuffer;)JP
 	tryLock()Cjava.nio.channels.FileChannel#tryLock()Ljava/nio/channels/FileLock;]
-write([Ljava/nio/ByteBuffer;)<java.nio.channels.FileChannel#write([Ljava/nio/ByteBuffer;)Jﬁ
+write([Ljava/nio/ByteBuffer;)<java.nio.channels.FileChannel#write([Ljava/nio/ByteBuffer;)J∆
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity1com.simplecity.amp_library.ui.common.BaseActivity\
+<init>()Pcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()Vu
+screenName()ecom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#screenName()Ljava/lang/String;t
+searchAndPlaySongs()\com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()Vﬁ
 ,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapö
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V3
+SeekBar.OnSeekBarChangeListenerjava.lang.ObjectÕ
+Acom.simplecityapps.recycler_adapter.recyclerview.RecyclerListenerRecyclerView.RecyclerListenerjava.lang.ObjectW
+<init>()Kcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#<init>()V
 	NanoHTTPDjava.lang.Objectf
 Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$3SeekBar.OnSeekBarChangeListenerf
 Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$4SeekBar.OnSeekBarChangeListeneri
 Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$1"AdapterView.OnItemSelectedListenerf
 Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$2SeekBar.OnSeekBarChangeListenerË
 5com.simplecity.amp_library.http.HttpServer$NanoServer	NanoHTTPD£
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V—
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)Vq
+Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinderServiceConnectionjava.lang.Object—
 %com.afollestad.aesthetic.EdgeGlowUtiljava.lang.Object;
 <init>()/com.afollestad.aesthetic.EdgeGlowUtil#<init>()Vc
 invalidateEdgeEffectFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateEdgeEffectFields()V_
@@ -5951,12 +5825,120 @@ Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$2SeekBar.On
 invalidateRecyclerViewFields()Ecom.afollestad.aesthetic.EdgeGlowUtil#invalidateRecyclerViewFields()Vc
 invalidateScrollViewFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateScrollViewFields()Va
 invalidateViewPagerFields()Bcom.afollestad.aesthetic.EdgeGlowUtil#invalidateViewPagerFields()Vq
-#setEffectColor(Ljava/lang/Object;I)Jcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)VI
-5com.simplecity.amp_library.playback.MediaManager$Defsjava.lang.Object∂
+#setEffectColor(Ljava/lang/Object;I)Jcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)VË
+7com.simplecity.amp_library.playback.MediaSessionManagerjava.lang.ObjectO
+	destroy()Bcom.simplecity.amp_library.playback.MediaSessionManager#destroy()Vm
+getMediaSessionActions()Qcom.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()Jx
+getSessionToken()ccom.simplecity.amp_library.playback.MediaSessionManager#getSessionToken()LMediaSessionCompat/Token;U
+setActive(Z)Ecom.simplecity.amp_library.playback.MediaSessionManager#setActive(Z)Vâ
+&updateMediaSession(Ljava/lang/String;)_com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)VI
+5com.simplecity.amp_library.playback.MediaManager$Defsjava.lang.ObjectÇ
+Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapterFragmentStatePagerAdaptern
+
+getCount()`com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getCount()Iw
+
+getItem(I)icom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getItem(I)LFragment;è
+getPageTitle(I)|com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;ì
+getRegisteredFragment(I)wcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getRegisteredFragment(I)LFragment;∂
 (com.simplecity.amp_library.model.TagInfojava.io.Serializablejava.lang.Objectb
-<init>(Ljava/lang/String;)Dcom.simplecity.amp_library.model.TagInfo#<init>(Ljava/lang/String;)Vb
-'java.nio.channels.ScatteringByteChanneljava.lang.Object%java.nio.channels.ReadableByteChannelT
-%java.nio.channels.WritableByteChanneljava.lang.Objectjava.nio.channels.Channel˚)
+<init>(Ljava/lang/String;)Dcom.simplecity.amp_library.model.TagInfo#<init>(Ljava/lang/String;)V“
+Acom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivityBaseActivity CheckBox.OnCheckedChangeListener ColorChooserDialog.ColorCallbackSeekBar.OnSeekBarChangeListenerView.OnClickListenerViewPager.OnPageChangeListenerW
+<init>()Kcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#<init>()Vb
+key()Ycom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#key()Ljava/lang/String;e
+onBackPressed()Rcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onBackPressed()V}
+onPageScrollStateChanged(I)^com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageScrollStateChanged(I)Vm
+onPageScrolled(IFI)Vcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageScrolled(IFI)Vi
+onPageSelected(I)Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageSelected(I)Vg
+updateWidgetUI()Scom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#updateWidgetUI()Vê%
+0com.simplecity.amp_library.playback.MusicServiceMediaBrowserServiceCompatF
+<init>():com.simplecity.amp_library.playback.MusicService#<init>()V^
+cancelNotification()Fcom.simplecity.amp_library.playback.MusicService#cancelNotification()VV
+cancelShutdown()Bcom.simplecity.amp_library.playback.MusicService#cancelShutdown()VN
+clearQueue()>com.simplecity.amp_library.playback.MusicService#clearQueue()Vj
+closeEqualizerSessions(ZI)Lcom.simplecity.amp_library.playback.MusicService#closeEqualizerSessions(ZI)Vl
+closeExternalStorageFiles()Mcom.simplecity.amp_library.playback.MusicService#closeExternalStorageFiles()Vç
+#commandToAction(Ljava/lang/String;)fcom.simplecity.amp_library.playback.MusicService#commandToAction(Ljava/lang/String;)Ljava/lang/String;\
+getAudioSessionId()Ecom.simplecity.amp_library.playback.MusicService#getAudioSessionId()IY
+
+getQueue()Kcom.simplecity.amp_library.playback.MusicService#getQueue()Ljava/util/List;Z
+getQueuePosition()Dcom.simplecity.amp_library.playback.MusicService#getQueuePosition()I\
+getQueueReloading()Ecom.simplecity.amp_library.playback.MusicService#getQueueReloading()ZT
+getRepeatMode()Acom.simplecity.amp_library.playback.MusicService#getRepeatMode()IX
+getSeekPosition()Ccom.simplecity.amp_library.playback.MusicService#getSeekPosition()JV
+getShuffleMode()Bcom.simplecity.amp_library.playback.MusicService#getShuffleMode()IM
+	getSong()@com.simplecity.amp_library.playback.MusicService#getSong()LSong;L
+gotoNext(Z)=com.simplecity.amp_library.playback.MusicService#gotoNext(Z)VL
+isPlaying()=com.simplecity.amp_library.playback.MusicService#isPlaying()ZX
+moveQueueItem(II)Ccom.simplecity.amp_library.playback.MusicService#moveQueueItem(II)Vv
+ notifyChange(Ljava/lang/String;)Rcom.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)VJ
+
+onCreate()<com.simplecity.amp_library.playback.MusicService#onCreate()VL
+onDestroy()=com.simplecity.amp_library.playback.MusicService#onDestroy()VT
+onMetaChanged()Acom.simplecity.amp_library.playback.MusicService#onMetaChanged()V^
+onPlayStateChanged()Fcom.simplecity.amp_library.playback.MusicService#onPlayStateChanged()VV
+onQueueChanged()Bcom.simplecity.amp_library.playback.MusicService#onQueueChanged()VR
+onTrackEnded()@com.simplecity.amp_library.playback.MusicService#onTrackEnded()Vf
+openEqualizerSession(ZI)Jcom.simplecity.amp_library.playback.MusicService#openEqualizerSession(ZI)Vî
+/openFile(Ljava/lang/String;Ljava/lang/Boolean;)acom.simplecity.amp_library.playback.MusicService#openFile(Ljava/lang/String;Ljava/lang/Boolean;)VF
+pause(Z):com.simplecity.amp_library.playback.MusicService#pause(Z)VB
+play()8com.simplecity.amp_library.playback.MusicService#play()V`
+playAutoShuffleList()Gcom.simplecity.amp_library.playback.MusicService#playAutoShuffleList()VL
+previous(Z)=com.simplecity.amp_library.playback.MusicService#previous(Z)VV
+recentlyPlayed()Bcom.simplecity.amp_library.playback.MusicService#recentlyPlayed()Zx
+!registerExternalStorageListener()Scom.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()Vh
+releaseServiceUiAndStop()Kcom.simplecity.amp_library.playback.MusicService#releaseServiceUiAndStop()VN
+saveState(Z)>com.simplecity.amp_library.playback.MusicService#saveState(Z)Vh
+scheduleDelayedShutdown()Kcom.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()VH
+	seekTo(J);com.simplecity.amp_library.playback.MusicService#seekTo(J)VR
+setNextTrack()@com.simplecity.amp_library.playback.MusicService#setNextTrack()V\
+setQueuePosition(I)Ecom.simplecity.amp_library.playback.MusicService#setQueuePosition(I)VV
+setRepeatMode(I)Bcom.simplecity.amp_library.playback.MusicService#setRepeatMode(I)VX
+setShuffleMode(I)Ccom.simplecity.amp_library.playback.MusicService#setShuffleMode(I)VN
+showToast(I)>com.simplecity.amp_library.playback.MusicService#showToast(I)V`
+startForegroundImpl()Gcom.simplecity.amp_library.playback.MusicService#startForegroundImpl()VB
+stop()8com.simplecity.amp_library.playback.MusicService#stop()Vb
+stopForegroundImpl(ZZ)Hcom.simplecity.amp_library.playback.MusicService#stopForegroundImpl(ZZ)VV
+toggleFavorite()Bcom.simplecity.amp_library.playback.MusicService#toggleFavorite()VV
+togglePlayback()Bcom.simplecity.amp_library.playback.MusicService#togglePlayback()VR
+toggleRepeat()@com.simplecity.amp_library.playback.MusicService#toggleRepeat()V\
+toggleShuffleMode()Ecom.simplecity.amp_library.playback.MusicService#toggleShuffleMode()VX
+updateEqualizer()Ccom.simplecity.amp_library.playback.MusicService#updateEqualizer()V^
+updateNotification()Fcom.simplecity.amp_library.playback.MusicService#updateNotification()Vb
+'java.nio.channels.ScatteringByteChanneljava.lang.Object%java.nio.channels.ReadableByteChannel¨
+0com.simplecity.amp_library.playback.MediaManagerjava.lang.ObjectN
+clearQueue()>com.simplecity.amp_library.playback.MediaManager#clearQueue()Vj
+closeEqualizerSessions(ZI)Lcom.simplecity.amp_library.playback.MediaManager#closeEqualizerSessions(ZI)VP
+cycleRepeat()?com.simplecity.amp_library.playback.MediaManager#cycleRepeat()Vq
+
+getAlbum()ccom.simplecity.amp_library.playback.MediaManager#getAlbum()Lcom/simplecity/amp_library/model/Album;b
+getAlbumArtist()Ncom.simplecity.amp_library.playback.MediaManager#getAlbumArtist()LAlbumArtist;\
+getAudioSessionId()Ecom.simplecity.amp_library.playback.MediaManager#getAudioSessionId()IP
+getDuration()?com.simplecity.amp_library.playback.MediaManager#getDuration()Ja
+getFilePath()Pcom.simplecity.amp_library.playback.MediaManager#getFilePath()Ljava/lang/String;P
+getPosition()?com.simplecity.amp_library.playback.MediaManager#getPosition()JY
+
+getQueue()Kcom.simplecity.amp_library.playback.MediaManager#getQueue()Ljava/util/List;Z
+getQueuePosition()Dcom.simplecity.amp_library.playback.MediaManager#getQueuePosition()I\
+getQueueReloading()Ecom.simplecity.amp_library.playback.MediaManager#getQueueReloading()ZT
+getRepeatMode()Acom.simplecity.amp_library.playback.MediaManager#getRepeatMode()IV
+getShuffleMode()Bcom.simplecity.amp_library.playback.MediaManager#getShuffleMode()IM
+	getSong()@com.simplecity.amp_library.playback.MediaManager#getSong()LSong;L
+isPlaying()=com.simplecity.amp_library.playback.MediaManager#isPlaying()ZX
+moveQueueItem(II)Ccom.simplecity.amp_library.playback.MediaManager#moveQueueItem(II)VB
+next()8com.simplecity.amp_library.playback.MediaManager#next()Vf
+openEqualizerSession(ZI)Jcom.simplecity.amp_library.playback.MediaManager#openEqualizerSession(ZI)VL
+previous(Z)=com.simplecity.amp_library.playback.MediaManager#previous(Z)VH
+	seekTo(J);com.simplecity.amp_library.playback.MediaManager#seekTo(J)V\
+setQueuePosition(I)Ecom.simplecity.amp_library.playback.MediaManager#setQueuePosition(I)VX
+setShuffleMode(I)Ccom.simplecity.amp_library.playback.MediaManager#setShuffleMode(I)VV
+toggleFavorite()Bcom.simplecity.amp_library.playback.MediaManager#toggleFavorite()VV
+togglePlayback()Bcom.simplecity.amp_library.playback.MediaManager#togglePlayback()V\
+toggleShuffleMode()Ecom.simplecity.amp_library.playback.MediaManager#toggleShuffleMode()VX
+updateEqualizer()Ccom.simplecity.amp_library.playback.MediaManager#updateEqualizer()VT
+%java.nio.channels.WritableByteChanneljava.lang.Objectjava.nio.channels.Channel¶
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtilsjava.lang.ObjectR
+<init>()Fcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#<init>()Vˇ
+^unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)úcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)V˚)
 8android.support.design.widget.CustomCollapsingTextHelperjava.lang.Object^
 blendColors(IIF)Jandroid.support.design.widget.CustomCollapsingTextHelper#blendColors(IIF)Ij
 calculateBaseOffsets()Pandroid.support.design.widget.CustomCollapsingTextHelper#calculateBaseOffsets()Vp
@@ -6005,9 +5987,18 @@ Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$2SeekBar.On
 setState([I)Fandroid.support.design.widget.CustomCollapsingTextHelper#setState([I)Zà
 %setSubtitle(Ljava/lang/CharSequence;)_android.support.design.widget.CustomCollapsingTextHelper#setSubtitle(Ljava/lang/CharSequence;)VÄ
 !setText(Ljava/lang/CharSequence;)[android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)VX
-%java.nio.channels.SeekableByteChanneljava.lang.Objectjava.nio.channels.ByteChannelT
+%java.nio.channels.SeekableByteChanneljava.lang.Objectjava.nio.channels.ByteChannel/
+MediaSessionCompat.Callbackjava.lang.Object‡
++com.simplecity.amp_library.utils.SleepTimerjava.lang.ObjectA
+<init>()5com.simplecity.amp_library.utils.SleepTimer#<init>()Vn
+getCurrentTimeObservable()Pcom.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;w
+getInstance()fcom.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;o
+getTimerActiveSubject()Tcom.simplecity.amp_library.utils.SleepTimer#getTimerActiveSubject()LBehaviorSubject;C
+	start(IZ)6com.simplecity.amp_library.utils.SleepTimer#start(IZ)V=
+stop()3com.simplecity.amp_library.utils.SleepTimer#stop()VT
 %java.nio.channels.ReadableByteChanneljava.lang.Objectjava.nio.channels.Channel:
-&CompoundButton.OnCheckedChangeListenerjava.lang.Objectõ
+&CompoundButton.OnCheckedChangeListenerjava.lang.Object(
+View.OnClickListenerjava.lang.Objectõ
 Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentBaseFragment&CompoundButton.OnCheckedChangeListenerDrawerLockManager.DrawerLock$MiniPlayerLockManager.MiniPlayerLockToolbar.OnMenuItemClickListenerW
 <init>()Kcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()Vu
 equalizerBandUpdate(II)Zcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerBandUpdate(II)Vu
@@ -6025,7 +6016,50 @@ onResume()Mcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#on
 screenName()`com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#screenName()Ljava/lang/String;c
 setupPresets()Qcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#setupPresets()V[
 
-updateUI()Mcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#updateUI()Vﬁ
+updateUI()Mcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#updateUI()Vº
+%com.simplecity.amp_library.model.SongSortable0com.simplecity.amp_library.model.ArtworkProviderjava.io.Serializablejava.lang.Comparablejava.lang.Object;
+<init>()/com.simplecity.amp_library.model.Song#<init>()Vè
+2compareTo(Lcom/simplecity/amp_library/model/Song;)Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)I_
+equals(Ljava/lang/Object;)Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)ZE
+
+getAlbum()7com.simplecity.amp_library.model.Song#getAlbum()LAlbum;W
+getAlbumArtist()Ccom.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;Z
+getArtworkKey()Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;d
+getDiscNumberLabel()Lcom.simplecity.amp_library.model.Song#getDiscNumberLabel()Ljava/lang/String;K
+getElapsedTime()7com.simplecity.amp_library.model.Song#getElapsedTime()J`
+getFileSizeLabel()Jcom.simplecity.amp_library.model.Song#getFileSizeLabel()Ljava/lang/String;c
+getFolderArtwork()Mcom.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;h
+getFolderArtworkFiles()Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;\
+getFormatLabel()Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;[
+getProjection()Hcom.simplecity.amp_library.model.Song#getProjection()[Ljava/lang/String;E
+
+getQuery()7com.simplecity.amp_library.model.Song#getQuery()LQuery;f
+getRemoteArtworkUrl()Mcom.simplecity.amp_library.model.Song#getRemoteArtworkUrl()Ljava/lang/String;T
+getSortKey()Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;]
+getTagArtwork()Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;K
+getTagInfo();com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;f
+getTrackNumberLabel()Mcom.simplecity.amp_library.model.Song#getTrackNumberLabel()Ljava/lang/String;A
+hasPlayed()2com.simplecity.amp_library.model.Song#hasPlayed()Z?
+
+hashCode()1com.simplecity.amp_library.model.Song#hashCode()II
+setArtworkKey()6com.simplecity.amp_library.model.Song#setArtworkKey()VA
+setPaused()2com.simplecity.amp_library.model.Song#setPaused()VC
+setResumed()3com.simplecity.amp_library.model.Song#setResumed()VC
+setSortKey()3com.simplecity.amp_library.model.Song#setSortKey()VG
+setStartTime()5com.simplecity.amp_library.model.Song#setStartTime()VP
+
+toString()Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;ﬁ
  java.lang.IllegalAccessException&java.lang.ReflectiveOperationException6
 <init>()*java.lang.IllegalAccessException#<init>()VZ
-<init>(Ljava/lang/String;)<java.lang.IllegalAccessException#<init>(Ljava/lang/String;)V
+<init>(Ljava/lang/String;)<java.lang.IllegalAccessException#<init>(Ljava/lang/String;)VN
+:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.Objectœ
+9com.simplecity.amp_library.playback.MediaSessionManager$1MediaSessionCompat.CallbackQ
+	onPause()Dcom.simplecity.amp_library.playback.MediaSessionManager$1#onPause()VO
+onPlay()Ccom.simplecity.amp_library.playback.MediaSessionManager$1#onPlay()VU
+onSeekTo(J)Fcom.simplecity.amp_library.playback.MediaSessionManager$1#onSeekTo(J)V[
+onSkipToNext()Icom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToNext()Vc
+onSkipToPrevious()Mcom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToPrevious()Vg
+onSkipToQueueItem(J)Ocom.simplecity.amp_library.playback.MediaSessionManager$1#onSkipToQueueItem(J)VO
+onStop()Ccom.simplecity.amp_library.playback.MediaSessionManager$1#onStop()VG
+2com.simplecity.amp_library.playback.MusicService$2BroadcastReceiverG
+2com.simplecity.amp_library.playback.MusicService$1BroadcastReceiver

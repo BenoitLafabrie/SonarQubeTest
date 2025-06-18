@@ -1,5 +1,7 @@
-Sthis ("?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup	spanCount (*"int";+
+Lthis ("8com.jp.wasabeef.glide.transformations.CropTransformationEAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType"¥j
+h
+*! *(0"#get-field# CENTER:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType+
 )
- (""#set-field# spanCount:
-
- (*ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/SpanSizeLookup.java
+* *(1"#set-field# mCropType:
+
+ v(*€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java

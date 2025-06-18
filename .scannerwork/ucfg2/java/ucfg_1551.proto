@@ -1,15 +1,29 @@
 
-=com.simplecity.amp_library.billing.BillingManager$1#<init>()V
-__unknown_file ("startingBlock*°
-startingBlockƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/billing/BillingManager.java=K =(Lú
-÷
-ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/billing/BillingManager.java=K =(L
-%0"$BillingClientStateListener#<init>()V*C
- (75
-3com.simplecity.amp_library.billing.BillingManager$1"›
-ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/billing/BillingManager.java=K =(L
-implicit returnB75
-3com.simplecity.amp_library.billing.BillingManager$1
+ncom.github.florent37.glidepalette.BitmapPalette#crossfade(ZI)Lcom/github/florent37/glidepalette/BitmapPalette;•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java\ \(%"1*Ä
+1] ](¶
+³
+] ](!
+
+%0void"Jcom.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V*O
+
+__unknown_file (31
+/com.github.florent37.glidepalette.BitmapPalette¶³
+` `((5
+%1/com.github.florent37.glidepalette.BitmapPalette"mcom.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;*O
+
+__unknown_file (31
+/com.github.florent37.glidepalette.BitmapPalette*"
+
+__unknown_file (
+""2crossfade(Z)"C
+` `()7
+5
+%1/com.github.florent37.glidepalette.BitmapPalette: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B31
+/com.github.florent37.glidepalette.BitmapPalette

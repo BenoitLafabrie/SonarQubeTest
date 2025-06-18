@@ -1,4 +1,8 @@
-Rthis   ((">com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLargeB>com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge"WE
-C
-! !(!" #get-field# CMDAPPWIDGETUPDATE:Bjava.lang.String
-! !("*†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderExtraLarge.java
+Bthis
+¬ ¬(+",com.simplecity.amp_library.model.AlbumArtist"xd
+b
+
+­ ­(&"4
+java.util.CollectionsemptyList()Ljava/util/List;*2	emptyListBjava.util.List
+
+­ ­('*t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java

@@ -24,14 +24,30 @@ public class AlbumArtist implements
         ArtworkProvider,
         Sortable {
 
-    public String name;
+    private String name;
 
-    public List<Album> albums = new ArrayList<>();
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    private List<Album> albums = new ArrayList<>();
 
     private String sortKey;
 
     public AlbumArtist(String name, List<Album> albums) {
         this.name = name;
+        this.albums = albums;
+    }
+
+    public List<Album> getAlbums() {
+        return albums;
+    }
+
+    public void setAlbums(List<Album> albums) {
         this.albums = albums;
     }
 
@@ -58,7 +74,8 @@ public class AlbumArtist implements
     @Override
     @NonNull
     public String getArtworkKey() {
-        return name;
+        // Return a unique artwork key, not just the name
+        return "album_artist_artwork_" + name;
     }
 
     public static class Builder {
@@ -127,7 +144,7 @@ public class AlbumArtist implements
     @Override
     public String getRemoteArtworkUrl() {
         try {
-            return "https://artwork.shuttlemusicplayer.app/api/v1/artwork?artist=" + URLEncoder.encode(name, Charset.forName("UTF-8").name());
+            return "https://artwork.shuttlemusicplayer.app/api/v1/artwork?artist=" + URLEncoder.encode(name, java.nio.charset.StandardCharsets.UTF_8.name());
         } catch (UnsupportedEncodingException e) {
             return null;
         }

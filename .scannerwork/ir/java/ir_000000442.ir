@@ -1,8 +1,16 @@
-Nthis7 7(":com.simplecity.amp_library.ui.modelviews.SuggestedSongView"©!
+Nthis   (":com.simplecity.amp_library.ui.modelviews.SuggestedSongView0song   (&"Recovered#typeBindingLSong;0DrequestManager (  (E"&Recovered#typeBindingLRequestManager;0FsettingsManager G  (f"'Recovered#typeBindingLSettingsManager;0"„!
 
-8 8("#unknown-value#2
-0
-8 8("#get-field# layout:B	!Unknown!@
->
-8 8(,"" #get-field# grid_item_horizontal:B	!Unknown!
-8 8(-*‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedSongView.java
+! !("#unknown-value#&
+$
+! !("#set-field# song:!
+
+" "(,"#unknown-value#0
+.
+" "(,"#set-field# requestManager:!
+
+# #(.	"#unknown-value#1
+/
+# #(.
+"#set-field# settingsManager:	
+
+$ $(*‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedSongView.java

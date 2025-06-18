@@ -1,9 +1,701 @@
-Ì
-_com.simplecity.amp_library.utils#withArgs(LFragment;Lkotlin/jvm/functions/Function1;)LFragment;|
-r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FragmentExt.kt ($"0*&
-0 ("
- (=
-	<unknown>:9
- ("-
-argsBuilderkotlin.jvm.functions.Function1B$""
- com.simplecity.amp_library.utilsH
+≠
+]com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getContext()LContext;
+__unknown_file ("0*ﬂ
+0 (¶
+£
+ (
+fieldjava.lang.Object"__id*v
+ (j*hI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+contextjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHÕ
+^com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setContext(LContext;)V
+__unknown_file ("0*◊
+0 (¶
+£
+ (hI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+contextjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHº
+gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getMediaManager()LMediaManager;
+__unknown_file ("0*‰
+0 (´
+®
+ (
+fieldjava.lang.Object"__id*{
+ (o*mI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter" 
+mediaManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH‹
+hcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setMediaManager(LMediaManager;)V
+__unknown_file ("0*‹
+0 (´
+®
+ (mI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter" 
+mediaManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHπ
+ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;
+__unknown_file ("0*„
+0 (™
+ß
+ (
+fieldjava.lang.Object"__id*z
+ (n*lI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+sortManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHŸ
+fcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSortManager(LSortManager;)V
+__unknown_file ("0*€
+0 (™
+ß
+ (lI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+sortManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHú
+§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getGenreMenuPresenter()Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;
+__unknown_file ("0*Ü
+0 (ö
+ó
+ (L
+fieldCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"__id*∂
+ (©*¶I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"Y
+genreMenuPresenterCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"Z
+ (N
+L
+fieldCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH∫
+•com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setGenreMenuPresenter(Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;)V
+__unknown_file ("0*…
+0 (ò
+ï
+ (¶I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"Y
+genreMenuPresenterCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"__id*Z
+ (N
+L
+valueCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"
+ (
+implicit return:X
+ (L
+valueCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHú
+§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;
+__unknown_file ("0*Ü
+0 (ö
+ó
+ (L
+fieldCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"__id*∂
+ (©*¶I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"Z
+ (N
+L
+fieldCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH∫
+•com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setAlbumMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)V
+__unknown_file ("0*…
+0 (ò
+ï
+ (¶I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"__id*Z
+ (N
+L
+valueCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"
+ (
+implicit return:X
+ (L
+valueCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHò
+£com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSongsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;
+__unknown_file ("0*É
+0 (ò
+ï
+ (K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*µ
+ (®*•I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"X
+songsMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"Y
+ (M
+K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH∂
+§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSongsMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V
+__unknown_file ("0*«
+0 (ñ
+ì
+ (•I
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"X
+songsMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Y
+ (M
+K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"
+ (
+implicit return:W
+ (K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH›
+Ycom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getGenre()LGenre;
+__unknown_file ("0*ì
+0 (§
+°
+ (
+fieldjava.lang.Object"__id*t
+ (h*fI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+genrejava.lang.Objecti
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+fieldjava.lang.ObjectI
+G
+ (
+fieldjava.lang.Object"__annotation*
+ (
+
+%0"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH˝
+Zcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setGenre(LGenre;)V
+__unknown_file ("0*ã
+0 (i
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+valuejava.lang.ObjectI
+G
+ (
+valuejava.lang.Object"__annotation*
+ (
+
+%0§
+°
+ (fI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+genrejava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHø#
+ com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#<init>(LContext;LMediaManager;LSortManager;Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;LGenre;)Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt+ (6"0*£
+0 (*ä
+á
+% %(&
+%0"
+__annotate*0
+
+__unknown_file (
+java.lang.Object*7
+
+__unknown_file (
+
+genrejava.lang.ObjectY
+W
+% %(&
+genrejava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0©
+¶
+ ( 
+%1java.lang.Object"^com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setContext(LContext;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*9
+
+__unknown_file (
+
+contextjava.lang.Object∏
+µ
+   (*
+%2java.lang.Object"hcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setMediaManager(LMediaManager;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*>
+
+__unknown_file ("
+ 
+mediaManagerjava.lang.Objectµ
+≤
+! !((
+%3java.lang.Object"fcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSortManager(LSortManager;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*=
+
+__unknown_file (!
+
+sortManagerjava.lang.Object‚
+ﬂ
+" "(6I
+%4Ccom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"•com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setGenreMenuPresenter(Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*w
+
+__unknown_file ([
+Y
+genreMenuPresenterCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter‚
+ﬂ
+# #(6I
+%5Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"•com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setAlbumMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*w
+
+__unknown_file ([
+Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterﬂ
+‹
+$ $(5H
+%6Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSongsMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*v
+
+__unknown_file (Z
+X
+songsMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter£
+†
+% %(&
+%7java.lang.Object"Zcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setGenre(LGenre;)V*g
+
+__unknown_file (KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*7
+
+__unknown_file (
+
+genrejava.lang.Objectå
+â
+1 1(:
+%8java.util.List"ccom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSongs(Ljava/util/List;)V*W
+1 1(:KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*)
+
+__unknown_file (
+	<unknown>˙
+˜
+3 3(4
+%9java.lang.Object"jcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setCurrentSlideShowAlbum(LAlbum;)V*W
+3 3(4KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*
+30 3(4 "/
+
+__unknown_file (
+implicit return:'
+ ( 
+contextjava.lang.Object:,
+   (* 
+mediaManagerjava.lang.Object:+
+! !((
+sortManagerjava.lang.Object:e
+" "(6Y
+genreMenuPresenterCcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter:e
+# #(6Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter:d
+$ $(5X
+songsMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter:%
+% %(&
+genrejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHê
+Ycom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$Factory#<init>()Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt, /("0*>
+0, ,("/
+
+__unknown_file (
+implicit returnBSQ
+Ocom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$FactoryH™
+bcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSongs()Ljava/util/List;
+__unknown_file ("0*◊
+0 (†
+ù
+ (
+fieldjava.util.List"__id*r
+ (f*dI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+songsjava.util.List"%
+ (
+
+fieldjava.util.ListBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH 
+ccom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setSongs(Ljava/util/List;)V
+__unknown_file ("0*—
+0 (†
+ù
+ (dI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"
+songsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH»
+icom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getCurrentSlideShowAlbum()LAlbum;
+__unknown_file ("0*Ó
+0 (µ
+≤
+ (
+fieldjava.lang.Object"__id*Ñ
+ (x*vI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter")
+currentSlideShowAlbumjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHÁ
+jcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#setCurrentSlideShowAlbum(LAlbum;)V
+__unknown_file ("0*Â
+0 (¥
+±
+ (vI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter")
+currentSlideShowAlbumjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH∆
+ócom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/genre/detail/GenreDetailView;)Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt5 5("0*‰
+
+05 5(>
+<
+6 6(
+%0	Presenter"__id*
+6 6(
+	Presenterÿ
+’
+8 8(I
+%1Ccom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getGenreMenuPresenter()Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;*W
+8 8(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterÿ
+’
+9 9(I
+%2Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;*W
+9 9(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter÷
+”
+: :(H
+%3Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"£com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSongsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*W
+: :(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter‘
+—
+< <(
+%4kotlin.Unit"Ycom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#startSlideShow()V*W
+< <(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"/
+
+__unknown_file (
+implicit return:V
+5 5(/J
+viewBcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailViewBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHÒ
+ôcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/genre/detail/GenreDetailView;)Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt? ?("0*ç	
+0? ?(>
+<
+@ @(
+%0	Presenter"__id*
+@ @(
+	Presenterÿ
+’
+B B(I
+%1Ccom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuPresenter"§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getGenreMenuPresenter()Lcom/simplecity/amp_library/ui/screens/genre/menu/GenreMenuPresenter;*W
+B B(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterÿ
+’
+C C(I
+%2Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"§com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;*W
+C C(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter÷
+”
+D D(H
+%3Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"£com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSongsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*W
+D D(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"/
+
+__unknown_file (
+implicit return:V
+? ?(1J
+viewBcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailViewBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH’
+dcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#sortSongs(Ljava/util/List;)Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktG G("0*g
+2M O(	S
+Q
+
+__unknown_file (
+%3"__id*)
+
+__unknown_file (
+	<unknown>*
+1*±
+0G G(Â
+‚
+H- H(8
+%0java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+H- H(8KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterm
+k
+H H(R
+songSortjava.lang.Object"__id*;
+H9 H(R/
+-
+genreDetailSongsSortOrderjava.lang.ObjectÂ
+‚
+J J((
+%1java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+J J((KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenters
+q
+J J(B"
+songsAscendingjava.lang.Object"__id*;
+J) J(B/
+-
+genreDetailSongsAscendingjava.lang.ObjectÂ
+‚
+L L(
+%2java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+L L(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*
+2
+1*>
+1O	 P("/
+
+__unknown_file (
+implicit return:#
+G G(2
+songsjava.util.ListBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH€
+ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#sortAlbums(Ljava/util/List;)Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktR R("0*g
+2X Z(	S
+Q
+
+__unknown_file (
+%3"__id*)
+
+__unknown_file (
+	<unknown>*
+1*µ
+0R R(Â
+‚
+S/ S(:
+%0java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+S/ S(:KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresentero
+m
+S S(U
+	albumSortjava.lang.Object"__id*<
+S; S(U0
+.
+genreDetailAlbumsSortOrderjava.lang.ObjectÂ
+‚
+U U()
+%1java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+U U()KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenteru
+s
+U U(D#
+albumsAscendingjava.lang.Object"__id*<
+U* U(D0
+.
+genreDetailAlbumsAscendingjava.lang.ObjectÂ
+‚
+W W(
+%2java.lang.Object"ecom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getSortManager()LSortManager;*W
+W W(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter*
+2
+1*>
+1Z	 [("/
+
+__unknown_file (
+implicit return:$
+R R(5
+albumsjava.util.ListBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHÇ
+Scom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#loadData()Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt] ]("0*>
+0] ]("/
+
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH“	
+Ycom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#startSlideShow()Vò
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktr r("0*á
+0r r(Ÿ
+÷
+s8 s(=
+%0java.lang.Object"Ycom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getGenre()LGenre;*W
+s8 s(=KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter›
+⁄
+sQ s(X
+%1java.lang.Object"]com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getContext()LContext;*W
+sQ s(XKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterÀ
+»
+s> s(Y
+%2java.lang.Object"Xcom.simplecity.amp_library.utils.extensions#getSongsObservable(LGenre;LContext;)LSingle;*$
+s8 s(=
+
+%0java.lang.Object*$
+sQ s(X
+
+%1java.lang.Objectc
+a
+s t(<$
+albumsObservablejava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>X
+V
+v z(S
+timerjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHî
+acom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#closeContextualToolbar()Vö
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktí í("0*@
+0
+í í( "/
+
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH˜
+Ucom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#shuffleAll()Vö
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktñ ñ("0*Æ
+0
+ñ ñ(Î
+Ë
+
+ó ó(
+%0java.lang.Object"gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getMediaManager()LMediaManager;*Y
+
+ó ó(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"/
+
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterH¶
+\com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#songClicked(LSong;)Vö
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.ktú ú("0*Æ
+0
+ú ú(Î
+Ë
+
+ù ù(
+%0java.lang.Object"gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#getMediaManager()LMediaManager;*Y
+
+ù ù(KI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter"/
+
+__unknown_file (
+implicit return:&
+
+ú ú(
+songjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHã
+|com.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vö
+ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailPresenter.kt¢ ¢("0*@
+0
+¢ ¢("/
+
+__unknown_file (
+implicit return:%
+
+¢ ¢(3
+srcjava.lang.Object:3
+
+¢5 ¢(K%
+dstkotlin.jvm.functions.Function1BKI
+Gcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenterHÃ
+lcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*Â
+0 (¨
+©
+ (
+fieldjava.lang.Object"__id*|
+ (p*nS
+Qcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBUS
+Qcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$CompanionHÏ
+mcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*›
+0 (¨
+©
+ (nS
+Qcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBUS
+Qcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailPresenter$CompanionH

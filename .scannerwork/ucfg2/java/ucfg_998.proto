@@ -1,17 +1,7 @@
 
-xcom.simplecity.amp_library.model.Query$Builder#args([Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java/ /("1*Ø
-10 0(ˆ
-…
-0 0(:0
-.com.simplecity.amp_library.model.Query$Builder"
-args"__id*7
-
-__unknown_file (
-
-valjava.lang.String[]">
-1 1(20
-.com.simplecity.amp_library.model.Query$Builder:%
-/ /((
-valjava.lang.String[]B20
-.com.simplecity.amp_library.model.Query$BuilderH
+Lcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaF F("1*!
+1G G("
+G G(
+""B@>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapterHX

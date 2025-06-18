@@ -1,9 +1,140 @@
 
-Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtwork()Ljava/io/InputStream;€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java ('"1*%
-1
-‘ ‘("
+8com.simplecity.amp_library.model.AlbumArtist#hashCode()I€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaˆ ˆ("7*Z
+2
+ŠE Š(FD
+B
 
-‘ ‘(
+ŠE Š(F
+%8"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*T
+3
+Š1 Š(7>
+<
+
+Š1 Š(B
+%8"__id*"
+
+__unknown_file (
+
+%9*
+1*á
+4
+‰ ‰(8e
+c
+
+Š Š(	
+%6int"__calculate*
+
+Š Š(
+**
+
+Š Š(2*
+
+Š Š(
+""a
+_
+
+Š  Š(.
+%7"	__compare*
+
+Š' Š()
+!=*
+
+Š  Š(&
+""*
+
+Š* Š(.
+""*
+2
+3*^
+5
+‰6 ‰(7H
+F
+
+‰6 ‰(7	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+4*á
+6
+‰$ ‰((…
+‚
+
+‰$ ‰((
+%5java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+nameyw
+
+‰$ ‰(3	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()H
+F
+
+‰$ ‰(3	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+4*
+7
+‰ ‰(…
+‚
+
+‰ ‰(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+name|
+z
+
+‰ ‰(!
+%1boolean"	__compare*
+
+‰ ‰(
+!=*&
+
+‰ ‰(
+
+%0java.lang.String*
+
+‰ ‰(!
+""*
+5
+6*
+1
+Š Š(Gh
+f
+
+Š Š(G
+%11"__calculate*
+
+Š Š(
++*
+
+Š Š(
+	
+%6int*
+
+Š Š(G
+
+%8"
+
+‹ ‹(
 ""B0.
-,com.simplecity.amp_library.model.AlbumArtistH
+,com.simplecity.amp_library.model.AlbumArtistHX

@@ -1,26 +1,129 @@
-Ñ
-Ccom.simplecity.amp_library.di.app.activity.ActivityModule#<init>()V‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*<
-0 ("/
+Ž
+[com.simplecity.amp_library.ui.screens.search.SearchResult#getAlbumArtists()Ljava/util/List;
+__unknown_file ("0*Ð
+0 (™
+–
+ (
+fieldjava.util.List"__id*k
+ (_*];
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumArtistsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH®
+\com.simplecity.amp_library.ui.screens.search.SearchResult#setAlbumArtists(Ljava/util/List;)V
+__unknown_file ("0*Ê
+0 (™
+–
+ (];
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumArtistsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH‚
+Ucom.simplecity.amp_library.ui.screens.search.SearchResult#getAlbums()Ljava/util/List;
+__unknown_file ("0*Ê
+0 (“
+
+ (
+fieldjava.util.List"__id*e
+ (Y*W;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH¢
+Vcom.simplecity.amp_library.ui.screens.search.SearchResult#setAlbums(Ljava/util/List;)V
+__unknown_file ("0*Ä
+0 (“
+
+ (W;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH€
+Tcom.simplecity.amp_library.ui.screens.search.SearchResult#getSongs()Ljava/util/List;
+__unknown_file ("0*É
+0 (’
+
+ (
+fieldjava.util.List"__id*d
+ (X*V;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+songsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH 
+Ucom.simplecity.amp_library.ui.screens.search.SearchResult#setSongs(Ljava/util/List;)V
+__unknown_file ("0*Ã
+0 (’
+
+ (V;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+songsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH½
+
+scom.simplecity.amp_library.ui.screens.search.SearchResult#<init>(Ljava/util/List;Ljava/util/List;Ljava/util/List;)V‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchResult.kt ("0*ý
+0	 (‚š
+—
+ (?
+%0java.util.List"\com.simplecity.amp_library.ui.screens.search.SearchResult#setAlbumArtists(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*<
+
+__unknown_file ( 
+
+albumArtistsjava.util.ListŽ
+‹
+A (a
+%1java.util.List"Vcom.simplecity.amp_library.ui.screens.search.SearchResult#setAlbums(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*6
+
+__unknown_file (
+
+albumsjava.util.List
+Š
+	c (
+%2java.util.List"Ucom.simplecity.amp_library.ui.screens.search.SearchResult#setSongs(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*5
+
+__unknown_file (
+
+songsjava.util.List"/
 
 __unknown_file (
-implicit returnB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleH˜
-acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
-0 ("*
- (
-
-activityjava.lang.Object:(
- (,
-activityjava.lang.ObjectB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleH´
-ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
-0 ("8
- (.,
-*
-supportFragmentManagerjava.lang.Object:(
- (3
-activityjava.lang.ObjectB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleH
+implicit return:*
+ (?
+albumArtistsjava.util.List:$
+A (a
+albumsjava.util.List:$
+	c (
+songsjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH

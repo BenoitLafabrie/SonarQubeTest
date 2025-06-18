@@ -1,422 +1,23 @@
-Ÿ
-acom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getApplication()LShuttleApplication;
-__unknown_file ("0*Ø
-0 (Ÿ
-œ
+‡
+Ucom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getTAG()Ljava/lang/String;
+__unknown_file ("0*Î
+0 (•
+’
  (
-fieldjava.lang.Object"__id*o
- (c*a>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"
-applicationjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH¿
-bcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setApplication(LShuttleApplication;)V
-__unknown_file ("0*Ð
-0 (Ÿ
-œ
- (a>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"
-applicationjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH³
-lcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getNavigationEventRelay()LNavigationEventRelay;
-__unknown_file ("0*á
-0 (¨
-¥
- (
-fieldjava.lang.Object"__id*x
- (l*j>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"(
-navigationEventRelayjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÓ
-mcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setNavigationEventRelay(LNavigationEventRelay;)V
-__unknown_file ("0*Ù
-0 (¨
-¥
- (j>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"(
-navigationEventRelayjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÑ
-com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;
-__unknown_file ("0*Ý
-0 (ú
-÷
- (C
-field:com.simplecity.amp_library.data.Repository$SongsRepository"__id*Ÿ
- (’*>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"Q
- (E
-C
-field:com.simplecity.amp_library.data.Repository$SongsRepositoryB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHï
-Žcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V
-__unknown_file ("0*©
-0 (ø
-õ
- (>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"__id*Q
- (E
-C
-value:com.simplecity.amp_library.data.Repository$SongsRepository"
- (
-implicit return:O
- (C
-value:com.simplecity.amp_library.data.Repository$SongsRepositoryB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHé
-•com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getPlaylistsRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;
-__unknown_file ("0*í
-0 (†
-ƒ
- (G
-field>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*§
- (š*—>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"U
-playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"U
- (I
-G
-field>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH‡
-–com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setPlaylistsRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V
-__unknown_file ("0*µ
-0 („
-
- (—>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"U
-playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*U
- (I
-G
-value>com.simplecity.amp_library.data.Repository$PlaylistsRepository"
- (
-implicit return:S
- (G
-value>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH¤
-bcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getSettingsManager()LSettingsManager;
-__unknown_file ("0*Ü
-0 (£
- 
- (
-fieldjava.lang.Object"__id*s
- (g*e>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"#
-settingsManagerjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÄ
-ccom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*Ô
-0 (£
- 
- (e>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH™
-¢com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;
-__unknown_file ("0*
-0 (ž
-›
- (R
-fieldIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"__id*´
- (§*¤>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"b
-playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"`
- (T
-R
-fieldIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH·
-£com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setPlaylistMenuPresenter(Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V
-__unknown_file ("0*Í
-0 (œ
-™
- (¤>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"b
-playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"__id*`
- (T
-R
-valueIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"
- (
-implicit return:^
- (R
-valueIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH
-Ècom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#<init>(LShuttleApplication;LNavigationEventRelay;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V‹
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*ª
-0 (¦
-£
- (/
-%0java.lang.Object"bcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setApplication(LShuttleApplication;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*=
-
-__unknown_file (!
-
-applicationjava.lang.Objectº
-·
- (:
-%1java.lang.Object"mcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setNavigationEventRelay(LNavigationEventRelay;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*F
-
-__unknown_file (*
-(
-navigationEventRelayjava.lang.Object«
-¨
- (;@
-%2:com.simplecity.amp_library.data.Repository$SongsRepository"Žcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*k
-
-__unknown_file (O
-M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository¿
-¼
- (CD
-%3>com.simplecity.amp_library.data.Repository$PlaylistsRepository"–com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setPlaylistsRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*s
-
-__unknown_file (W
-U
-playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository«
-¨
- (0
-%4java.lang.Object"ccom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setSettingsManager(LSettingsManager;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*A
-
-__unknown_file (%
-#
-settingsManagerjava.lang.Objectå
-â
- (<O
-%5Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"£com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#setPlaylistMenuPresenter(Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*€
-
-__unknown_file (d
-b
-playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"/
-
-__unknown_file (
-implicit return:+
- (/
-applicationjava.lang.Object:4
- (:(
-navigationEventRelayjava.lang.Object:Y
- (;M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository:a
- (CU
-playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository:/
- (0#
-settingsManagerjava.lang.Object:n
- (<b
-playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÑ	
-com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*¦
-0 (N
-L
- (
-%0PurchasePresenter"__id*!
- (
-PurchasePresenterÑ
-Î
-   (O
-%1Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"¢com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;*L
-   (@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterÁ
-¾
-" "(
-%2kotlin.Unit"com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#loadData(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V*L
-" "(@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter*M
-" "(A
-?
-view7com.simplecity.amp_library.ui.screens.drawer.DrawerView"/
-
-__unknown_file (
-implicit return:K
- (*?
-view7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH
-ƒcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt5 5("0*â
-05 5(N
-L
-6 6(
-%0PurchasePresenter"__id*!
-6 6(
-PurchasePresenterÑ
-Î
-8 8(O
-%1Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"¢com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;*L
-8 8(@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"/
-
-__unknown_file (
-implicit return:K
-5 5(,?
-view7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHî
-com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#loadData(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt; ;("0*>
-0; ;("/
-
-__unknown_file (
-implicit return:Q
-; ;(/E
-
-drawerView7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHð
-acom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onDrawerItemClicked(LDrawerParent;)V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktK K($"0*g
-2M= O(	S
-Q
-
-__unknown_file (
-%1"__id*)
-
-__unknown_file (
-	<unknown>*
-1*>
-3U	 V("/
-
-__unknown_file (
-implicit return*Ë
-4S2 U(	á
-Þ
-T T( 
-%5java.lang.Object"lcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getNavigationEventRelay()LNavigationEventRelay;*L
-T T( @>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterS
-Q
-
-__unknown_file (
-%4"__id*)
-
-__unknown_file (
-	<unknown>*
-3*’
-0K K(Z
-X
-L L(
-
-drawerViewjava.lang.Object"__id*&
-L L(
-
-viewjava.lang.Objectž›
-M M(
-%0boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*,
-M M( 
-
-
-drawerViewjava.lang.Object*
-M M( 2equals(Ljava/lang/Object;)*
-2
-1*ù
-1O	 Q(»
-¸
-Q Q(
-%2kotlin.Unit"Kcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#closeDrawer()V*L
-Q Q(@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter£ 
-S S(0
-%3boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*1
-S S((%
-#
-navigationEventjava.lang.Object*
-S, S(0 2equals(Ljava/lang/Object;)*
-3
-4:,
-K% K(? 
-drawerParentjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÁ
-Kcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#closeDrawer()V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktX X("0*š
-0X X(Z
-X
-Y Y(
-
-drawerViewjava.lang.Object"__id*&
-Y Y(
-
-viewjava.lang.Object"/
-
-__unknown_file (
-implicit returnB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÁ
-[com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onPlaylistClicked(LPlaylist;)V
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt] ]("0*à
-0] ](-»
-¸
-^ ^(
-%0kotlin.Unit"Kcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#closeDrawer()V*L
-^ ^(@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterá
-Þ
-_ _(
-%1java.lang.Object"lcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#getNavigationEventRelay()LNavigationEventRelay;*L
-_ _(@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter"/
-
-__unknown_file (
-implicit return:(
-] ](,
-playlistjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH«
-acom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Ú
-0 (¡
-ž
- (
-fieldjava.lang.Object"__id*q
- (e*cH
-Fcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$Companion"
+fieldjava.lang.Object"__id*e
+ (Y*W<
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils"
 TAGjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectBJH
-Fcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$CompanionHË
-bcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Ò
-0 (¡
-ž
- (cH
-Fcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$Companion"
+fieldjava.lang.ObjectB><
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH§
+Vcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*Æ
+0 (•
+’
+ (W<
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils"
 TAGjava.lang.Object"__id*'
  (
 
@@ -424,5 +25,80 @@ Fcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$Companion"
  (
 implicit return:%
  (
-valuejava.lang.ObjectBJH
-Fcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter$CompanionH
+valuejava.lang.ObjectB><
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH­
+
+—com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setupAlbumMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;Z)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt ("0*³
+2 (	H
+F
+ (<
+	isVisiblejava.lang.Object"__id*
+7 (<	
+falseU
+S
+
+__unknown_file (
+%1"__id*+
++ (4
+
+	isVisiblejava.lang.Object*
+1*
+0 (o…
+‚
+ (
+%0boolean"kotlin.Boolean#not()Z*'
+ (
+
+showGoToArtistboolean*'
+ (
+
+showGoToArtistboolean*
+2
+1*¹
+1	 (Z
+X
+ (D
+subMenujava.lang.Object"__id*)
+= (D
+
+subMenujava.lang.Objectœ
+™
+ (6
+%2java.lang.Object"gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;*a
+ (U
+S
+playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
+. (5
+
+subMenujava.lang.Object"/
+
+__unknown_file (
+implicit return:$
+ (&
+menujava.lang.Object:_
+( (NS
+playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper:%
+P (n
+showGoToArtistbooleanB><
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHÊ
+Àcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LToolbar.OnMenuItemClickListener;‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt (!"0*(
+0! (f"
+ 6(	
+	<unknown>:.
+" (E"
+selectedAlbumsjava.lang.Object:X
+G (eL
+	callbacks?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksB><
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHÂ
+Ácom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LAlbum;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt9 9(!"0*(
+09! 9(O"
+: j(	
+	<unknown>:%
+9" 9(.
+albumjava.lang.Object:X
+90 9(NL
+	callbacks?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksB><
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH

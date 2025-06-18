@@ -1,150 +1,195 @@
-Õ
-Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog#<init>()VÖ
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/WeekSelectorDialog.kt 7("0*>
-0 (+"/
-
-__unknown_file (
-implicit returnB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogHÀ
-]com.simplecity.amp_library.ui.dialog.WeekSelectorDialog#getSettingsManager()LSettingsManager;
-__unknown_file ("0*ç
-0 (û
-õ
- (
-fieldjava.lang.Object"__id*n
- (b*`9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialog"#
-settingsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-fieldjava.lang.ObjectI
+ê
+¢com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#getPlaylistsRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;
+__unknown_file ("0*˙
+0 (ì
+ê
+ (G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*¥
+ (ß*§K
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"U
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"U
+ (I
 G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
- (
-
-fieldjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogHÎ
-^com.simplecity.amp_library.ui.dialog.WeekSelectorDialog#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*Ö
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHÆ
+£com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setPlaylistsRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V
+__unknown_file ("0*¬
+0 (ë
+é
+ (§K
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"U
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*U
+ (I
 G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0û
-õ
- (`9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialog"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepository"
  (
-implicit return:%
- (
-valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogH“
-Lcom.simplecity.amp_library.ui.dialog.WeekSelectorDialog#onAttach(LContext;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/WeekSelectorDialog.kt ("0*å
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.Object"/
+implicit return:S
+ (G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterH¯
+öcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;
+__unknown_file ("0*Í
+0 (á
+Ñ
+ (C
+field:com.simplecity.amp_library.data.Repository$SongsRepository"__id*¨
+ (ü*úK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"Q
+ (E
+C
+field:com.simplecity.amp_library.data.Repository$SongsRepositoryBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHñ
+õcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V
+__unknown_file ("0*∂
+0 (Ö
+Ç
+ (úK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"__id*Q
+ (E
+C
+value:com.simplecity.amp_library.data.Repository$SongsRepository"
+ (
+implicit return:O
+ (C
+value:com.simplecity.amp_library.data.Repository$SongsRepositoryBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterH¿
+Øcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;
+__unknown_file ("0*ù
+0 (´
+®
+ (R
+fieldIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"__id*¡
+ (¥*±K
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"b
+playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"`
+ (T
+R
+fieldIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHﬁ
+∞com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setPlaylistMenuPresenter(Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V
+__unknown_file ("0*⁄
+0 (©
+¶
+ (±K
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"b
+playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"__id*`
+ (T
+R
+valueIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"
+ (
+implicit return:^
+ (R
+valueIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterH£
+öcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/list/PlaylistListPresenter.kt$ (/"0*‰
+0 (#Ÿ
+÷
+ (8D
+%0>com.simplecity.amp_library.data.Repository$PlaylistsRepository"£com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setPlaylistsRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V*i
 
-__unknown_file (
-implicit return:'
- (+
-contextjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogHÚ
-Xcom.simplecity.amp_library.ui.dialog.WeekSelectorDialog#onCreateDialog(LBundle;)LDialog;á
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/WeekSelectorDialog.kt ("0*ï
-0 (W
+__unknown_file (MK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter*s
+
+__unknown_file (W
 U
- (R
-viewjava.lang.Object"__id*)
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository≈
+¬
+ (0@
+%1:com.simplecity.amp_library.data.Repository$SongsRepository"õcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V*i
 
-__unknown_file (
-	<unknown>_
-]
-! !(4 
-numberPickerjava.lang.Object"__id*)
+__unknown_file (MK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter*k
 
-__unknown_file (
-	<unknown>B
-@
-" "("
-maxValuejava.lang.Object"__id*
-"  "("2B
-@
-# #(!
-minValuejava.lang.Object"__id*
-#  #(!2Õ
- 
-$ $(,
-%0java.lang.Object"]com.simplecity.amp_library.ui.dialog.WeekSelectorDialog#getSettingsManager()LSettingsManager;*G
-$ $(,;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogY
-W
-$ $(5
-valuejava.lang.Object"__id**
-$- $(5
-
-numWeeksjava.lang.Object"
-& ,(
-	<unknown>:2
-  (;&
-savedInstanceStatejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogHè
-Pcom.simplecity.amp_library.ui.dialog.WeekSelectorDialog#show(LFragmentManager;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/WeekSelectorDialog.kt/ /("0*>
-0/ /(."/
+__unknown_file (O
+M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryˇ
+¸
+ (<O
+%2Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"∞com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#setPlaylistMenuPresenter(Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V*i
+
+__unknown_file (MK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter*Ä
+
+__unknown_file (d
+b
+playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"/
 
 __unknown_file (
-implicit return:/
-/ /(-#
-fragmentManagerjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogHú
-\com.simplecity.amp_library.ui.dialog.WeekSelectorDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*’
-0 (ú
-ô
+implicit return:a
+ (8U
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository:Y
+ (0M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository:n
+ (<b
+playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHÍ
+§com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/playlist/list/PlaylistListContract$View;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/list/PlaylistListPresenter.kt ("0*Ï
+0 (>
+<
+ (
+%0	Presenter"__id*
+ (
+	PresenterÎ
+Ë
+ (O
+%1Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"Øcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;*Y
+ (MK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"/
+
+__unknown_file (
+implicit return:a
+ ($U
+viewMcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListContract$ViewBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHÏ
+¶com.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/playlist/list/PlaylistListContract$View;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/list/PlaylistListPresenter.kt ("0*Ï
+0 (>
+<
+ (
+%0	Presenter"__id*
+ (
+	PresenterÎ
+Ë
+ (O
+%1Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter"Øcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#getPlaylistMenuPresenter()Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;*Y
+ (MK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter"/
+
+__unknown_file (
+implicit return:a
+ (&U
+viewMcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListContract$ViewBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterHà
+Ucom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter#loadData()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/list/PlaylistListPresenter.kt" "("0*>
+0" "("/
+
+__unknown_file (
+implicit returnBMK
+Icom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenterH“
+ncom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*Á
+0 (Æ
+´
  (
-fieldjava.lang.Object"__id*l
- (`*^C
-Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog$Companion"
+fieldjava.lang.Object"__id*~
+ (r*pU
+Scom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$Companion"
 TAGjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog$CompanionHº
-]com.simplecity.amp_library.ui.dialog.WeekSelectorDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Õ
-0 (ú
-ô
- (^C
-Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog$Companion"
+fieldjava.lang.ObjectBWU
+Scom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$CompanionHÚ
+ocom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*ﬂ
+0 (Æ
+´
+ (pU
+Scom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$Companion"
 TAGjava.lang.Object"__id*'
  (
 
@@ -152,5 +197,5 @@ Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog$Companion"
  (
 implicit return:%
  (
-valuejava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.dialog.WeekSelectorDialog$CompanionH
+valuejava.lang.ObjectBWU
+Scom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListPresenter$CompanionH

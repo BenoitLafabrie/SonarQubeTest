@@ -1,54 +1,2 @@
-
-100int
-
-0int
-
-1int
-
-2int	baseColor
-¨, ¨(9"intamount
-¨; ¨(E"int"±œ
-™
-
-©  ©(Jresult"b
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatgetTempDouble3Array()[D2getTempDouble3ArrayBdouble[]„
-
-
-ª ª(:"[
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcolorToLAB(I[D)V2
-colorToLAB:Bvoid$
-"
-
-«+ «(4"#array-read#:,
-*
-
-«+ «(="	#binop +#2+:Bdouble@
->
-
-« «(>	"
-java.lang.Mathmin(DD)D*2min:Bdouble@
->
-
-« «(B
-"
-java.lang.Mathmax(DD)D*2max:	Bdouble&
-$
-
-« «(B"#array-write#:
-$
-"
-
-¬/ ¬(8"#array-read#:$
-"
-
-¬: ¬(C"#array-read#:$
-"
-
-¬E ¬(N"#array-read#:„
-
-
-¬ ¬(O"[
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatLABToColor(DDD)I2
-LABToColor:Bint
-
-¬ ¬(P*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+Fthis ("2com.simplecity.amp_library.utils.color.ColorHelper"	
+ ù(*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

@@ -1,16 +1,16 @@
 
-ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaØ Ø(2"1*–
+?com.simplecity.amp_library.utils.SettingsManager#getHasRated()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŠ Š("1*~
 1
-Ù Ù(o
-m
+‹ ‹(W
+U
 
-Ù Ù(>
-%0java.lang.String"__id*A
+‹ ‹($
+%0java.lang.String"__id*)
 
-__unknown_file (%#
-!folder_browser_folders_sort_order"
+__unknown_file (
+	has_rated"
 
-Ù Ù(a
+‹ ‹(-
 ""B42
-0com.simplecity.amp_library.utils.SettingsManagerH
+0com.simplecity.amp_library.utils.SettingsManagerHX

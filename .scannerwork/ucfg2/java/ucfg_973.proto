@@ -1,21 +1,7 @@
 
-écom.simplecity.amp_library.ui.screens.tagger.TaggerTask#discTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java† †("1*Å
-1
-° °(*§
-°
-
-° °(*L9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-discTotalText"__id*?
-
-__unknown_file (#
-!
-discTotalTextjava.lang.String"I
-
-¢ ¢(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:/
-
-†  †(4!
-discTotalTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+Fcom.simplecity.amp_library.ui.modelviews.ArtworkView#getLayoutResId()IÜ
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javaX X("1*!
+1Y Y("
+Y Y(*
+""B86
+4com.simplecity.amp_library.ui.modelviews.ArtworkViewHX

@@ -1,10 +1,39 @@
 
-L__sonar_lambda_19$com.simplecity.amp_library.services.ArtworkDownloadServiceç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/ArtworkDownloadService.javan n(V"1*!
-1n n($"
-n n(V
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+Rcom.jp.wasabeef.glide.transformations.BlurTransformation#getId()Ljava/lang/String;ã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/BlurTransformation.javai i("1*È
+1j j(+n
+l
+j j(5
+%0java.lang.String"__concat**
+j j(+
+BlurTransformation(radius=*
+j. j(5
+""q
+o
+j j(E
+%1java.lang.String"__concat*$
+j j(5
+
+%0java.lang.String*
+j8 j(E
+, sampling=h
+f
+j j(Q
+%2java.lang.String"__concat*$
+j j(E
+
+%1java.lang.String*
+jH j(Q
+""g
+e
+j j(W
+%3java.lang.String"__concat*$
+j j(Q
+
+%2java.lang.String*
+jT j(W
+)"$
+j j(X
+
+%3java.lang.StringB<:
+8com.jp.wasabeef.glide.transformations.BlurTransformationH

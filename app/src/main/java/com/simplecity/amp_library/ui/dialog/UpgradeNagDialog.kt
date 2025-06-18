@@ -31,7 +31,7 @@ class UpgradeNagDialog : DialogFragment() {
             .title(context!!.resources.getString(R.string.get_pro_title))
             .content(context!!.resources.getString(R.string.get_pro_message))
             .positiveText(R.string.btn_upgrade)
-            .onPositive { _: MaterialDialog, which: MaterialDialog.ButtonCallback ->
+            .onPositive { _: MaterialDialog, _: MaterialDialog.ButtonCallback ->
                 // Show IAP or open Play Store
                 val playStoreIntent = android.content.Intent(
                     android.content.Intent.ACTION_VIEW,

@@ -1,7 +1,7 @@
 
-bcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#isItemViewSwipeEnabled()Zõ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/recyclerview/ItemTouchHelperCallback.java- -()"1*!
-1. .("
-. .(
-""BLJ
-Hcom.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallbackHX
+acom.simplecity.amp_library.ui.modelviews.SearchHeaderView$ViewHolder#toString()Ljava/lang/String;å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.java7 7("1*:
+18 8(0"+
+8 8(1
+SearchHeaderView.ViewHolderBHF
+Dcom.simplecity.amp_library.ui.modelviews.SearchHeaderView$ViewHolderH

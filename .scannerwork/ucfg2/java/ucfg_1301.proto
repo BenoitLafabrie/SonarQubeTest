@@ -1,7 +1,12 @@
 
-Scom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1#isActionable()Z”
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/NavigationEventRelay.java ('"1*!
-1 (#"
- (M
-""BGE
-Ccom.simplecity.amp_library.ui.screens.drawer.NavigationEventRelay$1HX
+Fcom.simplecityapps.recycler_adapter.model.BaseViewModel#getViewType()I¡
+–/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java ("1*ò
+1 (ÎË
+ (	
+%0int"Icom.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I*W
+
+__unknown_file (;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModel2getLayoutResId()"
+ ( 
+""B;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModelHX

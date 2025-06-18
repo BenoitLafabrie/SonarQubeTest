@@ -2,9 +2,9 @@ package com.simplecity.amp_library.ui.screens.playlist.list
 
 import android.content.Context
 import android.os.Bundle
-import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.PopupMenu
-import android.support.v7.widget.RecyclerView
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.appcompat.widget.PopupMenu
+import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -23,6 +23,7 @@ import com.simplecity.amp_library.utils.withArgs
 import com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
 import com.simplecityapps.recycler_adapter.recyclerview.RecyclerListener
 import dagger.android.support.AndroidSupportInjection
+import androidx.fragment.app.Fragment
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 import javax.inject.Inject
@@ -50,14 +51,14 @@ class PlaylistListFragment :
     }
 
     // Lifecycle
-
-    override fun onAttach(context: Context?) {
+    override fun onAttach(context: Context) {
         AndroidSupportInjection.inject(this)
         super.onAttach(context)
-
+    
         if (parentFragment is PlaylistClickListener) {
             playlistClickListener = parentFragment as PlaylistClickListener?
         }
+    }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -111,12 +112,12 @@ class PlaylistListFragment :
     override fun onPlaylistClick(position: Int, playlistView: PlaylistView) {
         playlistClickListener?.onPlaylistClicked(playlistView.playlist)
     }
-
     override fun onPlaylistOverflowClick(position: Int, view: View, playlist: Playlist) {
-        val menu = PopupMenu(context!!, view)
+        val menu = PopupMenu(requireContext(), view)
         PlaylistMenuUtils.setupPlaylistMenu(menu, playlist)
         menu.setOnMenuItemClickListener(PlaylistMenuUtils.getPlaylistPopupMenuClickListener(playlist, presenter))
         menu.show()
+    }
     }
 
 
@@ -151,9 +152,9 @@ class PlaylistListFragment :
     override fun presentDeletePlaylistDialog(playlist: Playlist) {
         DeletePlaylistConfirmationDialog.newInstance(playlist).show(childFragmentManager)
     }
-
     override fun onSongsAddedToQueue(numSongs: Int) {
-        Toast.makeText(context, context!!.resources.getQuantityString(R.plurals.NNNtrackstoqueue, numSongs, numSongs), Toast.LENGTH_SHORT).show()
+        Toast.makeText(requireContext(), resources.getQuantityString(R.plurals.NNNtrackstoqueue, numSongs, numSongs), Toast.LENGTH_SHORT).show()
+    }
     }
 
 

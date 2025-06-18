@@ -1,22 +1,19 @@
 
-^com.afollestad.aesthetic.Aesthetic#snackbarTextColorRes(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaç ç('"1*¤
-1
-è è("üù
-
-è è(J
-%0"acom.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;*B
-
-__unknown_file (&$
-"com.afollestad.aesthetic.Aesthetic*"
+Jcom.simplecity.amp_library.utils.sorting.SortManager#getAlbumsSortOrder()I†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java6 6(!"1*´
+17 7(N
+L
+7 7('
+%0java.lang.String"__id*"
 
 __unknown_file (
-""2colorCardViewBackground(I)"
-
-è è(K
-
-%0: 
+""A
+?
+7) 7(:	
+%1int"__id*"
 
-__unknown_file (
-""B&$
-"com.afollestad.aesthetic.AestheticH
+__unknown_file (
+"""
+7 7(<
+""B86
+4com.simplecity.amp_library.utils.sorting.SortManagerHX

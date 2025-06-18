@@ -1,7 +1,21 @@
 
-U__sonar_lambda_71$com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java. (="1*&
-14 (="
-4 (=	
-Sheet 2B
-	!Unknown!
+Êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java´ ´("1*Á
+1
+µ% µ(-ä
+á
+
+µ µ(-T9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+tagCompletionListener"__id*w
+
+__unknown_file ([
+Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
+
+¶ ¶(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
+
+´ ´(=Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

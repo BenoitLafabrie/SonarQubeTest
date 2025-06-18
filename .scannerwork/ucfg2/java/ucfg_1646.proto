@@ -1,22 +1,14 @@
 
-Vcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#%field_initializer
-__unknown_file ("1*Á
-1 (é
-ã
-ñ
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java= =(HVE
-Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
-disposables"__id*
- (
-""ñ
-ì
-ò
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java– ˘(\E
-Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
-playerViewAdapter"__id*
- (
-"""≠
-ï
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java% ˙(
-implicit returnBGE
-Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment
+dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java   (("1*ñ
+1! !(!a
+_
+! !(!
+%0java.lang.String"__id*5
+
+__unknown_file (
+appwidgetupdate_small"$
+! !("
+
+%0java.lang.StringB=;
+9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallH

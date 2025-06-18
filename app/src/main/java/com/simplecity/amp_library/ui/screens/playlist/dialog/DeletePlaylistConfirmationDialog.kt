@@ -67,5 +67,5 @@ abstract class DeletePlaylistConfirmationDialogFragmentModule {
     @Binds
     @Named(FragmentModule.FRAGMENT)
     @FragmentScope
-    internal abstract fun fragment(deletePlaylistConfirmationDialog: DeletePlaylistConfirmationDialog): Fragment
+    abstract fun bindFragment(deletePlaylistConfirmationDialog: DeletePlaylistConfirmationDialog): Fragment
 }

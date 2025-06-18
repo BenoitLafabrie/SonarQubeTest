@@ -1,7 +1,113 @@
 
-Kcom.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getRootViewId()I
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderMedium.java/ /("1*!
-10 0("
-0 0()
-""B><
-:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumHX
+\com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#getId()Ljava/lang/String;—
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/RoundedCornersTransformation.javaý ý("1*
+1
+þ þ(.w
+u
+
+þ þ(8
+%0java.lang.String"__concat*/
+
+þ þ(.!
+RoundedTransformation(radius=*
+
+þ1 þ(8
+""u
+s
+
+þ þ(F
+%1java.lang.String"__concat*&
+
+þ þ(8
+
+%0java.lang.String*
+
+þ; þ(F
+	, margin=n
+l
+
+þ þ(P
+%2java.lang.String"__concat*&
+
+þ þ(F
+
+%1java.lang.String*
+
+þI þ(P
+""w
+u
+
+þ þ(`
+%3java.lang.String"__concat*&
+
+þ þ(P
+
+%2java.lang.String*
+
+þS þ(`
+, diameter=n
+l
+
+þ ÿ(
+%4java.lang.String"__concat*&
+
+þ þ(`
+
+%3java.lang.String*
+
+ÿ ÿ(
+""y
+w
+
+þ ÿ(-
+%5java.lang.String"__concat*&
+
+þ ÿ(
+
+%4java.lang.String*
+
+ÿ ÿ(-
+, cornerType=ß
+Ü
+
+ÿ0 ÿ(;S
+%6Mcom.jp.wasabeef.glide.transformations.RoundedCornersTransformation$CornerType"__id*s
+
+__unknown_file (W*UD
+Bcom.jp.wasabeef.glide.transformations.RoundedCornersTransformation"
+mCornerTypeËÈ
+
+ÿ0 ÿ(B
+%7java.lang.String"'java.lang.Enum#name()Ljava/lang/String;*q
+
+__unknown_file (U
+S
+%6Mcom.jp.wasabeef.glide.transformations.RoundedCornersTransformation$CornerType2name()€
+~
+
+þ ÿ(B
+%8java.lang.String"__concat*&
+
+þ ÿ(-
+
+%5java.lang.String*&
+
+ÿ0 ÿ(B
+
+%7java.lang.Stringm
+k
+
+þ ÿ(H
+%9java.lang.String"__concat*&
+
+þ ÿ(B
+
+%8java.lang.String*
+
+ÿE ÿ(H
+)"&
+
+þ ÿ(I
+
+%9java.lang.StringBFD
+Bcom.jp.wasabeef.glide.transformations.RoundedCornersTransformationH

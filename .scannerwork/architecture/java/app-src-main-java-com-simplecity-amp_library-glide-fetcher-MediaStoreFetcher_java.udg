@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251113386*java2.BÖ	
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255128666*java2.BÖ	
 V
 Qapp/src/main/java/com/simplecity/amp_library/glide/fetcher/MediaStoreFetcher.java2
 
@@ -29,13 +29,13 @@ Qapp/src/main/java/com/simplecity/amp_library/glide/fetcher/MediaStoreFetcher.ja
 
 uses17
 D
->com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.TAG19
+>com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.tag19
 
 field20
 
 	protected21
 	
-TAG22
+tag22
 S
 Mcom.simplecity.amp_library.glide.fetcher.MediaStoreFetcher.applicationContext24
 

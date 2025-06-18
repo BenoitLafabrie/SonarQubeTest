@@ -1,9 +1,16 @@
 
-Gcom.simplecity.amp_library.utils.SettingsManager#getEqualizerEnabled()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java¥ ¥(&"1*%
+ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaØ Ø(2"1*–
 1
-¦ ¦("
+Ù Ù(o
+m
 
-¦ ¦(7
+Ù Ù(>
+%0java.lang.String"__id*A
+
+__unknown_file (%#
+!folder_browser_folders_sort_order"
+
+Ù Ù(a
 ""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+0com.simplecity.amp_library.utils.SettingsManagerH

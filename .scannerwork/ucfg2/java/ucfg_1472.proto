@@ -1,33 +1,7 @@
 
-Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z’
-…/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaæ æ("1*ß
-1
-ç ç(E
-C
-
-ç ç(1
-%0float"__id*"
-
-__unknown_file (
-""q
-o
-
-ç ç(1
-%1boolean"	__compare*
-
-ç ç(
-<=*
-
-ç ç(
-""*
-
-ç ç(1
-
-%0float"
-
-ç ç(2
-"": 
-
-__unknown_file (
-""BA?
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX
+Zcom.simplecity.amp_library.ui.modelviews.GenreView$ViewHolder#toString()Ljava/lang/String;„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.javau u("1*3
+1v v()"$
+v v(*
+GenreView.ViewHolderBA?
+=com.simplecity.amp_library.ui.modelviews.GenreView$ViewHolderH

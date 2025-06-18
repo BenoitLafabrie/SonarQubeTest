@@ -1,3 +1,19 @@
-Lthis	 	(!"8test.com.androidnavigation.fragment.NavigationController"
-
-	 (*‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/NavigationController.java
+Hthis; ;(("4com.simplecity.amp_library.utils.PlaceholderProvider"Z0
+.
+< <("#get-field# isDark:Bboolean&"$
+< <( *< <(2<> <(?"³!
+
+< <("#unknown-value#4
+2
+< <(""#get-field# drawable:B	!Unknown!F
+D
+< <(="(&#get-field# ic_placeholder_dark_medium:B	!Unknown!
+< <(="´!
+
+<@ <(A"#unknown-value#4
+2
+<@ <(J"#get-field# drawable:B	!Unknown!G
+E
+<@ <(f")'#get-field# ic_placeholder_light_medium:B	!Unknown!
+<@ <(f"$*	
+< <(g	*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/PlaceholderProvider.java

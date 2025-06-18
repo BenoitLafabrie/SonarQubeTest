@@ -15,7 +15,7 @@ public class MusicServiceConnectionUtils {
 
     private static final String TAG = "MusicServiceConnectionU";
 
-    public static LocalBinder serviceBinder = null;
+    // Removed static serviceBinder to avoid static access from instance context
 
     private static final WeakHashMap<Context, ServiceBinder> connectionMap = new WeakHashMap<>();
 
@@ -54,6 +54,7 @@ public class MusicServiceConnectionUtils {
     public static final class ServiceBinder implements ServiceConnection {
 
         private final ServiceConnection callback;
+        private LocalBinder serviceBinder;
 
         ServiceBinder(final ServiceConnection callback) {
             this.callback = callback;
@@ -61,19 +62,19 @@ public class MusicServiceConnectionUtils {
 
         @Override
         public void onServiceConnected(final ComponentName className, final IBinder service) {
-            serviceBinder = (LocalBinder) service;
+            this.serviceBinder = (LocalBinder) service;
 
             if (callback != null) {
                 callback.onServiceConnected(className, service);
             }
         }
-
         @Override
         public void onServiceDisconnected(final ComponentName className) {
             if (callback != null) {
                 callback.onServiceDisconnected(className);
             }
-            serviceBinder = null;
+            this.serviceBinder = null;
+        }
         }
     }
 

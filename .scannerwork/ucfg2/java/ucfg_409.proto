@@ -1,17 +1,16 @@
 
-Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
+Dcom.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÔ Ô(#"1*„
 1
-   (¦
-£
+Õ Õ(]
+[
 
-   (8
-%0java.lang.String"__id*w
+Õ Õ(-
+%0java.lang.String"__id*/
 
-__unknown_file ([*Y2
-0com.simplecity.amp_library.utils.SettingsManager"#
-!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
+__unknown_file (
+pref_lock_queue"
 
-   (A
+Õ Õ(6
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

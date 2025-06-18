@@ -1,21 +1,15 @@
 
-Acom.simplecity.amp_library.ui.screens.main.MainActivity#<init>()V
-__unknown_file ("startingBlock*›
-startingBlocká
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(®
-•
-á
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-%0"Jcom.simplecity.amp_library.ui.screens.main.MainActivity#%field_initializer*G
- (;9
-7com.simplecity.amp_library.ui.screens.main.MainActivityÙ
-Ò
-á
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-%1"BaseActivity#<init>()V*G
- (;9
-7com.simplecity.amp_library.ui.screens.main.MainActivity"ü
-á
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-implicit returnB;9
-7com.simplecity.amp_library.ui.screens.main.MainActivity
+9com.simplecity.amp_library.services.Equalizer$1#<init>()V
+__unknown_file ("startingBlock*ù
+startingBlockÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaŸT Ÿ(UÎ
+Ë
+Å
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaŸT Ÿ(U
+%0"BroadcastReceiver#<init>()V*?
+ (31
+/com.simplecity.amp_library.services.Equalizer$1"ô
+Å
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaŸT Ÿ(U
+implicit returnB31
+/com.simplecity.amp_library.services.Equalizer$1

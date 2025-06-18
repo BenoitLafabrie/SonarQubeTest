@@ -1,13 +1,15 @@
 
-X__sonar_lambda_98$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivityô
-é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.javaR, R(b"1*!
-1R6 R(E"
-R6 R(b
-"": 
+Xcom.simplecity.amp_library.utils.ThemeUtils$Theme#getAccentColorName()Ljava/lang/String;}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ThemeUtils.javaC C(("1*…
+1D D("ì
+ê
+D D("
+%0java.lang.String"__id*f
 
-__unknown_file (
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (J*H3
+1com.simplecity.amp_library.utils.ThemeUtils$Theme"
+accentColorName"$
+D D(#
+
+%0java.lang.StringB53
+1com.simplecity.amp_library.utils.ThemeUtils$ThemeH

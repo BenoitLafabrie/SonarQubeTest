@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251135449*java2.BôR
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255149831*java2.B˛S
 [
 Vapp/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java2
 
@@ -439,28 +439,32 @@ f
 _com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentTagEditorDialog(LSong;)V345
 
 presentTagEditorDialog346
+@
+9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog348
+†
+òcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;350
 m
-fcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentDeleteDialog(Ljava/util/List;)V348
+fcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentDeleteDialog(Ljava/util/List;)V352
 
-presentDeleteDialog349
+presentDeleteDialog353
 Y
-Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#shareSong(LSong;)V351
+Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#shareSong(LSong;)V355
 
-	shareSong352
+	shareSong356
 i
-bcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentRingtonePermissionDialog()V354
+bcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentRingtonePermissionDialog()V358
 &
-presentRingtonePermissionDialog355
+presentRingtonePermissionDialog359
 `
-Ycom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#showRingtoneSetMessage()V357
+Ycom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#showRingtoneSetMessage()V361
 
-showRingtoneSetMessage358J
+showRingtoneSetMessage362J
 
 1
 12Z
 
 3	
-354jè2
+354jΩ2
 G
 236@
 236237168 *
@@ -548,6 +552,9 @@ B
 
 192
 19219315
+
+347
+34734815
 F
 121?
 12112225 *
@@ -622,6 +629,9 @@ G
 
 11
 229
+
+349
+34935015
 @
 75:
 757625 *
@@ -767,15 +777,15 @@ F
 11
 307
 G
-347@
-347348168 *
+351@
+351352168 *
 1· ·(26:3B
 	
 9
 10
 
 11
-349
+353
 B
 92<
 929325 *
@@ -950,15 +960,15 @@ F
 11
 12
 G
-356@
-356357168 *
+360@
+360361168 *
 1 (26:3B
 	
 9
 10
 
 11
-358
+362
 F
 138?
 13813925 *
@@ -1002,15 +1012,15 @@ I
 331
 33133215
 G
-350@
-350351168 *
+354@
+354355168 *
 1Ê Ê(26:3B
 	
 9
 10
 
 11
-352
+356
 
 20
 202115
@@ -1021,15 +1031,15 @@ G
 201
 20120215
 G
-353@
-353354168 *
+357@
+357358168 *
 1Î Î(26:3B
 	
 9
 10
 
 11
-355
+359
 @
 28:
 282925 *
@@ -1370,7 +1380,7 @@ G
 198
 
 298
-29829915rŸ•
+29829915rÿ¶
 
 61316*
 1Z% Z(1
@@ -3435,30 +3445,42 @@ G
 
 34427122*
 1›1 ›(5
+
+344347173*
+1ﬁ	 ﬁ(
+
+344347180*
+1ﬁ	 ﬁ(
+
+344349169*
+1ﬁ ﬁ(!
 
-34732940*
+34434722*
+1ﬁ	 ﬁ(
+
+35132940*
 1‚% ‚(&
 
-34733122*
+35133122*
 1‚& ‚(-
 
-347271315*
+351271315*
 1‚= ‚(A
 
-34727122*
+35127122*
 1‚= ‚(A
 
-350271179*
+354271179*
 1Á$ Á((
 
-35027137*
+35427137*
 1Á) Á(-
 
-35032940*
+35432940*
 1Á Á(
 
-35033122*
+35433122*
 1Á Á(#
 
-35027122*
+35427122*
 1Á$ Á((

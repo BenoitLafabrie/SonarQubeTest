@@ -1,7 +1,29 @@
 
-gcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView$ViewHolder#toString()Ljava/lang/String;’
-‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.javaE E("1*@
-1F F(6"1
-F F(7%#
-!HorizontalRecyclerView.ViewHolderBNL
-Jcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView$ViewHolderH
+[com.simplecity.amp_library.ui.modelviews.InclExclView#areContentsEqual(Ljava/lang/Object;)Z‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/InclExclView.javao o(#"startingBlock*ˆ
+startingBlocko# o(1Œ
+‰
+n n(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+o+ o(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0*
+1*!
+1p p("
+p p(
+"":%
+o$ o(0
+otherjava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.InclExclViewHX

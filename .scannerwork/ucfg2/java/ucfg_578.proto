@@ -1,9 +1,31 @@
 
-Dcom.simplecity.amp_library.playback.MusicService#getQueuePosition()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaé é("1*%
-1
-ê ê("
+Ccom.simplecity.amp_library.ui.modelviews.SongView#getLayoutResId()I…
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java’ ’("2"3*T
+2
+“4 “(5>
+<
 
-ê ê(*
-""B42
-0com.simplecity.amp_library.playback.MusicServiceHX
+“4 “(P
+%0"__id*"
+
+__unknown_file (
+
+%2*
+1*T
+3
+“ “(>
+<
+
+“ “(1
+%0"__id*"
+
+__unknown_file (
+
+%1*
+1*%
+1
+“ “(Q"
+
+“ “(Q
+""B53
+1com.simplecity.amp_library.ui.modelviews.SongViewHX

@@ -1,54 +1,26 @@
 
-7com.simplecity.amp_library.model.Song#getElapsedTime()Jy
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
-2
-× ×("
+Mcom.simplecity.amp_library.saf.SafManager#getDocumentTree()Ljava/lang/String;}
+q/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/saf/SafManager.java« «(!"7*<
+3
+° °("+
 
-× ×(
-""*ú
-1
-Ù Ù(s
-q
+° °(
+
+treeUrijava.lang.String*n
+7
+¬ ¬((U
+S
 
-Ù! Ù(;
-
-%0long"%java.lang.System#currentTimeMillis()J*0
+¬ ¬(>
+treeUrijava.lang.String"__id*"
 
-__unknown_file ("
-java.lang.Systemn
-l
+__unknown_file (
+""*
+3
+1*%
+1
+³ ³("
 
-Ù Ù(;
-
-%1long"__calculate*
-
-Ù Ù( 
-+*
-
-Ù Ù(
-""*
-
-Ù! Ù(;
-
-
-%0longn
-l
-
-Ù Ù(G
-
-%2long"__calculate*
-
-Ù< Ù(=
--*
-
-Ù Ù(;
-
-
-%1long*
-
-Ù> Ù(G
-"""
-
-Ù Ù(H
-""B)'
-%com.simplecity.amp_library.model.SongX
+³ ³(
+""B-+
+)com.simplecity.amp_library.saf.SafManagerH

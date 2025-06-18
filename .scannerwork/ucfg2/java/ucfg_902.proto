@@ -1,9 +1,21 @@
 
-8com.simplecity.amp_library.model.TagUpdate#hasChanged()Z~
-r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/TagUpdate.javaÍ Í("1*%
+Œcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#comment(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaª ª("1*ı
 1
-Î Ñ(P"
+« «(& 
+
 
-Î Ñ(P
-""B.,
-*com.simplecity.amp_library.model.TagUpdateHX
+« «(&J9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+commentText"__id*=
+
+__unknown_file (!
+
+commentTextjava.lang.String"I
+
+¬ ¬(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:-
+
+ª ª(0
+commentTextjava.lang.StringB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

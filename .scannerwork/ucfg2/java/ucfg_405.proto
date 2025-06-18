@@ -1,16 +1,16 @@
 
-?com.simplecity.amp_library.utils.SettingsManager#getHasRated()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaä ä("1*~
+Scom.simplecity.amp_library.utils.SettingsManager#canDownloadArtworkAutomatically()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaƒ ƒ(2"1*è
 1
-ã ã(W
-U
+≈ ≈(h
+f
 
-ã ã($
-%0java.lang.String"__id*)
+≈ ≈(1
+%0java.lang.String"__id*:
 
-__unknown_file (
-	has_rated"
+__unknown_file (
+pref_download_artwork_auto"
 
-ã ã(-
+≈ ≈(:
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

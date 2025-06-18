@@ -60,7 +60,6 @@ public class MainActivity extends BaseActivity implements
 
     private DrawerLayout drawerLayout;
 
-    private View navigationView;
 
     private boolean hasPendingPlaybackRequest;
 
@@ -107,6 +106,7 @@ public class MainActivity extends BaseActivity implements
         Permiso.getInstance().setActivity(this);
 
         navigationView = findViewById(R.id.navView);
+        View navigationView = findViewById(R.id.navView);
 
         //Ensure the drawer draws a content scrim over the status bar.
         drawerLayout = findViewById(R.id.drawer_layout);
@@ -116,7 +116,6 @@ public class MainActivity extends BaseActivity implements
                 return windowInsets.replaceSystemWindowInsets(0, 0, 0, 0);
             });
         }
-
         if (savedInstanceState == null) {
             getSupportFragmentManager()
                     .beginTransaction()
@@ -221,14 +220,14 @@ public class MainActivity extends BaseActivity implements
             if (id >= 0) {
                 Query query = Playlist.getQuery();
                 query.uri = ContentUris.withAppendedId(query.uri, id);
-                SqlBriteUtils.createSingle(this, (cursor) -> new Playlist(this, cursor), query, null)
+                SqlBriteUtils.createSingle(this, cursor -> new Playlist(this, cursor), query, null)
                         .subscribeOn(Schedulers.io())
                         .observeOn(AndroidSchedulers.mainThread())
                         .subscribe(
                                 playlist -> {
                                     mediaManager.playAll(songsRepository.getSongs(playlist).first(new ArrayList<>()),
                                             () -> {
-                                                // Todo: Show playback failure toast
+                                                Toast.makeText(MainActivity.this, "Playback failed", Toast.LENGTH_SHORT).show();
                                                 return Unit.INSTANCE;
                                             });
                                     // Make sure to process intent only once
@@ -263,10 +262,9 @@ public class MainActivity extends BaseActivity implements
         // If we've stored a version code in the past, and it's lower than the current version code,
         // we can show the changelog.
         // Don't show the changelog for first time users.
-        if (storedVersionCode != -1 && storedVersionCode < BuildConfig.VERSION_CODE) {
-            if (settingsManager.getShowChangelogOnLaunch()) {
-                ChangelogDialog.Companion.newInstance().show(getSupportFragmentManager());
-            }
+        if (storedVersionCode != -1 && storedVersionCode < BuildConfig.VERSION_CODE
+                && settingsManager.getShowChangelogOnLaunch()) {
+            ChangelogDialog.Companion.newInstance().show(getSupportFragmentManager());
         }
         settingsManager.setVersionCode();
     }
@@ -317,7 +315,7 @@ public class MainActivity extends BaseActivity implements
 
     @Override
     protected String screenName() {
-        return "MainActivity";
+        return TAG;
     }
 
     @Override

@@ -41,7 +41,7 @@ public class QueuePagerFragment extends BaseFragment implements
         RequestManagerProvider,
         QueuePagerView {
 
-    private final String TAG = "QueuePagerFragment";
+    private static final String TAG = "QueuePagerFragment";
 
     private Unbinder unbinder;
 
@@ -72,6 +72,8 @@ public class QueuePagerFragment extends BaseFragment implements
     }
 
     public QueuePagerFragment() {
+        // This constructor is intentionally empty.
+        // Required for fragment instantiation by the Android framework.
     }
 
     @Override

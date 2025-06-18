@@ -1,76 +1,24 @@
 
-Ccom.jp.wasabeef.glide.transformations.CropTransformation#getTop(F)Fã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.javaj j("1*!
-2r s("
-s s(
-""*Ñ
-3p q(.a
-_
-q q(-
-%6float"__calculate*
-q q( 
--*
-q q(
-""*
-q! q(-
-"""
-q q(.
-""*Ï
-4n o(4a
-_
-o o(.
-%4float"__calculate*
-o  o(!
--*
-o o(
-""*
-o" o(.
-""f
-d
-o o(3
-%5float"__calculate*
-o0 o(1
-/*
-o o(/
-
-%4float*
-o2 o(32"
-o o(4
-""*!
-5l m("
-m m(
-""*Ê
-1k k(≈
-¬
-k k(G
-%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*g
+ñcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment;ñ
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaE% E(0"1*™
+1F& F(>ùö
+F* F(<I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÀ
+»
+F& F(>
+%1"Mcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#<init>()V*g
 
-__unknown_file (K*I:
-8com.jp.wasabeef.glide.transformations.CropTransformation"
-	mCropType
-}
-l l(G
-%1Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
+__unknown_file (K
+I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÕ
+ 
+F F(?O
+fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"__id*g
 
-__unknown_file (
-""
-}
-n n(G
-%2Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
-
-__unknown_file (
-""
-}
-p p(G
-%3Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
-
-__unknown_file (
-""*
-2
-3
-4
-5: 
-
-__unknown_file (
-""B<:
-8com.jp.wasabeef.glide.transformations.CropTransformationX
+__unknown_file (K
+I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"]
+I I(Q
+O
+fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentBG"E
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentH

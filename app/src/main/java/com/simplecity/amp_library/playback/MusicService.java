@@ -60,6 +60,7 @@ public class MusicService extends MediaBrowserServiceCompat {
     }
 
     private static final String TAG = "MusicService";
+    private static final String STOP_SELF_CALLED = "stopSelf() called";
 
     private MusicServiceCallbacks musicServiceCallbacks = new MusicServiceCallbacks();
 
@@ -281,10 +282,10 @@ public class MusicService extends MediaBrowserServiceCompat {
             scheduleDelayedShutdown();
             return true;
         }
-
-        analyticsManager.dropBreadcrumb(TAG, "stopSelf() called");
+        analyticsManager.dropBreadcrumb(TAG, STOP_SELF_CALLED);
         stopSelf(serviceStartId);
 
+        return true;
         return true;
     }
 
@@ -296,9 +297,9 @@ public class MusicService extends MediaBrowserServiceCompat {
         //  playbackManager.willResumePlayback() returns true even after we've manually paused.
         //  This means we don't call stopSelf(), which in turn causes the service to act as if it has crashed, and will recreate itself unnecessarily.
 
-        if (!isPlaying() && !playbackManager.willResumePlayback()) {
-            analyticsManager.dropBreadcrumb(TAG, "stopSelf() called");
+            analyticsManager.dropBreadcrumb(TAG, STOP_SELF_CALLED);
             stopSelf();
+        }
         }
 
         super.onTaskRemoved(rootIntent);
@@ -577,9 +578,9 @@ public class MusicService extends MediaBrowserServiceCompat {
             //Shutdown the EQ
             Intent shutdownEqualizer = new Intent(MusicService.this, Equalizer.class);
             stopService(shutdownEqualizer);
-
-            analyticsManager.dropBreadcrumb(TAG, "stopSelf() called");
+            analyticsManager.dropBreadcrumb(TAG, STOP_SELF_CALLED);
             stopSelf(serviceStartId);
+        }
         }
     }
 

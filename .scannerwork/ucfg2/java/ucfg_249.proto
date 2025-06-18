@@ -1,130 +1,60 @@
 
-]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)D†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaş ş(/"4*„
+Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(FFF)F†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaê ê(&"5*%
 2
- ( F
-D
+î î("
 
- ( 
-%6double"__id*"
-
-__unknown_file (
-""r
-p
-
- (,
-%7double"__calculate*
-
-! ("
-**
-
- ( 
-
-%6double*
-
-# (,
-""p
-n
-
- (1
-%8double"__calculate*
-
-- (.
-+*
-
- (,
-
-%7double*
-
-/ (12p
-n
-
- (8
-%4double"__calculate*
-
-3 (4
-/*
-
- (2
-
-%8double*
-
-5 (82tN
-L
-
- (8
-%2double"__id**
-
-__unknown_file (
-
-%4double*
-1*‡
+î î(
+""*‚
 3
-€ €(h
-f
+í í(i
+g
 
-€* €(1
-%5double"__calculate*
-
-€, €(-
-/*
-
-€* €(+2*
-
-€. €(1
-""¶
-³
-
-€ €(2
-%3double"java.lang.Math#pow(DD)D*.
-
-__unknown_file ("
-java.lang.Math*"
-
-__unknown_file (
-""**
-
-__unknown_file (
-
-%5doubleN
-L
-
-€ €(2
-%2double"__id**
-
-__unknown_file (
-
-%3double*
-1*Ò
-4
-ÿ ÿ(F
-D
-
-ÿ ÿ(*
-%0double"__id*"
-
-__unknown_file (
-""q
-o
-
-ÿ ÿ(*
+í í($
 %1boolean"	__compare*
 
-ÿ ÿ(
+í í(
 >*
 
-ÿ ÿ(
-""*
+í í(
+""*
 
-ÿ ÿ(*
-
-%0double*
+í  í($
+""*
 2
-3*%
-1
-ÿ (9"
+1*%
+4
+ì ì("
 
-ÿ (9
+ì ì(
+""*‚
+5
+ë ë(i
+g
+
+ë ë(
+%0boolean"	__compare*
+
+ë ë(
+<*
+
+ë ë(
+""*
+
+ë ë(
+""*
+3
+4*%
+1
+ğ ğ("
+
+ğ ğ(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

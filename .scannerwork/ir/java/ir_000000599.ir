@@ -1,7 +1,5 @@
-?this ("+com.simplecity.amp_library.glide.utils.Sizewidth (%"intheight' (1"int"a'
-%
- ("#set-field# width:(
-&
- ("#set-field# height:
+Cthis ("/com.github.florent37.glidepalette.PaletteTarget!paletteProfile (B"int"@0
+.
+ (,"#set-field# paletteProfile:
 
- (*s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java
+ (*Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/PaletteTarget.java

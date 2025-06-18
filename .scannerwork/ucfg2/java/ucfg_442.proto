@@ -1,17 +1,134 @@
 
-?com.simplecity.amp_library.utils.SettingsManager#getNumWeeks()IÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŒ Œ("1*}
-1
-œ œ(V
-T
-
-œ œ(#
-%0java.lang.String"__id*(
+Xcom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#equals(Ljava/lang/Object;)Zè
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java` `("startingBlock*´
+2fX f(\Y
+W
+fX f(t
+%8"	__compare*
+fm f(o
+==*
+fX f(l
+""*
+fp f(t
+""<
+:
+fX f(t
+%6"__id*"
 
-__unknown_file (
-
-numweeks"
-
-œ œ((
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+__unknown_file (
+
+%8*
+1*P
+3f) f(8<
+:
+f) f(U
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*Ä
+startingBlock` `(#à
+Ö
+_ _(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+`! `("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*Å
+4d9 d(:é
+ã
+d d(;D
+that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+f f(&
+%5"	__compare*
+f f(!
+!=*
+f f(
+""*
+f" f(&
+""*
+2
+3*!
+5b< b(A"
+b5 b(B
+""*Ú
+6b b(!ºπ
+b b(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*\
+
+__unknown_file (@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView2
+getClass()ìê
+b' b(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()Ö
+Ç
+b b(3
+%4boolean"	__compare*
+b$ b(&
+!=*#
+b b(#
+
+%2java.lang.Class*#
+b' b(3
+
+%3java.lang.Class*
+4
+5*ä
+7b b(s
+q
+b b(
+%1boolean"	__compare*
+b b(
+==*#
+b b(
+
+ojava.lang.Object*
+b b(
+""*
+5
+6*!
+8a a(""
+a a(#
+""*∆
+9a a(Æ
+´
+a a(
+%0boolean"	__compare*
+a a(
+==*L
+a a(@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView*#
+a a(
+
+ojava.lang.Object*
+7
+8*!
+1f f(u"
+f f(u
+"":!
+` `("
+ojava.lang.ObjectB@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

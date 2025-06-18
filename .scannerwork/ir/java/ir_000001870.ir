@@ -1,18 +1,7 @@
+Rthis ('">com.simplecity.amp_library.ui.screens.drawer.DrawerLockManagerPdrawerLockController( ([",Recovered#typeBindingLDrawerLockController;0"i!
+
+ $  (8"#unknown-value#6
+4
+   (8"" #set-field# drawerLockController:
 
-falseboolean;this
-Ë Ë("%com.simplecity.amp_library.model.Song"€a
-_
-
-Ì Ì(.	startTime"(
-java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong-
-+
-
-Ì Ì(."#set-field# startTime:.
-,
-
-Í Í(isPaused"#id#:Bboolean,
-*
-
-Í Í("#set-field# isPaused:
-
-Î Î(*m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java
+! !(*†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerLockManager.java

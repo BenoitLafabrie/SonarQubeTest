@@ -1,13 +1,22 @@
+Gthis> >("3com.simplecity.amp_library.ui.modelviews.FolderViewMbaseFileObject? ?(2"/com.simplecity.amp_library.model.BaseFileObjectEwhitelistRepository@ @(>""Recovered#typeBindingLRepository;0EblacklistRepositoryA A(>""Recovered#typeBindingLRepository;0FsettingsManagerB B(+"'Recovered#typeBindingLSettingsManager;0"whitelistedC C("boolean"blacklistedD D("boolean"¬0
+.
+E E(,"#set-field# baseFileObject:!
+
+F# F(6	"#unknown-value#5
+3
+F F(6
+"!#set-field# whitelistRepository:	!
+
+G# G(6"#unknown-value#5
+3
+G G(6"!#set-field# blacklistRepository:!
+
+H H(."#unknown-value#1
+/
+H H(."#set-field# settingsManager:/
+-
+I I(("#set-field# isWhitelisted:/
+-
+J J(("#set-field# isBlacklisted:
 
-falseboolean@progressBar
-Š Š(6"#Recovered#typeBindingLProgressBar;0color
-Š8 Š(K"int"¢#
-!
-
-‹ ‹("#unknown-value#k
-i
-
-‹ ‹(&"@
-#com.afollestad.aesthetic.TintHelpersetTint(LRadioButton;IZ)V2setTint:B	!Unknown!
-
-Œ Œ(*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/TintHelper.java
+K K(*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java

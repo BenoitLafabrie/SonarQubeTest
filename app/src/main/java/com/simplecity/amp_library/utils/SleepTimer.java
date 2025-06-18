@@ -27,8 +27,6 @@ public final class SleepTimer {
 
     public boolean playToEnd = false;
 
-    private int timeRemaining = 0;
-
     private Flowable<Long> currentTimeObservable;
 
     private BehaviorSubject<Boolean> timerActiveObservable;
@@ -45,22 +43,25 @@ public final class SleepTimer {
         timerActiveObservable = BehaviorSubject.create();
 
         currentTimeObservable = timerActiveObservable
-                .doOnNext(isActive -> this.isActive = isActive)
-                .switchMap(ignored -> Observable
-                        .interval(1, TimeUnit.SECONDS)
-                        .filter(aLong -> isActive)
-                        .map(time -> timeRemaining - time)
-                        .distinctUntilChanged()
-                        .skip(1)
-                        .doOnNext(aLong -> {
-                            if (aLong == -1) {
-                                stop();
-                            }
-                        }))
+                .doOnNext(active -> this.isActive = active)
+        currentTimeObservable = timerActiveObservable
+                .doOnNext(active -> this.isActive = active)
+                .switchMap(ignored -> Observable.defer(() -> {
+                    final int timeRemaining = lastTimeRemaining;
+                    return Observable
+                            .interval(1, TimeUnit.SECONDS)
+                            .filter(aLong -> isActive)
+                            .map(time -> timeRemaining - time)
+                            .distinctUntilChanged()
+                            .skip(1)
+                            .doOnNext(aLong -> {
+                                if (aLong == -1) {
+                                    stop();
+                                }
+                            });
+                }))
                 .toFlowable(BackpressureStrategy.LATEST)
                 .share();
-    }
-
     public Flowable<Long> getCurrentTimeObservable() {
         return currentTimeObservable;
     }
@@ -68,11 +69,13 @@ public final class SleepTimer {
     public BehaviorSubject<Boolean> getTimerActiveSubject() {
         return timerActiveObservable;
     }
+    private int lastTimeRemaining = 0;
 
     public void start(int seconds, boolean playToEnd) {
-        this.timeRemaining = seconds;
+        this.lastTimeRemaining = seconds;
         this.playToEnd = playToEnd;
         timerActiveObservable.onNext(true);
+    }
     }
 
     public void stop() {
@@ -145,9 +148,7 @@ public final class SleepTimer {
                         materialDialog.dismiss();
                     }
                 })
-                .onNegative((materialDialog, dialogAction) -> {
-                    materialDialog.dismiss();
-                })
+                .onNegative((materialDialog, dialogAction) -> materialDialog.dismiss())
                 .show();
 
         new Handler().post(() -> {

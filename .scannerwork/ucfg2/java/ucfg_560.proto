@@ -1,9 +1,9 @@
 
-=com.simplecity.amp_library.playback.MusicService#isPlaying()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÕ Õ("1*%
-1
-Œ Œ("
+Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;Å
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaﬂ ﬂ("3*%
+3
+· ·(V"
 
-Œ Œ(+
-""B42
-0com.simplecity.amp_library.playback.MusicServiceHX
+· ·(W
+""B1/
+-com.simplecity.amp_library.ShuttleApplicationH

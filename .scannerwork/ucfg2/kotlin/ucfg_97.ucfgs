@@ -1,8 +1,9 @@
-Í
-Acom.simplecity.amp_library.ui.screens.drawer.DrawerView#<init>()V…
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerView.kt ("0*>
-0 	("/
-
-__unknown_file (
-implicit returnB;9
-7com.simplecity.amp_library.ui.screens.drawer.DrawerViewH
+í
+_com.simplecity.amp_library.utils#withArgs(LFragment;Lkotlin/jvm/functions/Function1;)LFragment;|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FragmentExt.kt ($"0*&
+0 ("
+ (=
+	<unknown>:9
+ ("-
+argsBuilderkotlin.jvm.functions.Function1B$""
+ com.simplecity.amp_library.utilsH

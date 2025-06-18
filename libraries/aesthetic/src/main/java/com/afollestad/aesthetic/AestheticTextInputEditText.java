@@ -86,13 +86,7 @@ public class AestheticTextInputEditText extends TextInputEditText {
   public void refreshDrawableState() {
     super.refreshDrawableState();
     if (lastState != null) {
-      post(
-          new Runnable() {
-            @Override
-            public void run() {
-              invalidateColors(lastState);
-            }
-          });
+      post(() -> invalidateColors(lastState));
     }
   }
 }

@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251134726*java2.B»
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255149216*java2.Bº
 
 r
 mlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/BaseViewHolder.java2
@@ -37,8 +37,8 @@ implements19
 	ViewModel23
 
 	has param24
-
-VM26
+
+V26
 
 
 uses27
@@ -143,18 +143,18 @@ Wcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromW
 11
 12
 
-37
-373815
-
 25
 252615
+
+37
+373815
 @
 34:
 343536 *
-1 (26:3B
+1 (26:3B
 	
 9
-10
+31
 
 
 11
@@ -183,7 +183,7 @@ Wcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromW
 52rû
 
 61316*
-1D (P
+1C (O
 
 61719*
 1		 	(
@@ -194,19 +194,19 @@ Wcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromW
 (
 
 62224*
-11 (:
+10 (9
 
 62527*
-1& ((
+1& ('
 
 62227*
-11 (:
+10 (9
 
 61327*
-1D (P
+1C (O
 
 61327*
-1Q ([
+1P (Z
 
 61727*
 1		 	(
@@ -217,34 +217,34 @@ Wcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromW
 (
 
 282533*
-1 (
+1 (
 
 282527*
-1 (
+1 (
 
 282527*
-1 (
+1 (
 
 343724*
-1 (
+1 ("
 
 34639*
-1 (
+1 (
 
 343733*
-1  ((
+1# (+
 
 343727*
-1 (
+1 ("
 
 402524*
-1 (
+1 (
 
 402533*
-1 ("
+1 (!
 
 402527*
-1 (
+1 (
 
 40627*
 1	 (

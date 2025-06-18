@@ -1,13 +1,13 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251126209*java2.B™
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255141493*java2.B«
 t
 olibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/RecyclerListener.java2
 
 package4
 5
 0com.simplecityapps.recycler_adapter.recyclerview5
-F
-Acom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener7
+L
+Gcom.simplecityapps.recycler_adapter.recyclerview.CustomRecyclerListener7
 
 
 class8
@@ -17,8 +17,8 @@ Acom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener7
 public10
 
 simple name11
-
-RecyclerListener12
+
+CustomRecyclerListener12
 *
 $Recovered#typeBindingLRecyclerView;014
 
@@ -29,8 +29,8 @@ implements16
 
 
 uses17
-r
-lcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycled(LRecyclerView/ViewHolder;)V19
+x
+rcom.simplecityapps.recycler_adapter.recyclerview.CustomRecyclerListener#onViewRecycled(LRecyclerView/ViewHolder;)V19
 
 method20
 
@@ -50,17 +50,6 @@ lcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycle
 
 24
 242515
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
 @
 18:
 181920 *
@@ -74,18 +63,29 @@ lcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#onViewRecycle
 
 11
 21
+9
+64
+678 *
+1 ($:3B
+	
+9
+10
+
+
+11
+12
 
 13
 131415rð
 
 61316*
-1* (6
+10 (<
 
 61317*
-1* (6
+10 (<
 
 61317*
-17 (G
+1= (M
 
 181322*
 1  (,

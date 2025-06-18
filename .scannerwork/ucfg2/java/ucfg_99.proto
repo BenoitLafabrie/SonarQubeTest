@@ -1,13 +1,25 @@
 
-†test.com.androidnavigation.fragment.NavigationController#getRootViewControllerInfo()Ltest/com/androidnavigation/fragment/FragmentInfo;œ
-‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/NavigationController.java (1"1*|
-1 (+Y
-W
-< (M
-%0java.lang.String"__id*-
+Pcom.simplecity.amp_library.utils.PlaceholderProvider#getLargePlaceHolderResId()I†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/PlaceholderProvider.java@ @(("2"3*P
+2A? A(@<
+:
+A? A(d
+%0"__id*"
 
-__unknown_file (
-fragment_info"
- (P
-""B<:
-8test.com.androidnavigation.fragment.NavigationControllerH
+__unknown_file (
+
+%2*
+1*P
+3A A(<
+:
+A A(<
+%0"__id*"
+
+__unknown_file (
+
+%1*
+1*!
+1A A(e"
+A A(e
+""B86
+4com.simplecity.amp_library.utils.PlaceholderProviderX

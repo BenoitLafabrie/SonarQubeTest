@@ -1,13 +1,7 @@
 
-X__sonar_lambda_99$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity™
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.javaS, S(l"1*!
-1S6 S(E"
-S6 S(l
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+;com.simplecity.amp_library.utils.ThemeUtils$Theme#isDark()Z}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ThemeUtils.javaG G("1*!
+1H H("
+H H(
+""B53
+1com.simplecity.amp_library.utils.ThemeUtils$ThemeHX

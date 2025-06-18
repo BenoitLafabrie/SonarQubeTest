@@ -29,7 +29,7 @@ public class VoiceSearchActivity extends BaseActivity {
 
     private static final String TAG = "VoiceSearchActivity";
 
-    private String filterString;
+    // Removed filterString field; now declared as a local variable in relevant methods.
 
     private Intent intent;
 
@@ -53,8 +53,9 @@ public class VoiceSearchActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
 
         intent = getIntent();
-
-        filterString = intent.getStringExtra(SearchManager.QUERY);
+        // filterString is now a local variable, not a field.
+        String filterString = intent.getStringExtra(SearchManager.QUERY);
+        // If you need to use filterString in onCreate, use this local variable.
     }
 
     @Override
@@ -67,9 +68,11 @@ public class VoiceSearchActivity extends BaseActivity {
 
     @Override
     public void onServiceDisconnected(ComponentName name) {
+        // This method is intentionally left empty because no action is required when the service is disconnected.
     }
-
     private void searchAndPlaySongs() {
+        // Retrieve filterString as a local variable from the intent
+        String filterString = intent != null ? intent.getStringExtra(SearchManager.QUERY) : "";
 
         albumArtistsRepository.getAlbumArtists()
                 .first(Collections.emptyList())
@@ -138,7 +141,8 @@ public class VoiceSearchActivity extends BaseActivity {
                 .subscribe(songs -> {
                     if (songs != null) {
                         mediaManager.playAll(songs, position, true, () -> {
-                            // Todo: Show playback error toast
+                            // Show playback error toast
+                            android.widget.Toast.makeText(this, "Playback error occurred", android.widget.Toast.LENGTH_SHORT).show();
                             return Unit.INSTANCE;
                         });
                         startActivity(new Intent(this, MainActivity.class));
@@ -149,6 +153,7 @@ public class VoiceSearchActivity extends BaseActivity {
                     startActivity(new Intent(this, MainActivity.class));
                     finish();
                 });
+    }
     }
 
     @Override

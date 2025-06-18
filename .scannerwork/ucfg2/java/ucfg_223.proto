@@ -1,62 +1,30 @@
 
-tcom.simplecity.amp_library.utils.color.ColorHelper#getInstance()Lcom/simplecity/amp_library/utils/color/ColorHelper;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java* *()"4*Ì
-2- -(-zx
--  -(+8
-%32com.simplecity.amp_library.utils.color.ColorHelper"2com.simplecity.amp_library.utils.color.ColorHelper©
-¶
-- -(-
-%4"<com.simplecity.amp_library.utils.color.ColorHelper#<init>()V*V
-
-__unknown_file (:
-8
-%32com.simplecity.amp_library.utils.color.ColorHelper∞
-≠
-- -(-C4
-2com.simplecity.amp_library.utils.color.ColorHelper"
-	sInstance"__id*V
-
-__unknown_file (:
-8
-%32com.simplecity.amp_library.utils.color.ColorHelper*
-1*‚
-3, ,(∞
-≠
-, ,(8
-%12com.simplecity.amp_library.utils.color.ColorHelper"__id*a
-
-__unknown_file (E*C4
-2com.simplecity.amp_library.utils.color.ColorHelper"
-	sInstanceó
-î
-, ,(!
-%2boolean"	__compare*
-, ,(
-==*F
-, ,(:
-8
-%12com.simplecity.amp_library.utils.color.ColorHelper*
-, ,(!
+icom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#nowPlayingExpanded()Zõ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetSlideEventRelay.java2 2()"3*m
+23+ 3(0Y
+W
+3+ 3(V
+%1"	__compare*
+31 3(3
+==*
+3+ 3(0
+""*
+34 3(V
+""*
+1*p
+33 3(Y
+W
+3 3('
+%0"	__compare*
+3 3(
+==*
+3 3(
+""*
+3 3('
 ""*
 2
-1*b
-4+ +(N
-L
-+ +(
-%0java.lang.Object"__id*"
-
-__unknown_file (
-""*
-3*à
-1/ /(∞
-≠
-/ /(8
-%52com.simplecity.amp_library.utils.color.ColorHelper"__id*a
-
-__unknown_file (E*C4
-2com.simplecity.amp_library.utils.color.ColorHelper"
-	sInstance"F
-/ /(:
-8
-%52com.simplecity.amp_library.utils.color.ColorHelperB6"4
-2com.simplecity.amp_library.utils.color.ColorHelperH
+1*!
+13 3(W"
+3 3(W
+""BWU
+Scom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEventHX

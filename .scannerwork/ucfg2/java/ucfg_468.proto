@@ -1,26 +1,15 @@
 
-Vcom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum#%field_initializer
-__unknown_file ("1*Ó
-1 (º·
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java2 (=
-%0java.util.ArrayList"java.util.ArrayListØ
-Õ
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java. (?
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListŒ
-‰
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java (@QE
-Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum"
-images"__id*'
- (
-
-%0java.util.ArrayList"œ
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java (	
-implicit returnBGE
-Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum
+@com.simplecity.multisheetview.ui.view.MultiSheetView$1#<init>()V
+__unknown_file ("startingBlock*‹
+startingBlockœ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c£
+ 
+œ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+%0"1BottomSheetBehavior.BottomSheetCallback#<init>()V*F
+ (:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1"´
+œ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+implicit returnB:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1

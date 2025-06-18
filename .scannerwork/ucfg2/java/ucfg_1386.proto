@@ -1,39 +1,76 @@
 
-Xcom.jp.wasabeef.glide.transformations.CropSquareTransformation#getId()Ljava/lang/String;‘
-†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropSquareTransformation.java= =("1*ì
-1> >(0s
-q
-> >(9
-%0java.lang.String"__concat*/
-> >(0#!
-CropSquareTransformation(width=*
->3 >(9
-""o
-m
-> >(G
-%1java.lang.String"__concat*$
-> >(9
-
-%0java.lang.String*
->< >(G
-	, height=h
-f
-> >(Q
-%2java.lang.String"__concat*$
-> >(G
-
-%1java.lang.String*
->J >(Q
-""g
-e
-> >(W
-%3java.lang.String"__concat*$
-> >(Q
-
-%2java.lang.String*
->T >(W
-)"$
-> >(X
-
-%3java.lang.StringBB@
->com.jp.wasabeef.glide.transformations.CropSquareTransformationH
+Ccom.jp.wasabeef.glide.transformations.CropTransformation#getTop(F)F‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.javaj j("1*!
+2r s("
+s s(
+""*„
+3p q(.a
+_
+q q(-
+%6float"__calculate*
+q q( 
+-*
+q q(
+""*
+q! q(-
+"""
+q q(.
+""*ì
+4n o(4a
+_
+o o(.
+%4float"__calculate*
+o  o(!
+-*
+o o(
+""*
+o" o(.
+""f
+d
+o o(3
+%5float"__calculate*
+o0 o(1
+/*
+o o(/
+
+%4float*
+o2 o(32"
+o o(4
+""*!
+5l m("
+m m(
+""*æ
+1k k(Å
+Â
+k k(G
+%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*g
+
+__unknown_file (K*I:
+8com.jp.wasabeef.glide.transformations.CropTransformation"
+	mCropType
+}
+l l(G
+%1Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
+
+__unknown_file (
+""
+}
+n n(G
+%2Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
+
+__unknown_file (
+""
+}
+p p(G
+%3Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*"
+
+__unknown_file (
+""*
+2
+3
+4
+5: 
+
+__unknown_file (
+""B<:
+8com.jp.wasabeef.glide.transformations.CropTransformationX

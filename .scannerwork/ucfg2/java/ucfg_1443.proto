@@ -1,44 +1,59 @@
 
-åcom.simplecity.amp_library.ui.settings.SettingsParentFragment#newInstance(II)Lcom/simplecity/amp_library/ui/settings/SettingsParentFragment;ê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/SettingsParentFragment.javaC) C(4"1*∆
-1D D("ß
-§
-E E(+
-%0java.lang.String"__id*z
-
-__unknown_file (^*\?
-=com.simplecity.amp_library.ui.settings.SettingsParentFragment"
-ARG_PREFERENCE_RESOURCEô
-ñ
-F F(
-%1java.lang.String"__id*l
-
-__unknown_file (P*N?
-=com.simplecity.amp_library.ui.settings.SettingsParentFragment"
-	ARG_TITLEëé
-G. G(DC
-%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"=com.simplecity.amp_library.ui.settings.SettingsParentFragmentø
-º
-G* G(F
-%3"Gcom.simplecity.amp_library.ui.settings.SettingsParentFragment#<init>()V*a
-
-__unknown_file (E
-C
-%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment¡
-æ
-G G(GI
-fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment"__id*a
-
-__unknown_file (E
-C
-%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"W
-I I(K
-I
-fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment: 
+@com.simplecity.amp_library.ui.views.PlayPauseDrawable#lerp(FFF)Fâ
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java± ±("1*Ù
+1
+≤ ≤(i
+g
+
+≤ ≤(
+%0float"__calculate*
+
+≤ ≤(
+-*
+
+≤ ≤(
+""*
+
+≤ ≤(
+""p
+n
+
+≤ ≤(
+%1float"__calculate*
+
+≤ ≤(
+**
+
+≤ ≤(
+
+%0float*
+
+≤ ≤(
+""p
+n
+
+≤ ≤(
+%2float"__calculate*
+
+≤ ≤(
++*
+
+≤ ≤(
+""*
+
+≤ ≤(
+
+%1float"
+
+≤ ≤(
+"": 
 
 __unknown_file (
 "": 
 
 __unknown_file (
-""BA"?
-=com.simplecity.amp_library.ui.settings.SettingsParentFragmentH
+"": 
+
+__unknown_file (
+""B9"7
+5com.simplecity.amp_library.ui.views.PlayPauseDrawableX

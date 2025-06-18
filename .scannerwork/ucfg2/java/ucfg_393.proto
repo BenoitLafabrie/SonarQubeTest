@@ -1,16 +1,16 @@
 
-Rcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesAscending()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŒ Œ(1"1*ì
+Ecom.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÄ Ä($"1*Ö
 1
-œ œ(l
-j
+Å Å(^
+\
 
-œ œ(9
-%0java.lang.String"__id*>
+Å Å(+
+%0java.lang.String"__id*0
 
-__unknown_file (" 
-folder_browser_files_ascending"
+__unknown_file (
+nag_message_read"
 
-œ œ(A
+Å Å(4
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

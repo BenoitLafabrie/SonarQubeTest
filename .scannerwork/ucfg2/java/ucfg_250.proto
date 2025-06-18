@@ -1,76 +1,132 @@
 
-_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java„ „(+"3*±
+]com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#pivotXyzComponent(D)D†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaô ô(/"4*„
 2
-‡$ ‡(%U
-S
+÷ ÷( F
+D
 
-ˆ ˆ(
-%3java.lang.ThreadLocal"__id*"
+÷ ÷( 
+%6double"__id*"
 
 __unknown_file (
-""ÃÀ
+""r
+p
 
-ˆ ˆ(&
+÷ ÷(,
+%7double"__calculate*
 
-%4void".java.lang.ThreadLocal#set(Ljava/lang/Object;)V*9
+÷! ÷("
+**
+
+÷ ÷( 
+
+%6double*
+
+÷# ÷(,
+""p
+n
+
+÷ ÷(1
+%8double"__calculate*
+
+÷- ÷(.
++*
+
+÷ ÷(,
+
+%7double*
+
+÷/ ÷(12p
+n
+
+÷ ÷(8
+%4double"__calculate*
+
+÷3 ÷(4
+/*
+
+÷ ÷(2
+
+%8double*
+
+÷5 ÷(82tN
+L
+
+÷ ÷(8
+%2double"__id**
 
-__unknown_file (
-
-%3java.lang.ThreadLocal*"
-
-__unknown_file (
-""2set(Ljava/lang/Object;)*
-1*í
+__unknown_file (
+
+%4double*
+1*‡
 3
-… …((U
-S
+ö ö(h
+f
 
-… …((
-%0java.lang.ThreadLocal"__id*"
+ö* ö(1
+%5double"__calculate*
+
+ö, ö(-
+/*
+
+ö* ö(+2*
+
+ö. ö(1
+""¶
+³
+
+ö ö(2
+%3double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
 
 __unknown_file (
-""
-
-… …(.
-%1double[]"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
+""**
 
-__unknown_file (
-
-%0java.lang.ThreadLocal2get()j
-h
+__unknown_file (
+
+%5doubleN
+L
 
-† †(
-%2boolean"	__compare*
+ö ö(2
+%2double"__id**
+
+__unknown_file (
+
+%3double*
+1*Ò
+4
+õ õ(F
+D
 
-† †(
-==*
+õ õ(*
+%0double"__id*"
+
+__unknown_file (
+""q
+o
 
-† †(
-""*
+õ õ(*
+%1boolean"	__compare*
 
-† †(
-""*
+õ õ(
+>*
+
+õ õ(
+""*
+
+õ õ(*
+
+%0double*
 2
-1*ÿ
+3*%
 1
-Š Š(U
-S
+õ ÷(9"
 
-Š Š(
-%5java.lang.ThreadLocal"__id*"
+õ ÷(9
+"": 
 
-__unknown_file (
-""€~
-
-Š Š(
-
-%6void"java.lang.ThreadLocal#remove()V*9
-
-__unknown_file (
-
-%5java.lang.ThreadLocal2remove()"
-
-‹ ‹(
+__unknown_file (
 ""BK"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX

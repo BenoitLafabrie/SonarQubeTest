@@ -1,15 +1,4 @@
-Ethis ("1com.simplecity.amp_library.ui.views.ShuffleButton"ò!
-
- ("#unknown-value#1
-/
- (!"#get-field# WHITE:B	!Unknown!-
-+
- (""#set-field# normalColor:!
-
- ("#unknown-value#1
-/
- (#"#get-field# WHITE:B	!Unknown!/
--
- ($"#set-field# selectedColor:
+\this (-"Hcom.simplecity.amp_library.ui.screens.songs.list.SongsListFragmentModule"
 
- g(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/ShuffleButton.java
+
+ (*ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongsListFragmentModule.java

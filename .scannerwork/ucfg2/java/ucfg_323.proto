@@ -1,15 +1,15 @@
 
-<test.com.androidnavigation.fragment.BaseController#<init>()V
-__unknown_file ("startingBlock*Ð
-startingBlock”
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseController.java (ø
-õ
-”
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseController.java (
-%0"Fragment#<init>()V*B
- (64
-2test.com.androidnavigation.fragment.BaseController"¬
-”
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseController.java (
-implicit returnB64
-2test.com.androidnavigation.fragment.BaseController
+:com.afollestad.aesthetic.AestheticSwitchCompat$1#<init>()V
+__unknown_file ("startingBlock*Å
+startingBlock‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitchCompat.java81 8(2ó
+ð
+‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitchCompat.java81 8(2
+%0"Consumer#<init>()V*@
+ (42
+0com.afollestad.aesthetic.AestheticSwitchCompat$1"©
+‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitchCompat.java81 8(2
+implicit returnB42
+0com.afollestad.aesthetic.AestheticSwitchCompat$1

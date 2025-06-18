@@ -1,99 +1,69 @@
 
-³com.simplecity.amp_library.ui.dialog.DeleteDialog#newInstance(Lcom/simplecity/amp_library/ui/dialog/DeleteDialog$ListAlbumsRef;)Lcom/simplecity/amp_library/ui/dialog/DeleteDialog;ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javam m(*"startingBlock*Q
-2pc p(d=
-;
-	pc p(†
-%4"__id*"
-
-__unknown_file (
-
-%6*
-1*P
-3pF p(G<
-:
-pF p(`
-%4"__id*"
-
-__unknown_file (
-
-%5*
-1*á
-startingBlockm* m(I²
-¯
-m+ m(3
-%10"
-__annotate*'
-
-__unknown_file (	
-NonNull*g
-
-__unknown_file (K
-I
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRef‹
-ˆ
-mB m(HI
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRef"__annotation*#
-
-__unknown_file (
-
-%10*
-4*â
-4n n("P
-N
-o o(
-%0java.lang.String"__id*$
-
-__unknown_file (
-typeA
-?
-o o()	
-%1int"__id*"
-
-__unknown_file (
-""]
-[
-p p()
-%2java.lang.String"__id*1
-
-__unknown_file (
-delete_message_idW
-U
-p+ p(C
-%3"	__compare*
-p? p(A
-==*
-p+ p(>
-""*
-pB p(C2*
-2
-3*€
-1	p p(‡S
-Q
-q q('
-%7java.lang.String"__id*'
-
-__unknown_file (	
-artistsxv
-r$ r(07
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog"1com.simplecity.amp_library.ui.dialog.DeleteDialog§
-¤
-r  r(2
-%9";com.simplecity.amp_library.ui.dialog.DeleteDialog#<init>()V*U
-
-__unknown_file (9
-7
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog©
-¦
-r r(3=
-fragment1com.simplecity.amp_library.ui.dialog.DeleteDialog"__id*U
-
-__unknown_file (9
-7
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog"K
-t t(?
-=
-fragment1com.simplecity.amp_library.ui.dialog.DeleteDialog:U
-m+ m(HI
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRefB5"3
-1com.simplecity.amp_library.ui.dialog.DeleteDialogH
+Dcom.simplecity.amp_library.ui.dialog.DeleteDialog#%field_initializer
+__unknown_file ("1*û
+1 (¹¶
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW4 W(?
+%0java.util.ArrayList"java.util.ArrayList×
+Ô
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW0 W(A
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList‰
+†
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW W(BO3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+songsForNormalDeletion"__id*'
+ (
+
+%0java.util.ArrayList¹¶
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX> X(I
+%2java.util.ArrayList"java.util.ArrayList×
+Ô
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX: X(K
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayList‹
+ˆ
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX X(LQ3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+documentFilesForDeletion"__id*'
+ (
+
+%2java.util.ArrayList¹¶
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY1 Y(<
+%4java.util.ArrayList"java.util.ArrayList×
+Ô
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY- Y(>
+%5"java.util.ArrayList#<init>()V*'
+ (
+
+%4java.util.ArrayList†
+ƒ
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY Y(?L3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+songsForSafDeletion"__id*'
+ (
+
+%4java.util.ArrayListé
+æ
+ƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.java[ [(HD3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+disposables"__id*
+ (
+"""š
+‚
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.java0 ò(
+implicit returnB53
+1com.simplecity.amp_library.ui.dialog.DeleteDialog

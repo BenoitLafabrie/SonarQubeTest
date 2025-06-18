@@ -19,7 +19,6 @@ import java.util.List;
 
 public class FileBrowser {
 
-    private static final String TAG = "FileBrowser";
 
     @Nullable
     private File currentDir;
@@ -38,58 +37,53 @@ public class FileBrowser {
      */
     @WorkerThread
     public List<BaseFileObject> loadDir(File directory) {
-
         ThreadUtils.ensureNotOnMainThread();
-
         currentDir = directory;
 
         List<BaseFileObject> folderObjects = new ArrayList<>();
         List<BaseFileObject> fileObjects = new ArrayList<>();
 
-        //Grab a list of all files/subdirs within the specified directory.
+        processFiles(directory, folderObjects, fileObjects);
+
+        sortAndCombine(folderObjects, fileObjects);
+
+        addParentFolderIfNeeded(folderObjects);
+
+        return folderObjects;
+    }
+
+    private void processFiles(File directory, List<BaseFileObject> folderObjects, List<BaseFileObject> fileObjects) {
         File[] files = directory.listFiles(FileHelper.getAudioFilter());
-
-        if (files != null) {
-            for (File file : files) {
-                BaseFileObject baseFileObject;
-
-                if (file.isDirectory()) {
-                    baseFileObject = new FolderObject();
-                    baseFileObject.path = FileHelper.getPath(file);
-                    baseFileObject.name = file.getName();
-                    File[] listOfFiles = file.listFiles(FileHelper.getAudioFilter());
-                    if (listOfFiles != null && listOfFiles.length > 0) {
-                        for (File listOfFile : listOfFiles) {
-                            if (listOfFile.isDirectory()) {
-                                ((FolderObject) baseFileObject).folderCount++;
-                            } else {
-                                ((FolderObject) baseFileObject).fileCount++;
-                            }
-                        }
-                    } else {
-                        continue;
-                    }
-                    if (!folderObjects.contains(baseFileObject)) {
-                        folderObjects.add(baseFileObject);
-                    }
-                } else {
-                    baseFileObject = new FileObject();
-                    baseFileObject.path = FileHelper.getPath(file);
-                    baseFileObject.name = FileHelper.getName(file.getName());
-                    baseFileObject.size = file.length();
-                    ((FileObject) baseFileObject).extension = FileHelper.getExtension(file.getName());
-                    if (TextUtils.isEmpty(((FileObject) baseFileObject).extension)) {
-                        continue;
-                    }
-                    ((FileObject) baseFileObject).tagInfo = new TagInfo(baseFileObject.path);
-
-                    if (!fileObjects.contains(baseFileObject)) {
-                        fileObjects.add(baseFileObject);
-                    }
-                }
+        if (files == null) {
+            return;
+        }
+        for (File file : files) {
+            if (shouldSkipFile(file)) {
+                continue;
+            }
+            if (file.isDirectory()) {
+                addFolderObject(folderObjects, file);
+            } else {
+                addFileObject(fileObjects, file);
             }
         }
+    }
 
+    private void addFolderObject(List<BaseFileObject> folderObjects, File file) {
+        FolderObject folderObject = createFolderObject(file);
+        if (!folderObjects.contains(folderObject)) {
+            folderObjects.add(folderObject);
+        }
+    }
+
+    private void addFileObject(List<BaseFileObject> fileObjects, File file) {
+        FileObject fileObject = createFileObject(file);
+        if (!fileObjects.contains(fileObject)) {
+            fileObjects.add(fileObject);
+        }
+    }
+
+    private void sortAndCombine(List<BaseFileObject> folderObjects, List<BaseFileObject> fileObjects) {
         sortFileObjects(fileObjects);
         sortFolderObjects(folderObjects);
 
@@ -102,16 +96,52 @@ public class FileBrowser {
         }
 
         folderObjects.addAll(fileObjects);
+    }
 
+    private boolean shouldSkipFile(File file) {
+        if (file.isDirectory()) {
+            File[] subFiles = file.listFiles(FileHelper.getAudioFilter());
+            return subFiles == null || subFiles.length == 0;
+        } else {
+            return TextUtils.isEmpty(FileHelper.getExtension(file.getName()));
+        }
+    }
+
+    private FolderObject createFolderObject(File file) {
+        FolderObject folderObject = new FolderObject();
+        folderObject.path = FileHelper.getPath(file);
+        folderObject.name = file.getName();
+        File[] listOfFiles = file.listFiles(FileHelper.getAudioFilter());
+        if (listOfFiles != null && listOfFiles.length > 0) {
+            for (File listOfFile : listOfFiles) {
+                if (listOfFile.isDirectory()) {
+                    folderObject.folderCount++;
+                } else {
+                    folderObject.fileCount++;
+                }
+            }
+        }
+        return folderObject;
+    }
+
+    private FileObject createFileObject(File file) {
+        FileObject fileObject = new FileObject();
+        fileObject.path = FileHelper.getPath(file);
+        fileObject.name = FileHelper.getName(file.getName());
+        fileObject.size = file.length();
+        fileObject.extension = FileHelper.getExtension(file.getName());
+        fileObject.tagInfo = new TagInfo(fileObject.path);
+        return fileObject;
+    }
+
+    private void addParentFolderIfNeeded(List<BaseFileObject> folderObjects) {
         if (!FileHelper.isRootDirectory(currentDir)) {
             FolderObject parentObject = new FolderObject();
             parentObject.fileType = FileType.PARENT;
             parentObject.name = FileHelper.PARENT_DIRECTORY;
-            parentObject.path = FileHelper.getPath(currentDir) + "/" + FileHelper.PARENT_DIRECTORY;
+            parentObject.path = FileHelper.getPath(currentDir) + File.separator + FileHelper.PARENT_DIRECTORY;
             folderObjects.add(0, parentObject);
         }
-
-        return folderObjects;
     }
 
     @Nullable
@@ -121,12 +151,20 @@ public class FileBrowser {
 
     @WorkerThread
     public File getInitialDir() {
-
         ThreadUtils.ensureNotOnMainThread();
 
-        File dir;
-        String[] files;
+        File dir = getInitialDirFromSettings();
+        if (dir != null) {
+            return dir;
+        }
 
+        dir = getStorageDirectory();
+        dir = getMusicDirectoryIfExists(dir);
+
+        return dir;
+    }
+
+    private File getInitialDirFromSettings() {
         String settingsDir = settingsManager.getFolderBrowserInitialDir();
         if (settingsDir != null) {
             File file = new File(settingsDir);
@@ -134,38 +172,45 @@ public class FileBrowser {
                 return file;
             }
         }
+        return null;
+    }
 
-        dir = new File("/");
-
-        files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("storage"));
+    private File getStorageDirectory() {
+        File dir = new File("/");
+        String[] files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("storage"));
 
         if (files != null && files.length > 0) {
-            dir = new File(dir + "/" + files[0]);
-            //If there's an extsdcard path in our base dir, let's navigate to that. External SD cards are cool.
-            files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("extsdcard"));
-            if (files != null && files.length > 0) {
-                dir = new File(dir + "/" + files[0]);
-            } else {
-                //If we have external storage, use that as our initial dir
-                if (Environment.MEDIA_MOUNTED.equals(Environment.getExternalStorageState())) {
-                    dir = Environment.getExternalStorageDirectory();
-                }
-            }
+            dir = new File(dir + File.separator + files[0]);
+            dir = getExtSdCardDirectoryIfExists(dir);
         } else {
-            //If we have external storage, use that as our initial dir
-            if (Environment.MEDIA_MOUNTED.equals(Environment.getExternalStorageState())) {
-                dir = Environment.getExternalStorageDirectory();
+            dir = getExternalStorageDirectoryIfMounted(dir);
+        }
+        return dir;
+    }
+
+    private File getExtSdCardDirectoryIfExists(File dir) {
+        String[] files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("extsdcard"));
+        if (files != null && files.length > 0) {
+            return new File(dir + File.separator + files[0]);
+        } else {
+            return getExternalStorageDirectoryIfMounted(dir);
+        }
+    }
+
+    private File getExternalStorageDirectoryIfMounted(File dir) {
+        if (Environment.MEDIA_MOUNTED.equals(Environment.getExternalStorageState())) {
+            return Environment.getExternalStorageDirectory();
+        }
+        return dir;
+    }
+
+    private File getMusicDirectoryIfExists(File dir) {
+        if (dir != null) {
+            String[] files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("music"));
+            if (files != null && files.length > 0) {
+                return new File(dir + File.separator + files[0]);
             }
         }
-
-        //Whether or not there was an sdcard, let's see if there's a 'music' dir for us to navigate to
-        if (dir != null) {
-            files = dir.list((dir1, filename) -> dir1.isDirectory() && filename.toLowerCase().contains("music"));
-        }
-        if (files != null && files.length > 0) {
-            dir = new File(dir + "/" + files[0]);
-        }
-
         return dir;
     }
 
@@ -258,8 +303,8 @@ public class FileBrowser {
         return (Comparator<BaseFileObject>) (lhs, rhs) -> (int) (rhs.size - lhs.size);
     }
 
-    private Comparator filenameComparator() {
-        return (Comparator<BaseFileObject>) (lhs, rhs) -> lhs.name.compareToIgnoreCase(rhs.name);
+    private Comparator<BaseFileObject> filenameComparator() {
+        return (lhs, rhs) -> lhs.name.compareToIgnoreCase(rhs.name);
     }
 
     //    private Comparator durationComparator() {

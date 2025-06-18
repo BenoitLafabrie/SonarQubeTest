@@ -1,7 +1,16 @@
 
-Gcom.simplecity.amp_library.ui.modelviews.PlaylistView#getLayoutResId()I‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.java/ /("1*!
-10 0(!"
-0 0("
-""B97
-5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX
+Ucom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailSongsAscending()Zˆ
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java– –(0"1*w
+1
+— —(P
+N
+
+—! —(<
+%0java.lang.String"__id*"
+
+__unknown_file (
+"""
+
+— —(D
+""B86
+4com.simplecity.amp_library.utils.sorting.SortManagerHX

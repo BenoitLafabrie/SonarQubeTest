@@ -1,77 +1,53 @@
 
-Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(III)I†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaö ö($"6*^
-2
-÷@ ÷(FH
-F
-
-÷@ ÷(F	
-%1int"__id*'
-
-__unknown_file (
-	
-%6int*
-1*^
-3
-÷9 ÷(=H
-F
-
-÷9 ÷(=	
-%1int"__id*'
-
-__unknown_file (
-	
-%5int*
-1*‚
-4
-÷) ÷(/i
-g
-
-÷) ÷(6
-%4boolean"	__compare*
-
-÷0 ÷(1
->*
-
-÷) ÷(/
-""*
-
-÷2 ÷(6
-""*
-2
-3*^
-5
-÷" ÷(%H
-F
-
-÷" ÷(%	
-%1int"__id*'
-
-__unknown_file (
-	
-%2int*
-1*‚
-6
-÷ ÷(i
-g
-
-÷ ÷(
-%0boolean"	__compare*
-
-÷ ÷(
-<*
-
-÷ ÷(
-""*
-
-÷ ÷(
-""*
-4
-5*%
+Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#labToColor(DDD)I†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaØ Ø("1*Î
 1
-÷ ÷(H"
+Û$ Û(7é
+æ
 
-÷ ÷(H
+Û$ Û(9
+%0double[]"_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatî
+ë
+
+Ü Ü(%
+
+%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#labToXyz(DDD[D)V*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""É
+Æ
+
+Ý Ý(>	
+%2int"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#xyzToColor(DDD)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+Ý Ý(?
 "": 
 
 __unknown_file (

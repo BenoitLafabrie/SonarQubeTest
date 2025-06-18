@@ -1,20 +1,5 @@
 package com.simplecity.amp_library.utils.color;
 
-/*
- * Copyright (C) 2014 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License
- */
 
 import android.app.Notification;
 import android.content.Context;
@@ -35,18 +20,7 @@ public class ColorHelper {
 
     private static final String TAG = "ColorHelper";
 
-    private static final Object sLock = new Object();
-
-    private static ColorHelper sInstance;
-
-    public static ColorHelper getInstance() {
-        synchronized (sLock) {
-            if (sInstance == null) {
-                sInstance = new ColorHelper();
-            }
-            return sInstance;
-        }
-    }
+    // Singleton removed: use static methods or instantiate directly if needed.
 
     /**
      * Finds a suitable color such that there's enough contrast.
@@ -68,14 +42,16 @@ public class ColorHelper {
         double[] lab = new double[3];
         ColorUtilsFromCompat.colorToLAB(findFg ? fg : bg, lab);
 
-        double low = 0, high = lab[0];
-        final double a = lab[1], b = lab[2];
+        double low = 0;
+        double high = lab[0];
+        final double a = lab[1];
+        final double b = lab[2];
         for (int i = 0; i < 15 && high - low > 0.00001; i++) {
             final double l = (low + high) / 2;
             if (findFg) {
-                fg = ColorUtilsFromCompat.LABToColor(l, a, b);
+                fg = ColorUtilsFromCompat.labToColor(l, a, b);
             } else {
-                bg = ColorUtilsFromCompat.LABToColor(l, a, b);
+                bg = ColorUtilsFromCompat.labToColor(l, a, b);
             }
             if (ColorUtilsFromCompat.calculateContrast(fg, bg) > minRatio) {
                 low = l;
@@ -83,7 +59,7 @@ public class ColorHelper {
                 high = l;
             }
         }
-        return ColorUtilsFromCompat.LABToColor(low, a, b);
+        return ColorUtilsFromCompat.labToColor(low, a, b);
     }
 
     /**
@@ -105,7 +81,8 @@ public class ColorHelper {
         int g = Color.green(color);
         int b = Color.blue(color);
 
-        int low = startAlpha, high = 255;
+        int low = startAlpha;
+        int high = 255;
         for (int i = 0; i < 15 && high - low > 0; i++) {
             final int alpha = (low + high) / 2;
             fg = Color.argb(alpha, r, g, b);
@@ -139,7 +116,8 @@ public class ColorHelper {
         float[] hsl = new float[3];
         ColorUtilsFromCompat.colorToHSL(findFg ? fg : bg, hsl);
 
-        float low = hsl[2], high = 1;
+        float low = hsl[2];
+        float high = 1;
         for (int i = 0; i < 15 && high - low > 0.00001; i++) {
             final float l = (low + high) / 2;
             hsl[2] = l;
@@ -169,7 +147,7 @@ public class ColorHelper {
         final double[] result = ColorUtilsFromCompat.getTempDouble3Array();
         ColorUtilsFromCompat.colorToLAB(baseColor, result);
         result[0] = Math.max(Math.min(100, result[0] + amount), 0);
-        return ColorUtilsFromCompat.LABToColor(result[0], result[1], result[2]);
+        return ColorUtilsFromCompat.labToColor(result[0], result[1], result[2]);
     }
 
     public static int resolvePrimaryColor(Context context, int backgroundColor) {
@@ -302,7 +280,7 @@ public class ColorHelper {
          * @param outLab 3-element array which holds the resulting LAB components
          */
         static void colorToLAB(@ColorInt int color, @NonNull double[] outLab) {
-            RGBToLAB(Color.red(color), Color.green(color), Color.blue(color), outLab);
+            rgbToLab(Color.red(color), Color.green(color), Color.blue(color), outLab);
         }
 
         /**
@@ -319,13 +297,13 @@ public class ColorHelper {
          * @param b      blue component value [0..255]
          * @param outLab 3-element array which holds the resulting LAB components
          */
-        static void RGBToLAB(@IntRange(from = 0x0, to = 0xFF) int r,
+        static void rgbToLab(@IntRange(from = 0x0, to = 0xFF) int r,
                 @IntRange(from = 0x0, to = 0xFF) int g, @IntRange(from = 0x0, to = 0xFF) int b,
                 @NonNull double[] outLab) {
             // First we convert RGB to XYZ
-            RGBToXYZ(r, g, b, outLab);
+            rgbToXyz(r, g, b, outLab);
             // outLab now contains XYZ
-            XYZToLAB(outLab[0], outLab[1], outLab[2], outLab);
+            xyzToLab(outLab[0], outLab[1], outLab[2], outLab);
             // outLab now contains LAB representation
         }
 
@@ -345,7 +323,7 @@ public class ColorHelper {
          * @param outXyz 3-element array which holds the resulting LAB components
          */
         static void colorToXYZ(@ColorInt int color, @NonNull double[] outXyz) {
-            RGBToXYZ(Color.red(color), Color.green(color), Color.blue(color), outXyz);
+            rgbToXyz(Color.red(color), Color.green(color), Color.blue(color), outXyz);
         }
 
         /**
@@ -365,7 +343,7 @@ public class ColorHelper {
          * @param b      blue component value [0..255]
          * @param outXyz 3-element array which holds the resulting XYZ components
          */
-        static void RGBToXYZ(@IntRange(from = 0x0, to = 0xFF) int r,
+        static void rgbToXyz(@IntRange(from = 0x0, to = 0xFF) int r,
                 @IntRange(from = 0x0, to = 0xFF) int g, @IntRange(from = 0x0, to = 0xFF) int b,
                 @NonNull double[] outXyz) {
             if (outXyz.length != 3) {
@@ -401,7 +379,7 @@ public class ColorHelper {
          * @param z      Z component value [0...108.883)
          * @param outLab 3-element array which holds the resulting Lab components
          */
-        static void XYZToLAB(@FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_X) double x,
+        static void xyzToLab(@FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_X) double x,
                 @FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_Y) double y,
                 @FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_Z) double z,
                 @NonNull double[] outLab) {
@@ -433,7 +411,7 @@ public class ColorHelper {
          * @param b      B component value [-128...127)
          * @param outXyz 3-element array which holds the resulting XYZ components
          */
-        static void LABToXYZ(@FloatRange(from = 0f, to = 100) final double l,
+        static void labToXyz(@FloatRange(from = 0f, to = 100) final double l,
                 @FloatRange(from = -128, to = 127) final double a,
                 @FloatRange(from = -128, to = 127) final double b,
                 @NonNull double[] outXyz) {
@@ -465,7 +443,7 @@ public class ColorHelper {
          * @return int containing the RGB representation
          */
         @ColorInt
-        static int XYZToColor(@FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_X) double x,
+        static int xyzToColor(@FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_X) double x,
                 @FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_Y) double y,
                 @FloatRange(from = 0f, to = XYZ_WHITE_REFERENCE_Z) double z) {
             double r = (x * 3.2406 + y * -1.5372 + z * -0.4986) / 100;
@@ -491,20 +469,32 @@ public class ColorHelper {
          * @return int containing the RGB representation
          */
         @ColorInt
-        static int LABToColor(@FloatRange(from = 0f, to = 100) final double l,
+        static int labToColor(@FloatRange(from = 0f, to = 100) final double l,
                 @FloatRange(from = -128, to = 127) final double a,
                 @FloatRange(from = -128, to = 127) final double b) {
             final double[] result = getTempDouble3Array();
-            LABToXYZ(l, a, b, result);
-            return XYZToColor(result[0], result[1], result[2]);
+            labToXyz(l, a, b, result);
+            return xyzToColor(result[0], result[1], result[2]);
         }
 
         private static int constrain(int amount, int low, int high) {
-            return amount < low ? low : (amount > high ? high : amount);
+            if (amount < low) {
+                return low;
+            } else if (amount > high) {
+                return high;
+            } else {
+                return amount;
+            }
         }
 
         private static float constrain(float amount, float low, float high) {
-            return amount < low ? low : (amount > high ? high : amount);
+            if (amount < low) {
+                return low;
+            } else if (amount > high) {
+                return high;
+            } else {
+                return amount;
+            }
         }
 
         private static double pivotXyzComponent(double component) {
@@ -536,7 +526,7 @@ public class ColorHelper {
          * @return the resulting RGB color
          */
         @ColorInt
-        static int HSLToColor(@NonNull float[] hsl) {
+        static int hslToColor(@NonNull float[] hsl) {
             final float h = hsl[0];
             final float s = hsl[1];
             final float l = hsl[2];
@@ -547,7 +537,9 @@ public class ColorHelper {
 
             final int hueSegment = (int) h / 60;
 
-            int r = 0, g = 0, b = 0;
+            int r = 0;
+            int g = 0;
+            int b = 0;
 
             switch (hueSegment) {
                 case 0:
@@ -581,6 +573,11 @@ public class ColorHelper {
                     g = Math.round(255 * m);
                     b = Math.round(255 * (x + m));
                     break;
+                default:
+                    r = Math.round(255 * m);
+                    g = Math.round(255 * m);
+                    b = Math.round(255 * m);
+                    break;
             }
 
             r = constrain(r, 0, 255);
@@ -602,7 +599,7 @@ public class ColorHelper {
          * @param outHsl 3-element array which holds the resulting HSL components
          */
         static void colorToHSL(@ColorInt int color, @NonNull float[] outHsl) {
-            RGBToHSL(Color.red(color), Color.green(color), Color.blue(color), outHsl);
+            rgbToHSL(Color.red(color), Color.green(color), Color.blue(color), outHsl);
         }
 
         /**
@@ -618,7 +615,7 @@ public class ColorHelper {
          * @param b      blue component value [0..255]
          * @param outHsl 3-element array which holds the resulting HSL components
          */
-        static void RGBToHSL(@IntRange(from = 0x0, to = 0xFF) int r,
+        static void rgbToHSL(@IntRange(from = 0x0, to = 0xFF) int r,
                 @IntRange(from = 0x0, to = 0xFF) int g, @IntRange(from = 0x0, to = 0xFF) int b,
                 @NonNull float[] outHsl) {
             final float rf = r / 255f;
@@ -629,7 +626,8 @@ public class ColorHelper {
             final float min = Math.min(rf, Math.min(gf, bf));
             final float deltaMaxMin = max - min;
 
-            float h, s;
+            float h;
+            float s;
             float l = (max + min) / 2f;
 
             if (max == min) {
@@ -674,72 +672,89 @@ public class ColorHelper {
     private static final int LIGHTNESS_TEXT_DIFFERENCE_DARK = -10;
 
     public Pair<Integer, Integer> ensureColors(Context context, boolean hasForegroundColor, int backgroundColor, int foregroundColor) {
-        int primaryTextColor;
-        int secondaryTextColor;
         if (!hasForegroundColor) {
-            primaryTextColor = ColorHelper.resolvePrimaryColor(context, backgroundColor);
-            secondaryTextColor = ColorHelper.resolveSecondaryColor(context, backgroundColor);
-            int COLOR_DEFAULT = 0;
-            if (backgroundColor != COLOR_DEFAULT) {
-                primaryTextColor = ColorHelper.findAlphaToMeetContrast(primaryTextColor, backgroundColor, 4.5);
-                secondaryTextColor = ColorHelper.findAlphaToMeetContrast(secondaryTextColor, backgroundColor, 4.5);
-            }
+            return ensureColorsWithoutForeground(context, backgroundColor);
         } else {
-            double backLum = ColorHelper.calculateLuminance(backgroundColor);
-            double textLum = ColorHelper.calculateLuminance(foregroundColor);
-            double contrast = ColorHelper.calculateContrast(foregroundColor,
-                    backgroundColor);
-            // We only respect the given colors if worst case Black or White still has
-            // contrast
-            boolean backgroundLight = backLum > textLum && ColorHelper.satisfiesTextContrast(backgroundColor, Color.BLACK)
-                    || backLum <= textLum && !ColorHelper.satisfiesTextContrast(backgroundColor, Color.WHITE);
-            if (contrast < 4.5f) {
-                if (backgroundLight) {
-                    secondaryTextColor = ColorHelper.findContrastColor(
-                            foregroundColor,
-                            backgroundColor,
-                            true /* findFG */,
-                            4.5f);
-                    primaryTextColor = ColorHelper.changeColorLightness(
-                            secondaryTextColor, -LIGHTNESS_TEXT_DIFFERENCE_LIGHT);
-                } else {
-                    secondaryTextColor =
-                            ColorHelper.findContrastColorAgainstDark(
-                                    foregroundColor,
-                                    backgroundColor,
-                                    true /* findFG */,
-                                    4.5f);
-                    primaryTextColor = ColorHelper.changeColorLightness(
-                            secondaryTextColor, -LIGHTNESS_TEXT_DIFFERENCE_DARK);
-                }
+            return ensureColorsWithForeground(backgroundColor, foregroundColor);
+        }
+    }
+
+    private Pair<Integer, Integer> ensureColorsWithoutForeground(Context context, int backgroundColor) {
+        int primaryTextColor = ColorHelper.resolvePrimaryColor(context, backgroundColor);
+        int secondaryTextColor = ColorHelper.resolveSecondaryColor(context, backgroundColor);
+        int colorDefault = 0;
+        if (backgroundColor != colorDefault) {
+            primaryTextColor = ColorHelper.findAlphaToMeetContrast(primaryTextColor, backgroundColor, 4.5);
+            secondaryTextColor = ColorHelper.findAlphaToMeetContrast(secondaryTextColor, backgroundColor, 4.5);
+        }
+        return new Pair<>(primaryTextColor, secondaryTextColor);
+    }
+
+    private Pair<Integer, Integer> ensureColorsWithForeground(int backgroundColor, int foregroundColor) {
+        double backLum = ColorHelper.calculateLuminance(backgroundColor);
+        double textLum = ColorHelper.calculateLuminance(foregroundColor);
+        double contrast = ColorHelper.calculateContrast(foregroundColor, backgroundColor);
+
+        boolean backgroundLight = isBackgroundLight(backLum, textLum, backgroundColor);
+
+        if (contrast < 4.5f) {
+            return getLowContrastColors(backgroundLight, foregroundColor, backgroundColor);
+        } else {
+            return getHighContrastColors(backgroundLight, foregroundColor, backgroundColor);
+        }
+    }
+
+    private boolean isBackgroundLight(double backLum, double textLum, int backgroundColor) {
+        return (backLum > textLum && ColorHelper.satisfiesTextContrast(backgroundColor, Color.BLACK))
+                || (backLum <= textLum && !ColorHelper.satisfiesTextContrast(backgroundColor, Color.WHITE));
+    }
+
+    private Pair<Integer, Integer> getLowContrastColors(boolean backgroundLight, int foregroundColor, int backgroundColor) {
+        int secondaryTextColor;
+        int primaryTextColor;
+        if (backgroundLight) {
+            secondaryTextColor = ColorHelper.findContrastColor(
+                    foregroundColor,
+                    backgroundColor,
+                    true,
+                    4.5f);
+            primaryTextColor = ColorHelper.changeColorLightness(
+                    secondaryTextColor, -LIGHTNESS_TEXT_DIFFERENCE_LIGHT);
+        } else {
+            secondaryTextColor = ColorHelper.findContrastColorAgainstDark(
+                    foregroundColor,
+                    backgroundColor,
+                    true,
+                    4.5f);
+            primaryTextColor = ColorHelper.changeColorLightness(
+                    secondaryTextColor, -LIGHTNESS_TEXT_DIFFERENCE_DARK);
+        }
+        return new Pair<>(primaryTextColor, secondaryTextColor);
+    }
+
+    private Pair<Integer, Integer> getHighContrastColors(boolean backgroundLight, int foregroundColor, int backgroundColor) {
+        int primaryTextColor = foregroundColor;
+        int secondaryTextColor = ColorHelper.changeColorLightness(
+                primaryTextColor, backgroundLight ? LIGHTNESS_TEXT_DIFFERENCE_LIGHT
+                        : LIGHTNESS_TEXT_DIFFERENCE_DARK);
+        if (ColorHelper.calculateContrast(secondaryTextColor, backgroundColor) < 4.5f) {
+            if (backgroundLight) {
+                secondaryTextColor = ColorHelper.findContrastColor(
+                        secondaryTextColor,
+                        backgroundColor,
+                        true,
+                        4.5f);
             } else {
-                primaryTextColor = foregroundColor;
-                secondaryTextColor = ColorHelper.changeColorLightness(
-                        primaryTextColor, backgroundLight ? LIGHTNESS_TEXT_DIFFERENCE_LIGHT
-                                : LIGHTNESS_TEXT_DIFFERENCE_DARK);
-                if (ColorHelper.calculateContrast(secondaryTextColor,
-                        backgroundColor) < 4.5f) {
-                    // oh well the secondary is not good enough
-                    if (backgroundLight) {
-                        secondaryTextColor = ColorHelper.findContrastColor(
-                                secondaryTextColor,
-                                backgroundColor,
-                                true /* findFG */,
-                                4.5f);
-                    } else {
-                        secondaryTextColor
-                                = ColorHelper.findContrastColorAgainstDark(
-                                secondaryTextColor,
-                                backgroundColor,
-                                true /* findFG */,
-                                4.5f);
-                    }
-                    primaryTextColor = ColorHelper.changeColorLightness(
-                            secondaryTextColor, backgroundLight
-                                    ? -LIGHTNESS_TEXT_DIFFERENCE_LIGHT
-                                    : -LIGHTNESS_TEXT_DIFFERENCE_DARK);
-                }
+                secondaryTextColor = ColorHelper.findContrastColorAgainstDark(
+                        secondaryTextColor,
+                        backgroundColor,
+                        true,
+                        4.5f);
             }
+            primaryTextColor = ColorHelper.changeColorLightness(
+                    secondaryTextColor, backgroundLight
+                            ? -LIGHTNESS_TEXT_DIFFERENCE_LIGHT
+                            : -LIGHTNESS_TEXT_DIFFERENCE_DARK);
         }
         return new Pair<>(primaryTextColor, secondaryTextColor);
     }

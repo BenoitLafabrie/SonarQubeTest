@@ -1,14 +1,33 @@
 
-icom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*™
-1 (#d
-b
- (8
-%0java.lang.String"__id*8
+Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z’
+…/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaæ æ("1*ß
+1
+ç ç(E
+C
+
+ç ç(1
+%0float"__id*"
 
-__unknown_file (
-widget_medium_layout_id_"$
- (9
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+__unknown_file (
+""q
+o
+
+ç ç(1
+%1boolean"	__compare*
+
+ç ç(
+<=*
+
+ç ç(
+""*
+
+ç ç(1
+
+%0float"
+
+ç ç(2
+"": 
+
+__unknown_file (
+""BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

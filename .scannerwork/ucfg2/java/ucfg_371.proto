@@ -1,15 +1,14 @@
 
-Hcom.afollestad.aesthetic.AestheticBottomNavigationView$State$1#<init>()V
-__unknown_file ("startingBlock*Ú
-startingBlockõ
-é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java¡? ¡(@å
-â
-õ
-é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java¡? ¡(@
-%0"Function3#<init>()V*N
- (B@
->com.afollestad.aesthetic.AestheticBottomNavigationView$State$1"≥
-õ
-é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java¡? ¡(@
-implicit returnBB@
->com.afollestad.aesthetic.AestheticBottomNavigationView$State$1
+Hcom.simplecity.amp_library.utils.SettingsManager#displayRemainingTime()ZÇ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaN N('"1*¡
+1O O(ù
+ö
+O O(1
+%0java.lang.String"__id*p
+
+__unknown_file (T*R2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_DISPLAY_REMAINING_TIME"
+O O(9
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

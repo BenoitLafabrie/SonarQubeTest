@@ -1,1234 +1,32 @@
-≠
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#<init>()Vö
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt* ã("0*‚
-0* *(-°
-û
-, ,(2
-%0java.lang.Object"scom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#setDisposable(Lerror/NonExistentClass;)V*Z
-, ,(2NL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit returnBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHÀ
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getDisposable()Lerror/NonExistentClass;
-__unknown_file ("0*Â
-0 (¨
-©
- (
-fieldjava.lang.Object"__id*|
- (p*nL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"
-
-disposablejava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHÎ
-scom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#setDisposable(Lerror/NonExistentClass;)V
-__unknown_file ("0*›
-0 (¨
-©
- (nL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"
-
-disposablejava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH≈
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getSongsRepository()Lcom/simplecity/amp_library/data/SongsRepository;
-__unknown_file ("0*¿
-0 (Ú
-Ô
- (8
-field/com.simplecity.amp_library.data.SongsRepository"__id*¢
- (ï*íL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"B
-songsRepository/com.simplecity.amp_library.data.SongsRepositoryâ
-Ü
- (
-%0"
-__annotate* 
- (
-java.lang.Object*F
- (:
-8
-field/com.simplecity.amp_library.data.SongsRepositoryh
-f
- (8
-field/com.simplecity.amp_library.data.SongsRepository"__annotation*
- (
-
-%0"F
- (:
-8
-field/com.simplecity.amp_library.data.SongsRepositoryBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH„
-ëcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V
-__unknown_file ("0*ó
-0 (â
-Ü
- (
-%0"
-__annotate* 
- (
-java.lang.Object*F
- (:
-8
-value/com.simplecity.amp_library.data.SongsRepositoryh
-f
- (8
-value/com.simplecity.amp_library.data.SongsRepository"__annotation*
- (
-
-%0
-Ì
- (íL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"B
-songsRepository/com.simplecity.amp_library.data.SongsRepository"__id*F
- (:
-8
-value/com.simplecity.amp_library.data.SongsRepository"
- (
-implicit return:D
- (8
-value/com.simplecity.amp_library.data.SongsRepositoryBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHÖ
-pcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getSettingsManager()LSettingsManager;
-__unknown_file ("0*°
-0 (≤
-Ø
- (
-fieldjava.lang.Object"__id*Å
- (u*sL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"#
-settingsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
- (
-
-fieldjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH§
-qcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*ò
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0±
-Æ
- (sL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHá
-õcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getPlaylistManager()Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;
-__unknown_file ("0*˜
-0 (à
-Ö
- (C
-field:com.simplecity.amp_library.utils.playlists.PlaylistManager"__id*≠
- (†*ùL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"M
-playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManagerî
-ë
- (
-%0"
-__annotate* 
- (
-java.lang.Object*Q
- (E
-C
-field:com.simplecity.amp_library.utils.playlists.PlaylistManagers
-q
- (C
-field:com.simplecity.amp_library.utils.playlists.PlaylistManager"__annotation*
- (
-
-%0"Q
- (E
-C
-field:com.simplecity.amp_library.utils.playlists.PlaylistManagerBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH•
-úcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#setPlaylistManager(Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;)V
-__unknown_file ("0*√
-0 (î
-ë
- (
-%0"
-__annotate* 
- (
-java.lang.Object*Q
- (E
-C
-value:com.simplecity.amp_library.utils.playlists.PlaylistManagers
-q
- (C
-value:com.simplecity.amp_library.utils.playlists.PlaylistManager"__annotation*
- (
-
-%0Ü
-É
- (ùL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"M
-playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManager"__id*Q
- (E
-C
-value:com.simplecity.amp_library.utils.playlists.PlaylistManager"
- (
-implicit return:O
- (C
-value:com.simplecity.amp_library.utils.playlists.PlaylistManagerBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH∑
-kcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$OnSavePlaylistListener#<init>()Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt4 6("0*>
-04% 6("/
-
-__unknown_file (
-implicit returnBec
-acom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$OnSavePlaylistListenerHå
-_com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onAttach(LContext;)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt8 8("0*å
-08 8(L
-J
-: :(
-%0java.lang.Object"__id* 
-: :(
-java.lang.Object"/
-
-__unknown_file (
-implicit return:'
-8 8(+
-contextjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH»c
-kcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;õ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt= =("0*±`
-0= =(S
-Q
-?& ?([
-%0java.util.List"__id*)
-
-__unknown_file (
-	<unknown>d
-b
-? ?([
-
-songsToAddjava.util.List"__id*2
-
-__unknown_file (
-
-%0java.util.List]
-[
-A B(]
-
-customViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-C C(G
-editTextjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>ı
-Ú
-E E(
-%1java.lang.Object"rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getDisposable()Lerror/NonExistentClass;*Z
-E E(NL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog\
-Z
-T T(
-activityjava.lang.Object"__id**
-T T(
-
-activityjava.lang.Object[
-Y
-	V ï(*
-builderjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-
-ó ó($
-dialogjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>˝˙
-
-ô ø(	x
-%2rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0≠™
-
-__unknown_file (~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__ScopeWrapperÄ
-˝
-
-__unknown_file (û
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-
-songsToAddjava.util.List"__id*:
-
-__unknown_file (
-
-
-songsToAddjava.util.ListÑ
-Å
-
-__unknown_file (†
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-
-customViewjava.lang.Object"__id*<
-
-__unknown_file ( 
-
-
-customViewjava.lang.ObjectÄ
-˝
-
-__unknown_file (û
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-editTextjava.lang.Object"__id*:
-
-__unknown_file (
-
-editTextjava.lang.ObjectÄ
-˝
-
-__unknown_file (û
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-activityjava.lang.Object"__id*:
-
-__unknown_file (
-
-activityjava.lang.Object˛
-˚
-
-__unknown_file (ù
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-builderjava.lang.Object"__id*9
-
-__unknown_file (
-
-builderjava.lang.Object¸
-˘
-
-__unknown_file (ú
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-dialogjava.lang.Object"__id*8
-
-__unknown_file (
-
-dialogjava.lang.Objectî
-ë
-
-__unknown_file (®
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Objectî
-ë
-
-__unknown_file (ŒL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__id*ù
-
-__unknown_file (Ä
-~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vû
-õ
-
-ô ø(	
-%3"|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V*à
-
-ô ø(	z
-x
-%2rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0’“
-
-__unknown_file (•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"__ScopeWrapper®
-•
-
-__unknown_file (∆
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-
-songsToAddjava.util.List"__id*:
-
-__unknown_file (
-
-
-songsToAddjava.util.List¨
-©
-
-__unknown_file (»
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-
-customViewjava.lang.Object"__id*<
-
-__unknown_file ( 
-
-
-customViewjava.lang.Object®
-•
-
-__unknown_file (∆
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-editTextjava.lang.Object"__id*:
-
-__unknown_file (
-
-editTextjava.lang.Object®
-•
-
-__unknown_file (∆
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-activityjava.lang.Object"__id*:
-
-__unknown_file (
-
-activityjava.lang.Object¶
-£
-
-__unknown_file (≈
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-builderjava.lang.Object"__id*9
-
-__unknown_file (
-
-builderjava.lang.Object§
-°
-
-__unknown_file (ƒ
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"
-dialogjava.lang.Object"__id*8
-
-__unknown_file (
-
-dialogjava.lang.Objectº
-π
-
-__unknown_file (–
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Object‰
-·
-
-__unknown_file (ˆL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V"__id*≈
-
-__unknown_file (®
-•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)V—Œ
-
-__unknown_file (°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"__ScopeWrapper§
-°
-
-__unknown_file (¬
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-
-songsToAddjava.util.List"__id*:
-
-__unknown_file (
-
-
-songsToAddjava.util.List®
-•
-
-__unknown_file (ƒ
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-
-customViewjava.lang.Object"__id*<
-
-__unknown_file ( 
-
-
-customViewjava.lang.Object§
-°
-
-__unknown_file (¬
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-editTextjava.lang.Object"__id*:
-
-__unknown_file (
-
-editTextjava.lang.Object§
-°
-
-__unknown_file (¬
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-activityjava.lang.Object"__id*:
-
-__unknown_file (
-
-activityjava.lang.Object¢
-ü
-
-__unknown_file (¡
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-builderjava.lang.Object"__id*9
-
-__unknown_file (
-
-builderjava.lang.Object†
-ù
-
-__unknown_file (¿
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"
-dialogjava.lang.Object"__id*8
-
-__unknown_file (
-
-dialogjava.lang.Object∏
-µ
-
-__unknown_file (Ã
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Object‹
-Ÿ
-
-__unknown_file (ÚL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V"__id*¡
-
-__unknown_file (§
-°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)V√¿
-
-__unknown_file (ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"__ScopeWrapperñ
-ì
-
-__unknown_file (¥
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-
-songsToAddjava.util.List"__id*:
-
-__unknown_file (
-
-
-songsToAddjava.util.Listö
-ó
-
-__unknown_file (∂
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-
-customViewjava.lang.Object"__id*<
-
-__unknown_file ( 
-
-
-customViewjava.lang.Objectñ
-ì
-
-__unknown_file (¥
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-editTextjava.lang.Object"__id*:
-
-__unknown_file (
-
-editTextjava.lang.Objectñ
-ì
-
-__unknown_file (¥
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-activityjava.lang.Object"__id*:
-
-__unknown_file (
-
-activityjava.lang.Objectî
-ë
-
-__unknown_file (≥
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-builderjava.lang.Object"__id*9
-
-__unknown_file (
-
-builderjava.lang.Objectí
-è
-
-__unknown_file (≤
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"
-dialogjava.lang.Object"__id*8
-
-__unknown_file (
-
-dialogjava.lang.Object™
-ß
-
-__unknown_file (æ
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Object¿
-Ω
-
-__unknown_file (‰L
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V"__id*≥
-
-__unknown_file (ñ
-ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)V¡
-æ
-
-ô ø(	
-textWatcherjava.lang.Object"__id*à
-
-ô ø(	z
-x
-%2rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"*
-
-√ √(
-
-dialogjava.lang.Object:2
-=  =(;&
-savedInstanceStatejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHÏ
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.ktô ø(	"0*Œ
-
-0
-ô# ô(.¬
-ø
-
-__unknown_file (
-%0"__id*ñ
-
-__unknown_file (˘*ˆt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"~
-|com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÖ
-Ç
-
-__unknown_file (
-
-songsToAddjava.util.List"__id*B
-
-__unknown_file (&*$
-
-%0"
-
-songsToAddjava.util.Listâ
-Ü
-
-__unknown_file (
-
-customViewjava.lang.Object"__id*D
-
-__unknown_file ((*&
-
-%0"
-
-customViewjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-editTextjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-editTextjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-activityjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-activityjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-builderjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-builderjava.lang.ObjectÄ
-~
-
-__unknown_file (
-dialogjava.lang.Object"__id*@
-
-__unknown_file ($*"
-
-%0"
-dialogjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
-
-__unknown_file (
-implicit returnBvt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0H∫
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)Vù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.ktö ö(*"0*ˆ
-
-0
-ö ö(Í
-Á
-
-__unknown_file (
-%0"__id*æ
-
-__unknown_file (°*ût
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"•
-¢com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#beforeTextChanged(Ljava/lang/CharSequence;III)VÖ
-Ç
-
-__unknown_file (
-
-songsToAddjava.util.List"__id*B
-
-__unknown_file (&*$
-
-%0"
-
-songsToAddjava.util.Listâ
-Ü
-
-__unknown_file (
-
-customViewjava.lang.Object"__id*D
-
-__unknown_file ((*&
-
-%0"
-
-customViewjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-editTextjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-editTextjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-activityjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-activityjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-builderjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-builderjava.lang.ObjectÄ
-~
-
-__unknown_file (
-dialogjava.lang.Object"__id*@
-
-__unknown_file ($*"
-
-%0"
-dialogjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
-
-__unknown_file (
-implicit return:)
-
-ö+ ö(:
-sjava.lang.CharSequence:
-
-ö< ö(F
-startint:
-
-öH ö(R
-countint:
-
-öT ö(^
-afterintBvt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0H•
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)Vù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.ktü ü(&"0*ª
-2
-°: £(L
-J
-
-¢ ¢(S
-	isEnabledjava.lang.Object"__id*
-
-¢N ¢(S	
-falseW
-U
-
-__unknown_file (
-%2"__id*-
-
-¢B ¢(K
-
-	isEnabledjava.lang.Object*
-1*≤
-3
-£ π(K
-I
-
-§ §(R
-	isEnabledjava.lang.Object"__id*
-
-§N §(R
-true˘
-ˆ
-
-¶ ¶(
-%3java.lang.Object"rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#getDisposable()Lerror/NonExistentClass;*\
-
-¶ ¶(NL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogS
-Q
-
-__unknown_file (
-%2"__id*)
-
-__unknown_file (
-	<unknown>*
-1*Ø
-0
-ü ü(Ê
-„
-
-__unknown_file (
-%0"__id*∫
-
-__unknown_file (ù*öt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"°
-ûcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#onTextChanged(Ljava/lang/CharSequence;III)VÖ
-Ç
-
-__unknown_file (
-
-songsToAddjava.util.List"__id*B
-
-__unknown_file (&*$
-
-%0"
-
-songsToAddjava.util.Listâ
-Ü
-
-__unknown_file (
-
-customViewjava.lang.Object"__id*D
-
-__unknown_file ((*&
-
-%0"
-
-customViewjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-editTextjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-editTextjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-activityjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-activityjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-builderjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-builderjava.lang.ObjectÄ
-~
-
-__unknown_file (
-dialogjava.lang.Object"__id*@
-
-__unknown_file ($*"
-
-%0"
-dialogjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Objectà
-Ö
-
-†, †(6
-%1java.lang.String"5kotlin#toString(Ljava/lang/Object;)Ljava/lang/String;*(
-
-†' †(+
-
-textjava.lang.ObjectY
-W
-
-† †(6
-newTextjava.lang.String"__id*&
-
-†, †(6
-
-%1java.lang.String*
-2
-3*@
-1
-π ∫("/
-
-__unknown_file (
-implicit return:)
-
-ü' ü(6
-sjava.lang.CharSequence:
-
-ü8 ü(B
-startint:
-
-üD ü(O
-beforeint:
-
-üQ ü([
-countintBvt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0Hº
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)Vù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.ktº º()"0*‰
-
-0
-º º(ÿ
-’
-
-__unknown_file (
-%0"__id*¨
-
-__unknown_file (è*åt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0"ì
-êcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0#afterTextChanged(LEditable;)VÖ
-Ç
-
-__unknown_file (
-
-songsToAddjava.util.List"__id*B
-
-__unknown_file (&*$
-
-%0"
-
-songsToAddjava.util.Listâ
-Ü
-
-__unknown_file (
-
-customViewjava.lang.Object"__id*D
-
-__unknown_file ((*&
-
-%0"
-
-customViewjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-editTextjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-editTextjava.lang.ObjectÖ
-Ç
-
-__unknown_file (
-activityjava.lang.Object"__id*B
-
-__unknown_file (&*$
-
-%0"
-activityjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-builderjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-builderjava.lang.ObjectÄ
-~
-
-__unknown_file (
-dialogjava.lang.Object"__id*@
-
-__unknown_file ($*"
-
-%0"
-dialogjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
-
-__unknown_file (
-implicit return:#
-
-º* º(5
-sjava.lang.ObjectBvt
-rcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#onCreateDialog(LBundle;)LDialog;$class0H®
-~com.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#idForPlaylistObservable(Ljava/lang/String;)LSingle;ù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt∆ ∆("0*à
-0
-∆ ∆(-Z
-X
-
-« Ã(
-queryjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-
-Œ Œ(_
-	<unknown>:&
-
-∆  ∆(,
-namejava.lang.StringBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH˚
-ocom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#makePlaylistName()Ljava/lang/String;ù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt“ “("0*í
-0
-— —(]
-[
-
-‘ ‘(O
-templatejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>4
-2
-
-’ ’(
-
-numint"__id*
-
-’ ’(2Z
-X
-
-◊ €(
-queryjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-
-Ù Ù( BNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogHœ
-ccom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#show(LFragmentManager;)Vù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.kt˜ ˜("0*@
-0
-˜ ˜(."/
-
-__unknown_file (
-implicit return:1
-
-˜ ˜(-#
-fragmentManagerjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogH’
-ocom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Ë
-0 (Ø
-¨
- (
-fieldjava.lang.Object"__id*
- (s*qV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$CompanionHı
-pcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*‡
-0 (Ø
-¨
- (qV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$CompanionH‚
-ucom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion#getARG_SONGS()Ljava/lang/String;
-__unknown_file ("0*Ô
-0 (∂
-≥
- (
-fieldjava.lang.Object"__id*Ö
- (y*wV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion"
-	ARG_SONGSjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$CompanionHÅ
-vcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion#setARG_SONGS(Ljava/lang/String;)V
-__unknown_file ("0*Ê
-0 (µ
-≤
- (wV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion"
-	ARG_SONGSjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$CompanionHƒ	
-æcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$Companion#newInstance(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog;ù
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/CreatePlaylistDialog.ktÅ Å("0*’
-0
-Å Å(0≠™
-
-Ç! Ç(7P
-%0Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialogÕ
- 
-
-Ç! Ç(7
-%1"Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog#<init>()V*`
-
-Ç! Ç(7R
-P
-%0Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog’
-“
-
-Ç Ç(7\
-dialogFragmentJcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"__id*`
-
-Ç! Ç(7R
-P
-%0Jcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog"l
-
-à à(!^
-\
-dialogFragmentJcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog:*
-
-Å Å(/
-
-songsToAddjava.util.ListBX"V
-Tcom.simplecity.amp_library.ui.screens.playlist.dialog.CreatePlaylistDialog$CompanionH
+Ã
+ácom.simplecity.amp_library.utils.extensions#getSongsSingle(LAlbum;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumExt.kt
+
+ 
+("0*(
+0
+ 
+(	"
+ (	
+	<unknown>:Y
+
+ 
+(DM
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
++com.simplecity.amp_library.utils.extensionsHœ
+äcom.simplecity.amp_library.utils.extensions#getSongs(Ljava/util/List;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumExt.kt ("0*(
+0 ("
+ (.
+	<unknown>:Y
+ (9M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
++com.simplecity.amp_library.utils.extensionsHÕ
+àcom.simplecity.amp_library.utils.extensions#getSongsSingle(LSingle;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumExt.kt (&"0*(
+0 ("
+ (?
+	<unknown>:Y
+' (GM
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
++com.simplecity.amp_library.utils.extensionsH

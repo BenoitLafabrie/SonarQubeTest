@@ -1,3 +1,31 @@
-Hthis ("4com.simplecity.amp_library.services.DashClockService"
-
- r(*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java
+
+
+2int
+
+0int
+
+1intVthis
+
+ 
+("Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge"Ç5
+3
+ (["#new-object#2Constructor:Bint[]!
+
+ ("#unknown-value#2
+0
+ (#"#get-field# layout:B	!Unknown!?
+=
+ (7"!#get-field# widget_layout_large:B	!Unknown!$
+"
+ (["#array-write#:!
+
+9 (:	"#unknown-value#2
+0
+9 (A
+"#get-field# layout:	B	!Unknown!C
+A
+9 (Y"%##get-field# widget_layout_large_alt:
+B	!Unknown!$
+"
+ (["#array-write#:
+ (\*Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java

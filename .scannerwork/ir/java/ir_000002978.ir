@@ -1,7 +1,7 @@
-Uthis
-ò ò("?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragmentC?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"L8
-6
+Bthis
+” ”(",com.simplecity.amp_library.utils.FileBrowser"O;
+9
 
-ó ó("#get-field# TAG:Bjava.lang.String
+• •("#get-field# currentDir:Bjava.io.File
 
-ó ó(*‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java
+• •(*t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java

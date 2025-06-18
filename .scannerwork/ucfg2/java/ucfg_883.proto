@@ -1,78 +1,197 @@
 
--com.afollestad.aesthetic.Util#shiftColor(IF)IÅ
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaÃ Ã("3*%
+Hcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#processFile(IZ)Zâ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javal l("10*«
 2
-Õ Õ("
+Ü Ü('∞
+≠
 
-Õ Õ(
-""*É
+Ü Ü(4
+%12void"acom.simplecity.amp_library.ui.screens.tagger.TaggerTask#writeTempToDocumentFile(ILjava/io/File;)V*W
+
+__unknown_file (;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+tempjava.io.File*
+1*î
 3
-Õ Õ(
-j
-h
+Ö& Ö(*{
+y
 
-Õ Õ(
-%0boolean"	__compare*
+Ö& Ö(2
+%11boolean"	__compare*
 
-Õ Õ(
-==*
+Ö+ Ö(-
+!=*$
 
-Õ Õ(
-
-""*
+Ö& Ö(*
+
+tempjava.io.File*
 
-Õ Õ(
+Ö. Ö(2
 ""*
 2
-1*é
-1
-Œ Œ(m
-k
+1*˚
+4
+Ç Ç(·ﬁ
 
-– –(
-
-%1float"
-__arrayGet*"
+Ç Ç($
+%10"<com.simplecity.amp_library.model.TagUpdate#updateTag(LTag;)V*U
+
+__unknown_file (9
+7
+	tagUpdate*com.simplecity.amp_library.model.TagUpdate*"
 
 __unknown_file (
-""* 
+""2updateTag(LTag;)*
+3
+1*!
+5~ ~( "
+~ ~(!
+""*„
+6z z(%î
+ë
+z z(+
+%8java.io.File"dcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#createTempFile(Ljava/io/File;)Ljava/io/File;*W
 
-__unknown_file (2j
-h
-
-– –(
-%2"__calculate*
-
-– –(
-*=*
-
-– –(
-
-%1float*
-
-– –(
-""ã
-à
-
-– –(
-%3"
-__arraySet*"
+__unknown_file (;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*2
+
+__unknown_file (
+
+origjava.io.FileZ
+X
+z z(+
+tempjava.io.File"__id*0
+
+__unknown_file (
+
+%8java.io.FileY
+W
+} }(
+%9"	__compare*
+} }(
+==*
+} }(
+""*
+} }(
+""*
+4
+5*•
+7y y(ç
+ä
+yC y(H
+%7java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths*
+4
+6*°
+8u u(-å
+â
+u u(2
+%5"zcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#createTagUpdate(LTag;)Lcom/simplecity/amp_library/model/TagUpdate;*W
+
+__unknown_file (;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*"
 
 __unknown_file (
-""* 
-
-__unknown_file (2*"
+""o
+m
+u u(37
+	tagUpdate*com.simplecity.amp_library.model.TagUpdate"__id*"
 
 __unknown_file (
 
-%2"
+%5L
+J
+w w(
+tempjava.io.File"__id*"
+
+__unknown_file (
+""ª∏
+x x("
+%6boolean"8com.simplecity.amp_library.model.TagUpdate#hasChanged()Z*U
+
+__unknown_file (9
+7
+	tagUpdate*com.simplecity.amp_library.model.TagUpdate2hasChanged()*
+7
+1*!
+9r r("
+r r(
+""*ß
+10m m(!ç
+ä
+m m(!
+%0java.util.List"__id*b
+
+__unknown_file (F*D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+pathsâ
+Ü
+m m(,
+%1java.lang.String"
+__arrayGet*2
+
+__unknown_file (
+
+%0java.util.List*"
+
+__unknown_file (
+""b
+`
+m m(-
+pathjava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.String.,
+n n(
+%2java.io.File"java.io.Fileß
+§
+n n("
+%3"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%2java.io.File*6
+
+__unknown_file (
+
+pathjava.lang.StringZ
+X
+n n(#
+origjava.io.File"__id*0
+
+__unknown_file (
+
+%2java.io.FileY
+W
+q q(
+%4"	__compare*
+q q(
+==*
+q q(
+""*
+q q(
+""*
+8
+9*%
+1
+â â("
 
-— —(!
+â â(
 "": 
 
 __unknown_file (
 "": 
 
 __unknown_file (
-""B!"
-com.afollestad.aesthetic.UtilHX
+""B;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskX

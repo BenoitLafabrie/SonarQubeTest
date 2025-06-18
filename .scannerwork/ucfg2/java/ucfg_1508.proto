@@ -1,7 +1,149 @@
 
-Ccom.simplecity.amp_library.ui.modelviews.LoadingView#getViewType()IÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/LoadingView.java ("1*!
-1 ("
- (
-""B86
-4com.simplecity.amp_library.ui.modelviews.LoadingViewHX
+Ycom.simplecity.amp_library.ui.modelviews.FolderView#areContentsEqual(Ljava/lang/Object;)Zá
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java‘ ‘(#"startingBlock*%
+2
+◊3 ◊(8"
+
+◊, ◊(9
+""*é
+startingBlock
+‘# ‘(1é
+ã
+
+” ”(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+‘+ ‘(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+8*%
+4
+÷D ÷(I"
+
+÷= ÷(J
+""*˛
+5
+÷ ÷(%µ≤
+
+÷ ÷('
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView2
+getClass()ôñ
+
+÷+ ÷(;
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
+
+__unknown_file (
+
+otherjava.lang.Object2
+getClass()ç
+ä
+
+÷ ÷(;
+%4boolean"	__compare*
+
+÷( ÷(*
+!=*%
+
+÷ ÷('
+
+%2java.lang.Class*%
+
+÷+ ÷(;
+
+%3java.lang.Class*	
+2
+4
+1*ò
+6
+÷ ÷(
+}
+
+÷ ÷(
+%1boolean"	__compare*
+
+÷ ÷(
+==*)
+
+÷ ÷(
+
+otherjava.lang.Object*
+
+÷ ÷(
+""*
+4
+5*%
+7
+’" ’(&"
+
+’ ’('
+""*À
+8
+’ ’(±
+Æ
+
+’ ’(
+%0boolean"	__compare*
+
+’ ’(
+==*E
+
+’ ’(75
+3com.simplecity.amp_library.ui.modelviews.FolderView*)
+
+’ ’(
+
+otherjava.lang.Object*
+6
+7*≠
+1
+Ÿ Ÿ(µ
+≤
+
+Ÿ Ÿ(5
+%5/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObjectô
+ñ
+
+Ÿ% Ÿ(H5
+%6/com.simplecity.amp_library.model.BaseFileObject"__id*K
+
+__unknown_file (/*-
+
+otherjava.lang.Object"
+baseFileObject±Æ
+
+Ÿ Ÿ(I
+%7boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
+
+__unknown_file (7
+5
+%5/com.simplecity.amp_library.model.BaseFileObject*S
+
+__unknown_file (7
+5
+%6/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)"
+
+Ÿ Ÿ(J
+"":'
+
+‘$ ‘(0
+otherjava.lang.ObjectB75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

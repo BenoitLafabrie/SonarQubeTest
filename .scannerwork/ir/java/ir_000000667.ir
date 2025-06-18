@@ -1,8 +1,54 @@
-$backgroundColor
-Õ- Õ(@"int"®ì
-ê
 
-Œ Œ(G"a
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateLuminance(I)D2calculateLuminance:Bdouble
+100int
 
-Œ Œ(H*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+0int
+
+1int
+
+2int	baseColor
+í, í(9"intamount
+í; í(E"int"±ú
+ô
+
+ì  ì(Jresult"b
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatgetTempDouble3Array()[D2getTempDouble3ArrayBdouble[]Ñ
+Å
+
+î î(:"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcolorToLAB(I[D)V2
+colorToLAB:Bvoid$
+"
+
+ï+ ï(4"#array-read#:,
+*
+
+ï+ ï(="	#binop +#2+:Bdouble@
+>
+
+ï ï(>	"
+java.lang.Mathmin(DD)D*2min:Bdouble@
+>
+
+ï ï(B
+"
+java.lang.Mathmax(DD)D*2max:	Bdouble&
+$
+
+ï ï(B"#array-write#:
+$
+"
+
+ñ/ ñ(8"#array-read#:$
+"
+
+ñ: ñ(C"#array-read#:$
+"
+
+ñE ñ(N"#array-read#:Ñ
+Å
+
+ñ ñ(O"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatlabToColor(DDD)I2
+labToColor:Bint
+
+ñ ñ(P*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

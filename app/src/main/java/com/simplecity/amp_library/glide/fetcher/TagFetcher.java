@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 public class TagFetcher extends BaseFetcher {
 
-    String TAG = "TagFetcher";
+    String tag = "TagFetcher";
 
     public TagFetcher(ArtworkProvider artworkProvider) {
         super(artworkProvider);
@@ -13,7 +13,7 @@ public class TagFetcher extends BaseFetcher {
 
     @Override
     protected String getTag() {
-        return TAG;
+        return tag;
     }
 
     @Override

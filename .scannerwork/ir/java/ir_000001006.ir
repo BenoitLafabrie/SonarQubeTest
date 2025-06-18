@@ -1,3 +1,30 @@
-Fthis ("2com.simplecity.amp_library.http.lastfm.LastFmTrack"
-
- (*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java
+
+32int
+31intIthis   ("5com.simplecity.amp_library.sql.legacy.BlacklistedSong"š)
+'
+! !("#get-field# id:Blong)
+'
+!" !($"#get-field# id:Blong,
+*
+!" !(+"#binop >>>#2>>>:Blong(
+&
+! !(,"	#binop ^#2^:Blong(
+&
+! !(-result"#cast#:Bint'
+%
+" "(	"	#binop *#2*:Bint-
++
+"& "(,
+"#get-field# songId:Blong-
++
+"0 "(6"#get-field# songId:Blong,
+*
+"0 "(="#binop >>>#2>>>:Blong(
+&
+"& "(>"	#binop ^#2^:
+Blong 
+
+" "(?"#cast#:Bint/
+-
+" "(?result"	#binop +#2+:	Bint
+# #(*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/BlacklistedSong.java

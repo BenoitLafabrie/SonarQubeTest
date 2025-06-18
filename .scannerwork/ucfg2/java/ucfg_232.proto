@@ -1,34 +1,40 @@
 
-Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Z†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÙ Ù("1*û
+Mcom.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)Z†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java¿ ¿(0"1* 
 1
-Ú Ú(!à
-Ý
+À À(„
+
 
-Ú Ú(2
-%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D*R
+À À(N
+%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D*R
 
 __unknown_file (6"4
 2com.simplecity.amp_library.utils.color.ColorHelper*"
 
 __unknown_file (
-""q
-o
+""*"
+
+__unknown_file (
+""r
+p
 
-Ú Ú(9
-%1boolean"	__compare*
+À À(U
+%1boolean"	__compare*
 
-Ú3 Ú(4
->*
+ÀO À(Q
+>=*
 
-Ú Ú(2
+À À(N
 
 %0double*
 
-Ú5 Ú(9
+ÀR À(U
 """
 
-Ú Ú(:
+À À(V
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

@@ -1,156 +1,24 @@
-Ê
-Icom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#<init>()Vé
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt  ("0*>
-0  ("/
+Ç
+Rcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContract#<init>()Vò
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/menu/AlbumArtistMenuContract.kt ("0*>
+0" ("/
 
 __unknown_file (
-implicit returnBCA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksHƒ
-êcom.simplecity.amp_library.utils.menu.album#createPlaylistFromAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt" "(0"0*>
-0" "("/
+implicit returnBLJ
+Hcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContractHé
+Wcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContract$View#<init>()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/menu/AlbumArtistMenuContract.kt
+ ("0*>
+0
+ ("/
 
 __unknown_file (
-implicit return:&
-"1 "(L
-albumsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumHÛ
-ïcom.simplecity.amp_library.utils.menu.album#addAlbumsToPlaylist(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LPlaylist;LSingle;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt& &(+"0*>
-0& &("/
+implicit returnBQO
+Mcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContract$ViewHò
+\com.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContract$Presenter#<init>()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/menu/AlbumArtistMenuContract.kt (2"0*>
+0 (2"/
 
 __unknown_file (
-implicit return:(
-&, &(>
-playlistjava.lang.Object:&
-&@ &([
-albumsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH∫
-Ücom.simplecity.amp_library.utils.menu.album#playAlbumsNext(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt* *(&"0*>
-0* *("/
-
-__unknown_file (
-implicit return:&
-*' *(B
-albumsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumHº
-àcom.simplecity.amp_library.utils.menu.album#addAlbumsToQueue(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt. .(("0*>
-0. .("/
-
-__unknown_file (
-implicit return:&
-.) .(D
-albumsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH∏
-Ñcom.simplecity.amp_library.utils.menu.album#deleteAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt2 2($"0*>
-02 2("/
-
-__unknown_file (
-implicit return:&
-2% 2(@
-albumsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH›
-Öcom.simplecity.amp_library.utils.menu.album#playAlbumsNext(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt6 6(&"0*‚
-06 6(°û
-7 7(!
-%0kotlin.Unit"acom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#playAlbumsNext(Ljava/util/List;)V*O
-7 7(!CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
-
-__unknown_file (
-	<unknown>2 playAlbumsNext(Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:%
-6' 6(3
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH˚
-ècom.simplecity.amp_library.utils.menu.album#createPlaylistFromAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt: :(0"0*ˆ
-0: :(µ≤
-; ;(+
-%0kotlin.Unit"kcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#createPlaylistFromAlbums(Ljava/util/List;)V*O
-; ;(+CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
-
-__unknown_file (
-	<unknown>2*createPlaylistFromAlbums(Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:%
-:1 :(=
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH‡
-îcom.simplecity.amp_library.utils.menu.album#addAlbumsToPlaylist(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LPlaylist;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt> >(+"0*¨
-0> >(ÎË
-? ?(0
-%0kotlin.Unit"pcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#addAlbumsToPlaylist(LPlaylist;Ljava/util/List;)V*O
-? ?(0CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks**
-? ?( 
-
-playlistjava.lang.Object*)
-
-__unknown_file (
-	<unknown>2/addAlbumsToPlaylist(LPlaylist;Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:(
->, >(>
-playlistjava.lang.Object:%
->@ >(L
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH„
-ácom.simplecity.amp_library.utils.menu.album#addAlbumsToQueue(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktB B(("0*Ê
-0B B(•¢
-C C(#
-%0kotlin.Unit"ccom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#addAlbumsToQueue(Ljava/util/List;)V*O
-C C(#CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
-
-__unknown_file (
-	<unknown>2"addAlbumsToQueue(Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:%
-B) B(5
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH‡
-Ücom.simplecity.amp_library.utils.menu.album#blacklistAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktF F('"0*‰
-0F F(£†
-G G("
-%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#blacklistAlbums(Ljava/util/List;)V*O
-G G("CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
-
-__unknown_file (
-	<unknown>2!blacklistAlbums(Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:%
-F( F(4
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH◊
-Écom.simplecity.amp_library.utils.menu.album#deleteAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktJ J($"0*ﬁ
-0J J(ùö
-K K(
-%0kotlin.Unit"_com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#deleteAlbums(Ljava/util/List;)V*O
-K K(CA
-?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
-
-__unknown_file (
-	<unknown>2deleteAlbums(Ljava/util/List;)"/
-
-__unknown_file (
-implicit return:%
-J% J(1
-albumjava.lang.ObjectB/"-
-+com.simplecity.amp_library.utils.menu.albumH
+implicit returnBVT
+Rcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuContract$PresenterH

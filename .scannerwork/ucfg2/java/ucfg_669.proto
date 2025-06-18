@@ -1,49 +1,52 @@
 
-›com.simplecity.amp_library.ui.screens.folders.FolderFragment#newInstance(Ljava/lang/String;Z)Lcom/simplecity/amp_library/ui/screens/folders/FolderFragment;‘
-„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java¨! ¨(,"1*¹
+Ucom.afollestad.aesthetic.Aesthetic#colorAccent(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaé é("1*²
 1
-©" ©(6‘Ž
+ê ê(]
+[
 
-©& ©(4B
-%0<com.simplecity.amp_library.ui.screens.folders.FolderFragment"<com.simplecity.amp_library.ui.screens.folders.FolderFragment¿
-¼
-
-©" ©(6
-%1"Fcom.simplecity.amp_library.ui.screens.folders.FolderFragment#<init>()V*`
+ê ê(/
+%0java.lang.String"__id*/
 
-__unknown_file (D
-B
-%0<com.simplecity.amp_library.ui.screens.folders.FolderFragmentÁ
-¾
+__unknown_file (
+accent_color_%sÂ
+¿
 
-© ©(7H
-fragment<com.simplecity.amp_library.ui.screens.folders.FolderFragment"__id*`
+ê1 ê(=
+%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
 
-__unknown_file (D
-B
-%0<com.simplecity.amp_library.ui.screens.folders.FolderFragmentS
-Q
-
-« «( 
-%2java.lang.String"__id*%
+__unknown_file (&"$
+"com.afollestad.aesthetic.Aesthetic*"
 
-__unknown_file (	
-title_
-]
+__unknown_file (
+""ó
+ð
 
-¬ ¬(-
-%3java.lang.String"__id*1
+ê ê(>
+%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
 
-__unknown_file (
-displayed_in_tabs"X
+__unknown_file ("
+java.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+
+%1Q
+O
 
-® ®(J
-H
-fragment<com.simplecity.amp_library.ui.screens.folders.FolderFragment:'
+ê ê(?
+keyjava.lang.String"__id*"
+
+__unknown_file (
+
+%2"4
 
-¨- ¨(:
-titlejava.lang.String: 
+ì ì(&$
+"com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (
-""B@">
-<com.simplecity.amp_library.ui.screens.folders.FolderFragmentH
+""B&$
+"com.afollestad.aesthetic.AestheticH

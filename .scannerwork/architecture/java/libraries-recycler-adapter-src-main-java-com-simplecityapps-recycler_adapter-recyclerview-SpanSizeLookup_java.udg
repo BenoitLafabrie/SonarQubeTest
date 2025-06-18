@@ -1,13 +1,13 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251131390*java2.Bê	
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255146608*java2.B∫	
 r
 mlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/SpanSizeLookup.java2
 
 package4
 5
 0com.simplecityapps.recycler_adapter.recyclerview5
-D
-?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup7
+J
+Ecom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup7
 
 
 class8
@@ -17,8 +17,8 @@ D
 public10
 
 simple name11
-
-SpanSizeLookup12
+
+CustomSpanSizeLookup12
 /
 )Recovered#typeBindingLGridLayoutManager;014
 
@@ -28,8 +28,8 @@ D
 
 
 uses17
-V
-Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup.viewModelAdapter19
+\
+Vcom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup.viewModelAdapter19
 
 field20
 
@@ -40,12 +40,12 @@ Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup.viewModelAdapte
 ViewModelAdapter24
 
 is type25
-O
-Icom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup.spanCount27
+U
+Ocom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup.spanCount27
 
 	spanCount28
-b
-\com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#<init>(LViewModelAdapter;I)V30
+h
+bcom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup#<init>(LViewModelAdapter;I)V30
 
 method31
 .
@@ -57,12 +57,12 @@ b
 
 
 references36
-V
-Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#setSpanCount(I)V38
+\
+Vcom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup#setSpanCount(I)V38
 
 setSpanCount39
-U
-Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I41
+[
+Ucom.simplecityapps.recycler_adapter.recyclerview.CustomSpanSizeLookup#getSpanSize(I)I41
 
 getSpanSize42
 '
@@ -73,6 +73,19 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 
 3	
 354j’
+9
+64
+678 *
+1
+ 
+(":3B
+	
+9
+10
+
+
+11
+12
 @
 26:
 262720 *
@@ -85,17 +98,6 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 11
 28
 @
-40:
-404131 *
-1 (26:3B
-	
-9
-10
-
-
-11
-42
-@
 29:
 293031 *
 1 (26:3B
@@ -106,36 +108,6 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 
 11
 12
-
-13
-131415
-
-32
-323315
-9
-64
-678 *
-1
- 
-(:3B
-	
-9
-10
-
-
-11
-12
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
 @
 37:
 373831 *
@@ -147,6 +119,34 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 
 11
 39
+@
+40:
+404131 *
+1 (26:3B
+	
+9
+10
+
+
+11
+42
+
+13
+131415
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+32
+323315
 
 43
 434415
@@ -156,18 +156,18 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 
 61316*
 1
-% 
-(6
++ 
+(<
 
 61317*
 1
-% 
-(6
++ 
+(<
 
 61317*
 1
-7 
-(E
+= 
+(K
 
 182325*
 1 (
@@ -179,16 +179,16 @@ Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I
 1 (.
 
 293234*
-1 (+
+1! (1
 
 29635*
-1 (
+1 ( 
 
 293225*
-1, (<
+12 (B
 
 293217*
-1 (+
+1! (1
 
 29617*
 1	 (

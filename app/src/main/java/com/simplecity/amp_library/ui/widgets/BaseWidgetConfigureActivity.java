@@ -82,12 +82,11 @@ public abstract class BaseWidgetConfigureActivity extends BaseActivity implement
 
     private Button backgroundColorButton;
     private Button textColorButton;
-    private SizableSeekBar seekBar;
+    // Removed seekBar field as per recommendation
 
     private int backgroundColor;
     private int textColor;
     private boolean showAlbumArt;
-    private boolean invertIcons;
 
     SparseArray<Fragment> registeredFragments = new SparseArray<>();
 
@@ -154,7 +153,7 @@ public abstract class BaseWidgetConfigureActivity extends BaseActivity implement
         CheckBox invertedIconsCheckbox = findViewById(R.id.checkBox2);
         invertedIconsCheckbox.setOnCheckedChangeListener(this);
 
-        seekBar = findViewById(R.id.seekBar1);
+        SizableSeekBar seekBar = findViewById(R.id.seekBar1);
         seekBar.setOnSeekBarChangeListener(this);
 
         updateWidgetUI();
@@ -180,10 +179,10 @@ public abstract class BaseWidgetConfigureActivity extends BaseActivity implement
             prefs.edit().putBoolean(BaseWidgetProvider.ARG_WIDGET_SHOW_ARTWORK + appWidgetId, showAlbumArt).apply();
         }
         if (compoundButton.getId() == R.id.checkBox2) {
-            invertIcons = checked;
+        if (compoundButton.getId() == R.id.checkBox2) {
+            boolean invertIcons = checked;
             prefs.edit().putBoolean(BaseWidgetProvider.ARG_WIDGET_INVERT_ICONS + appWidgetId, invertIcons).apply();
         }
-        updateWidgetUI();
     }
 
     @Override
@@ -291,7 +290,7 @@ public abstract class BaseWidgetConfigureActivity extends BaseActivity implement
 
         @Override
         public CharSequence getPageTitle(int position) {
-            return "Layout " + String.valueOf(position + 1);
+            return "Layout " + (position + 1);
         }
 
         @Override

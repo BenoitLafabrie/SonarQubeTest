@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251130137*java2.BÉ
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255145250*java2.B»
 _
 Zlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticTextInputEditText.java2
 
@@ -128,21 +128,13 @@ Kcom.afollestad.aesthetic.AestheticTextInputEditText#onDetachedFromWindow()V92
 Q
 Kcom.afollestad.aesthetic.AestheticTextInputEditText#refreshDrawableState()V95
 
-refreshDrawableState96
-;
-5com.afollestad.aesthetic.AestheticTextInputEditText$298
-C
-<com.afollestad.aesthetic.AestheticTextInputEditText$2#run()V100
-
-
-run101J
+refreshDrawableState96J
 
 1
 12Z
 
 3	
-354jí
-
+354jò	
 A
 83;
 838436 *
@@ -190,13 +182,6 @@ A
 32
 323315
 4
-97.
-97988 *
-1Z Z(294:3B
-	
-9
-58
-4
 81.
 81828 *
 1F2 F(3256:3B
@@ -206,16 +191,6 @@ A
 
 75
 757615
-C
-99=
-9910036 *
-1[ [(297:3B
-	
-9
-10
-
-11
-101
 
 13
 131415
@@ -368,7 +343,7 @@ C
 899015
 
 43
-434415r
+434415r¤
 
 61316*
 11 (B
@@ -731,15 +706,3 @@ C
 
 942945*
 1X	 X(
-
-99645*
-1] ](
-
-995140*
-1] ](
-
-993217*
-1]  ]()
-
-992945*
-1]  ]()

@@ -1,22 +1,9 @@
 
-_com.afollestad.aesthetic.Aesthetic#textColorSecondaryRes(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java• •(("1*š
+[com.simplecity.amp_library.ui.screens.main.LibraryController#screenName()Ljava/lang/String;‘
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/LibraryController.java³ ³("1*4
 1
-– –(òï
+´ ´(""#
 
-– –(E
-%0"\com.afollestad.aesthetic.Aesthetic#textColorSecondary(I)Lcom/afollestad/aesthetic/Aesthetic;*B
-
-__unknown_file (&$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""2textColorSecondary(I)"
-
-– –(F
-
-%0: 
-
-__unknown_file (
-""B&$
-"com.afollestad.aesthetic.AestheticH
+´ ´(#
+LibraryControllerB@>
+<com.simplecity.amp_library.ui.screens.main.LibraryController

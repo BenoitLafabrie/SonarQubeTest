@@ -1,75 +1,89 @@
 
-[com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeAlpha(II)I†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaý ý()"1*Â
+\com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeColors(II)I†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaØ Ø(""1*›
 1
-þ þ(f
-d
+Ù Ù(¨
+¥
 
-þ þ(3	
-%0int"__calculate*
+Û Û(4	
+%0int"[com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeAlpha(II)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""–
+“
 
-þ" þ(#
--*
+Ý Þ(6
+%1"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""–
+“
 
-þ þ(!2ÿ*
+ß à(8
+%2"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""–
+“
 
-þ$ þ(3
-""f
-d
+á â(7
+%3"bcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeComponent(IIIII)I*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
 
-þ8 þ(N	
-%1int"__calculate*
-
-þ= þ(>
--*
-
-þ8 þ(<2ÿ*
-
-þ? þ(N
-""q
-o
-
-þ þ(O	
-%2int"__calculate*
-
-þ5 þ(6
-**
-
-þ þ(4
-	
-%0int*
-
-þ7 þ(O
-	
-%1intk
-i
-
-þ þ(W	
-%3int"__calculate*
-
-þQ þ(R
-/*
-
-þ þ(P
-	
-%2int*
-
-þS þ(W2ÿk
-i
-
-þ þ(X	
-%4int"__calculate*
-
-þ þ(
--*
-
-þ þ(2ÿ*
-
-þ þ(X
-	
-%3int"
-
-þ þ(Y
+ä ä(*
 "": 
 
 __unknown_file (

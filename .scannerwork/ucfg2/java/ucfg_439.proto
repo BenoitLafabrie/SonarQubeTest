@@ -1,16 +1,7 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#getDefaultPageType()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java» »(!"1*
-1
-¼ ¼(Z
-X
-
-¼ ¼(&
-%0java.lang.String"__id*,
-
-__unknown_file (
-default_page"
-
-¼ ¼(C
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+Ncom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#getLayoutResId()I
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java. .("1*!
+1/ /("
+/ /()
+""B@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

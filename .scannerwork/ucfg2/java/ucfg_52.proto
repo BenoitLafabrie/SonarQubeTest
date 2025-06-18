@@ -1,17 +1,15 @@
 
-Écom.simplecity.amp_library.model.AlbumArtist$Builder#name(Ljava/lang/String;)Lcom/simplecity/amp_library/model/AlbumArtist$Builder;~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaD D("1*„
-1E E(ç
-ä
-E E(@6
-4com.simplecity.amp_library.model.AlbumArtist$Builder"
-name"__id*6
+Ncom.simplecity.amp_library.model.AlbumArtist#getArtworkKey()Ljava/lang/String;~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaL L("1*π
+1M M(É
+Ä
+M M(
+%0java.lang.String"__id*V
 
-__unknown_file (
-
-namejava.lang.String"D
-F F(86
-4com.simplecity.amp_library.model.AlbumArtist$Builder:$
-D D('
-namejava.lang.StringB86
-4com.simplecity.amp_library.model.AlbumArtist$BuilderH
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+name"$
+M M(
+
+%0java.lang.StringB0.
+,com.simplecity.amp_library.model.AlbumArtistH

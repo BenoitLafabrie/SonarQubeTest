@@ -1,12 +1,29 @@
 
-icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;¨
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaü ü("1*%
-1
-ý ý("
-
-ý ý(0
+;com.simplecity.amp_library.utils.ResourceUtils#toPixels(F)I€
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ResourceUtils.java ("1*Ù
+1! (*Z
+X
+ (5
+%0"__calculate*
+/ (0
+/*
+ (.
+""*
+1 (5
+""Z
+X
+ (6
+%1"__calculate*
+ (
+**
+ (
+""*
+ (6
+
+%0"
+ (8
 "": 
 
 __unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback
+""B2"0
+.com.simplecity.amp_library.utils.ResourceUtilsHX

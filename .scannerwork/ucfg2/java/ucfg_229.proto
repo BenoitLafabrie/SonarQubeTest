@@ -1,20 +1,54 @@
 
-Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÍ Í(,"1*²
-1
-Î Î(#Š
+Dcom.simplecity.amp_library.utils.color.ColorHelper#shouldUseDark(I)Z†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java¯ ¯(("3*”
+2
+² ²(*Š
 ‡
 
-Î Î(G
-%0double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)D*g
+² ²(N
+%1double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)D*g
 
 __unknown_file (K"I
 Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 
 __unknown_file (
-"""
+""q
+o
 
-Î Î(H
+² ²(T
+%2boolean"	__compare*
+
+²O ²(P
+>*
+
+² ²(N
+
+%1double*
+
+²Q ²(T
+""*
+1*z
+3
+° °()a
+_
+
+° °(G
+%0"	__compare*
+
+°* °(,
+==*
+
+° °()
+""*
+
+°- °(G
+""*
+2
+1*%
+1
+´ ´("
+
+´ ´(
 "": 
 
 __unknown_file (

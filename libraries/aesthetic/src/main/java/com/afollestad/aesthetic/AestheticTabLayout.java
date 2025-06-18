@@ -99,9 +99,7 @@ public class AestheticTabLayout extends TabLayout {
               .blockingFirst();
       ViewBackgroundAction.create(AestheticTabLayout.this).accept(primaryColor);
 
-      getHandler().postDelayed(new Runnable() {
-          @Override
-          public void run() {
+      getHandler().postDelayed(() -> {
 
               ActiveInactiveColors activeInactiveColors = Aesthetic.get(getContext())
                       .colorIconTitle(Observable.just(primaryColor))
@@ -110,7 +108,6 @@ public class AestheticTabLayout extends TabLayout {
               setTabTextColors(
                       adjustAlpha(activeInactiveColors.inactiveColor(), UNFOCUSED_ALPHA),
                       activeInactiveColors.activeColor());
-          }
       }, 50);
       // End workaround
 

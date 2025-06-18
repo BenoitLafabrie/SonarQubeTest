@@ -1,17 +1,9 @@
 
-Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtworkFiles()Ljava/util/List;Ä
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaú ú(+"1*«
+Tcom.simplecity.amp_library.model.AlbumArtist#getFolderArtwork()Ljava/io/InputStream;Ä
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java† †('"1*%
 1
-ù ù(è
-å
+° °("
 
-ù ù(&
-%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
-
-__unknown_file ("
-java.util.Collections"$
-
-ù ù('
-
-%0java.util.ListB0.
+° °(
+""B0.
 ,com.simplecity.amp_library.model.AlbumArtistH

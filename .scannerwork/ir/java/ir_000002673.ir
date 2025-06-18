@@ -1,6 +1,8 @@
-Fthis6 6("2com.simplecity.amp_library.ui.modelviews.GenreView"f!
-
-7 7("#unknown-value#1
-/
-7 7("#get-field# GENRE:B	!Unknown!
-7 7(*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java
+Athis
+ ("-com.afollestad.aesthetic.ActiveInactiveColorsactiveColor (8"int inactiveColor: (U"int"n-
++
+ (""#set-field# activeColor:/
+-
+ (&"#set-field# inactiveColor:
+
+ (*…/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java

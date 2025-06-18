@@ -1,104 +1,305 @@
-á
-Ucom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getTAG()Ljava/lang/String;
-__unknown_file ("0*Œ
-0 (ï
-í
+∞
+kcom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderMedium()LWidgetProviderMedium;
+__unknown_file ("0*‡
+0 (ß
+§
  (
-fieldjava.lang.Object"__id*e
- (Y*W<
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils"
-TAGjava.lang.Object"'
+fieldjava.lang.Object"__id*w
+ (k*i=
+;com.simplecity.amp_library.playback.constants.WidgetManager"(
+widgetProviderMediumjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHß
-Vcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*∆
-0 (ï
-í
- (W<
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils"
-TAGjava.lang.Object"__id*'
+fieldjava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH–
+lcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderMedium(LWidgetProviderMedium;)V
+__unknown_file ("0*ÿ
+0 (ß
+§
+ (i=
+;com.simplecity.amp_library.playback.constants.WidgetManager"(
+widgetProviderMediumjava.lang.Object"__id*'
  (
 
 valuejava.lang.Object"
  (
 implicit return:%
  (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH≠
+valuejava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH≠
+icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderSmall()LWidgetProviderSmall;
+__unknown_file ("0*ﬂ
+0 (¶
+£
+ (
+fieldjava.lang.Object"__id*v
+ (j*h=
+;com.simplecity.amp_library.playback.constants.WidgetManager"'
+widgetProviderSmalljava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerHÕ
+jcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderSmall(LWidgetProviderSmall;)V
+__unknown_file ("0*◊
+0 (¶
+£
+ (h=
+;com.simplecity.amp_library.playback.constants.WidgetManager"'
+widgetProviderSmalljava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH≠
+icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderLarge()LWidgetProviderLarge;
+__unknown_file ("0*ﬂ
+0 (¶
+£
+ (
+fieldjava.lang.Object"__id*v
+ (j*h=
+;com.simplecity.amp_library.playback.constants.WidgetManager"'
+widgetProviderLargejava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerHÕ
+jcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderLarge(LWidgetProviderLarge;)V
+__unknown_file ("0*◊
+0 (¶
+£
+ (h=
+;com.simplecity.amp_library.playback.constants.WidgetManager"'
+widgetProviderLargejava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerHº
+scom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderExtraLarge()LWidgetProviderExtraLarge;
+__unknown_file ("0*‰
+0 (´
+®
+ (
+fieldjava.lang.Object"__id*{
+ (o*m=
+;com.simplecity.amp_library.playback.constants.WidgetManager",
+widgetProviderExtraLargejava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH‹
+tcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderExtraLarge(LWidgetProviderExtraLarge;)V
+__unknown_file ("0*‹
+0 (´
+®
+ (m=
+;com.simplecity.amp_library.playback.constants.WidgetManager",
+widgetProviderExtraLargejava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerHÑ
+ücom.simplecity.amp_library.playback.constants.WidgetManager#<init>(LWidgetProviderMedium;LWidgetProviderSmall;LWidgetProviderLarge;LWidgetProviderExtraLarge;)Vå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ('"0*∞
 
-ócom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setupAlbumMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;Z)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt ("0*≥
-2 (	H
-F
- (<
-	isVisiblejava.lang.Object"__id*
-7 (<	
-falseU
-S
+0 (∏
+µ
+ (:
+%0java.lang.Object"lcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderMedium(LWidgetProviderMedium;)V*[
 
-__unknown_file (
-%1"__id*+
-+ (4
-
-	isVisiblejava.lang.Object*
-1*ù
-0 (oÖ
-Ç
- (
-%0boolean"kotlin.Boolean#not()Z*'
- (
-
-showGoToArtistboolean*'
- (
-
-showGoToArtistboolean*
-2
-1*π
-1	 (Z
-X
- (D
-subMenujava.lang.Object"__id*)
-= (D
-
-subMenujava.lang.Objectú
-ô
- (6
-%2java.lang.Object"gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;*a
- (U
-S
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
-. (5
-
-subMenujava.lang.Object"/
+__unknown_file (?=
+;com.simplecity.amp_library.playback.constants.WidgetManager*F
+
+__unknown_file (*
+(
+widgetProviderMediumjava.lang.Objectµ
+≤
+ (8
+%1java.lang.Object"jcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderSmall(LWidgetProviderSmall;)V*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.playback.constants.WidgetManager*E
+
+__unknown_file ()
+'
+widgetProviderSmalljava.lang.Objectµ
+≤
+ (8
+%2java.lang.Object"jcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderLarge(LWidgetProviderLarge;)V*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.playback.constants.WidgetManager*E
+
+__unknown_file ()
+'
+widgetProviderLargejava.lang.Objectƒ
+¡
+ (B
+%3java.lang.Object"tcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderExtraLarge(LWidgetProviderExtraLarge;)V*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.playback.constants.WidgetManager*J
+
+__unknown_file (.
+,
+widgetProviderExtraLargejava.lang.Object"/
 
 __unknown_file (
-implicit return:$
- (&
-menujava.lang.Object:_
-( (NS
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper:%
-P (n
-showGoToArtistbooleanB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH 
-¿com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LToolbar.OnMenuItemClickListener;ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt (!"0*(
-0! (f"
- 6(	
-	<unknown>:.
-" (E"
-selectedAlbumsjava.lang.Object:X
-G (eL
-	callbacks?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH¬
-¡com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LAlbum;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt9 9(!"0*(
-09! 9(O"
-: j(	
-	<unknown>:%
-9" 9(.
-albumjava.lang.Object:X
-90 9(NL
-	callbacks?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH
+implicit return:4
+ (:(
+widgetProviderMediumjava.lang.Object:3
+ (8'
+widgetProviderSmalljava.lang.Object:3
+ (8'
+widgetProviderLargejava.lang.Object:8
+ (B,
+widgetProviderExtraLargejava.lang.ObjectB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH«
+ucom.simplecity.amp_library.playback.constants.WidgetManager#processCommand(LMusicService;LIntent;Ljava/lang/String;)Vå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ("0*®
+36 (_
+]
+ (` 
+appWidgetIdsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>›
+⁄
+ (#
+%1java.lang.Object"icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderSmall()LWidgetProviderSmall;*K
+ (#?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerS
+Q
+
+__unknown_file (
+%0"__id*)
+
+__unknown_file (
+	<unknown>*
+1*™
+57 "(_
+]
+   (` 
+appWidgetIdsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>ﬂ
+‹
+! !($
+%2java.lang.Object"kcom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderMedium()LWidgetProviderMedium;*K
+! !($?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerS
+Q
+
+__unknown_file (
+%0"__id*)
+
+__unknown_file (
+	<unknown>*
+1*®
+7#6 &(_
+]
+$ $(` 
+appWidgetIdsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>›
+⁄
+% %(#
+%3java.lang.Object"icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderLarge()LWidgetProviderLarge;*K
+% %(#?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerS
+Q
+
+__unknown_file (
+%0"__id*)
+
+__unknown_file (
+	<unknown>*
+1*≤
+8'; *(_
+]
+( ((` 
+appWidgetIdsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Á
+‰
+) )((
+%4java.lang.Object"scom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderExtraLarge()LWidgetProviderExtraLarge;*K
+) )((?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerS
+Q
+
+__unknown_file (
+%0"__id*)
+
+__unknown_file (
+	<unknown>*
+1*Å
+0 (Sd
+b
+ ([%
+sharedPreferencesjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>*
+3
+5
+7
+8*>
+1+	 ,("/
+
+__unknown_file (
+implicit return:,
+ (1 
+musicServicejava.lang.Object:&
+3 (A
+intentjava.lang.Object:'
+C (R
+commandjava.lang.StringB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH„
+
+kcom.simplecity.amp_library.playback.constants.WidgetManager#notifyChange(LMusicService;Ljava/lang/String;)Vå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt. .("0* 
+0. .(>›
+⁄
+/ /(
+%0java.lang.Object"icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderLarge()LWidgetProviderLarge;*K
+/ /(?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerﬂ
+‹
+0 0(
+%1java.lang.Object"kcom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderMedium()LWidgetProviderMedium;*K
+0 0(?=
+;com.simplecity.amp_library.playback.constants.WidgetManager›
+⁄
+1 1(
+%2java.lang.Object"icom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderSmall()LWidgetProviderSmall;*K
+1 1(?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerÁ
+‰
+2 2( 
+%3java.lang.Object"scom.simplecity.amp_library.playback.constants.WidgetManager#getWidgetProviderExtraLarge()LWidgetProviderExtraLarge;*K
+2 2( ?=
+;com.simplecity.amp_library.playback.constants.WidgetManager"/
+
+__unknown_file (
+implicit return:,
+. .(/ 
+musicServicejava.lang.Object:$
+.1 .(=
+whatjava.lang.StringB?=
+;com.simplecity.amp_library.playback.constants.WidgetManagerH

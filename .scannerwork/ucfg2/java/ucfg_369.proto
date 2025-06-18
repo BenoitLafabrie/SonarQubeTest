@@ -1,39 +1,13 @@
 
-†com.afollestad.aesthetic.AestheticBottomNavigationView$State#create(IIZ)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;›
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java» »("1*¨
-1
-½ ½(‘Ž
-
-½ ½(B
-%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State"<com.afollestad.aesthetic.AestheticBottomNavigationView$State®
-«
-
-½ ½(4
-%1"Icom.afollestad.aesthetic.AestheticBottomNavigationView$State#<init>(IIZ)V*`
+Icom.simplecity.amp_library.utils.SettingsManager#showLockscreenArtwork()Z‚
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaD D(("1*‹
+1E E(h
+f
+E E(2
+%0java.lang.String"__id*<
 
-__unknown_file (D
-B
-%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-"""R
-
-½ ½(5D
-B
-%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State: 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B@">
-<com.afollestad.aesthetic.AestheticBottomNavigationView$State
+__unknown_file ( 
+pref_show_lockscreen_artwork"
+E E(:
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

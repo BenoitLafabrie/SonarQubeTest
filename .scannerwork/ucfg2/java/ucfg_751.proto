@@ -1,52 +1,8 @@
 
-_com.afollestad.aesthetic.Aesthetic#colorWindowBackground(I)Lcom/afollestad/aesthetic/Aesthetic;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java   (("1*µ
+K__sonar_lambda_52$com.simplecity.amp_library.ui.screens.main.MainControllerè
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.java£5 £(ê"1*&
 1
-À À(`
-^
-
-À À(2
-%0java.lang.String"__id*2
-
-__unknown_file (
-window_bg_color_%s¬
-ø
-
-À4 À(@
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""Û
-
-
-À À(A
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-
-%1Q
-O
-
-À À(B
-keyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2"4
-
-Õ Õ(&$
-"com.afollestad.aesthetic.Aesthetic: 
-
-__unknown_file (
-""B&$
-"com.afollestad.aesthetic.AestheticH
+£; £(@"
+£; £(ê
+""B
+	!Unknown!

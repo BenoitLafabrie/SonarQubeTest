@@ -1,49 +1,136 @@
 
-__sonar_lambda_128$
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java¾) ¾(\"startingBlock*Æ
-startingBlock
-¾) ¾(\£
- 
-
-__unknown_file ("
-patternjava.util.regex.Pattern"__id*Z
-
-__unknown_file (>*</
--com.simplecity.amp_library.utils.ArtworkUtils"	
-pattern*
-1*õ
-1
-¾2 ¾(9’
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)Z
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaš š("startingBlock*%
+2
+œ< œ(A"
 
-¾B ¾(Q
-%11java.lang.String"(java.io.File#getName()Ljava/lang/String;*3
+œ5 œ(B
+""*ñ
+3
+œ œ(!¯¬
+
+œ œ(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()•’
+
+œ' œ(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
 
 __unknown_file (
 
-file1java.io.File2	getName()Ÿœ
+ojava.lang.Object2
+getClass()
+Š
 
-¾2 ¾(R
-%12java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
+œ œ(3
+%4boolean"	__compare*
+
+œ$ œ(&
+!=*%
+
+œ œ(#
+
+%2java.lang.Class*%
+
+œ' œ(3
+
+%3java.lang.Class*
+2
+1*†
+startingBlock
+š š(#Š
+‡
+
+™ ™(
+%6"
+__annotate*2
 
-__unknown_file ($
-"
-patternjava.util.regex.Pattern*5
+__unknown_file (
+java.lang.Override*3
 
-__unknown_file (
-
-%11java.lang.String2!matcher(Ljava/lang/CharSequence;)Œ‰
+__unknown_file (
+
+ojava.lang.ObjectW
+U
 
-¾2 ¾(\
-%13boolean""java.util.regex.Matcher#matches()Z*<
+š! š("
+ojava.lang.Object"__annotation*"
 
-__unknown_file ( 
-
-%12java.util.regex.Matcher2	matches()"
+__unknown_file (
+
+%6*
+6*”
+4
+œ œ({
+y
 
-¾2 ¾(\
-
-%13boolean:#
+œ œ(
+%1boolean"	__compare*
 
-¾) ¾(.
-file1java.io.FileB
-java.io.FileFilter
+œ œ(
+==*%
+
+œ œ(
+
+ojava.lang.Object*
+
+œ œ(
+""*
+2
+3*%
+5
+› ›(""
+
+› ›(#
+""*Á
+6
+› ›(§
+¤
+
+› ›(
+%0boolean"	__compare*
+
+› ›(
+==*?
+
+› ›(1/
+-com.simplecity.amp_library.model.CategoryItem*%
+
+› ›(
+
+ojava.lang.Object*
+4
+5*”
+1
+ž+ ž(,€
+~
+
+ž ž(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+   ( 
+%5boolean"	__compare*
+
+   (
+==*
+
+   (
+""*
+
+   ( 
+"""
+
+   (!
+"":#
+
+š š("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX

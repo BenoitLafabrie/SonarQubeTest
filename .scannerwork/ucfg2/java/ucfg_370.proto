@@ -1,102 +1,13 @@
 
-Ωcom.afollestad.aesthetic.AestheticBottomNavigationView$State$1#apply(Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Boolean;)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;õ
-é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java√ √("startingBlock*Ä
-startingBlock
-√ √(Oë
-é
-
-¬ ¬(
-%1"
-__annotate*2
+@com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()ZÇ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaJ J("1*}
+1K K(Z
+X
+K K()
+%0java.lang.String"__id*.
 
-__unknown_file (
-java.lang.Override*:
-
-__unknown_file (
-
-integerjava.lang.Integer^
-\
-
-√# √(*
-integerjava.lang.Integer"__annotation*"
-
-__unknown_file (
-
-%1í
-è
-
-¬ ¬(
-%2"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*;
-
-__unknown_file (
-
-integer2java.lang.Integer_
-]
-
-√4 √(<
-integer2java.lang.Integer"__annotation*"
-
-__unknown_file (
-
-%2í
-è
-
-¬ ¬(
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*;
-
-__unknown_file (
-
-aBooleanjava.lang.Boolean_
-]
-
-√F √(N
-aBooleanjava.lang.Boolean"__annotation*"
-
-__unknown_file (
-
-%3*
-1*÷
-1
-ƒ ƒ(
-Ì
-
-ƒ ƒ(:B
-%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State"Ücom.afollestad.aesthetic.AestheticBottomNavigationView$State#create(IIZ)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;*\
-
-__unknown_file (@">
-<com.afollestad.aesthetic.AestheticBottomNavigationView$State*:
-
-__unknown_file (
-
-integerjava.lang.Integer*;
-
-__unknown_file (
-
-integer2java.lang.Integer*;
-
-__unknown_file (
-
-aBooleanjava.lang.Boolean"R
-
-ƒ
- ƒ(;D
-B
-%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State:*
-
-√ √(+
-integerjava.lang.Integer:+
-
-√, √(=
-integer2java.lang.Integer:+
-
-√> √(N
-aBooleanjava.lang.BooleanBB@
->com.afollestad.aesthetic.AestheticBottomNavigationView$State$1H
+__unknown_file (
+pref_screen_on"
+K K(2
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

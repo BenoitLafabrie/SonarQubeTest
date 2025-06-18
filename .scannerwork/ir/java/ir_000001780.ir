@@ -1,19 +1,3 @@
-Hthis ("4com.simplecity.amp_library.services.DashClockService"¾:
-8
-1 (D"#new-object#2ConstructorBExtensionData1
-/
-1 (D"#unknown-value#2Constructor:0
-.
- (E"#set-field# mExtensionData:9
-7
-) (;"#new-object#2ConstructorBIntentFilter1
-/
-) (;"#unknown-value#2Constructor:)
-'
- (<"#set-field# mFilter:C
-A
-H6 ]("31?create:Recovered#typeBindingLBroadcastReceiver;01
-/
-H ](	"#set-field# mStatusListener:
+Vthis ()"Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge"
 
- r(*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java
+ !(*Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java

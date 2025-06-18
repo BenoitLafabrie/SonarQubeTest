@@ -14,8 +14,8 @@ public class AdaptableSpanSizeLookup extends GridLayoutManager.SpanSizeLookup {
     private List<ViewModel> items;
     private int spanCount;
 
-    public AdaptableSpanSizeLookup(ViewModelAdapter ViewModelAdapter, int spanCount) {
-        this.items = ViewModelAdapter.items;
+    public AdaptableSpanSizeLookup(ViewModelAdapter viewModelAdapter, int spanCount) {
+        this.items = viewModelAdapter.items;
         this.spanCount = spanCount;
     }
 

@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251124049*java2.Bô
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255139384*java2.Bô
 O
 Japp/src/main/java/com/simplecity/amp_library/glide/fetcher/TagFetcher.java2
 
@@ -30,13 +30,13 @@ TagFetcher12
 
 uses17
 =
-7com.simplecity.amp_library.glide.fetcher.TagFetcher.TAG19
+7com.simplecity.amp_library.glide.fetcher.TagFetcher.tag19
 
 field20
 
 	protected21
 	
-TAG22
+tag22
 T
 Ncom.simplecity.amp_library.glide.fetcher.TagFetcher#<init>(LArtworkProvider;)V24
 
@@ -95,6 +95,17 @@ Tcom.simplecity.amp_library.glide.fetcher.TagFetcher#getStream()Ljava/io/InputSt
 11
 33
 @
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
 23:
 232425 *
 1
@@ -107,17 +118,6 @@ Tcom.simplecity.amp_library.glide.fetcher.TagFetcher#getStream()Ljava/io/InputSt
 
 11
 12
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
 @
 35:
 353625 *

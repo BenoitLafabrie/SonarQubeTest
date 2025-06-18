@@ -1,16 +1,16 @@
 
-Wcom.simplecity.amp_library.utils.SettingsManager#getDocumentTreeUri()Ljava/lang/String;„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java° °($"1*†
+Tcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersAscending()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaâ â(3"1*•
 1
-± ±(_
-]
+ã ã(n
+l
 
-± ±(*
-%0java.lang.String"__id*1
+ã ã(;
+%0java.lang.String"__id*@
 
-__unknown_file (
-document_tree_uri"
+__unknown_file ($"
+ folder_browser_folders_ascending"
 
-± ±(,
+ã ã(C
 ""B42
-0com.simplecity.amp_library.utils.SettingsManagerH
+0com.simplecity.amp_library.utils.SettingsManagerHX

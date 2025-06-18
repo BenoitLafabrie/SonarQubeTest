@@ -1,15 +1,231 @@
-Ø
-8com.simplecity.amp_library.di.app.AppComponent#<init>()V|
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/AppComponent.kt	 ("0*<
-0	 ("/
+´
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#<init>()V•
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt >("0*>
+0) (9"/
 
 __unknown_file (
-implicit returnB20
-.com.simplecity.amp_library.di.app.AppComponentH√
-@com.simplecity.amp_library.di.app.AppComponent$Builder#<init>()V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/AppComponent.kt (J"0*>
-0 ("/
+implicit returnBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogHﬁ
+ncom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#getPlaylist()LPlaylist;
+__unknown_file ("0*
+0 (∑
+¥
+ (
+fieldjava.lang.Object"__id*Ü
+ (z*xX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"
+playlistjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogH˝
+ocom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#setPlaylist(LPlaylist;)V
+__unknown_file ("0*Á
+0 (∂
+≥
+ (xX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"
+playlistjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogHÀ
+Øcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#getPlaylistsRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;
+__unknown_file ("0*õ
+0 (†
+ù
+ (G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*¡
+ (¥*±X
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"U
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryò
+ï
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*U
+ (I
+G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryw
+u
+ (G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__annotation*
+ (
+
+%0"U
+ (I
+G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogHÈ
+∞com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#setPlaylistsRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V
+__unknown_file ("0*„
+0 (ò
+ï
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*U
+ (I
+G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryw
+u
+ (G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__annotation*
+ (
+
+%0û
+õ
+ (±X
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"U
+playlistsRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*U
+ (I
+G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepository"
+ (
+implicit return:S
+ (G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogH‹
+kcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#onAttach(LContext;)Vß
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt ("0*∏
+0 (L
+J
+ (
+%0java.lang.Object"__id* 
+ (
+java.lang.Object©
+¶
+ (H
+%1java.lang.Object"ocom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#setPlaylist(LPlaylist;)V*f
+ (HZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog*)
+
+__unknown_file (
+	<unknown>"/
 
 __unknown_file (
-implicit returnB:8
-6com.simplecity.amp_library.di.app.AppComponent$BuilderH
+implicit return:'
+ (+
+contextjava.lang.ObjectBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogH‚
+wcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#onCreateDialog(LBundle;)LDialog;ß
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt" "("0*(
+0" "("
+# )(
+	<unknown>:2
+"  "(;&
+savedInstanceStatejava.lang.ObjectBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogHÌ
+ocom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#show(LFragmentManager;)Vß
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt, ,("0*>
+0, ,(."/
+
+__unknown_file (
+implicit return:/
+, ,(-#
+fragmentManagerjava.lang.ObjectBZX
+Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogH˙
+{com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*ı
+0 (º
+π
+ (
+fieldjava.lang.Object"__id*ã
+ (*}b
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBdb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$CompanionHô
+|com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*Ï
+0 (ª
+∏
+ (}b
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBdb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$CompanionHè
+Ñcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion#getARG_PLAYLIST()Ljava/lang/String;
+__unknown_file ("0*Ä
+0 («
+ƒ
+ (
+fieldjava.lang.Object"__id*ñ
+ (â*Üb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion" 
+ARG_PLAYLISTjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBdb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$CompanionH≠
+Öcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion#setARG_PLAYLIST(Ljava/lang/String;)V
+__unknown_file ("0*ˆ
+0 (≈
+¬
+ (Üb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion" 
+ARG_PLAYLISTjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBdb
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$CompanionH‹
+–com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$Companion#newInstance(LPlaylist;)Lcom/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog;ß
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt6 6("0*«
+06 6(+Y
+W
+7 7(!
+bundlejava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>√¿
+9 9(=\
+%0Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog·
+ﬁ
+9 9(=
+%1"`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog#<init>()V*j
+9 9(=^
+\
+%0Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog„
+‡
+9 9(=b
+fragmentVcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog"__id*j
+9 9(=^
+\
+%0Vcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog[
+Y
+: :('
+	argumentsjava.lang.Object"__id*(
+:! :('
+
+bundlejava.lang.Object"p
+; ;(d
+b
+fragmentVcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog:(
+6 6(*
+playlistjava.lang.ObjectBd"b
+`com.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialog$CompanionH≈
+ncom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogFragmentModule#<init>()V•
+ú/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/dialog/DeletePlaylistConfirmationDialog.kt@ G("0*<
+0@ @(+"/
+
+__unknown_file (
+implicit returnBhf
+dcom.simplecity.amp_library.ui.screens.playlist.dialog.DeletePlaylistConfirmationDialogFragmentModuleH

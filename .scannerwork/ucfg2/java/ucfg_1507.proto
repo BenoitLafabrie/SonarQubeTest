@@ -1,21 +1,59 @@
 
->com.simplecity.amp_library.ui.modelviews.ShuffleView#<init>()V
-__unknown_file ("startingBlock*ó
-startingBlock„
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (Ÿ
-œ
-„
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
-%0"Gcom.simplecity.amp_library.ui.modelviews.ShuffleView#%field_initializer*D
- (86
-4com.simplecity.amp_library.ui.modelviews.ShuffleView™
-–
-„
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
-%1"Acom.simplecityapps.recycler_adapter.model.BaseViewModel#<init>()V*D
- (86
-4com.simplecity.amp_library.ui.modelviews.ShuffleView"œ
-„
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
-implicit returnB86
-4com.simplecity.amp_library.ui.modelviews.ShuffleView
+?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()I‡
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÍ Í("1*Ï
+1
+Î Î([
+Y
+
+Î Î(%	
+%0int"java.lang.Object#hashCode()I*"
+
+__unknown_file (
+""e
+c
+
+Ï Ï(	
+%1int"__calculate*
+
+Ï Ï(
+**
+
+Ï Ï(2*
+
+Ï Ï(
+""µ
+²
+
+Ï Ï(-5
+%2/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject¸µ
+
+Ï Ï(8	
+%3int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
+
+__unknown_file (7
+5
+%2/com.simplecity.amp_library.model.BaseFileObject2
+hashCode()q
+o
+
+Ï Ï(8	
+%4int"__calculate*
+
+Ï Ï(
++*
+
+Ï Ï(
+	
+%1int*
+
+Ï Ï(8
+	
+%3int"
+
+Ð Ð(
+""B75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

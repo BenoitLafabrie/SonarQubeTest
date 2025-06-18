@@ -1,18 +1,39 @@
 
-~com.simplecity.amp_library.model.Query$Builder#projection([Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java% %(!"1*Þ
-1& &(Ž
-‹
-& &(@0
-.com.simplecity.amp_library.model.Query$Builder"
-
-projection"__id*7
-
-__unknown_file (
+Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer
+__unknown_file ("1*
+1 (—
+”
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ()Q>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
+enableLogging"__id*
+ (2ž
+›
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java  (1V>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
+setItemsDisposable"__id*
+ (
+""ÜÙ
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%' %(2
+%0java.util.ArrayList"java.util.ArrayListú
+÷
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%# %(4
+%1"java.util.ArrayList#<init>()V*'
+ (
 
-valjava.lang.String[]">
-' '(20
-.com.simplecity.amp_library.model.Query$Builder:%
-%" %(.
-valjava.lang.String[]B20
-.com.simplecity.amp_library.model.Query$BuilderH
+%0java.util.ArrayList¦
+£
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java% %(5I>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
+items"__id*'
+ (
+
+%0java.util.ArrayList"½
+¥
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java œ(
+implicit returnB@>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter

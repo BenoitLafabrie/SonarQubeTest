@@ -1,41 +1,81 @@
 
-__sonar_lambda_127$
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java?% ?(\"1*¹
-1?6 ?(7Z
-X
-?6 ?(G
-%17"__calculate*
-?A ?(B
-/*
-?6 ?(@
-""*
-?C ?(G2€Z
-X
-?J ?([
-%18"__calculate*
-?U ?(V
-/*
-?J ?(T
-""*
-?W ?([2€]
-[
-?6 ?([
-%19"__calculate*
-?H ?(I
--*
-?6 ?(G
-
-%17*
-?J ?([
-
-%18"
-?/ ?(\
-
-%19: 
+Hcom.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaU U("2*ü
+2V V(A
+?
+W W(	
+%0int"__id*"
 
-__unknown_file (
-"": 
+__unknown_file (
+""A
+?
+Y Y(	
+%1int"__id*"
 
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+""A
+?
+[ [(	
+%2int"__id*"
+
+__unknown_file (
+""A
+?
+] ](	
+%3int"__id*"
+
+__unknown_file (
+""A
+?
+_ _(	
+%4int"__id*"
+
+__unknown_file (
+""A
+?
+a a(	
+%5int"__id*"
+
+__unknown_file (
+""A
+?
+c c(	
+%6int"__id*"
+
+__unknown_file (
+""*
+3
+4
+5
+6
+7
+8
+9
+1*(
+3c d(#"
+d d(#
+	playlists*&
+4a b(!"
+b b(!	
+folders*$
+5_ `("
+` `(	
+songs*%
+6] ^( "
+^ ^( 
+
+albums*&
+7[ \(!"
+\ \(!	
+artists*(
+8Y Z(#"
+Z Z(#
+	suggested*%
+9W X( "
+X X( 
+
+genres*!
+1f f("
+f f(
+""B1/
+-com.simplecity.amp_library.model.CategoryItemH

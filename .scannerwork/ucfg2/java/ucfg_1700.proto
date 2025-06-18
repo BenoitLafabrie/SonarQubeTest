@@ -1,17 +1,74 @@
 
-Êcom.github.florent37.glidepalette.BitmapPalette#setPaletteBuilderInterceptor(Lcom/github/florent37/glidepalette/BitmapPalette$PaletteBuilderInterceptor;)Lcom/github/florent37/glidepalette/BitmapPalette;•
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javat t(8"1* 
-1u u(&Ï
-Ì
-u u(&B1
-/com.github.florent37.glidepalette.BitmapPalette"
-interceptor"__id*v
+Dcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#hashCode()I
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaÄ Ä("4*Y
+2
+ÅD Å(EC
+A
+
+ÅD Å(E
+%1"__id*'
 
-__unknown_file (Z
-X
-interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptor"?
-v v(31
-/com.github.florent37.glidepalette.BitmapPalette:d
-t9 t(^X
-interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptorB31
-/com.github.florent37.glidepalette.BitmapPalette
+__unknown_file (
+	
+%3int*
+1*T
+3
+Å+ Å(6>
+<
+
+Å+ Å(A
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*z
+4
+Å Å( a
+_
+
+Å Å((
+%0"	__compare*
+
+Å! Å(#
+!=*
+
+Å Å( 
+""*
+
+Å$ Å((
+""*
+2
+3*ú
+1
+Å Å(Fe
+c
+
+Æ Æ(	
+%4int"__calculate*
+
+Æ Æ(
+**
+
+Æ Æ(2*
+
+Æ Æ(
+""l
+j
+
+Æ Æ('	
+%5int"__calculate*
+
+Æ Æ(
++*
+
+Æ Æ(
+	
+%4int*
+
+Æ Æ('
+"""
+
+Ç Ç(
+""B<:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX

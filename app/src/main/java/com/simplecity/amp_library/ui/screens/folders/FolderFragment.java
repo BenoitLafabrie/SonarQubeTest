@@ -343,13 +343,11 @@ public class FolderFragment extends BaseFragment implements
                 break;
         }
 
-        switch (settingsManager.getFolderBrowserFoldersSortOrder()) {
-            case SortManager.SortFolders.DEFAULT:
-                menu.findItem(R.id.sort_folder_default).setChecked(true);
-                break;
-            case SortManager.SortFolders.COUNT:
-                menu.findItem(R.id.sort_folder_count).setChecked(true);
-                break;
+        int folderSortOrder = settingsManager.getFolderBrowserFoldersSortOrder();
+        if (folderSortOrder == SortManager.SortFolders.DEFAULT) {
+            menu.findItem(R.id.sort_folder_default).setChecked(true);
+        } else if (folderSortOrder == SortManager.SortFolders.COUNT) {
+            menu.findItem(R.id.sort_folder_count).setChecked(true);
         }
 
         menu.findItem(R.id.folder_home_dir).setIcon(fileBrowser.getHomeDirIcon());
@@ -449,33 +447,48 @@ public class FolderFragment extends BaseFragment implements
     @Override
     public void onFileObjectClick(int position, FolderView folderView) {
         if (contextualToolbarHelper != null && !contextualToolbarHelper.handleClick(folderView, folderView.baseFileObject)) {
-            if (folderView.baseFileObject.fileType == FileType.FILE) {
-                FileHelper.getSongList(songsRepository, new File(folderView.baseFileObject.path), false, true)
-                        .observeOn(AndroidSchedulers.mainThread())
-                        .subscribe(
-                                songs -> {
-                                    int index = -1;
-                                    for (int i = 0, songsSize = songs.size(); i < songsSize; i++) {
-                                        Song song = songs.get(i);
-                                        if (song.path.contains(folderView.baseFileObject.path)) {
-                                            index = i;
-                                            break;
-                                        }
-                                    }
-                                    mediaManager.playAll(songs, index, true, () -> {
-                                        if (isAdded() && getContext() != null) {
-                                            // Todo: Show playback failed toast
-                                        }
-                                        return Unit.INSTANCE;
-                                    });
-                                },
-                                error -> LogUtils.logException(TAG, "Error playing all", error));
-            } else {
-                changeDir(new File(folderView.baseFileObject.path));
-            }
+            handleFileOrDirectoryClick(folderView);
         } else if (folderView.baseFileObject.fileType != FileType.FILE) {
-            changeDir(new File(folderView.baseFileObject.path));
+            handleDirectoryClick(folderView);
         }
+    }
+
+    private void handleFileOrDirectoryClick(FolderView folderView) {
+        if (folderView.baseFileObject.fileType == FileType.FILE) {
+            handleFileClick(folderView);
+        } else {
+            handleDirectoryClick(folderView);
+        }
+    }
+
+    private void handleFileClick(FolderView folderView) {
+        FileHelper.getSongList(songsRepository, new File(folderView.baseFileObject.path), false, true)
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(
+                        songs -> {
+                            int index = findSongIndex(songs, folderView.baseFileObject.path);
+                            mediaManager.playAll(songs, index, true, () -> {
+                                if (isAdded() && getContext() != null) {
+                                    Toast.makeText(getContext(), R.string.emptyplaylist, Toast.LENGTH_SHORT).show();
+                                }
+                                return Unit.INSTANCE;
+                            });
+                        },
+                        error -> LogUtils.logException(TAG, "Error playing all", error));
+    }
+
+    private int findSongIndex(List<Song> songs, String path) {
+        for (int i = 0, songsSize = songs.size(); i < songsSize; i++) {
+            Song song = songs.get(i);
+            if (song.path.contains(path)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    private void handleDirectoryClick(FolderView folderView) {
+        changeDir(new File(folderView.baseFileObject.path));
     }
 
     @Override
@@ -488,7 +501,7 @@ public class FolderFragment extends BaseFragment implements
 
     @Override
     public void onFileObjectCheckboxClick(CheckBox checkBox, FolderView folderView) {
-
+        // Method intentionally left empty as checkbox clicks are not handled in this fragment.
     }
 
     public void changeBreadcrumbPath() {
@@ -534,13 +547,12 @@ public class FolderFragment extends BaseFragment implements
             contextualToolbarHelper.setCanChangeTitle(false);
 
             contextualToolbar.setOnMenuItemClickListener(menuItem -> {
-                switch (menuItem.getItemId()) {
-                    case R.id.done:
-                        contextualToolbarHelper.finish();
-                        showWhitelist(false);
-                        showBlacklist(false);
-                        adapter.notifyItemRangeChanged(0, adapter.getItemCount());
-                        return true;
+                if (menuItem.getItemId() == R.id.done) {
+                    contextualToolbarHelper.finish();
+                    showWhitelist(false);
+                    showBlacklist(false);
+                    adapter.notifyItemRangeChanged(0, adapter.getItemCount());
+                    return true;
                 }
                 return false;
             });
@@ -553,7 +565,7 @@ public class FolderFragment extends BaseFragment implements
             isShowingBlacklist = false;
         }
         Stream.of(adapter.items)
-                .filter(viewModel -> viewModel instanceof FolderView)
+                .filter(FolderView.class::isInstance)
                 .forEach(viewModel -> ((FolderView) viewModel).setShowWhitelist(show));
         adapter.notifyItemRangeChanged(0, adapter.getItemCount(), 0);
         contextualToolbar.setTitle(R.string.whitelist_title);
@@ -565,7 +577,7 @@ public class FolderFragment extends BaseFragment implements
             isShowingWhitelist = false;
         }
         Stream.of(adapter.items)
-                .filter(viewModel -> viewModel instanceof FolderView)
+                .filter(FolderView.class::isInstance)
                 .forEach(viewModel -> ((FolderView) viewModel).setShowBlacklist(show));
         adapter.notifyItemRangeChanged(0, adapter.getItemCount(), 0);
         contextualToolbar.setTitle(R.string.blacklist_title);
@@ -666,8 +678,7 @@ public class FolderFragment extends BaseFragment implements
 
         @Override
         public void onPlaybackFailed() {
-            // Todo: Improve error message
-            Toast.makeText(getContext(), R.string.emptyplaylist, Toast.LENGTH_SHORT).show();
+            Toast.makeText(getContext(), R.string.playback_failed, Toast.LENGTH_SHORT).show();
         }
 
         @Override
@@ -704,7 +715,7 @@ public class FolderFragment extends BaseFragment implements
 
         @Override
         public void onPlaylistItemsInserted() {
-
+            // Method intentionally left empty because playlist item insertion is not handled in this fragment.
         }
 
         @Override

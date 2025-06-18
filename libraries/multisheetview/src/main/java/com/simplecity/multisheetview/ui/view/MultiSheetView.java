@@ -76,11 +76,7 @@ public class MultiSheetView extends CoordinatorLayout {
         bottomSheetBehavior2.setBottomSheetCallback(new BottomSheetBehavior.BottomSheetCallback() {
             @Override
             public void onStateChanged(@NonNull View bottomSheet, int newState) {
-                if (newState == BottomSheetBehavior.STATE_EXPANDED || newState == BottomSheetBehavior.STATE_DRAGGING) {
-                    bottomSheetBehavior1.setAllowDragging(false);
-                } else {
-                    bottomSheetBehavior1.setAllowDragging(true);
-                }
+                bottomSheetBehavior1.setAllowDragging(!(newState == BottomSheetBehavior.STATE_EXPANDED || newState == BottomSheetBehavior.STATE_DRAGGING));
 
                 fadeView(Sheet.SECOND, newState);
 

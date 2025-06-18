@@ -1,17 +1,70 @@
 
-Vcom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#%field_initializer
-__unknown_file ("1*Ã
-1 (ç
-ä
-ñ
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay.java (MUE
-Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay"
+acom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areContentsTheSame(II)Z®
+õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaä ä()"3*%
+2
+ê- ê(4"
 
-eventRelay"__id*
- (
-"""¨
-î
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay.java
- .(
-implicit returnBGE
-Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay
+ê ê(P
+""*œ
+3
+å å('∞≠
+
+å å(8
+%0java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""2getOldItem(I)g
+e
+
+å å(9
+oldItemjava.lang.Object"__id*4
+
+__unknown_file (
+
+%0java.lang.Object∞≠
+
+ç ç(8
+%1java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""2getNewItem(I)g
+e
+
+ç ç(9
+newItemjava.lang.Object"__id*4
+
+__unknown_file (
+
+%1java.lang.Object*
+2
+1*Ó
+1
+í í(&∆√
+
+í í(H
+%2boolean"^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Z*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2areItemsTheSame(II)"
+
+í í(I
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BMK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX

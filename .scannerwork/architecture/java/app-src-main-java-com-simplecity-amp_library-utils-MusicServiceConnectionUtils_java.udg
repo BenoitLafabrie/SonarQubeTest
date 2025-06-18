@@ -1,594 +1,7 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251118501*java2.Bö
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255134207*java2.BZ
 X
-Sapp/src/main/java/com/simplecity/amp_library/utils/MusicServiceConnectionUtils.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-A
-<com.simplecity.amp_library.utils.MusicServiceConnectionUtils7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-!
-MusicServiceConnectionUtils12
-F
-@com.simplecity.amp_library.utils.MusicServiceConnectionUtils.TAG14
-
-field15
-
-private16
-	
-TAG17
-P
-Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils.serviceBinder19
-
-serviceBinder20
-5
-/com.simplecity.amp_library.playback.LocalBinder22
-
-unknown23
-
-is type24
-
-
-uses25
-P
-Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils.connectionMap27
-
-connectionMap28
-%
-Recovered#typeBindingLContext;030
-P
-Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder32
-
-
-references33
-L
-Fcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#<init>()V35
-
-method36
-
-calls37
-ù
-ñcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#bindToService(LLifecycle;LContext;LAnalyticsManager;LServiceConnection;LUnsafeConsumer;)V39
-
-bindToService40
-'
-!Recovered#typeBindingLLifecycle;042
-
-	has param43
-.
-(Recovered#typeBindingLAnalyticsManager;045
-/
-)Recovered#typeBindingLServiceConnection;047
-,
-&Recovered#typeBindingLUnsafeConsumer;049
-O
-Icom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken51
-*
-$Recovered#typeBindingLMusicService;053
-£
-úcom.simplecity.amp_library.utils.MusicServiceConnectionUtils#unbindFromService(Lcom/simplecity/amp_library/utils/MusicServiceConnectionUtils$ServiceToken;)V55
-
-unbindFromService56
-
-Context58
-W
-Qcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken.context60
-
-ServiceBinder61
-
-
-implements62
-Y
-Scom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder.callback64
-
-callback65
-
-ServiceConnection67
-m
-gcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#<init>(LServiceConnection;)V69
-
-	protected70
-~
-xcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#onServiceConnected(LComponentName;LIBinder;)V72
-
-onServiceConnected73
-+
-%Recovered#typeBindingLComponentName;075
-%
-Recovered#typeBindingLIBinder;077
-x
-rcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinder#onServiceDisconnected(LComponentName;)V79
-
-onServiceDisconnected80
-
-ServiceToken81
-
-context82
-b
-\com.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceToken#<init>(LContext;)V84J
+Sapp/src/main/java/com/simplecity/amp_library/utils/MusicServiceConnectionUtils.java2J
 
 1
-12Z
-
-3	
-354j∑	
-@
-18:
-181915 *
-1 (26:3B
-	
-9
-10
-
-
-11
-20
-
-29
-293023
-9
-64
-678 *
-1 ():3B
-	
-9
-10
-
-
-11
-12
-
-66
-666723
-
-46
-464723
-
-74
-747523
-@
-38:
-383936 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-A
-59;
-596015 *
-1R	 R(250:3B
-	
-9
-10
-
-
-11
-82
-A
-68;
-686936 *
-1:	 :(231:3B
-	
-9
-70
-
-
-11
-61
-A
-78;
-787936 *
-1G	 G(
-231:3B
-	
-9
-10
-
-
-11
-80
-?
-319
-31328 *
-16 6(,26:3B
-	
-9
-10
-
-
-11
-61
-@
-26:
-262715 *
-1 (26:3B
-	
-9
-16
-
-
-11
-28
-?
-509
-50518 *
-1P P(+26:3B
-	
-9
-10
-
-
-11
-81
-
-48
-484923
-
-57
-575823
-@
-34:
-343536 *
-1 (26:3B
-	
-9
-16
-
-
-11
-12
-A
-71;
-717236 *
-1>	 >(
-231:3B
-	
-9
-10
-
-
-11
-73
-
-41
-414223
-
-52
-525323
-
-44
-444523
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-16
-
-
-11
-17
-A
-83;
-838436 *
-1T	 T(250:3B
-	
-9
-70
-
-
-11
-81
-@
-54:
-545536 *
-1' '(26:3B
-	
-9
-10
-
-
-11
-56
-
-76
-767723
-
-21
-212223
-A
-63;
-636415 *
-18	 8(231:3B
-	
-9
-16
-
-
-11
-65rã
-
-182124*
-1 (
-
-182125*
-1 (
-
-182125*
-1 (,
-
-262925*
-1& (-
-
-263125*
-1/ (<
-
-263133*
-1/ (<
-
-34637*
-1 ((
-
-384143*
-1& (/
-
-382943*
-1; (B
-
-384443*
-1L (\
-
-384643*
-1o (Ä
-
-384843*
-1ã (ô
-
-384124*
-10 (9
-
-384125*
-1& (/
-
-382924*
-1C (J
-
-382925*
-1; (B
-
-384424*
-1] (m
-
-384425*
-1L (\
-
-384624*
-1Å (â
-
-384625*
-1o (Ä
-
-384824*
-1® (µ
-
-384825*
-1ã (ô
-
-385025*
-1ö (¶
-
-385033*
-1ö (¶
-
-385225*
-1k (w
-
-545043*
-1'* '(6
-
-545024*
-1'7 '(<
-
-545025*
-1'* '(6
-
-545033*
-1'* '(6
-
-542924*
-1+ +(
-
-542925*
-1+ +(
-
-545725*
-1+' +(.
-
-545933*
-1+' +(.
-
-543124*
-1, ,(#
-
-543125*
-1, ,(
-
-543133*
-1, ,(
-
-542633*
-1,& ,(3
-
-542633*
-1,& ,(3
-
-542633*
-11 1(
-
-542633*
-11 1(
-
-542125*
-12 2(
-
-541833*
-12 2(
-
-314662*
-168 6(I
-
-314625*
-168 6(I
-
-636624*
-18 8((
-
-636625*
-18 8((
-
-636625*
-18) 8(1
-
-684643*
-1: :(.
-
-683137*
-1:	 :(
-
-684624*
-1:/ :(7
-
-684625*
-1: :(.
-
-683125*
-1; ;(
-
-683133*
-1; ;(
-
-686625*
-1; ;(
-
-686333*
-1; ;(
-
-717443*
-1?. ?(;
-
-717643*
-1?M ?(T
-
-717424*
-1?< ?(E
-
-717425*
-1?. ?(;
-
-717624*
-1?U ?(\
-
-717625*
-1?M ?(T
-
-712125*
-1@ @(
-
-711833*
-1@ @(
-
-712125*
-1@ @()
-
-716625*
-1B B(
-
-716333*
-1B B(
-
-716333*
-1C C(
-
-716625*
-1C C(
-
-716333*
-1C C(
-
-787443*
-1H1 H(>
-
-787424*
-1H? H(H
-
-787425*
-1H1 H(>
-
-786625*
-1I I(
-
-786333*
-1I I(
-
-786333*
-1J J(
-
-786625*
-1J J(
-
-786333*
-1J J(
-
-782125*
-1L L(
-
-781833*
-1L L(
-
-595724*
-1R R(
-
-595725*
-1R R(
-
-595725*
-1R R(
-
-832943*
-1T T(#
-
-835037*
-1T	 T(
-
-832924*
-1T$ T(+
-
-832925*
-1T T(#
-
-835025*
-1U U(
-
-835033*
-1U U(
-
-835725*
-1U U(
-
-835933*
-1U U(
+12

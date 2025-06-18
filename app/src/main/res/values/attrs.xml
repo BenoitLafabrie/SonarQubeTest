@@ -116,10 +116,6 @@
     <!--&lt;!&ndash; Minimum space between the switch and caption text &ndash;&gt;-->
     <!--<attr name="switchPadding" format="dimension" />-->
     <!--</declare-styleable>-->
-    <!--<declare-styleable name="Switchy">-->
-    <!--<attr name="switchStyle" format="reference" />-->
-    <!--<attr name="switchPreferenceStyle" format="reference" />-->
-    <!--</declare-styleable>-->
     <declare-styleable name="Android">
 
         <!-- Text color. -->

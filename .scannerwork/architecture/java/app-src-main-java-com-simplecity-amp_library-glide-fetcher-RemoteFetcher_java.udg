@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251132024*java2.B£
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255147324*java2.B£
 R
 Mapp/src/main/java/com/simplecity/amp_library/glide/fetcher/RemoteFetcher.java2
 
@@ -29,13 +29,13 @@ Mapp/src/main/java/com/simplecity/amp_library/glide/fetcher/RemoteFetcher.java
 
 uses17
 @
-:com.simplecity.amp_library.glide.fetcher.RemoteFetcher.TAG19
+:com.simplecity.amp_library.glide.fetcher.RemoteFetcher.tag19
 
 field20
 
 	protected21
 	
-TAG22
+tag22
 W
 Qcom.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(LArtworkProvider;)V24
 

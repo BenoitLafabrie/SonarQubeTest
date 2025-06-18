@@ -1,3 +1,13 @@
-Rthis (">com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager"
+Dthis	 	("0com.simplecity.amp_library.model.SuggestedHeader%title	 	('"java.lang.String(subtitle	) 	(8"java.lang.String8playlist	: 	(K" Recovered#typeBindingLPlaylist;0"²'
+%
+
+ 
+("#set-field# title:*
+(
+ ( "#set-field# subtitle:!
+
+ ( "#unknown-value#*
+(
+ ( "#set-field# playlist:
 
- (*†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerLockManager.java
+ (*x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java

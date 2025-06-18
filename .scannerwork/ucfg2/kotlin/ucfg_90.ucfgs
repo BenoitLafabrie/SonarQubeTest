@@ -1,196 +1,9 @@
-í
-^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;
-__unknown_file ("0*÷
-0 (ù
-ö
- (
-fieldjava.lang.Object"__id*m
- (a*_6
-4com.simplecity.amp_library.utils.BaseSettingsManager"%
-sharedPreferencesjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH≤
-_com.simplecity.amp_library.utils.BaseSettingsManager#setSharedPreferences(LSharedPreferences;)V
-__unknown_file ("0*Œ
-0 (ù
-ö
- (_6
-4com.simplecity.amp_library.utils.BaseSettingsManager"%
-sharedPreferencesjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH±
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#<init>(LSharedPreferences;)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*‚
-0 (P°
-û
- (O
-%0java.lang.Object"_com.simplecity.amp_library.utils.BaseSettingsManager#setSharedPreferences(LSharedPreferences;)V*T
-
-__unknown_file (86
-4com.simplecity.amp_library.utils.BaseSettingsManager*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.Object"/
+Ô
+Lcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailView#<init>()Vë
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/genre/detail/GenreDetailView.kt	 ("0*>
+0
+ ("/
 
 __unknown_file (
-implicit return:1
- (O%
-sharedPreferencesjava.lang.ObjectB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHä
-vcom.simplecity.amp_library.utils.BaseSettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ˆ
-0 (À
-»
-	 	( 
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
-	 	( 86
-4com.simplecity.amp_library.utils.BaseSettingsManager"
-	 	(=
-	<unknown>:#
- (
-keyjava.lang.String:,
- (; 
-defaultValuejava.lang.StringB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH„
-ecom.simplecity.amp_library.utils.BaseSettingsManager#setString(Ljava/lang/String;Ljava/lang/String;)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*Á
-0 (.À
-»
- (&
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
- (&86
-4com.simplecity.amp_library.utils.BaseSettingsManagerY
-W
- (-
-editorjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:#
- (
-keyjava.lang.String:%
- (-
-valuejava.lang.StringB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH›
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#getBool(Ljava/lang/String;Z)ZÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ˆ
-0 (3À
-»
- ( 
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
- ( 86
-4com.simplecity.amp_library.utils.BaseSettingsManager"
- (>
-	<unknown>:#
- (
-keyjava.lang.String:#
- (2
-defaultValuebooleanB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH«
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#setBool(Ljava/lang/String;Z)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*Á
-0 (,À
-»
- (&
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
- (&86
-4com.simplecity.amp_library.utils.BaseSettingsManagerY
-W
- (-
-editorjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:#
- (
-keyjava.lang.String:
- (+
-valuebooleanB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÿ
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#getInt(Ljava/lang/String;I)IÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ˆ
-0 (.À
-»
- ( 
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
- ( 86
-4com.simplecity.amp_library.utils.BaseSettingsManager"
- (:
-	<unknown>:#
- (
-keyjava.lang.String:
- (-
-defaultValueintB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH¬
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#setInt(Ljava/lang/String;I)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt   ("0*Á
-0   ('À
-»
-! !(&
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
-! !(&86
-4com.simplecity.amp_library.utils.BaseSettingsManagerY
-W
-! !(-
-editorjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:#
-   (
-keyjava.lang.String:
-   (&
-valueintB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH⁄
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#getLong(Ljava/lang/String;J)JÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt& &("0*ˆ
-0& &(0À
-»
-' '( 
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
-' '( 86
-4com.simplecity.amp_library.utils.BaseSettingsManager"
-' '(;
-	<unknown>:#
-& &(
-keyjava.lang.String: 
-& &(/
-defaultValuelongB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHƒ
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#setLong(Ljava/lang/String;J)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt* *("0*Á
-0* *()À
-»
-+ +(&
-%0java.lang.Object"^com.simplecity.amp_library.utils.BaseSettingsManager#getSharedPreferences()LSharedPreferences;*D
-+ +(&86
-4com.simplecity.amp_library.utils.BaseSettingsManagerY
-W
-+ +(-
-editorjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:#
-* *(
-keyjava.lang.String:
-* *((
-valuelongB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailViewH

@@ -1,15 +1,79 @@
 
-Rcom.simplecity.amp_library.ui.views.BreadcrumbItem#getItemPath()Ljava/lang/String;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/BreadcrumbItem.java1 1("1*ƒ
-12 2(é
-ã
-2 2(
-%0java.lang.String"__id*a
+9com.simplecity.amp_library.model.InclExclItem#hashCode()I
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java5 5("1*˙
+16 6(`
+^
+6" 6(+
+
+%0long"__calculate*
+6% 6((
+>>>*
+6" 6($
+""*
+6) 6(+2 f
+d
+6 6(,
+
+%1long"__calculate*
+6 6( 
+^*
+6 6(
+""*
+6! 6(,
+
+
+%0long]
+[
+7 7(	
+%2int"__calculate*
+7 7(
+**
+7 7(2*
+7 7(
+""Ñ
+Å
+7 7(#
+%3java.lang.String"__id*W
 
-__unknown_file (E*C4
-2com.simplecity.amp_library.ui.views.BreadcrumbItem"
-	mItemPath"$
-2 2(
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.InclExclItem"
+pathwu
+7 7(.	
+%4int"java.lang.String#hashCode()I*4
+
+__unknown_file (
 
-%0java.lang.StringB64
-2com.simplecity.amp_library.ui.views.BreadcrumbItemH
+%3java.lang.String2
+hashCode()i
+g
+7 7(.	
+%5int"__calculate*
+7 7(
++*
+7 7(
+	
+%2int*
+7 7(.
+	
+%4int]
+[
+8 8(	
+%6int"__calculate*
+8 8(
+**
+8 8(2*
+8 8(
+""d
+b
+8 8(#	
+%7int"__calculate*
+8 8(
++*
+8 8(
+	
+%6int*
+8 8(#
+"""
+9 9(
+""B1/
+-com.simplecity.amp_library.model.InclExclItemHX

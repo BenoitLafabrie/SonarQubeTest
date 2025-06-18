@@ -1,188 +1,150 @@
 
-<com.simplecity.amp_library.model.SuggestedHeader#hashCode()I‚
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java ("10*W
-2!I !(JC
-A
-!I !(J
-%16"__id*(
+Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Z
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java) )("startingBlock*!
+20& 0(+"
+0 0(,
+""*y
+30 0(b
+`
+0 0(
+%6boolean"	__compare*
+0 0(
+!=*
+0 0(
+""*
+0 0(
+""*
+2
+1*ƒ
+startingBlock) )(#‰
+†
+( ((
+%10"
+__annotate*2
 
-__unknown_file (
-
-
-%18int*
-1*R
-3!3 !(;>
-<
-!3 !(F
-%16"__id*#
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+)! )("
+ojava.lang.Object"__annotation*#
 
 __unknown_file (
 
-%17*
-1*½
-4   (Kj
-h
-   (K
-
-%13int"__calculate*
-   (
-+*
-   (
-	
-%6int*
-   (K
-	
-%9int^
-\
-! !(
-
-%14int"__calculate*
-! !(
-**
-! !(2*
-! !(
-""Z
-X
-!  !(0
-%15"	__compare*
-!) !(+
+%10*
+10*!
+4/" /('"
+/ /((
+""*ù
+5-+ -(,~
+|
+- -(-5
+that-com.simplecity.amp_library.model.InclExclItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+/ /(
+%5boolean"	__compare*
+/ /(
 !=*
-!  !((
+/ /(
 ""*
-!, !(0
+/ /(
 ""*
-2
-3*[
-5 I  (JG
-E
- I  (J	
-%9int"__id*(
+3
+4*!
+6+< +(A"
++5 +(B
+""*ã
+7+ +(!­ª
++ +(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
 
-__unknown_file (
-
-
-%11int*
-4*å
-6 3  (;Œ
-‰
- 3  (;
-%12java.lang.String"__id*^
+__unknown_file (1/
+-com.simplecity.amp_library.model.InclExclItem2
+getClass()“
++' +(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
 
-__unknown_file (B*@2
-0com.simplecity.amp_library.model.SuggestedHeader"
-
-subtitleyw
- 3  (F
-
-%10int"java.lang.String#hashCode()I*5
-
-__unknown_file (
-
-%12java.lang.String2
-hashCode()G
-E
- 3  (F	
-%9int"__id*(
-
-__unknown_file (
-
-
-%10int*
-4*ø
-7 (:]
-[
-   (	
-%6int"__calculate*
-   (
-**
-   (2*
-   (
-""‹
-ˆ
-    ((
-%7java.lang.String"__id*^
-
-__unknown_file (B*@2
-0com.simplecity.amp_library.model.SuggestedHeader"
-
-subtitlet
-r
-    (0
-%8boolean"	__compare*
- )  (+
-!=*$
-    ((
-
-%7java.lang.String*
- ,  (0
-""*
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
++ +(3
+%4boolean"	__compare*
++$ +(&
+!=*#
++ +(#
+
+%2java.lang.Class*#
++' +(3
+
+%3java.lang.Class*
 5
-6*Z
-88 (9F
-D
-8 (9	
-%2int"__id*'
+6*Š
+8+ +(s
+q
++ +(
+%1boolean"	__compare*
++ +(
+==*#
++ +(
+
+ojava.lang.Object*
++ +(
+""*
+6
+7*!
+9* *(""
+* *(#
+""*¸
+10* *(Ÿ
+œ
+* *(
+%0boolean"	__compare*
+* *(
+==*=
+* *(1/
+-com.simplecity.amp_library.model.InclExclItem*#
+* *(
+
+ojava.lang.Object*
+8
+9*Š
+11 1(„
+
+1 1(
+%7java.lang.String"__id*W
 
-__unknown_file (
-	
-%4int*
-7*Þ
-9% (*ˆ
-…
-% (*
-%5java.lang.String"__id*[
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.InclExclItem"
+pathŠ
+‡
+1 1($
+%8java.lang.String"__id*]
 
-__unknown_file (?*=2
-0com.simplecity.amp_library.model.SuggestedHeader"
-titlewu
-% (5	
-%3int"java.lang.String#hashCode()I*4
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.InclExclItem"
+pathÒÏ
+1 1(%
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
 
 __unknown_file (
 
-%5java.lang.String2
-hashCode()F
-D
-% (5	
-%2int"__id*'
+%7java.lang.String*4
 
-__unknown_file (
-	
-%3int*
-7*—
-10 (ˆ
-…
- (
-%0java.lang.String"__id*[
-
-__unknown_file (?*=2
-0com.simplecity.amp_library.model.SuggestedHeader"
-titlet
-r
- ("
-%1boolean"	__compare*
- (
-!=*$
- (
+__unknown_file (
 
-%0java.lang.String*
- ("
-""*
-8
-9*…
-1! !(Kb
-`
-! !(K
-%19"__calculate*
-! !(
-+*
-! !(
-
-
-%14int*
-! !(K
-
-%16"
-" "(
-""B42
-0com.simplecity.amp_library.model.SuggestedHeaderHX
+%8java.lang.String2equals(Ljava/lang/Object;)"
+1 1(&
+"":!
+) )("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.InclExclItemHX

@@ -1,17 +1,16 @@
 
-Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java³ ³("1*Â
+Icom.simplecity.amp_library.utils.SettingsManager#ignoreEmbeddedArtwork()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaè è(("1*‘
 1
-´ ´(š
-—
+é é(j
+h
 
-´ ´(+
-%0java.lang.String"__id*k
+é é(2
+%0java.lang.String"__id*<
 
-__unknown_file (O*M2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_ACCENT_COLOR"
+__unknown_file ( 
+pref_ignore_embedded_artwork"
 
-´ ´(1
+é é(;
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

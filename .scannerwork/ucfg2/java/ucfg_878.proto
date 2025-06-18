@@ -1,37 +1,18 @@
 
-Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;ˆ
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java (#"3*!
-2 (""
- (6
-""*“
-3 (‰
-†
- (
-%0java.io.File"__id*`
-
-__unknown_file (D*B8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
-filep
-n
- (
-%1boolean"	__compare*
- (
-==* 
- (
-
-%0java.io.File*
- (
-""*
-2
-1*­
-1 (‰
-†
-+ (/
-%2java.io.File"__id*`
-
-__unknown_file (D*B8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
-file"
- (1
-""B:8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher
+;com.simplecity.amp_library.ui.views.PlayPauseView#isPlay()Zƒ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseView.javay y("3*m
+3z z(Y
+W
+z z(
+%0"	__compare*
+z z(
+!=*
+z z(
+""*
+z z(
+""*
+1*!
+1z z(5"
+z z(5
+""B53
+1com.simplecity.amp_library.ui.views.PlayPauseViewHX

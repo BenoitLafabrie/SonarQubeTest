@@ -1,18 +1,3 @@
-
-%"FragmentInfo{"java.lang.String
-+"rootViewController="java.lang.String
-
-'}'char
-1", rootViewControllerTag='"java.lang.String
-'\''char
-	", args="java.lang.StringDthis ("0test.com.androidnavigation.fragment.FragmentInfo"ùD
-B
-( (:" #get-field# rootViewController:Bjava.lang.ClassH
-F
- .  (C"#!#get-field# rootViewControllerTag:Bjava.lang.String!
-
-! !( 	"#unknown-value#4
-2
- "("	#binop +#2+:		
-B	!Unknown!
- "(*‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/FragmentInfo.java
+Dthis	 	(#"0com.afollestad.aesthetic.AestheticSnackBarButton"
+
+	 ((*ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSnackBarButton.java

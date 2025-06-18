@@ -1,21 +1,15 @@
 
-Œcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#comment(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaª ª("1*ı
-1
-« «(& 
-
-
-« «(&J9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-commentText"__id*=
-
-__unknown_file (!
-
-commentTextjava.lang.String"I
-
-¬ ¬(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:-
-
-ª ª(0
-commentTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+@com.simplecity.amp_library.ui.modelviews.ArtworkView$1#<init>()V
+__unknown_file ("startingBlock*±
+startingBlock†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Qõ
+ò
+†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Q
+%0"RequestListener#<init>()V*F
+ (:8
+6com.simplecity.amp_library.ui.modelviews.ArtworkView$1"
+†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javatP t(Q
+implicit returnB:8
+6com.simplecity.amp_library.ui.modelviews.ArtworkView$1

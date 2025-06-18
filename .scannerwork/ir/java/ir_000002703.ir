@@ -1,3 +1,60 @@
-\this (8"Hcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLargeModule"
-
- (*ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLargeModule.java
+
+falseboolean
+truebooleanAthisi i(%"-com.simplecity.amp_library.model.CategoryItem62com.simplecity.amp_library.model.CategoryItem$Type"<*
+(
+j j("#get-field# type:Bint
+j y(	"á,
+*
+k k("#get-field# GENRES:Bint-
++
+k k("
+#binop ==#2==:Bboolean&"$
+k k( *k k(2m m("ä/
+-
+m m("#get-field# SUGGESTED:Bint-
++
+m m( "
+#binop ==#2==:Bboolean&"$
+m m( 	 *m m(2o o("à-
++
+o o("#get-field# ARTISTS:Bint-
++
+o o(	"
+#binop ==#2==:Bboolean&"$
+o o(	
+ *o o(2q q("á,
+*
+q q(
+"#get-field# ALBUMS:Bint-
++
+q q("
+#binop ==#2==:
+Bboolean&"$
+q q( *q q(2s s("Ü+
+)
+s s("#get-field# SONGS:Bint-
++
+s s("
+#binop ==#2==:Bboolean&"$
+s s( *s s(2u u("à-
++
+u u("#get-field# FOLDERS:Bint-
++
+u u("
+#binop ==#2==:Bboolean&"$
+u u( *u u(2w w("Ä/
+-
+w w("#get-field# PLAYLISTS:Bint-
++
+w w( "
+#binop ==#2==:Bboolean"
+w w(  *w w("
+l l("	
+n n("
+
+p p("
+r r("
+t t("
+v v("
+x x("
+z z(*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.java

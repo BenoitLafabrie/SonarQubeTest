@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750251134918*java2.B®
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750255149394*java2.B°
 G
 Bapp/src/main/java/com/simplecity/amp_library/utils/FileHelper.java2
 
@@ -20,30 +20,30 @@ Bapp/src/main/java/com/simplecity/amp_library/utils/FileHelper.java2
 
 
 FileHelper12
-5
-/com.simplecity.amp_library.utils.FileHelper.TAG14
-
-field15
+;
+5com.simplecity.amp_library.utils.FileHelper#<init>()V14
+
+method15
 
 private16
-	
-TAG17
+
+calls17
 @
 :com.simplecity.amp_library.utils.FileHelper.ROOT_DIRECTORY19
+
+field20
 
-ROOT_DIRECTORY20
+ROOT_DIRECTORY21
 B
-<com.simplecity.amp_library.utils.FileHelper.PARENT_DIRECTORY22
+<com.simplecity.amp_library.utils.FileHelper.PARENT_DIRECTORY23
 
-PARENT_DIRECTORY23
+PARENT_DIRECTORY24
 C
-=com.simplecity.amp_library.utils.FileHelper.CURRENT_DIRECTORY25
+=com.simplecity.amp_library.utils.FileHelper.CURRENT_DIRECTORY26
 
-CURRENT_DIRECTORY26
+CURRENT_DIRECTORY27
 L
-Fcom.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z28
-
-method29
+Fcom.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z29
 
 	isSymlink30
 ^
@@ -61,171 +61,180 @@ d
 ^com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;39
 
 unknown40
-
-calls41
 
-getExtension42
+getExtension41
 R
-Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z44
+Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z43
 
-isRootDirectory45
+isRootDirectory44
 
 
-uses46
+uses45
 O
-Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z48
+Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z47
 
-canReadWrite49
+canReadWrite48
 [
-Ucom.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;51
+Ucom.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;50
 
-getPath52
+getPath51
 
-SuppressLint54
+SuppressLint53
 
-annotated by55
+annotated by54
 *
-$Recovered#typeBindingLSuppressLint;057
+$Recovered#typeBindingLSuppressLint;056
 [
-Ucom.simplecity.amp_library.utils.FileHelper#getHumanReadableSize(J)Ljava/lang/String;59
+Ucom.simplecity.amp_library.utils.FileHelper#getHumanReadableSize(J)Ljava/lang/String;58
 
-getHumanReadableSize60
+getHumanReadableSize59
 z
-tcom.simplecity.amp_library.utils.FileHelper#getDuration(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;)J62
+tcom.simplecity.amp_library.utils.FileHelper#getDuration(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;)J61
 
-getDuration63
+getDuration62
 %
-Recovered#typeBindingLContext;065
+Recovered#typeBindingLContext;064
 
-	has param66
+	has param65
 5
-/com.simplecity.amp_library.model.BaseFileObject68
+/com.simplecity.amp_library.model.BaseFileObject67
 
-is type69
+is type68
 :
-4com.simplecity.amp_library.model.BaseFileObject.path71
+4com.simplecity.amp_library.model.BaseFileObject.path70
 !
-Recovered#typeBindingLUri;073
+Recovered#typeBindingLUri;072
 )
-#Recovered#typeBindingLMediaPlayer;075
+#Recovered#typeBindingLMediaPlayer;074
 [
-Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;77
+Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;76
 
-getPathList78
+getPathList77
 
 
-Observable80
+Observable79
 
-returns81
+returns80
 s
-mcom.simplecity.amp_library.utils.FileHelper#getSongList(LRepository/SongsRepository;Ljava/io/File;ZZ)LSingle;83
+mcom.simplecity.amp_library.utils.FileHelper#getSongList(LRepository/SongsRepository;Ljava/io/File;ZZ)LSingle;82
 
-getSongList84
+getSongList83
 
-Single86
+Single85
 (
-"Recovered#typeBindingLRepository;088
+"Recovered#typeBindingLRepository;087
 "
-Recovered#typeBindingLSong;090
+Recovered#typeBindingLSong;089
 m
-gcom.simplecity.amp_library.utils.FileHelper#getSong(LRepository/SongsRepository;Ljava/io/File;)LSingle;92
+gcom.simplecity.amp_library.utils.FileHelper#getSong(LRepository/SongsRepository;Ljava/io/File;)LSingle;91
 
-getSong93
+getSong92
 h
-bcom.simplecity.amp_library.utils.FileHelper#walk(Ljava/io/File;Ljava/util/List;ZZ)Ljava/util/List;95
+bcom.simplecity.amp_library.utils.FileHelper#walk(Ljava/io/File;Ljava/util/List;ZZ)Ljava/util/List;94
 
 
-walk96
+walk95
 
-WorkerThread98
-+
-$Recovered#typeBindingLWorkerThread;0100
+WorkerThread97
+*
+$Recovered#typeBindingLWorkerThread;099
 W
-Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;102
+Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;101
 N
-Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z104
+Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z103
 
 
-deleteFile105
+deleteFile104
 S
-Lcom.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z107
+Lcom.simplecity.amp_library.utils.FileHelper#deleteRecursive(Ljava/io/File;)Z106
 
-DeleteRecursive108
+deleteRecursive107
 
-…com.simplecity.amp_library.utils.FileHelper#renameFile(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;Ljava/lang/String;)Z110
+…com.simplecity.amp_library.utils.FileHelper#renameFile(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;Ljava/lang/String;)Z109
 
 
-renameFile111
+renameFile110
 )
-"Recovered#typeBindingLFileObject;0113
+"Recovered#typeBindingLFileObject;0112
 P
-Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;115
+Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;114
 ;
-4com.simplecity.amp_library.model.BaseFileObject.name117
+4com.simplecity.amp_library.model.BaseFileObject.name116
 >
-7com.simplecity.amp_library.utils.FileHelper.sExtensions119
+7com.simplecity.amp_library.utils.FileHelper.sExtensions118
+
+	protected119
 
 sExtensions120
+^
+Wcom.simplecity.amp_library.utils.FileHelper#getSupportedExtensions()[Ljava/lang/String;122
+
+getSupportedExtensions123
 
-getAudioFilter121J
+getAudioFilter124
+X
+Qcom.simplecity.amp_library.utils.FileHelper#isSupportedAudioFile(Ljava/io/File;)Z126
+
+isSupportedAudioFile127J
 
 1
 12Z
 
 3	
-354jÝ
+354jí
 @
-21:
-212215 *
-1' '(26:3B
+22:
+222320 *
+1+ +(26:3B
 	
 9
 10
 
 
 11
-23
+24
 
-64
-646540
+63
+636440
 B
-82<
-828329 *
-1Û Û(26:3B
+81<
+818215 *
+1ß ß(26:3B
 	
 9
 10
 
 
 11
-84
+83
 F
-103?
-10310429 *
-1ž ž(26:3B
+102?
+10210315 *
+1¢ ¢(26:3B
 	
 9
 10
 
 11
-105
+104
 
-89
-899040
-F
-118?
-11811915 *
-1Õ Õ(26:3B
-	
-9
-10
+88
+888940
+G
+117@
+11711820 *
+1á á(26:3B
+
+
+9
+119
 
 11
 120
 @
 31:
-313229 *
-1F F(26:3B
+313215 *
+1J J(26:3B
 	
 9
 10
@@ -234,64 +243,64 @@ F
 11
 33
 
-72
-727340
-F
-106?
-10610729 *
-1¨ ¨(26:3B
+71
+717240
+
+115
+11511640
+B
+60<
+606115 *
+1¹ ¹(26:3B
 	
 9
-16
+10
+
+
+11
+62
+
+66
+666740
+F
+121?
+12112215 *
+1ì ì(26:3B
+	
+9
+10
 
 11
-108
-
-116
-11611740
+123
 B
-61<
-616229 *
-1µ µ(26:3B
+49<
+495015 *
+1‡ ‡(26:3B
 	
 9
 10
 
 
 11
-63
+51
 
-67
-676840
-B
-50<
-505129 *
-1ƒ ƒ(26:3B
+86
+868740
+@
+25:
+252620 *
+10 0(26:3B
 	
 9
 10
 
 
 11
-52
-
-87
-878840
+27
 @
-24:
-242515 *
-1, ,(26:3B
-	
-9
-10
-
-
-11
-26
-@
-27:
-272829 *
-15 5(26:3B
+28:
+282915 *
+19 9(26:3B
 	
 9
 10
@@ -300,69 +309,79 @@ B
 11
 30
 B
-94<
-949529 *
-1ü ü(26:3B
+93<
+939415 *
+1€ €(26:3B
 	
 9
 16
 
 
 11
-96
+95
 
-114
-11411540
-
-74
-747540
-@
-47:
-474829 *
-1x x(26:3B
+113
+11311440
+F
+125?
+12512615 *
+1† †(26:3B
 	
 9
-10
-
-
-11
-49
-B
-76<
-767729 *
-1Í Í(26:3B
-	
-9
-10
-
-
-11
-78
-B
-91<
-919229 *
-1æ æ(26:3B
-	
-9
-10
-
-
-11
-93
-
-99
-9910040
+16
+
+11
+127
 @
 13:
 131415 *
-1 (26:3B
+1 (26:3B
 	
 9
 16
 
 
 11
-17
+12
+
+73
+737440
+@
+46:
+464715 *
+1| |(26:3B
+	
+9
+10
+
+
+11
+48
+B
+75<
+757615 *
+1Ñ Ñ(26:3B
+	
+9
+10
+
+
+11
+77
+B
+90<
+909115 *
+1ê ê(26:3B
+	
+9
+10
+
+
+11
+92
+
+98
+989940
 9
 64
 678 *
@@ -376,8 +395,8 @@ B
 12
 @
 34:
-343529 *
-1P P(26:3B
+343515 *
+1T T(26:3B
 	
 9
 10
@@ -386,279 +405,304 @@ B
 11
 36
 
-79
-798040
+78
+787940
 @
 18:
-181915 *
-1" "(26:3B
+181920 *
+1& &(26:3B
 	
 9
 10
 
 
 11
-20
+21
 
-97
-979840
+96
+969740
 B
-58<
-585929 *
-1¬ ¬(26:3B
+57<
+575815 *
+1° °(26:3B
 	
 9
 10
 
 
 11
-60
+59
 
-70
-707140
+69
+697040
 
-85
-858640
+84
+848540
 @
 38:
-383929 *
-1^ ^(26:3B
+383915 *
+1b b(26:3B
 	
 9
 10
 
 
 11
-42
+41
 
-56
-565740
+55
+555640
 
-53
-535440
+52
+525340
 @
-43:
-434429 *
-1n n(26:3B
+42:
+424315 *
+1r r(26:3B
 	
 9
 10
 
 
 11
-45
+44
 F
-109?
-10911029 *
-1¼ ¼(26:3B
+105?
+10510615 *
+1¬ ¬(26:3B
+	
+9
+16
+
+11
+107
+F
+108?
+10810915 *
+1È È(26:3B
 	
 9
 10
 
 11
-111
+110
 
-112
-11211340
+111
+11111240
 F
-101?
-10110229 *
-1à à(26:3B
+100?
+10010115 *
+1ó ó(26:3B
 	
 9
 10
 
 11
-121rÉ
+124rÝ
+
+13617*
+1 (
 
 34637*
-1Q Q("
+1U U("
 
-343841*
-1Q Q("
+343817*
+1U U("
 
-43646*
-1o+ o(5
+42645*
+1s+ s(5
 
-431837*
-1o6 o(D
+421837*
+1s6 s(D
 
-505355*
-1ƒ ƒ(
+495254*
+1‡ ‡(
 
-505646*
-1ƒ ƒ(
+495545*
+1‡ ‡(
 
-50637*
-1 (
+49637*
+1‘ ‘(
 
-502741*
-1 (
+492817*
+1‘ ‘(
 
-50637*
-1Ž Ž(&
+49637*
+1’ ’(&
 
-503141*
-1Ž Ž(&
+493117*
+1’ ’(&
 
-616466*
-1µ$ µ(+
+606365*
+1¹$ ¹(+
 
-616766*
-1µ5 µ(C
+606665*
+1¹5 ¹(C
 
-616469*
-1µ, µ(3
+606368*
+1¹, ¹(3
 
-616446*
-1µ$ µ(+
+606345*
+1¹$ ¹(+
 
-616769*
-1µD µ(R
+606668*
+1¹D ¹(R
 
-616746*
-1µ5 µ(C
+606645*
+1¹5 ¹(C
 
-617037*
-1·I ·(M
+606937*
+1»I »(M
 
-617269*
-1¸ ¸(
+607168*
+1¼ ¼(
 
-617246*
-1¸ ¸(
+607145*
+1¼ ¼(
 
-617037*
-1¸0 ¸(4
+606937*
+1¼0 ¼(4
 
-617469*
-1º º((
+607368*
+1¾ ¾((
 
-617446*
-1º º(
+607345*
+1¾ ¾(
 
-767981*
-1Í Í(
+757880*
+1Ñ Ñ(
 
-767946*
-1Í Í(
+757845*
+1Ñ Ñ(
 
-828581*
-1Û Û(
+818480*
+1ß ß(
 
-828766*
-1Û2 Û(<
+818665*
+1ß2 ß(<
 
-828546*
-1Û Û(
+818445*
+1ß ß(
 
-828946*
-1Û Û(#
+818845*
+1ß ß(#
 
-828769*
-1ÛM Û(\
+818668*
+1ßM ß(\
 
-828746*
-1Û2 Û(<
+818645*
+1ß2 ß(<
 
-828746*
-1Û= Û(L
+818645*
+1ß= ß(L
 
-918581*
-1æ æ(
+908480*
+1ê ê(
 
-918766*
-1æ( æ(2
+908665*
+1ê( ê(2
 
-918546*
-1æ æ(
+908445*
+1ê ê(
 
-918946*
-1æ æ(
+908845*
+1ê ê(
 
-918769*
-1æC æ(R
+908668*
+1êC ê(R
 
-918746*
-1æ( æ(2
+908645*
+1ê( ê(2
 
-918746*
-1æ3 æ(B
+908645*
+1ê3 ê(B
 
-949755*
-1ü ü(
+939654*
+1€ €(
 
-949946*
-1ü ü(
+939845*
+1€ €(
 
-94637*
-1ˆ& ˆ(4
+93637*
+1Œ& Œ(4
 
-9410141*
-1ˆ& ˆ(4
+9310017*
+1Œ& Œ(4
 
-94637*
-1 (
+93637*
+1‘ ‘(
 
-103637*
-1Ÿ Ÿ(
+102637*
+1£ £(
 
-10310641*
-1Ÿ Ÿ(
+10210517*
+1£ £(
 
-106637*
-1¯ ¯($
+105637*
+1³ ³($
 
-1096466*
-1¼& ¼(-
+1086365*
+1È& È(-
 
-1096766*
-1¼7 ¼(E
+1086665*
+1È7 È(E
 
-1096469*
-1¼. ¼(5
+1086368*
+1È. È(5
 
-1096446*
-1¼& ¼(-
+1086345*
+1È& È(-
 
-1096769*
-1¼F ¼(T
+1086668*
+1ÈF È(T
 
-1096746*
-1¼7 ¼(E
+1086645*
+1È7 È(E
 
-10911246*
-1Á' Á(1
+10811145*
+1Í' Í(1
 
-10911246*
-1Â Â(&
+10811145*
+1Î Î(&
 
-1097037*
-1È- È(1
+1086937*
+1Ô- Ô(1
 
-1096737*
-1É! É(/
+1086637*
+1Õ! Õ(/
 
-10911441*
-1É0 É(9
+10811317*
+1Õ0 Õ(9
 
-10911637*
-1Ë Ë( 
+10811537*
+1× ×( 
 
-109637*
-1Ë# Ë(-
+108637*
+1×# ×(-
 
-1093441*
-1Ë. Ë(5
+1083417*
+1×. ×(5
 
-109646*
-1Ë# Ë(-
-
-101637*
-1æ" æ(.
-
-1013841*
-1æ" æ(.
+108645*
+1×# ×(-
 
-10111837*
-1ç4 ç(?
+12111737*
+1í í(
+
+12111737*
+1í í(
+
+100637*
+1ù ù(0
+
+10012517*
+1ù ù(0
+
+125637*
+1‡ ‡("
+
+1253817*
+1‡ ‡("
+
+12511737*
+1‹( ‹(3

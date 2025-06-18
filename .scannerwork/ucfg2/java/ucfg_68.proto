@@ -1,7 +1,14 @@
 
-Scom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getWidgetLayoutId()I‘
-†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderExtraLarge.java* *( "1*!
-1+ +("
-+ +(2
-""BB@
->com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLargeHX
+icom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getUpdateCommandString()Ljava/lang/String;‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderExtraLarge.java   (("1*œ
+1! !(!g
+e
+! !(!
+%0java.lang.String"__id*;
+
+__unknown_file (
+appwidgetupdate_extra_large"$
+! !("
+
+%0java.lang.StringBB@
+>com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLargeH

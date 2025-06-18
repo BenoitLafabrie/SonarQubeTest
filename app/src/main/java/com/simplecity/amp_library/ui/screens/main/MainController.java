@@ -61,7 +61,6 @@ import test.com.androidnavigation.fragment.FragmentInfo;
 
 public class MainController extends BaseNavigationController implements BackPressHandler, DrawerLockController {
 
-    private static final String TAG = "MainController";
 
     public static final String STATE_CURRENT_SHEET = "current_sheet";
 
@@ -98,7 +97,8 @@ public class MainController extends BaseNavigationController implements BackPres
     }
 
     public MainController() {
-
+        // This constructor is intentionally empty.
+        // Required for fragment instantiation by the Android framework.
     }
 
     @Override
@@ -218,9 +218,7 @@ public class MainController extends BaseNavigationController implements BackPres
                 RxBroadcast.fromBroadcast(getContext(), intentFilter)
                         .subscribeOn(Schedulers.io())
                         .observeOn(AndroidSchedulers.mainThread())
-                        .subscribe(intent -> {
-                            toggleBottomSheetVisibility(true, true);
-                        })
+                        .subscribe(intent -> toggleBottomSheetVisibility(true, true))
         );
 
         DrawerLockManager.getInstance().setDrawerLockController(this);
@@ -284,26 +282,4 @@ public class MainController extends BaseNavigationController implements BackPres
         ((DrawerProvider) getActivity()).getDrawerLayout().setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED);
     }
 
-    // Todo:  Remove once cause of shared element crash is understood.
-    // This is a copy of the superclass method of the same name/signature, with some additional logging
-    // to help ascertain the cause of a crash.
-    @Override
-    public void pushViewController(@NonNull Fragment fragment, @Nullable String tag, @Nullable List<Pair<View, String>> sharedElements) {
-        FragmentTransaction fragmentTransaction = getChildFragmentManager()
-                .beginTransaction();
-
-        if (sharedElements != null) {
-            for (Pair<View, String> pair : sharedElements) {
-                try {
-                    fragmentTransaction.addSharedElement(pair.first, pair.second);
-                } catch (IllegalArgumentException e) {
-                    LogUtils.logException(TAG, String.format("Error adding shared element transition.. key: %s, value: %s", pair.first, pair.second), e);
-                }
-            }
-        }
-
-        fragmentTransaction.addToBackStack(null)
-                .replace(test.com.androidnavigation.R.id.mainContainer, fragment, tag)
-                .commit();
-    }
 }

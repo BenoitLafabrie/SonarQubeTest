@@ -1,16 +1,16 @@
 
-Tcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersAscending()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaâ â(3"1*•
+Mcom.simplecity.amp_library.utils.SettingsManager#getBluetoothResumeConnect()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java• •(,"1*‹
 1
-ã ã(n
-l
+– –(d
+b
 
-ã ã(;
-%0java.lang.String"__id*@
+– –(3
+%0java.lang.String"__id*6
 
-__unknown_file ($"
- folder_browser_folders_ascending"
+__unknown_file (
+pref_bluetooth_connect"
 
-ã ã(C
+– –(<
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

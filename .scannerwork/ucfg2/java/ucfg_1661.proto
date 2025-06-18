@@ -1,29 +1,39 @@
 
-gcom.afollestad.aesthetic.ActiveInactiveColors#create(II)Lcom/afollestad/aesthetic/ActiveInactiveColors;ê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java% (+"1*Æ
-1$ (/pn
- (#3
-%0-com.afollestad.aesthetic.ActiveInactiveColors"-com.afollestad.aesthetic.ActiveInactiveColorsÈ
-Ê
- (?
-%1"9com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V*Q
+R__sonar_lambda_103$com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragmentî
+á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java≠ ≠(x"startingBlock*Ü
+startingBlock
+≠ ≠(xÎ
+Ë
 
-__unknown_file (5
-3
-%0-com.afollestad.aesthetic.ActiveInactiveColors*"
+__unknown_file (Q
+PlayerFragment?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*s
 
-__unknown_file (
-""*"
+__unknown_file (W*UA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+PlayerFragmentı
+Ú
 
-__unknown_file (
-"""A
- (@5
-3
-%0-com.afollestad.aesthetic.ActiveInactiveColors: 
+__unknown_file (V
+PlayerFragment.this?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*x
 
-__unknown_file (
+__unknown_file (\*ZA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+PlayerFragment.this*
+1*Ô
+1
+≠  ≠(-«
+ƒ
+
+≠. ≠(AE
+%2?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*i
+
+__unknown_file (M*KA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+this"
+
+≠  ≠(x
 "": 
 
 __unknown_file (
-""B1"/
--com.afollestad.aesthetic.ActiveInactiveColorsH
+""B
+	!Unknown!

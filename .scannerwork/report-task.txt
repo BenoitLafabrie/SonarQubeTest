@@ -1,7 +1,7 @@
 organization=testepsisonarqube
 projectKey=testepsisonarqube_analyseepsi
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.64581
+serverVersion=8.0.0.64586
 dashboardUrl=https://sonarcloud.io/dashboard?id=testepsisonarqube_analyseepsi
-ceTaskId=AZeDGeG2-YLrKSDrMWDY
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZeDGeG2-YLrKSDrMWDY
+ceTaskId=AZeDVyRrt4bdCUt8zkTg
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZeDVyRrt4bdCUt8zkTg

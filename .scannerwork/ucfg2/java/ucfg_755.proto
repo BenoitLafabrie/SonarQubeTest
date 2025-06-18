@@ -1,112 +1,8 @@
 
-[com.afollestad.aesthetic.Aesthetic#colorStatusBarAuto()Lcom/afollestad/aesthetic/Aesthetic;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÍ Í(%"1*ª
+K__sonar_lambda_56$com.simplecity.amp_library.ui.screens.main.MainControllerè
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.java±$ ±(¿"1*&
 1
-Î Î( a
-_
-
-Î( Î(<
-%0java.lang.String"__id*3
-
-__unknown_file (
-status_bar_color_%s¬
-ø
-
-Î> Î(J
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""Û
-
-
-Î Î(K
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-
-%1Z
-X
-
-Î Î(L 
-statusBarKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2^
-\
-
-Ï+ Ï(<
-%3java.lang.String"__id*0
-
-__unknown_file (
-primary_color_%s¬
-ø
-
-Ï> Ï(J
-%4"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""Û
-
-
-Ï Ï(K
-%5"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%3java.lang.String*"
-
-__unknown_file (
-
-%4]
-[
-
-Ï Ï(L#
-primaryColorKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%5’
-“
-
-* (T
-%6"7com.afollestad.aesthetic.Util#resolveColor(LContext;I)I*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""ß
-§
-
-Ô (V
-%7"-com.afollestad.aesthetic.Util#darkenColor(I)I*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-"""4
-
-Ò Ò(&$
-"com.afollestad.aesthetic.AestheticB&$
-"com.afollestad.aesthetic.AestheticH
+±* ±(>"
+±* ±(¿
+""B
+	!Unknown!

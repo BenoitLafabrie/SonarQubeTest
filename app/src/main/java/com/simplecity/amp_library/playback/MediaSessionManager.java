@@ -57,7 +57,30 @@ class MediaSessionManager {
 
     private MediaIdHelper mediaIdHelper;
 
-    private static String SHUFFLE_ACTION = "ACTION_SHUFFLE";
+    private static String shuffleAction = "ACTION_SHUFFLE";
+
+    // Holder class for repositories to reduce constructor parameters
+    static class RepositoryHolder {
+        final Repository.SongsRepository songsRepository;
+        final Repository.AlbumsRepository albumsRepository;
+        final Repository.AlbumArtistsRepository albumArtistsRepository;
+        final Repository.GenresRepository genresRepository;
+        final Repository.PlaylistsRepository playlistsRepository;
+
+        RepositoryHolder(
+                Repository.SongsRepository songsRepository,
+                Repository.AlbumsRepository albumsRepository,
+                Repository.AlbumArtistsRepository albumArtistsRepository,
+                Repository.GenresRepository genresRepository,
+                Repository.PlaylistsRepository playlistsRepository
+        ) {
+            this.songsRepository = songsRepository;
+            this.albumsRepository = albumsRepository;
+            this.albumArtistsRepository = albumArtistsRepository;
+            this.genresRepository = genresRepository;
+            this.playlistsRepository = playlistsRepository;
+        }
+    }
 
     MediaSessionManager(
             Context context,
@@ -65,11 +88,7 @@ class MediaSessionManager {
             PlaybackManager playbackManager,
             PlaybackSettingsManager playbackSettingsManager,
             SettingsManager settingsManager,
-            Repository.SongsRepository songsRepository,
-            Repository.AlbumsRepository albumsRepository,
-            Repository.AlbumArtistsRepository albumArtistsRepository,
-            Repository.GenresRepository genresRepository,
-            Repository.PlaylistsRepository playlistsRepository
+            RepositoryHolder repositoryHolder
     ) {
         this.context = context.getApplicationContext();
         this.queueManager = queueManager;
@@ -77,100 +96,18 @@ class MediaSessionManager {
         this.settingsManager = settingsManager;
         this.playbackSettingsManager = playbackSettingsManager;
 
-        mediaIdHelper = new MediaIdHelper((ShuttleApplication) context.getApplicationContext(), songsRepository, albumsRepository, albumArtistsRepository, genresRepository, playlistsRepository);
+        mediaIdHelper = new MediaIdHelper(
+                (ShuttleApplication) context.getApplicationContext(),
+                repositoryHolder.songsRepository,
+                repositoryHolder.albumsRepository,
+                repositoryHolder.albumArtistsRepository,
+                repositoryHolder.genresRepository,
+                repositoryHolder.playlistsRepository
+        );
 
         ComponentName mediaButtonReceiverComponent = new ComponentName(context.getPackageName(), MediaButtonIntentReceiver.class.getName());
         mediaSession = new MediaSessionCompat(context, "Shuttle", mediaButtonReceiverComponent, null);
-        mediaSession.setCallback(new MediaSessionCompat.Callback() {
-            @Override
-            public void onPause() {
-                playbackManager.pause(true);
-            }
-
-            @Override
-            public void onPlay() {
-                playbackManager.play();
-            }
-
-            @Override
-            public void onSeekTo(long pos) {
-                playbackManager.seekTo(pos);
-            }
-
-            @Override
-            public void onSkipToNext() {
-                playbackManager.next(true);
-            }
-
-            @Override
-            public void onSkipToPrevious() {
-                playbackManager.previous(false);
-            }
-
-            @Override
-            public void onSkipToQueueItem(long id) {
-                List<QueueItem> queueItems = queueManager.getCurrentPlaylist();
-
-                QueueItem queueItem = Stream.of(queueItems)
-                        .filter(aQueueItem -> (long) aQueueItem.hashCode() == id)
-                        .findFirst()
-                        .orElse(null);
-
-                if (queueItem != null) {
-                    playbackManager.setQueuePosition(queueItems.indexOf(queueItem));
-                }
-            }
-
-            @Override
-            public void onStop() {
-                playbackManager.stop(true);
-            }
-
-            @Override
-            public boolean onMediaButtonEvent(Intent mediaButtonEvent) {
-                Log.e("MediaButtonReceiver", "OnMediaButtonEvent called");
-                MediaButtonIntentReceiver.handleIntent(context, mediaButtonEvent, playbackSettingsManager);
-                return true;
-            }
-
-            @Override
-            public void onPlayFromMediaId(String mediaId, Bundle extras) {
-                mediaIdHelper.getSongListForMediaId(mediaId, (songs, position) -> {
-                    playbackManager.load((List<Song>) songs, position, true, 0);
-                    return Unit.INSTANCE;
-                });
-            }
-
-            @SuppressWarnings("ResultOfMethodCallIgnored")
-            @SuppressLint("CheckResult")
-            @Override
-            public void onPlayFromSearch(String query, Bundle extras) {
-                if (TextUtils.isEmpty(query)) {
-                    playbackManager.play();
-                } else {
-                    mediaIdHelper.handlePlayFromSearch(query, extras)
-                            .observeOn(AndroidSchedulers.mainThread())
-                            .subscribe(
-                                    pair -> {
-                                        if (!pair.getFirst().isEmpty()) {
-                                            playbackManager.load(pair.getFirst(), pair.getSecond(), true, 0);
-                                        } else {
-                                            playbackManager.pause(false);
-                                        }
-                                    },
-                                    error -> LogUtils.logException(TAG, "Failed to gather songs from search. Query: " + query, error)
-                            );
-                }
-            }
-
-            @Override
-            public void onCustomAction(String action, Bundle extras) {
-                if (action.equals(SHUFFLE_ACTION)) {
-                    queueManager.setShuffleMode(queueManager.shuffleMode == QueueManager.ShuffleMode.ON ? QueueManager.ShuffleMode.OFF : QueueManager.ShuffleMode.ON);
-                }
-                updateMediaSession(action);
-            }
-        });
+        mediaSession.setCallback(new MediaSessionCallback());
 
         mediaSession.setFlags(MediaSessionCompat.FLAG_HANDLES_TRANSPORT_CONTROLS | MediaSessionCompat.FLAG_HANDLES_MEDIA_BUTTONS);
 
@@ -200,6 +137,107 @@ class MediaSessionManager {
         }));
     }
 
+    // Extracted callback to reduce cognitive complexity
+    private class MediaSessionCallback extends MediaSessionCompat.Callback {
+        @Override
+        public void onPause() {
+            playbackManager.pause(true);
+        }
+
+        @Override
+        public void onPlay() {
+            playbackManager.play();
+        }
+
+        @Override
+        public void onSeekTo(long pos) {
+            playbackManager.seekTo(pos);
+        }
+
+        @Override
+        public void onSkipToNext() {
+            playbackManager.next(true);
+        }
+
+        @Override
+        public void onSkipToPrevious() {
+            playbackManager.previous(false);
+        }
+
+        @Override
+        public void onSkipToQueueItem(long id) {
+            List<QueueItem> queueItems = queueManager.getCurrentPlaylist();
+
+            QueueItem queueItem = Stream.of(queueItems)
+                    .filter(aQueueItem -> (long) aQueueItem.hashCode() == id)
+                    .findFirst()
+                    .orElse(null);
+
+            if (queueItem != null) {
+                playbackManager.setQueuePosition(queueItems.indexOf(queueItem));
+            }
+        }
+
+        @Override
+        public void onStop() {
+            playbackManager.stop(true);
+        }
+
+        @Override
+        public boolean onMediaButtonEvent(Intent mediaButtonEvent) {
+            Log.e("MediaButtonReceiver", "OnMediaButtonEvent called");
+            MediaButtonIntentReceiver.handleIntent(context, mediaButtonEvent, playbackSettingsManager);
+            return true;
+        }
+
+        @Override
+        public void onPlayFromMediaId(String mediaId, Bundle extras) {
+            mediaIdHelper.getSongListForMediaId(mediaId, (songs, position) -> {
+                playbackManager.load((List<Song>) songs, position, true, 0);
+                return Unit.INSTANCE;
+            });
+        }
+
+        @SuppressWarnings("ResultOfMethodCallIgnored")
+        @SuppressLint("CheckResult")
+        @Override
+        public void onPlayFromSearch(String query, Bundle extras) {
+            if (TextUtils.isEmpty(query)) {
+                playbackManager.play();
+            } else {
+                mediaIdHelper.handlePlayFromSearch(query, extras)
+                        .observeOn(AndroidSchedulers.mainThread())
+                        .subscribe(
+                                pair -> {
+                                    if (!pair.getFirst().isEmpty()) {
+                                        playbackManager.load(pair.getFirst(), pair.getSecond(), true, 0);
+                                    } else {
+                                        playbackManager.pause(false);
+                                    }
+                                },
+                                error -> LogUtils.logException(TAG, "Failed to gather songs from search. Query: " + query, error)
+                        );
+            }
+        }
+
+        @Override
+        public void onCustomAction(String action, Bundle extras) {
+            if (action.equals(shuffleAction)) {
+                queueManager.setShuffleMode(queueManager.shuffleMode == QueueManager.ShuffleMode.ON ? QueueManager.ShuffleMode.OFF : QueueManager.ShuffleMode.ON);
+            }
+            updateMediaSession(action);
+        }
+
+        private void updateMediaSession(final String action) {
+    // Removed updateMediaSession from here. Now inside MediaSessionCallback.
+                    .putLong(MediaMetadataCompat.METADATA_KEY_TRACK_NUMBER, (long) (queueManager.queuePosition + 1))
+                    //Getting the genre is expensive.. let's not bother for now.
+                    //.putString(MediaMetadataCompat.METADATA_KEY_GENRE, getGenreName())
+                    .putBitmap(MediaMetadataCompat.METADATA_KEY_ALBUM_ART, null)
+                    .putLong(MediaMetadataCompat.METADATA_KEY_NUM_TRACKS, (long) (queueManager.getCurrentPlaylist().size()));
+        }
+    }
+
     private void updateMediaSession(final String action) {
 
         int playState = playbackManager.isPlaying() ? PlaybackStateCompat.STATE_PLAYING : PlaybackStateCompat.STATE_PAUSED;
@@ -214,11 +252,11 @@ class MediaSessionManager {
         switch (queueManager.shuffleMode) {
             case QueueManager.ShuffleMode.OFF:
                 builder.addCustomAction(
-                        new PlaybackStateCompat.CustomAction.Builder(SHUFFLE_ACTION, context.getString(R.string.btn_shuffle_on), R.drawable.ic_shuffle_off_circled).build());
+                        new PlaybackStateCompat.CustomAction.Builder(shuffleAction, context.getString(R.string.btn_shuffle_on), R.drawable.ic_shuffle_off_circled).build());
                 break;
             case QueueManager.ShuffleMode.ON:
                 builder.addCustomAction(
-                        new PlaybackStateCompat.CustomAction.Builder(SHUFFLE_ACTION, context.getString(R.string.btn_shuffle_off), R.drawable.ic_shuffle_on_circled).build());
+                        new PlaybackStateCompat.CustomAction.Builder(shuffleAction, context.getString(R.string.btn_shuffle_off), R.drawable.ic_shuffle_on_circled).build());
                 break;
         }
 
@@ -230,7 +268,7 @@ class MediaSessionManager {
 
         PlaybackStateCompat playbackState = builder.build();
 
-        if (action.equals(InternalIntents.PLAY_STATE_CHANGED) || action.equals(InternalIntents.POSITION_CHANGED) || action.equals(SHUFFLE_ACTION)) {
+        if (action.equals(InternalIntents.PLAY_STATE_CHANGED) || action.equals(InternalIntents.POSITION_CHANGED) || action.equals(shuffleAction)) {
             mediaSession.setPlaybackState(playbackState);
         } else if (action.equals(InternalIntents.META_CHANGED) || action.equals(InternalIntents.QUEUE_CHANGED)) {
 

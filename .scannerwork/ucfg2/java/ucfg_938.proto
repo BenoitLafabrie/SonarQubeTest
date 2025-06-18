@@ -1,15 +1,65 @@
 
-5com.afollestad.aesthetic.AestheticToolbar$1#<init>()V
-__unknown_file ("startingBlock*±
-startingBlockŒ
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticToolbar.javao8 o(9é
-æ
-Œ
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticToolbar.javao8 o(9
-%0"Consumer#<init>()V*;
- (/-
-+com.afollestad.aesthetic.AestheticToolbar$1"¤
-Œ
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticToolbar.javao8 o(9
-implicit returnB/-
-+com.afollestad.aesthetic.AestheticToolbar$1
+]com.simplecity.amp_library.utils.StringUtils#buildMatchedChars(Ljava/lang/CharSequence;[ZI)[C€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/StringUtils.java¿ ¿(+"6*Á
+3
+Ä Ä(ª§
+
+Ä Ä((
+
+%2char"!java.lang.CharSequence#charAt(I)C*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence*"
+
+__unknown_file (
+""2	charAt(I)*
+5*…
+5
+Â Â(i
+g
+
+Â Â(-
+%1boolean"	__compare*
+
+Â Â(
+<*
+
+Â Â(
+""*
+
+Â Â(-
+""*	
+3
+5
+1*Š
+6
+À À($$"
+
+À À(%
+%0char[]"char[]N
+L
+
+À À(&
+mschar[]"__id**
+
+__unknown_file (
+
+%0char[]*
+5*-
+1
+Ç Ç("
+
+Ç Ç(
+
+mschar[]:+
+
+¿, ¿(=
+seqjava.lang.CharSequence: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B0".
+,com.simplecity.amp_library.utils.StringUtils

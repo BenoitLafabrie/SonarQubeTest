@@ -160,5 +160,5 @@ abstract class M3uDialogFragmentModule {
     @Binds
     @Named(FragmentModule.FRAGMENT)
     @FragmentScope
-    internal abstract fun fragment(m3uPlaylistDialog: M3uPlaylistDialog): Fragment
+    abstract fun bindFragment(m3uPlaylistDialog: M3uPlaylistDialog): Fragment
 }

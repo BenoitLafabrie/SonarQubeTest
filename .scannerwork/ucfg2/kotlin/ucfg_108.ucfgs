@@ -1,62 +1,22 @@
-Ì
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()Vë
-à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt	 ("0*<
-0	 	("/
+Ô
+Lcom.simplecity.amp_library.ui.screens.album.list.AlbumListContract#<init>()Vë
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/album/list/AlbumListContract.kt ("0*>
+0 ("/
 
 __unknown_file (
 implicit returnBFD
-Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHú
-tcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#provideRequestManager(LFragment;)LRequestManager;ì
-à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*ñ
-0 (ç
-ä
- (A
-%0"
-__annotate*0
+Bcom.simplecity.amp_library.ui.screens.album.list.AlbumListContractH˚
+Qcom.simplecity.amp_library.ui.screens.album.list.AlbumListContract$View#<init>()Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/album/list/AlbumListContract.kt ("0*>
+0 (+"/
 
-__unknown_file (
-java.lang.Object*:
+__unknown_file (
+implicit returnBKI
+Gcom.simplecity.amp_library.ui.screens.album.list.AlbumListContract$ViewHÖ
+Vcom.simplecity.amp_library.ui.screens.album.list.AlbumListContract$Presenter#<init>()Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/album/list/AlbumListContract.kt ("0*>
+0 ("/
 
-__unknown_file (
-
-fragmentjava.lang.Object\
-Z
- (A
-fragmentjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%0"
- (#
-	<unknown>:(
- (A
-fragmentjava.lang.ObjectBFD
-Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleH«
-lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion#getFRAGMENT()Ljava/lang/String;
-__unknown_file ("0*Â
-0 (¨
-©
- (
-fieldjava.lang.Object"__id*|
- (p*nN
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion"
-FRAGMENTjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBPN
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$CompanionHÁ
-mcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion#setFRAGMENT(Ljava/lang/String;)V
-__unknown_file ("0*›
-0 (¨
-©
- (nN
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion"
-FRAGMENTjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBPN
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$CompanionH
+__unknown_file (
+implicit returnBPN
+Lcom.simplecity.amp_library.ui.screens.album.list.AlbumListContract$PresenterH

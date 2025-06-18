@@ -1,20 +1,9 @@
 
-Jcom.simplecity.amp_library.services.Equalizer$EffectSet#%field_initializer
-__unknown_file ("1*€
-1 (ê
-ç
-
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javac c()L9
-7com.simplecity.amp_library.services.Equalizer$EffectSet"
-mEqNumPresets"__id*
- (2è
-å
-
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javad d('J9
-7com.simplecity.amp_library.services.Equalizer$EffectSet"
-mEqNumBands"__id*
- (2"˜
-€
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaS Í(
-implicit returnB;9
-7com.simplecity.amp_library.services.Equalizer$EffectSet
+@com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z‡
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.java½ ½("1*%
+1
+¾ ¾("
+
+¾ ¾($
+""B75
+3com.simplecity.amp_library.playback.PlaybackManagerHX

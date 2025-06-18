@@ -1,33 +1,148 @@
 
-Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Zí
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaÌ Ì("1*ﬂ
+Ncom.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)ZÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java{ {("startingBlock*∑
+2
+Å? Å(Ha
+_
+
+Å? Å(V
+%8"	__compare*
+
+ÅO Å(Q
+==*
+
+Å? Å(N
+""*
+
+ÅR Å(V
+"">
+<
+
+Å? Å(V
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*T
+3
+Å Å($>
+<
+
+Å Å(<
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*Ä
+startingBlock{ {(#à
+Ö
+z z(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+{! {("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*Ñ
+4* (+â
+Ü
+ (,?
+	genreView2com.simplecity.amp_library.ui.modelviews.GenreView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objecta
+_
+
+Å Å(
+%5"	__compare*
+
+Å Å(
+!=*
+
+Å Å(
+""*
+
+Å Å(
+""*
+2
+3*!
+5}< }(A"
+}5 }(B
+""*Ë
+6} }(!≤Ø
+} }(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.GenreView2
+getClass()ìê
+}' }(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()Ö
+Ç
+} }(3
+%4boolean"	__compare*
+}$ }(&
+!=*#
+} }(#
+
+%2java.lang.Class*#
+}' }(3
+
+%3java.lang.Class*
+4
+5*ä
+7} }(s
+q
+} }(
+%1boolean"	__compare*
+} }(
+==*#
+} }(
+
+ojava.lang.Object*
+} }(
+""*
+5
+6*!
+8| |(""
+| |(#
+""*º
+9| |(§
+°
+| |(
+%0boolean"	__compare*
+| |(
+==*B
+| |(64
+2com.simplecity.amp_library.ui.modelviews.GenreView*#
+| |(
+
+ojava.lang.Object*
+7
+8*%
 1
-Ó Ó(E
-C
+Å Å(W"
 
-Ó Ó(1
-%0float"__id*"
-
-__unknown_file (
-""q
-o
-
-Ó Ó(1
-%1boolean"	__compare*
-
-Ó Ó(
->=*
-
-Ó Ó(
-""*
-
-Ó Ó(1
-
-%0float"
-
-Ó Ó(2
-"": 
-
-__unknown_file (
-""BA?
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX
+Å Å(W
+"":!
+{ {("
+ojava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.GenreViewHX

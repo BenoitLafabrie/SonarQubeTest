@@ -70,6 +70,8 @@ public class Song implements
     private String artworkKey;
     private String sortKey;
 
+    private static final String ALBUM_ARTIST = "album_artist";
+
     public static String[] getProjection() {
         return new String[] {
                 MediaStore.Audio.Media._ID,
@@ -85,7 +87,7 @@ public class Song implements
                 MediaStore.Audio.Media.DATE_ADDED,
                 MediaStore.Audio.Media.IS_PODCAST,
                 MediaStore.Audio.Media.BOOKMARK,
-                "album_artist"
+                ALBUM_ARTIST
         };
     }
 
@@ -126,13 +128,13 @@ public class Song implements
 
         dateAdded = cursor.getInt(cursor.getColumnIndexOrThrow(MediaStore.Audio.Media.DATE_ADDED));
 
-        path = cursor.getString(cursor.getColumnIndexOrThrow(MediaStore.Audio.Media.DATA));
-
         albumArtistName = artistName;
-        if (cursor.getColumnIndex("album_artist") != -1) {
-            String albumArtist = cursor.getString(cursor.getColumnIndex("album_artist"));
+        if (cursor.getColumnIndex(ALBUM_ARTIST) != -1) {
+            String albumArtist = cursor.getString(cursor.getColumnIndex(ALBUM_ARTIST));
             if (albumArtist != null) {
                 albumArtistName = albumArtist;
+            }
+        }
             }
         }
 
@@ -360,8 +362,8 @@ public class Song implements
     public String getRemoteArtworkUrl() {
         try {
             return "https://artwork.shuttlemusicplayer.app/api/v1/artwork"
-                    + "?artist=" + URLEncoder.encode(albumArtistName, Charset.forName("UTF-8").name())
-                    + "&album=" + URLEncoder.encode(albumName, Charset.forName("UTF-8").name());
+                    + "?artist=" + URLEncoder.encode(albumArtistName, java.nio.charset.StandardCharsets.UTF_8.name())
+                    + "&album=" + URLEncoder.encode(albumName, java.nio.charset.StandardCharsets.UTF_8.name());
         } catch (UnsupportedEncodingException e) {
             return null;
         }

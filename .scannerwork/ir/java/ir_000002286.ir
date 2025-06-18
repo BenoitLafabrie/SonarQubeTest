@@ -1,10 +1,5 @@
-Pthis, ,("<com.simplecity.amp_library.glide.utils.BitmapAndSizeResource"Ç:
-8
-- -(."#new-object#2ConstructorBBitmapAndSize!
-
--! -('"#unknown-value#!
-
--) -(-"#unknown-value#3
-1
-- -(."#unknown-value#2Constructor:
-- -(/*„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/BitmapAndSizeResource.java
+
+falsebooleanIthis ("5com.simplecity.amp_library.glide.fetcher.MultiFetcher"E6
+4
+ (1"" #set-field# allowOfflineDownload:	
+ (*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/MultiFetcher.java
