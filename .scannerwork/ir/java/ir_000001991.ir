@@ -1,0 +1,31 @@
+
+trueboolean;this
+Ã Ã("%com.simplecity.amp_library.model.Song"Æ4
+2
+
+Ä Ä(!"#get-field# elapsedTime:BlongV
+T
+
+Ä$ Ä(>"(
+java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong*
+(
+
+Ä Ä(>"	#binop +#2+:Blong2
+0
+
+ÄA Ä(J"#get-field# startTime:Blong7
+5
+
+Ä Ä(JelapsedTime"	#binop -#2-:Blong/
+-
+
+Ä Ä(J"#set-field# elapsedTime:.
+,
+
+Å Å(	isPaused"#id#:Bboolean,
+*
+
+Å Å(
+"#set-field# isPaused:	
+
+Æ Æ(*g/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

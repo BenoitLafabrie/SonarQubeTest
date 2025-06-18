@@ -1,0 +1,15 @@
+
+500intLthis (!"8com.simplecity.amp_library.ui.views.RepeatingImageButton"ô*
+(
+ ("#set-field# interval:!
+
+ ("#unknown-value#1
+/
+ (!"#get-field# WHITE:B	!Unknown!-
++
+ (""#set-field# normalColor:,
+*
+k! r("?create:java.lang.Runnable+
+)
+k r("#set-field# mRepeater:	
+ ê(*z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java

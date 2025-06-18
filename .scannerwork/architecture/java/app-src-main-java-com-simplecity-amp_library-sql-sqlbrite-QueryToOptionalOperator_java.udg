@@ -1,0 +1,554 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233430979*java2.B©
+[
+Vapp/src/main/java/com/simplecity/amp_library/sql/sqlbrite/QueryToOptionalOperator.java2
+
+package4
+,
+'com.simplecity.amp_library.sql.sqlbrite5
+D
+?com.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+QueryToOptionalOperator12
+0
+*Recovered#typeBindingLObservableOperator;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+&
+ Recovered#typeBindingLOptional;019
+&
+ Recovered#typeBindingLSqlBrite;021
+L
+Fcom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator.mapper23
+
+field24
+
+private25
+
+mapper26
+
+Function28
+
+is type29
+$
+Recovered#typeBindingLCursor;031
+Y
+Scom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator#<init>(LFunction;)V33
+
+method34
+
+	protected35
+&
+ Recovered#typeBindingLFunction;037
+
+	has param38
+
+calls39
+
+
+references40
+a
+[com.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator#apply(LObserver;)LObserver;42
+
+apply43
+
+Observer45
+
+returns46
+&
+ Recovered#typeBindingLObserver;048
+
+bound by49
+U
+Ocom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver51
+
+MappingObserver52
+0
+*Recovered#typeBindingLDisposableObserver;054
+
+extends55
+`
+Zcom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver.downstream57
+
+
+downstream58
+\
+Vcom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver.mapper60
+s
+mcom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#<init>(LObserver;LFunction;)V62
+`
+Zcom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#onStart()V64
+
+onStart65
+o
+icom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#onNext(LSqlBrite/Query;)V67
+
+onNext68
+
+T70
+u
+ocom.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#onError(Ljava/lang/Throwable;)V72
+c
+]com.simplecity.amp_library.sql.sqlbrite.QueryToOptionalOperator$MappingObserver#onComplete()V74
+
+
+onComplete75
+
+onError76J
+
+1
+12Z
+
+3	
+354jß
+
+13
+131415
+
+47
+474815
+A
+56;
+565724 *
+1	 (250:3B
+	
+9
+25
+
+
+11
+58
+
+18
+181915
+@
+32:
+323334 *
+1 (26:3B
+	
+9
+35
+
+
+11
+12
+?
+509
+50518 *
+1 ('26:3B
+	
+9
+35
+
+
+11
+52
+@
+41:
+414234 *
+1 (26:3B
+	
+9
+10
+
+
+11
+43
+A
+66;
+666734 *
+1'	 '(
+250:3B
+	
+9
+10
+
+
+11
+68
+@
+22:
+222324 *
+1 (26:3B
+	
+9
+25
+
+
+11
+26
+A
+61;
+616234 *
+1	 (250:3B
+	
+9
+35
+
+
+11
+52
+A
+71;
+717234 *
+1L	 L(
+250:3B
+	
+9
+10
+
+
+11
+76
+
+20
+202115
+
+27
+272815
+A
+63;
+636434 *
+1"	 "(
+250:3B
+	
+9
+35
+
+
+11
+65
+
+69
+697015
+A
+73;
+737434 *
+1E	 E(
+250:3B
+	
+9
+10
+
+
+11
+75
+
+44
+444515
+A
+59;
+596024 *
+1	 (250:3B
+	
+9
+25
+
+
+11
+26
+
+30
+303115
+
+53
+535415
+9
+64
+678 *
+1 (+:3B
+	
+9
+10
+
+
+11
+12
+
+36
+363715rö
+
+61316*
+1: (L
+
+61317*
+1: (L
+
+61817*
+1M (U
+
+62017*
+1Z (b
+
+62017*
+1c (h
+
+222729*
+1 (
+
+222717*
+1 (
+
+223017*
+1 ("
+
+222717*
+1' (-
+
+323638*
+1 (%
+
+32639*
+1 (
+
+323629*
+11 (7
+
+323617*
+1 (%
+
+323017*
+1& (,
+
+32617*
+1	 (
+
+32640*
+1	 (
+
+322717*
+1 (
+
+322240*
+1 (
+
+414446*
+1 (
+
+414738*
+13 (;
+
+414417*
+1 (
+
+412049*
+1 (%
+
+412017*
+1 (%
+
+412017*
+1& (+
+
+414729*
+1Q (Y
+
+414717*
+13 (;
+
+411849*
+1D (L
+
+411817*
+1D (L
+
+412717*
+10 (6
+
+412240*
+10 (6
+
+505355*
+13 (E
+
+505317*
+13 (E
+
+502017*
+1F (N
+
+502017*
+1O (T
+
+564429*
+1 (
+
+564417*
+1 (
+
+561849*
+1( (0
+
+561817*
+1( (0
+
+564417*
+15 (?
+
+592729*
+1 (
+
+592717*
+1 (
+
+593017*
+1  (&
+
+592717*
+1+ (1
+
+614738*
+1 (!
+
+613638*
+1C (K
+
+615039*
+1	 (
+
+614729*
+17 (A
+
+614717*
+1 (!
+
+611849*
+1* (2
+
+611817*
+1* (2
+
+613629*
+1W (]
+
+613617*
+1C (K
+
+613017*
+1L (R
+
+615017*
+1 (
+
+615040*
+1 (
+
+614417*
+1 (
+
+615640*
+1 (
+
+615017*
+1 (
+
+615040*
+1 (
+
+612717*
+1 (
+
+615940*
+1 (
+
+635640*
+1$ $(
+
+634417*
+1$ $(
+
+635640*
+1$ $(
+
+635017*
+1$$ $((
+
+635040*
+1$$ $((
+
+662038*
+1( (($
+
+662029*
+1(+ ((0
+
+662017*
+1( (($
+
+662017*
+1(% ((*
+
+666929*
+1* *(
+
+663029*
+1+ +(
+
+663017*
+1+ +(
+
+665940*
+1/$ /(*
+
+662717*
+1/$ /(*
+
+665940*
+1/$ /(*
+
+665640*
+11! 1(+
+
+664417*
+11! 1(+
+
+665640*
+11! 1(+
+
+665640*
+1= =(
+
+664417*
+1= =(
+
+665640*
+1= =(
+
+665040*
+1A A(
+
+667139*
+1A A(
+
+735640*
+1H H(
+
+734417*
+1H H(
+
+735640*
+1H H(
+
+715640*
+1Q Q(
+
+714417*
+1Q Q(
+
+715640*
+1Q Q(

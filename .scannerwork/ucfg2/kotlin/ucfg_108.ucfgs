@@ -1,0 +1,65 @@
+ç
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()V‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt
+ ("0*<
+0
+ 
+("/
+
+__unknown_file (
+implicit returnBFD
+Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleH–
+tcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#provideRequestManager(LFragment;)LRequestManager;
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*–
+0 (
+Š
+ (A
+%0"
+__annotate*0
+
+__unknown_file (
+java.lang.Object*:
+
+__unknown_file (
+
+fragmentjava.lang.Object\
+Z
+ (A
+fragmentjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0"
+ (#
+	<unknown>:(
+ (A
+fragmentjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHÇ
+lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion#getFRAGMENT()Ljava/lang/String;
+__unknown_file ("0*å
+0 (¬
+©
+ (
+fieldjava.lang.Object"__id*|
+ (p*nN
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion"
+FRAGMENTjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBPN
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$CompanionHç
+mcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion#setFRAGMENT(Ljava/lang/String;)V
+__unknown_file ("0*Ý
+0 (¬
+©
+ (nN
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion"
+FRAGMENTjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBPN
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$CompanionH

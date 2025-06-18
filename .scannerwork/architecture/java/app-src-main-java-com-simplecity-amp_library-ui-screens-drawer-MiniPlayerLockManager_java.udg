@@ -1,0 +1,292 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233432283*java2.B¸
+^
+Yapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java2
+
+package4
+1
+,com.simplecity.amp_library.ui.screens.drawer5
+G
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+MiniPlayerLockManager12
+W
+Qcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$MiniPlayerLock14
+
+	interface15
+
+MiniPlayerLock16
+r
+lcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$MiniPlayerLock#getTag()Ljava/lang/String;18
+
+method19
+
+getTag20
+Q
+Kcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager.instance22
+
+field23
+
+private24
+
+instance25
+
+is type26
+
+
+uses27
+X
+Rcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager.miniPlayerLocks29
+
+miniPlayerLocks30
+
+
+references31
+R
+Lcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#<init>()V33
+
+calls34
+]
+Wcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z36
+
+canShowMiniPlayer37
+›
+”com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;39
+
+getInstance40
+
+returns41
+±
+ªcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#addMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V43
+
+addMiniPlayerLock44
+
+	has param45
+´
+­com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#removeMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V47
+
+removeMiniPlayerLock48J
+
+1
+12Z
+
+3	
+354jŽ
+@
+13:
+131415 *
+1 ($26:3B
+	
+9
+10
+
+
+11
+16
+@
+42:
+424319 *
+1 (26:3B
+	
+9
+10
+
+
+11
+44
+A
+17;
+171819 *
+1		 	(213:3B
+	
+9
+10
+
+
+11
+20
+@
+46:
+464719 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+48
+@
+28:
+282923 *
+1 (26:3B
+	
+9
+24
+
+
+11
+30
+@
+32:
+323319 *
+1 (26:3B
+	
+9
+24
+
+
+11
+12
+@
+38:
+383919 *
+1 (26:3B
+	
+9
+10
+
+
+11
+40
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12
+@
+35:
+353619 *
+1 (26:3B
+	
+9
+10
+
+
+11
+37
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+24
+
+
+11
+25rñ
+
+21626*
+1 ()
+
+21627*
+1 ()
+
+21627*
+1* (2
+
+281327*
+1 ( 
+
+281331*
+1 ( 
+
+32634*
+1 ("
+
+352831*
+1 (
+
+352831*
+1 (
+
+38641*
+1 ((
+
+38627*
+1 ((
+
+38627*
+1 (
+
+382131*
+1 (
+
+38627*
+1 (
+
+382131*
+1 (
+
+38634*
+1 (1
+
+38627*
+1 (
+
+382131*
+1 (
+
+421345*
+1# (1
+
+421326*
+12 (@
+
+421327*
+1# (1
+
+421331*
+1# (1
+
+422831*
+1   (
+
+422831*
+1   (
+
+422831*
+1! !(
+
+422831*
+1! !(
+
+461345*
+1%& %(4
+
+461326*
+1%5 %(C
+
+461327*
+1%& %(4
+
+461331*
+1%& %(4
+
+462831*
+1& &(
+
+462831*
+1& &(
+
+462831*
+1' '(
+
+462831*
+1' '(

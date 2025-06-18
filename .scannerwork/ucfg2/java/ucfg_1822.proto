@@ -1,0 +1,136 @@
+
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)Z{
+o/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaš š("startingBlock*%
+2
+œ< œ(A"
+
+œ5 œ(B
+""*ñ
+3
+œ œ(!¯¬
+
+œ œ(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()•’
+
+œ' œ(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()
+Š
+
+œ œ(3
+%4boolean"	__compare*
+
+œ$ œ(&
+!=*%
+
+œ œ(#
+
+%2java.lang.Class*%
+
+œ' œ(3
+
+%3java.lang.Class*
+2
+1*†
+startingBlock
+š š(#Š
+‡
+
+™ ™(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+š! š("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*”
+4
+œ œ({
+y
+
+œ œ(
+%1boolean"	__compare*
+
+œ œ(
+==*%
+
+œ œ(
+
+ojava.lang.Object*
+
+œ œ(
+""*
+2
+3*%
+5
+› ›(""
+
+› ›(#
+""*Á
+6
+› ›(§
+¤
+
+› ›(
+%0boolean"	__compare*
+
+› ›(
+==*?
+
+› ›(1/
+-com.simplecity.amp_library.model.CategoryItem*%
+
+› ›(
+
+ojava.lang.Object*
+4
+5*”
+1
+ž+ ž(,€
+~
+
+ž ž(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+   ( 
+%5boolean"	__compare*
+
+   (
+==*
+
+   (
+""*
+
+   ( 
+"""
+
+   (!
+"":#
+
+š š("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX

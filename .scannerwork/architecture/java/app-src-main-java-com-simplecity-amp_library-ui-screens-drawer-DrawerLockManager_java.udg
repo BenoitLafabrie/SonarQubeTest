@@ -1,0 +1,406 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233433382*java2.Bî
+Z
+Uapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerLockManager.java2
+
+package4
+1
+,com.simplecity.amp_library.ui.screens.drawer5
+C
+>com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+DrawerLockManager12
+O
+Icom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager$DrawerLock14
+
+	interface15
+
+
+DrawerLock16
+j
+dcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager$DrawerLock#getTag()Ljava/lang/String;18
+
+method19
+
+getTag20
+M
+Gcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager.instance22
+
+field23
+
+private24
+
+instance25
+
+is type26
+
+
+uses27
+P
+Jcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager.drawerLocks29
+
+drawerLocks30
+
+
+references31
+Y
+Scom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager.drawerLockController33
+
+drawerLockController34
+
+DrawerLockController36
+
+unknown37
+
+Nullable39
+
+annotated by40
+&
+ Recovered#typeBindingLNullable;042
+N
+Hcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#<init>()V44
+
+calls45
+ì
+åcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager;47
+
+getInstance48
+
+returns49
+u
+ocom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#setDrawerLockController(LDrawerLockController;)V51
+
+setDrawerLockController52
+2
+,Recovered#typeBindingLDrawerLockController;054
+
+	has param55
+°
+öcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#addDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V57
+
+addDrawerLock58
+§
+ùcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V60
+
+removeDrawerLock61J
+
+1
+12Z
+
+3	
+354j†
+@
+13:
+131415 *
+1	 	( 26:3B
+	
+9
+10
+
+
+11
+16
+@
+50:
+505119 *
+1 (26:3B
+	
+9
+10
+
+
+11
+52
+@
+56:
+565719 *
+1# #(26:3B
+	
+9
+10
+
+
+11
+58
+
+35
+353637
+
+53
+535437
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+24
+
+
+11
+25
+@
+43:
+434419 *
+1 (26:3B
+	
+9
+24
+
+
+11
+12
+A
+17;
+171819 *
+1
+	 
+(213:3B
+	
+9
+10
+
+
+11
+20
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+59:
+596019 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+61
+
+41
+414237
+@
+46:
+464719 *
+1 (26:3B
+	
+9
+10
+
+
+11
+48
+@
+32:
+323323 *
+1 (26:3B
+	
+9
+24
+
+
+11
+34
+@
+28:
+282923 *
+1 (26:3B
+	
+9
+24
+
+
+11
+30
+
+38
+383937r˜
+
+21626*
+1 (%
+
+21627*
+1 (%
+
+21627*
+1& (.
+
+281327*
+1 (
+
+281331*
+1 (
+
+323526*
+1 (!
+
+323840*
+1 (
+
+324127*
+1 (
+
+323527*
+1 (!
+
+323527*
+1" (6
+
+43645*
+1 (
+
+46649*
+1 ($
+
+46627*
+1 ($
+
+46627*
+1 (
+
+462131*
+1 (
+
+46627*
+1 (
+
+462131*
+1 (
+
+46645*
+1 (-
+
+46627*
+1 (
+
+462131*
+1 (
+
+505355*
+13 (G
+
+505326*
+1H (\
+
+503840*
+1) (*
+
+504127*
+1* (2
+
+505327*
+13 (G
+
+50627*
+1 	  (
+
+50631*
+1 	  (
+
+503527*
+1   ("
+
+503231*
+1   ("
+
+561355*
+1# #()
+
+561326*
+1#* #(4
+
+561327*
+1# #()
+
+561331*
+1# #()
+
+562831*
+1$ $(
+
+562831*
+1$ $(
+
+562831*
+1% %(
+
+562831*
+1% %(
+
+563527*
+1' '(!
+
+563231*
+1' '(!
+
+563231*
+1( ((!
+
+563527*
+1( ((!
+
+563231*
+1( ((!
+
+591355*
+1," ,(,
+
+591326*
+1,- ,(7
+
+591327*
+1," ,(,
+
+591331*
+1," ,(,
+
+592831*
+1- -(
+
+592831*
+1- -(
+
+592831*
+1. .(
+
+592831*
+1. .(
+
+592831*
+10 0(
+
+592831*
+10 0(
+
+593527*
+11 1(%
+
+593231*
+11 1(%
+
+593231*
+12 2(%
+
+593527*
+12 2(%
+
+593231*
+12 2(%

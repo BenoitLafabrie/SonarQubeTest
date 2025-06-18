@@ -1,0 +1,32 @@
+
+'}'char
+#"Suggestion{"java.lang.String
+)"mostPlayedArtist="java.lang.String
+,", favouriteSongsTwo="java.lang.String
+1", recentlyAddedAlbumsTwo="java.lang.String
+/", recentlyPlayedAlbums="java.lang.String
+)", mostPlayedSong="java.lang.String
+,	", favouriteSongsOne="java.lang.String
+1", recentlyAddedAlbumsOne="java.lang.String
+*", mostPlayedAlbum="java.lang.String?this$ $("+com.simplecity.amp_library.model.Suggestion"¥_
+]
+&& &(6"#get-field# mostPlayedArtist:B,com.simplecity.amp_library.model.AlbumArtist!
+
+'' '(6"#unknown-value#!
+
+(& ((4"#unknown-value#!
+
+)) )(:
+"#unknown-value#!
+
+*) *(:"#unknown-value#!
+
++, +(@"#unknown-value#!
+
+,. ,(D"#unknown-value#!
+
+-. -(D"#unknown-value#=
+;
+% .("	#binop +#2+:	
+B	!Unknown!
+% .(*m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java

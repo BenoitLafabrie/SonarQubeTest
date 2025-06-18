@@ -1,0 +1,183 @@
+
+Hcom.simplecity.amp_library.model.Suggestion#toString()Ljava/lang/String;w
+m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java$ $("1*Õ
+1% %(n
+l
+% &(#
+%0java.lang.String"__concat*
+% %(
+Suggestion{*!
+& &(#
+mostPlayedArtist=ª
+§
+&& &(62
+%1,com.simplecity.amp_library.model.AlbumArtist"__id*a
+
+__unknown_file (E*C-
++com.simplecity.amp_library.model.Suggestion"
+mostPlayedArtist›
+˜
+% &(6
+%2"__calculate*
+&$ &(%
++*$
+% &(#
+
+%0java.lang.String*@
+&& &(64
+2
+%1,com.simplecity.amp_library.model.AlbumArtistj
+h
+% '($
+%3"__calculate*
+&7 &(8
++*
+% &(6
+
+%2*"
+' '($
+, mostPlayedAlbum=Z
+X
+% '(6
+%4"__calculate*
+'% '(&
++*
+% '($
+
+%3*
+'' '(6
+""i
+g
+% ((#
+%5"__calculate*
+'7 '(8
++*
+% '(6
+
+%4*!
+( ((#
+, mostPlayedSong=Z
+X
+% ((4
+%6"__calculate*
+($ ((%
++*
+% ((#
+
+%5*
+(& ((4
+""l
+j
+% )(&
+%7"__calculate*
+(5 ((6
++*
+% ((4
+
+%6*$
+) )(&
+, favouriteSongsOne=Z
+X
+% )(:
+%8"__calculate*
+)' )((
++*
+% )(&
+
+%7*
+)) )(:
+""l
+j
+% *(&
+%9"__calculate*
+); )(<
++*
+% )(:
+
+%8*$
+* *(&
+, favouriteSongsTwo=[
+Y
+% *(:
+%10"__calculate*
+*' *((
++*
+% *(&
+
+%9*
+*) *(:
+""q
+o
+% +()
+%11"__calculate*
+*; *(<
++*
+% *(:
+
+%10*'
++ +()
+, recentlyPlayedAlbums=\
+Z
+% +(@
+%12"__calculate*
++* +(+
++*
+% +()
+
+%11*
++, +(@
+""s
+q
+% ,(+
+%13"__calculate*
++A +(B
++*
+% +(@
+
+%12*)
+, ,(+
+, recentlyAddedAlbumsOne=\
+Z
+% ,(D
+%14"__calculate*
+,, ,(-
++*
+% ,(+
+
+%13*
+,. ,(D
+""s
+q
+% -(+
+%15"__calculate*
+,E ,(F
++*
+% ,(D
+
+%14*)
+- -(+
+, recentlyAddedAlbumsTwo=\
+Z
+% -(D
+%16"__calculate*
+-, -(-
++*
+% -(+
+
+%15*
+-. -(D
+""[
+Y
+% .(
+%17"__calculate*
+-E -(F
++*
+% -(D
+
+%16*
+. .(
+}"
+% .(
+
+%17B/-
++com.simplecity.amp_library.model.SuggestionH

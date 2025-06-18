@@ -1,0 +1,330 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233439498*java2.BÎ
+
+N
+Iapp/src/main/java/com/simplecity/amp_library/ui/views/CustomCheckbox.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+7
+2com.simplecity.amp_library.ui.views.CustomCheckbox7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CustomCheckbox12
+/
+)Recovered#typeBindingLAestheticCheckBox;014
+
+unknown15
+
+extends16
+
+
+uses17
+F
+@com.simplecity.amp_library.ui.views.CustomCheckbox.subscriptions19
+
+field20
+
+private21
+
+subscriptions22
+
+CompositeDisposable24
+
+is type25
+K
+Ecom.simplecity.amp_library.ui.views.CustomCheckbox#<init>(LContext;)V27
+
+method28
+%
+Recovered#typeBindingLContext;030
+
+	has param31
+
+calls32
+Y
+Scom.simplecity.amp_library.ui.views.CustomCheckbox#<init>(LContext;LAttributeSet;)V34
+*
+$Recovered#typeBindingLAttributeSet;036
+Z
+Tcom.simplecity.amp_library.ui.views.CustomCheckbox#<init>(LContext;LAttributeSet;I)V38
+^
+Xcom.simplecity.amp_library.ui.views.CustomCheckbox#invalidateColors(LColorIsDarkState;)V40
+
+	protected41
+
+invalidateColors42
+.
+(Recovered#typeBindingLColorIsDarkState;044
+
+
+references45
+
+AestheticCheckBox47
+N
+Hcom.simplecity.amp_library.ui.views.CustomCheckbox#onAttachedToWindow()V49
+
+onAttachedToWindow50
+P
+Jcom.simplecity.amp_library.ui.views.CustomCheckbox#onDetachedFromWindow()V52
+
+onDetachedFromWindow53J
+
+1
+12Z
+
+3	
+354j
+
+29
+293015
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+37:
+373828 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+12
+@
+51:
+515228 *
+1@ @(26:3B
+	
+9
+41
+
+
+11
+53
+@
+48:
+484928 *
+1, ,(26:3B
+	
+9
+41
+
+
+11
+50
+
+13
+131415
+
+46
+464715
+@
+33:
+333428 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+43
+434415
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+39:
+394028 *
+1% %(26:3B
+	
+9
+41
+
+
+11
+42
+
+23
+232415
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+35
+353615rÍ	
+
+61316*
+1% (6
+
+61317*
+1% (6
+
+182325*
+1 ( 
+
+182317*
+1 ( 
+
+182317*
+1! (.
+
+262931*
+1 ("
+
+26632*
+1 (
+
+262925*
+1# (*
+
+262917*
+1 ("
+
+332931*
+1 ("
+
+333531*
+1, (8
+
+33632*
+1 (
+
+332925*
+1# (*
+
+332917*
+1 ("
+
+333525*
+19 (>
+
+333517*
+1, (8
+
+372931*
+1! !("
+
+373531*
+1!, !(8
+
+37632*
+1! !(
+
+372925*
+1!# !(*
+
+372917*
+1! !("
+
+373525*
+1!9 !(>
+
+373517*
+1!, !(8
+
+394331*
+1&% &(5
+
+394325*
+1&6 &(;
+
+394317*
+1&% &(5
+
+39645*
+1'	 '(
+
+394617*
+1'	 '(
+
+39645*
+1'	 '(
+
+48645*
+1.	 .(
+
+484617*
+1.	 .(
+
+48645*
+1.	 .(
+
+482317*
+10	 0(
+
+481845*
+10	 0(
+
+481845*
+12	 2(
+
+482317*
+12	 2(
+
+481845*
+12	 2(
+
+484317*
+18& 8(6
+
+48617*
+1=$ =((
+
+48645*
+1=$ =((
+
+511845*
+1B	 B(
+
+512317*
+1B	 B(
+
+511845*
+1B	 B(
+
+51645*
+1C	 C(
+
+514617*
+1C	 C(
+
+51645*
+1C	 C(

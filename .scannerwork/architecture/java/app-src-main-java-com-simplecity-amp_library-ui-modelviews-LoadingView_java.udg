@@ -1,0 +1,240 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233437965*java2.B€
+
+P
+Kapp/src/main/java/com/simplecity/amp_library/ui/modelviews/LoadingView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+9
+4com.simplecity.amp_library.ui.modelviews.LoadingView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+LoadingView12
+=
+7com.simplecityapps.recycler_adapter.model.BaseViewModel14
+
+unknown15
+
+extends16
+
+
+uses17
+E
+?com.simplecity.amp_library.ui.modelviews.LoadingView$ViewHolder19
+
+
+references20
+I
+Ccom.simplecity.amp_library.ui.modelviews.LoadingView#getViewType()I22
+
+method23
+
+getViewType24
+L
+Fcom.simplecity.amp_library.ui.modelviews.LoadingView#getLayoutResId()I26
+
+getLayoutResId27
+ö
+ìcom.simplecity.amp_library.ui.modelviews.LoadingView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/LoadingView$ViewHolder;29
+
+createViewHolder30
+
+returns31
+'
+!Recovered#typeBindingLViewGroup;033
+
+	has param34
+
+is type35
+
+calls36
+
+
+View38
+[
+Ucom.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;40
+
+
+ViewHolder41
+,
+&Recovered#typeBindingLBaseViewHolder;043
+U
+Ocom.simplecity.amp_library.ui.modelviews.LoadingView$ViewHolder#<init>(LView;)V45
+"
+Recovered#typeBindingLView;047
+b
+\com.simplecity.amp_library.ui.modelviews.LoadingView$ViewHolder#toString()Ljava/lang/String;49
+
+toString50J
+
+1
+12Z
+
+3	
+354j¿
+?
+189
+18198 *
+1 (#26:3B
+	
+9
+10
+
+
+11
+41
+
+42
+424315
+
+39
+394015
+
+37
+373815
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+
+32
+323315
+A
+44;
+444523 *
+1	 (218:3B
+	
+9
+10
+
+
+11
+41
+@
+25:
+252623 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27
+
+46
+464715
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+A
+48;
+484923 *
+1"	 "(
+218:3B
+	
+9
+10
+
+
+11
+50
+@
+28:
+282923 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+
+13
+131415rò
+
+61316*
+1" (/
+
+61317*
+1" (/
+
+61817*
+1< (F
+
+61820*
+1< (F
+
+281831*
+1 (
+
+283234*
+1( (1
+
+281817*
+1 (
+
+281820*
+1 (
+
+283235*
+12 (8
+
+283217*
+1( (1
+
+281836*
+1 (
+
+283731*
+1 ()
+
+281320*
+1 ()
+
+283936*
+1 ()
+
+184216*
+1, (:
+
+184217*
+1, (:
+
+444634*
+1 (
+
+441836*
+1 (
+
+444635*
+1  ((
+
+444617*
+1 (

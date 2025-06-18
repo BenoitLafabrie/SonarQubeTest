@@ -1,0 +1,627 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233429746*java2.Bá
+]
+Xapp/src/main/java/com/simplecity/amp_library/sql/providers/PlayCountContentProvider.java2
+
+package4
+-
+(com.simplecity.amp_library.sql.providers5
+F
+Acom.simplecity.amp_library.sql.providers.PlayCountContentProvider7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+PlayCountContentProvider12
+-
+'Recovered#typeBindingLContentProvider;014
+
+unknown15
+
+extends16
+
+
+uses17
+K
+Ecom.simplecity.amp_library.sql.providers.PlayCountContentProvider.TAG19
+
+field20
+
+private21
+	
+TAG22
+P
+Jcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.database24
+
+database25
+
+PlayCountTable27
+
+is type28
+R
+Lcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.PLAY_COUNT30
+
+
+PLAY_COUNT31
+U
+Ocom.simplecity.amp_library.sql.providers.PlayCountContentProvider.PLAY_COUNT_ID33
+
+PLAY_COUNT_ID34
+Q
+Kcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.AUTHORITY36
+
+	AUTHORITY37
+Q
+Kcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.BASE_PATH39
+
+	BASE_PATH40
+S
+Mcom.simplecity.amp_library.sql.providers.PlayCountContentProvider.sURIMatcher42
+
+sURIMatcher43
+
+
+UriMatcher45
+
+
+references46
+S
+Mcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#onCreate()Z48
+
+method49
+
+onCreate50
+§
+ com.simplecity.amp_library.sql.providers.PlayCountContentProvider#query(LUri;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)LCursor;52
+
+query53
+
+Cursor55
+
+returns56
+!
+Recovered#typeBindingLUri;058
+
+	has param59
+0
+*Recovered#typeBindingLSQLiteQueryBuilder;061
+j
+dcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#checkColumns([Ljava/lang/String;)V63
+
+calls64
+,
+&Recovered#typeBindingLSQLiteDatabase;066
+$
+Recovered#typeBindingLCursor;068
+h
+bcom.simplecity.amp_library.sql.providers.PlayCountContentProvider#getType(LUri;)Ljava/lang/String;70
+
+getType71
+
+NonNull73
+
+annotated by74
+%
+Recovered#typeBindingLNonNull;076
+i
+ccom.simplecity.amp_library.sql.providers.PlayCountContentProvider#insert(LUri;LContentValues;)LUri;78
+
+insert79
+	
+Uri81
++
+%Recovered#typeBindingLContentValues;083
+{
+ucom.simplecity.amp_library.sql.providers.PlayCountContentProvider#delete(LUri;Ljava/lang/String;[Ljava/lang/String;)I85
+
+delete86
+‹
+„com.simplecity.amp_library.sql.providers.PlayCountContentProvider#update(LUri;LContentValues;Ljava/lang/String;[Ljava/lang/String;)I88
+
+update89
+
+checkColumns90J
+
+1
+12Z
+
+3	
+354jË	
+@
+84:
+848549 *
+1e e(26:3B
+	
+9
+10
+
+
+11
+86
+
+13
+131415
+
+44
+444515
+
+26
+262715
+
+54
+545515
+
+80
+808115
+9
+64
+678 *
+1 (&:3B
+	
+9
+10
+
+
+11
+12
+@
+77:
+777849 *
+1S S(26:3B
+	
+9
+10
+
+
+11
+79
+
+57
+575815
+@
+51:
+515249 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+53
+
+65
+656615
+
+72
+727315
+
+67
+676815
+@
+38:
+383920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+40
+
+60
+606115
+@
+35:
+353620 *
+1 (26:3B
+	
+9
+21
+
+
+11
+37
+@
+47:
+474849 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+50
+B
+87<
+878849 *
+1ƒ ƒ(26:3B
+	
+9
+10
+
+
+11
+89
+@
+29:
+293020 *
+1 (26:3B
+	
+9
+21
+
+
+11
+31
+@
+41:
+414220 *
+1 (26:3B
+	
+9
+21
+
+
+11
+43
+@
+32:
+323320 *
+1 (26:3B
+	
+9
+21
+
+
+11
+34
+B
+62<
+626349 *
+1ª ª(26:3B
+	
+9
+21
+
+
+11
+90
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25
+@
+69:
+697049 *
+1N N(26:3B
+	
+9
+10
+
+
+11
+71
+
+75
+757615
+
+82
+828315
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22rÌ
+
+61316*
+1/ (>
+
+61317*
+1/ (>
+
+232628*
+1 (
+
+232617*
+1 (
+
+232617*
+1 ($
+
+414428*
+1 ($
+
+414417*
+1 ($
+
+414417*
+1% (0
+
+64146*
+1"	 "(
+
+64417*
+1"	 "(
+
+64146*
+1"	 "(
+
+63546*
+1" "(%
+
+63846*
+1"' "(0
+
+62946*
+1"2 "(<
+
+64146*
+1#	 #(
+
+64417*
+1#	 #(
+
+64146*
+1#	 #(
+
+63546*
+1# #(%
+
+63846*
+1#' #(0
+
+63246*
+1#9 #(F
+
+472617*
+1(	 ((
+
+472346*
+1(	 ((
+
+515456*
+1- -(
+
+515759*
+1- -(
+
+515417*
+1- -(
+
+515728*
+1- -( 
+
+515717*
+1- -(
+
+516028*
+11 1((
+
+516017*
+11	 1(
+
+51646*
+14	 4(
+
+516264*
+14	 4(
+
+514146*
+19 9("
+
+514417*
+19 9("
+
+514146*
+19 9("
+
+512946*
+1; ;(
+
+513246*
+1= =(
+
+516528*
+1E E(
+
+516517*
+1E	 E(
+
+512346*
+1E E(%
+
+512617*
+1E E(%
+
+512346*
+1E E(%
+
+516728*
+1F F(
+
+516717*
+1F	 F(
+
+695759*
+1O$ O('
+
+695728*
+1O( O(+
+
+697274*
+1O O(
+
+697517*
+1O O(#
+
+695717*
+1O$ O('
+
+778056*
+1T T(
+
+775759*
+1T T(
+
+778259*
+1T  T(-
+
+778017*
+1T T(
+
+775728*
+1T T(
+
+775717*
+1T T(
+
+778228*
+1T. T(4
+
+778217*
+1T  T(-
+
+774146*
+1U U("
+
+774417*
+1U U("
+
+774146*
+1U U("
+
+776528*
+1V V(
+
+776517*
+1V	 V(
+
+772346*
+1V  V((
+
+772617*
+1V  V((
+
+772346*
+1V  V((
+
+772946*
+1Y Y(
+
+773846*
+1b b(#
+
+845759*
+1f  f(#
+
+845728*
+1f$ f('
+
+847274*
+1f f(
+
+847517*
+1f f(
+
+845717*
+1f  f(#
+
+844146*
+1g g("
+
+844417*
+1g g("
+
+844146*
+1g g("
+
+846528*
+1h h(
+
+846517*
+1h	 h(
+
+842346*
+1h  h((
+
+842617*
+1h  h((
+
+842346*
+1h  h((
+
+842946*
+1k k(
+
+843246*
+1n n(
+
+875759*
+1„ „(
+
+878259*
+1„  „(-
+
+875728*
+1„ „(
+
+875717*
+1„ „(
+
+878228*
+1„. „(4
+
+878217*
+1„  „(-
+
+874146*
+1† †("
+
+874417*
+1† †("
+
+874146*
+1† †("
+
+876528*
+1‡ ‡(
+
+876517*
+1‡	 ‡(
+
+872346*
+1‡  ‡((
+
+872617*
+1‡  ‡((
+
+872346*
+1‡  ‡((
+
+872946*
+1Š Š(
+
+873246*
+1 (

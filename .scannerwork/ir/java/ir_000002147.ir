@@ -1,0 +1,11 @@
+Ithis
+¹ ¹(%"3com.simplecity.amp_library.playback.PlaybackManager"¬f
+d
+
+º º(3lastPlayedTime"(
+java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong2
+0
+
+º º(3"#set-field# lastPlayedTime:
+
+» »(*u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.java

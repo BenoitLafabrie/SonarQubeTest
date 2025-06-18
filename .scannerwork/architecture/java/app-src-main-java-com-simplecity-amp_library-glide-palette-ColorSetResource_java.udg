@@ -1,0 +1,231 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233430156*java2.B¶
+U
+Papp/src/main/java/com/simplecity/amp_library/glide/palette/ColorSetResource.java2
+
+package4
+-
+(com.simplecity.amp_library.glide.palette5
+>
+9com.simplecity.amp_library.glide.palette.ColorSetResource7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ColorSetResource12
+&
+ Recovered#typeBindingLResource;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+&
+ Recovered#typeBindingLColorSet;019
+H
+Bcom.simplecity.amp_library.glide.palette.ColorSetResource.colorSet21
+
+field22
+
+private23
+
+colorSet24
+
+ColorSet26
+
+is type27
+S
+Mcom.simplecity.amp_library.glide.palette.ColorSetResource#<init>(LColorSet;)V29
+
+method30
+
+	has param31
+
+calls32
+
+NonNull34
+
+annotated by35
+%
+Recovered#typeBindingLNonNull;037
+
+
+references38
+O
+Icom.simplecity.amp_library.glide.palette.ColorSetResource#get()LColorSet;40
+	
+get41
+
+returns42
+J
+Dcom.simplecity.amp_library.glide.palette.ColorSetResource#getSize()I44
+
+getSize45
+J
+Dcom.simplecity.amp_library.glide.palette.ColorSetResource#recycle()V47
+
+recycle48J
+
+1
+12Z
+
+3	
+354jé
+
+25
+252615
+@
+39:
+394030 *
+1 (26:3B
+	
+9
+10
+
+
+11
+41
+@
+43:
+434430 *
+1 (26:3B
+	
+9
+10
+
+
+11
+45
+
+33
+333415
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+18
+181915
+@
+46:
+464730 *
+1 (26:3B
+	
+9
+10
+
+
+11
+48
+@
+20:
+202122 *
+1 (26:3B
+	
+9
+23
+
+
+11
+24
+
+13
+131415
+@
+28:
+282930 *
+1	 	(26:3B
+	
+9
+10
+
+
+11
+12
+
+36
+363715r–
+
+61316*
+1* (2
+
+61317*
+1* (2
+
+61817*
+13 (;
+
+202527*
+1 (
+
+202517*
+1 (
+
+202517*
+1 ($
+
+281831*
+1	& 	(.
+
+28632*
+1	 	(
+
+281827*
+1	/ 	(7
+
+283335*
+1	 	(
+
+283617*
+1	 	(%
+
+281817*
+1	& 	(.
+
+28617*
+1
+	 
+(
+
+28638*
+1
+	 
+(
+
+282517*
+1
+ 
+(
+
+282038*
+1
+ 
+(
+
+392542*
+1 (
+
+392517*
+1 (
+
+392517*
+1 (
+
+392038*
+1 (

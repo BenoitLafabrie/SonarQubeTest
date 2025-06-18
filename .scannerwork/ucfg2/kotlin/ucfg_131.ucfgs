@@ -1,0 +1,600 @@
+Ω
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog#<init>()V|
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt U("0*>
+0 (("/
+
+__unknown_file (
+implicit returnB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH¬
+Zcom.simplecity.amp_library.ui.dialog.ChangelogDialog#getSettingsManager()LSettingsManager;
+__unknown_file ("0*ä
+0 (õ
+ò
+ (
+fieldjava.lang.Object"__id*k
+ (_*]6
+4com.simplecity.amp_library.ui.dialog.ChangelogDialog"#
+settingsManagerjava.lang.Objecti
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+fieldjava.lang.ObjectI
+G
+ (
+fieldjava.lang.Object"__annotation*
+ (
+
+%0"'
+ (
+
+fieldjava.lang.ObjectB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH‚
+[com.simplecity.amp_library.ui.dialog.ChangelogDialog#setSettingsManager(LSettingsManager;)V
+__unknown_file ("0*Ç
+0 (i
+g
+ (
+%0"
+__annotate* 
+ (
+java.lang.Object*'
+ (
+
+valuejava.lang.ObjectI
+G
+ (
+valuejava.lang.Object"__annotation*
+ (
+
+%0õ
+ò
+ (]6
+4com.simplecity.amp_library.ui.dialog.ChangelogDialog"#
+settingsManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH¬
+Icom.simplecity.amp_library.ui.dialog.ChangelogDialog#onAttach(LContext;)V~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt ("0*å
+0 (L
+J
+ (
+%0java.lang.Object"__id* 
+ (
+java.lang.Object"/
+
+__unknown_file (
+implicit return:'
+ (+
+contextjava.lang.ObjectB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH≥:
+Ucom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt" "("0*Ê7
+0" "(]
+[
+# $(^
+
+customViewjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>Z
+X
+& &(D
+webViewjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>[
+Y
+) )(G
+checkBoxjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>«
+ƒ
+* *(,
+%0java.lang.Object"Zcom.simplecity.amp_library.ui.dialog.ChangelogDialog#getSettingsManager()LSettingsManager;*D
+* *(,86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogj
+h
+* *(B
+	isCheckedjava.lang.Object"__id*7
+*- *(B+
+)
+showChangelogOnLaunchjava.lang.Object^
+\
+- -(M
+progressBarjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>œÃ
+/  >(	b
+%1\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0"\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0óî
+
+__unknown_file (h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__ScopeWrapperÓ
+Î
+
+__unknown_file (ä
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
+
+customViewjava.lang.Object"__id*<
+
+__unknown_file ( 
+
+
+customViewjava.lang.ObjectË
+Â
+
+__unknown_file (á
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
+webViewjava.lang.Object"__id*9
+
+__unknown_file (
+
+webViewjava.lang.ObjectÍ
+Á
+
+__unknown_file (à
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
+checkBoxjava.lang.Object"__id*:
+
+__unknown_file (
+
+checkBoxjava.lang.Object
+Ì
+
+__unknown_file (ã
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
+progressBarjava.lang.Object"__id*=
+
+__unknown_file (!
+
+progressBarjava.lang.Object˛
+˚
+
+__unknown_file (í
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"&
+savedInstanceStatejava.lang.Object"__id*D
+
+__unknown_file ((
+&
+savedInstanceStatejava.lang.Object—
+Œ
+
+__unknown_file (¢6
+4com.simplecity.amp_library.ui.dialog.ChangelogDialog"h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__id*Ü
+
+__unknown_file (j
+h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÌ
+Í
+/  >(	
+%2"fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V*p
+/  >(	d
+b
+%1\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0ºπ
+
+__unknown_file (å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"__ScopeWrapperì
+ê
+
+__unknown_file (Ø
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"
+
+customViewjava.lang.Object"__id*<
+
+__unknown_file ( 
+
+
+customViewjava.lang.Objectç
+ä
+
+__unknown_file (¨
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"
+webViewjava.lang.Object"__id*9
+
+__unknown_file (
+
+webViewjava.lang.Objectè
+å
+
+__unknown_file (≠
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"
+checkBoxjava.lang.Object"__id*:
+
+__unknown_file (
+
+checkBoxjava.lang.Objectï
+í
+
+__unknown_file (∞
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"
+progressBarjava.lang.Object"__id*=
+
+__unknown_file (!
+
+progressBarjava.lang.Object£
+†
+
+__unknown_file (∑
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"&
+savedInstanceStatejava.lang.Object"__id*D
+
+__unknown_file ((
+&
+savedInstanceStatejava.lang.Objectú
+ô
+
+__unknown_file («6
+4com.simplecity.amp_library.ui.dialog.ChangelogDialog"å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V"__id*¨
+
+__unknown_file (è
+å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V∆√
+
+__unknown_file (ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"__ScopeWrapperù
+ö
+
+__unknown_file (π
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"
+
+customViewjava.lang.Object"__id*<
+
+__unknown_file ( 
+
+
+customViewjava.lang.Objectó
+î
+
+__unknown_file (∂
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"
+webViewjava.lang.Object"__id*9
+
+__unknown_file (
+
+webViewjava.lang.Objectô
+ñ
+
+__unknown_file (∑
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"
+checkBoxjava.lang.Object"__id*:
+
+__unknown_file (
+
+checkBoxjava.lang.Objectü
+ú
+
+__unknown_file (∫
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"
+progressBarjava.lang.Object"__id*=
+
+__unknown_file (!
+
+progressBarjava.lang.Object≠
+™
+
+__unknown_file (¡
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"&
+savedInstanceStatejava.lang.Object"__id*D
+
+__unknown_file ((
+&
+savedInstanceStatejava.lang.Object∞
+≠
+
+__unknown_file (—6
+4com.simplecity.amp_library.ui.dialog.ChangelogDialog"ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z"__id*∂
+
+__unknown_file (ô
+ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z®
+•
+/ >(	!
+webViewClientjava.lang.Object"__id*p
+/  >(	d
+b
+%1\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0"
+E I(
+	<unknown>:2
+"  "(;&
+savedInstanceStatejava.lang.ObjectB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogHÌ
+
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt/  >(	"0*õ
+0/) /(8ñ
+ì
+
+__unknown_file (
+%0"__id*Í
+
+__unknown_file (Õ* ^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0"h
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vâ
+Ü
+
+__unknown_file (
+
+customViewjava.lang.Object"__id*D
+
+__unknown_file ((*&
+
+%0"
+
+customViewjava.lang.ObjectÉ
+Ä
+
+__unknown_file (
+webViewjava.lang.Object"__id*A
+
+__unknown_file (%*#
+
+%0"
+webViewjava.lang.ObjectÖ
+Ç
+
+__unknown_file (
+checkBoxjava.lang.Object"__id*B
+
+__unknown_file (&*$
+
+%0"
+checkBoxjava.lang.Objectã
+à
+
+__unknown_file (
+progressBarjava.lang.Object"__id*E
+
+__unknown_file ()*'
+
+%0"
+progressBarjava.lang.Objectô
+ñ
+
+__unknown_file (&
+savedInstanceStatejava.lang.Object"__id*L
+
+__unknown_file (0*.
+
+%0"&
+savedInstanceStatejava.lang.Object"/
+
+__unknown_file (
+implicit returnB`^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0Hœ
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt0 0('"0*é	
+00 0(ª
+∏
+
+__unknown_file (
+%0"__id*è
+
+__unknown_file (Ú*Ô^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0"å
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)Vâ
+Ü
+
+__unknown_file (
+
+customViewjava.lang.Object"__id*D
+
+__unknown_file ((*&
+
+%0"
+
+customViewjava.lang.ObjectÉ
+Ä
+
+__unknown_file (
+webViewjava.lang.Object"__id*A
+
+__unknown_file (%*#
+
+%0"
+webViewjava.lang.ObjectÖ
+Ç
+
+__unknown_file (
+checkBoxjava.lang.Object"__id*B
+
+__unknown_file (&*$
+
+%0"
+checkBoxjava.lang.Objectã
+à
+
+__unknown_file (
+progressBarjava.lang.Object"__id*E
+
+__unknown_file ()*'
+
+%0"
+progressBarjava.lang.Objectô
+ñ
+
+__unknown_file (&
+savedInstanceStatejava.lang.Object"__id*L
+
+__unknown_file (0*.
+
+%0"&
+savedInstanceStatejava.lang.ObjectL
+J
+1 1(
+%1java.lang.Object"__id* 
+1 1(
+java.lang.Object"/
+
+__unknown_file (
+implicit return:$
+0( 0(5
+viewjava.lang.Object:#
+07 0(B
+urljava.lang.StringB`^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0H∞
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt6 6(1"0*#
+28N ;("
+: :(
+true*ö
+
+06 6(≈
+¬
+
+__unknown_file (
+%0"__id*ô
+
+__unknown_file (¸*˘^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0"ñ
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Zâ
+Ü
+
+__unknown_file (
+
+customViewjava.lang.Object"__id*D
+
+__unknown_file ((*&
+
+%0"
+
+customViewjava.lang.ObjectÉ
+Ä
+
+__unknown_file (
+webViewjava.lang.Object"__id*A
+
+__unknown_file (%*#
+
+%0"
+webViewjava.lang.ObjectÖ
+Ç
+
+__unknown_file (
+checkBoxjava.lang.Object"__id*B
+
+__unknown_file (&*$
+
+%0"
+checkBoxjava.lang.Objectã
+à
+
+__unknown_file (
+progressBarjava.lang.Object"__id*E
+
+__unknown_file ()*'
+
+%0"
+progressBarjava.lang.Objectô
+ñ
+
+__unknown_file (&
+savedInstanceStatejava.lang.Object"__id*L
+
+__unknown_file (0*.
+
+%0"&
+savedInstanceStatejava.lang.ObjectY
+W
+7 7(G
+intentjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>õò
+8 8(L
+%1boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*)
+
+__unknown_file (
+	<unknown>*
+8H 8(L 2equals(Ljava/lang/Object;)*
+2
+1*$
+1; <("
+< <(	
+false:$
+62 6(?
+viewjava.lang.Object:#
+6A 6(L
+urljava.lang.StringB`^
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0Hˇ
+Mcom.simplecity.amp_library.ui.dialog.ChangelogDialog#show(LFragmentManager;)V~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktL L("0*>
+0L L(."/
+
+__unknown_file (
+implicit return:/
+L L(-#
+fragmentManagerjava.lang.ObjectB86
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogHì
+Ycom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*“
+0 (ô
+ñ
+ (
+fieldjava.lang.Object"__id*i
+ (]*[@
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBB@
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$CompanionH≥
+Zcom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0* 
+0 (ô
+ñ
+ ([@
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBB@
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$CompanionH»
+Çcom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#newInstance()Lcom/simplecity/amp_library/ui/dialog/ChangelogDialog;~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktS S("0*˜
+0S S(~|
+S S(-:
+%04com.simplecity.amp_library.ui.dialog.ChangelogDialog"4com.simplecity.amp_library.ui.dialog.ChangelogDialogù
+ö
+S S(-
+%1">com.simplecity.amp_library.ui.dialog.ChangelogDialog#<init>()V*H
+S S(-<
+:
+%04com.simplecity.amp_library.ui.dialog.ChangelogDialog"H
+S S(-<
+:
+%04com.simplecity.amp_library.ui.dialog.ChangelogDialogBB"@
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$CompanionH

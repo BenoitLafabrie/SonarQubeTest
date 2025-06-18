@@ -1,0 +1,44 @@
+
+Bcom.github.florent37.glidepalette.BitmapPalette#%field_initializer
+__unknown_file ("1*§
+1 (ÇÄ
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
+%0java.util.LinkedList"java.util.LinkedListå
+â
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
+%1"java.util.LinkedList#<init>()V*(
+ (
+
+%0java.util.LinkedList…
+‚
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
+/com.github.florent37.glidepalette.BitmapPalette"	
+targets"__id*(
+ (
+
+%0java.util.LinkedListÅÂ
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
+%2java.util.ArrayList"java.util.ArrayListã
+à
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayList†
+ƒ
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
+/com.github.florent37.glidepalette.BitmapPalette"
+	callbacks"__id*'
+ (
+
+%2java.util.ArrayList"¦
+
+„/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java ï(
+implicit returnB31
+/com.github.florent37.glidepalette.BitmapPalette

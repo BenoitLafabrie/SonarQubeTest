@@ -1,0 +1,145 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233430796*java2.BÒ
+O
+Japp/src/main/java/com/simplecity/amp_library/cast/CastOptionsProvider.java2
+
+package4
+$
+com.simplecity.amp_library.cast5
+8
+3com.simplecity.amp_library.cast.CastOptionsProvider7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CastOptionsProvider12
+-
+'Recovered#typeBindingLOptionsProvider;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+`
+Zcom.simplecity.amp_library.cast.CastOptionsProvider#getCastOptions(LContext;)LCastOptions;19
+
+method20
+
+getCastOptions21
+
+CastOptions23
+
+returns24
+%
+Recovered#typeBindingLContext;026
+
+	has param27
+
+is type28
+)
+#Recovered#typeBindingLCastOptions;030
+r
+lcom.simplecity.amp_library.cast.CastOptionsProvider#getAdditionalSessionProviders(LContext;)Ljava/util/List;32
+#
+getAdditionalSessionProviders33
+-
+'Recovered#typeBindingLSessionProvider;035J
+
+1
+12Z
+
+3	
+354j£
+
+25
+252615
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+
+13
+131415
+
+29
+293015
+
+34
+343515
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21
+
+22
+222315
+@
+31:
+313220 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33rÂ
+
+61316*
+1- (<
+
+61317*
+1- (<
+
+182224*
+1 (
+
+182527*
+1' (.
+
+182217*
+1 (
+
+182528*
+1/ (6
+
+182517*
+1' (.
+
+182917*
+1 (
+
+312527*
+1@ (G
+
+313417*
+1 ( 
+
+312528*
+1H (O
+
+312517*
+1@ (G

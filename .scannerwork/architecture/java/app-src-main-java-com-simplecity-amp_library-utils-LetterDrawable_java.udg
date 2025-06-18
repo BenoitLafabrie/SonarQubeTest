@@ -1,0 +1,429 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233437056*java2.Bà
+K
+Fapp/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+4
+/com.simplecity.amp_library.utils.LetterDrawable7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+LetterDrawable12
+&
+ Recovered#typeBindingLDrawable;014
+
+unknown15
+
+extends16
+
+
+uses17
+B
+<com.simplecity.amp_library.utils.LetterDrawable.mDisplayName19
+
+field20
+
+	protected21
+
+mDisplayName22
+<
+6com.simplecity.amp_library.utils.LetterDrawable.mPaint24
+
+mPaint25
+
+Paint27
+
+is type28
+>
+8com.simplecity.amp_library.utils.LetterDrawable.mKeyName30
+
+mKeyName31
+@
+:com.simplecity.amp_library.utils.LetterDrawable.mFirstChar33
+
+
+mFirstChar34
+=
+7com.simplecity.amp_library.utils.LetterDrawable.mColors36
+
+mColors37
+
+
+TypedArray39
+d
+^com.simplecity.amp_library.utils.LetterDrawable#<init>(Ljava/lang/String;LTypedArray;LPaint;)V41
+
+method42
+(
+"Recovered#typeBindingLTypedArray;044
+
+	has param45
+#
+Recovered#typeBindingLPaint;047
+
+calls48
+
+
+references49
+E
+?com.simplecity.amp_library.utils.LetterDrawable#draw(LCanvas;)V51
+
+
+draw52
+$
+Recovered#typeBindingLCanvas;054
+T
+Ncom.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)I56
+B
+<com.simplecity.amp_library.utils.LetterDrawable#setAlpha(I)V58
+
+setAlpha59
+T
+Ncom.simplecity.amp_library.utils.LetterDrawable#setColorFilter(LColorFilter;)V61
+
+setColorFilter62
+)
+#Recovered#typeBindingLColorFilter;064
+C
+=com.simplecity.amp_library.utils.LetterDrawable#getOpacity()I66
+
+
+getOpacity67
+
+private68
+
+	pickColor69J
+
+1
+12Z
+
+3	
+354j
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+53
+535415
+@
+23:
+232420 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+25
+
+26
+262715
+@
+55:
+555642 *
+1C C(26:3B
+	
+9
+68
+
+
+11
+69
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+50:
+505142 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+52
+@
+35:
+353620 *
+1 (26:3B
+	
+9
+21
+
+
+11
+37
+@
+40:
+404142 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+60:
+606142 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+62
+
+38
+383915
+@
+29:
+293020 *
+1 (26:3B
+	
+9
+21
+
+
+11
+31
+
+43
+434415
+
+13
+131415
+
+63
+636415
+@
+57:
+575842 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+59
+
+46
+464715
+@
+32:
+323320 *
+1 (	26:3B
+	
+9
+21
+
+
+11
+34
+@
+65:
+656642 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+67r®
+
+61316*
+1% (-
+
+61317*
+1% (-
+
+232628*
+1 (
+
+
+232617*
+1 (
+
+
+232617*
+1 (
+
+353828*
+1 (
+
+353817*
+1 (
+
+353817*
+1 (
+
+404345*
+1/ (9
+
+404645*
+1B (G
+
+40648*
+1 (
+
+404328*
+1: (@
+
+404317*
+1/ (9
+
+404628*
+1H (M
+
+404617*
+1B (G
+
+401849*
+1	 (
+
+403817*
+1	 (
+
+403549*
+1	 (
+
+402617*
+1	 (
+
+402349*
+1	 (
+
+402949*
+1	 (
+
+403249*
+1 (
+
+505345*
+1" "(
+
+505328*
+1" "(#
+
+505317*
+1" "(
+
+503249*
+1# #(
+
+502949*
+1## #(+
+
+503249*
+1#7 #(A
+
+502949*
+1#Q #(Y
+
+502949*
+1#Q #(Y
+
+50649*
+1& &(#
+
+505548*
+1& &(#
+
+501849*
+1&$ &(0
+
+502949*
+1' '(
+
+502949*
+1' '(
+
+502349*
+1( ((
+
+502617*
+1( ((
+
+502349*
+1( ((
+
+502349*
+1) )(
+
+502617*
+1) )(
+
+502349*
+1) )(
+
+503249*
+1)" )(,
+
+503249*
+1* *('
+
+502617*
+1+C +(I
+
+502349*
+1+C +(I
+
+606345*
+15  5(+
+
+606328*
+15, 5(.
+
+606317*
+15  5(+
+
+553549*
+1F6 F(=
+
+553817*
+1F6 F(=
+
+553549*
+1F6 F(=
+
+553549*
+1G G(
+
+553817*
+1G G(
+
+553549*
+1G G(

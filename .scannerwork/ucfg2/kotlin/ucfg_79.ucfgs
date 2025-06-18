@@ -1,0 +1,417 @@
+∑
+àcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/SongsRepository;
+__unknown_file ("0*¬
+0 (Í
+Á
+ (8
+field/com.simplecity.amp_library.data.SongsRepository"__id*ö
+ (ç*äD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"B
+songsRepository/com.simplecity.amp_library.data.SongsRepository"F
+ (:
+8
+field/com.simplecity.amp_library.data.SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH’
+âcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V
+__unknown_file ("0*ô
+0 (Ë
+Â
+ (äD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"B
+songsRepository/com.simplecity.amp_library.data.SongsRepository"__id*F
+ (:
+8
+value/com.simplecity.amp_library.data.SongsRepository"
+ (
+implicit return:D
+ (8
+value/com.simplecity.amp_library.data.SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH≠
+bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;
+__unknown_file ("0*ﬂ
+0 (¶
+£
+ (
+fieldjava.lang.Object"__id*v
+ (j*hD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter" 
+mediaManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÕ
+ccom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setMediaManager(LMediaManager;)V
+__unknown_file ("0*◊
+0 (¶
+£
+ (hD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter" 
+mediaManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH™
+`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;
+__unknown_file ("0*ﬁ
+0 (•
+¢
+ (
+fieldjava.lang.Object"__id*u
+ (i*gD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+sortManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH 
+acom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSortManager(LSortManager;)V
+__unknown_file ("0*÷
+0 (•
+¢
+ (gD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+sortManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH∂
+hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSettingsManager()LSettingsManager;
+__unknown_file ("0*‚
+0 (©
+¶
+ (
+fieldjava.lang.Object"__id*y
+ (m*kD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"#
+settingsManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH÷
+icom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSettingsManager(LSettingsManager;)V
+__unknown_file ("0*⁄
+0 (©
+¶
+ (kD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"#
+settingsManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHá
+ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;
+__unknown_file ("0*˝
+0 (í
+è
+ (K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Ø
+ (¢*üD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"Y
+ (M
+K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH•
+ûcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V
+__unknown_file ("0*¡
+0 (ê
+ç
+ (üD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Y
+ (M
+K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"
+ (
+implicit return:W
+ (K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÊ
+Ìcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#<init>(Lcom/simplecity/amp_library/data/SongsRepository;LMediaManager;LSortManager;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt  (+"0*’
+0 (ñ
+ì
+ (05
+%0/com.simplecity.amp_library.data.SongsRepository"âcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*`
+
+__unknown_file (D
+B
+songsRepository/com.simplecity.amp_library.data.SongsRepositoryÆ
+´
+ (*
+%1java.lang.Object"ccom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setMediaManager(LMediaManager;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*>
+
+__unknown_file ("
+ 
+mediaManagerjava.lang.Object´
+®
+ ((
+%2java.lang.Object"acom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSortManager(LSortManager;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*=
+
+__unknown_file (!
+
+sortManagerjava.lang.Object∑
+¥
+ (0
+%3java.lang.Object"icom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSettingsManager(LSettingsManager;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*A
+
+__unknown_file (%
+#
+settingsManagerjava.lang.Object”
+–
+ (4H
+%4Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ûcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*u
+
+__unknown_file (Y
+W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterå
+â
+ (-
+%5java.lang.Object"fcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongs(Lerror/NonExistentClass;)V*R
+ (-FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit return:N
+ (0B
+songsRepository/com.simplecity.amp_library.data.SongsRepository:,
+ (* 
+mediaManagerjava.lang.Object:+
+ ((
+sortManagerjava.lang.Object:/
+ (0#
+settingsManagerjava.lang.Object:c
+ (4W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH©
+ecom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongs()Lerror/NonExistentClass;
+__unknown_file ("0*ÿ
+0 (ü
+ú
+ (
+fieldjava.lang.Object"__id*o
+ (c*aD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+songsjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH…
+fcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongs(Lerror/NonExistentClass;)V
+__unknown_file ("0*–
+0 (ü
+ú
+ (aD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"
+songsjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH°
+ñcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt ("0*Ã
+0 (>
+<
+ (
+%0	Presenter"__id*
+ (
+	PresenterÀ
+»
+ (H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+ (FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:Z
+ ($N
+viewFcom.simplecity.amp_library.ui.screens.songs.list.SongListContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH£
+òcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt   ("0*Ã
+0   (>
+<
+! !(
+%0	Presenter"__id*
+! !(
+	PresenterÀ
+»
+" "(H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+" "(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:Z
+   (&N
+viewFcom.simplecity.amp_library.ui.screens.songs.list.SongListContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHì
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt% %("0*>
+0% %("/
+
+__unknown_file (
+implicit return:"
+% %(/
+scrollToTopbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH±
+Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsSortOrder(I)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt: :(""0*›
+0: :(€
+ÿ
+; ;(
+%0java.lang.Object"`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;*R
+; ;(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterR
+P
+; ;(*"
+songsSortOrderjava.lang.Object"__id*
+;% ;(*
+
+orderintÍÁ
+< <(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+< <(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+< <(
+true2loadSongs(Z)"/
+
+__unknown_file (
+implicit return:
+:# :(-
+orderintBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH¡
+Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsAscending(Z)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.kt@ @(""0*Â
+0@ @(€
+ÿ
+A A(
+%0java.lang.Object"`com.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSortManager()LSortManager;*R
+A A(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterZ
+X
+A A(."
+songsAscendingjava.lang.Object"__id*"
+A% A(.
+
+	ascendingbooleanÍÁ
+B B(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+B B(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+B B(
+true2loadSongs(Z)"/
+
+__unknown_file (
+implicit return: 
+@# @(5
+	ascendingbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHÊ
+Ucom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setShowArtwork(Z)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktF F("0*í
+0F F(„
+‡
+G G(
+%0java.lang.Object"hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getSettingsManager()LSettingsManager;*R
+G G(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterÎË
+H H(
+%1kotlin.Unit"Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#loadSongs(Z)V*R
+H H(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter*
+H H(	
+false2loadSongs(Z)"/
+
+__unknown_file (
+implicit return:
+F  F(-
+showbooleanBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHˆ
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#play(LSong;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktL L("0*û
+0L L(›
+⁄
+M M(
+%0java.lang.Object"bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;*R
+M M(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit return:$
+L L( 
+songjava.lang.ObjectBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterH–
+Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#shuffleAll()Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/songs/list/SongListPresenter.ktR R("0*û
+0R R(›
+⁄
+S S(
+%0java.lang.Object"bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#getMediaManager()LMediaManager;*R
+S S(FD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter"/
+
+__unknown_file (
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterHΩ
+gcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*‡
+0 (ß
+§
+ (
+fieldjava.lang.Object"__id*w
+ (k*iN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$CompanionH›
+hcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*ÿ
+0 (ß
+§
+ (iN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter$CompanionH

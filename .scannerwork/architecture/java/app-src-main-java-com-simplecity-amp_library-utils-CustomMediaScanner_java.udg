@@ -1,0 +1,885 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233424343*java2.B£
+O
+Japp/src/main/java/com/simplecity/amp_library/utils/CustomMediaScanner.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+8
+3com.simplecity.amp_library.utils.CustomMediaScanner7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CustomMediaScanner12
+4
+.Recovered#typeBindingLMediaScannerConnection;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+=
+7com.simplecity.amp_library.utils.CustomMediaScanner.TAG19
+
+field20
+
+private21
+	
+TAG22
+P
+Jcom.simplecity.amp_library.utils.CustomMediaScanner$ScanCompletionListener24
+
+	interface25
+
+ScanCompletionListener26
+s
+mcom.simplecity.amp_library.utils.CustomMediaScanner$ScanCompletionListener#onPathScanned(Ljava/lang/String;)V28
+
+method29
+
+onPathScanned30
+c
+]com.simplecity.amp_library.utils.CustomMediaScanner$ScanCompletionListener#onScanCompleted()V32
+
+onScanCompleted33
+L
+Fcom.simplecity.amp_library.utils.CustomMediaScanner.applicationContext35
+
+applicationContext36
+
+Context38
+
+is type39
+?
+9com.simplecity.amp_library.utils.CustomMediaScanner.paths41
+
+paths42
+P
+Jcom.simplecity.amp_library.utils.CustomMediaScanner.scanCompletionListener44
+
+scanCompletionListener45
+
+Nullable47
+
+annotated by48
+&
+ Recovered#typeBindingLNullable;050
+
+
+references51
+D
+>com.simplecity.amp_library.utils.CustomMediaScanner.connection53
+
+
+connection54
+
+MediaScannerConnection56
+B
+<com.simplecity.amp_library.utils.CustomMediaScanner.nextPath58
+
+nextPath59
+A
+;com.simplecity.amp_library.utils.CustomMediaScanner.handler61
+
+handler62
+
+Handler64
+©
+¢com.simplecity.amp_library.utils.CustomMediaScanner#<init>(LContext;Ljava/util/List;Lcom/simplecity/amp_library/utils/CustomMediaScanner$ScanCompletionListener;)V66
+%
+Recovered#typeBindingLContext;068
+
+	has param69
+
+calls70
+¨
+•com.simplecity.amp_library.utils.CustomMediaScanner#scanFiles(LContext;Ljava/util/List;Lcom/simplecity/amp_library/utils/CustomMediaScanner$ScanCompletionListener;)V72
+
+	scanFiles73
+T
+Ncom.simplecity.amp_library.utils.CustomMediaScanner#onMediaScannerConnected()V75
+
+onMediaScannerConnected76
+I
+Ccom.simplecity.amp_library.utils.CustomMediaScanner#scanNextPath()V78
+c
+]com.simplecity.amp_library.utils.CustomMediaScanner#onScanCompleted(Ljava/lang/String;LUri;)V80
+!
+Recovered#typeBindingLUri;082
+
+scanNextPath83
+R
+Lcom.simplecity.amp_library.utils.CustomMediaScanner#scanComplete(LContext;)V85
+
+scanComplete86
+D
+>com.simplecity.amp_library.utils.CustomMediaScanner#cleanup()V88
+
+cleanup89
+â
+Çcom.simplecity.amp_library.utils.CustomMediaScanner#scanFile(LContext;Lcom/simplecity/amp_library/model/FolderObject;)LDisposable;91
+
+scanFile92
+
+
+Disposable94
+
+returns95
+3
+-com.simplecity.amp_library.model.FolderObject97
+"
+Recovered#typeBindingLView;099
+
+SuppressLint101
++
+$Recovered#typeBindingLSuppressLint;0103
+'
+ Recovered#typeBindingLTextView;0105
+2
++Recovered#typeBindingLMaterialProgressBar;0107
+-
+&Recovered#typeBindingLMaterialDialog;0109
+
+	!Unknown!111
+
+	protected112
+q
+jcom.simplecity.amp_library.utils.CustomMediaScanner#scanFile(LContext;Ljava/lang/String;LUnsafeConsumer;)V114
+-
+&Recovered#typeBindingLUnsafeConsumer;0116
+<
+5com.simplecity.amp_library.utils.CustomMediaScanner$1118
+_
+Xcom.simplecity.amp_library.utils.CustomMediaScanner$1#onPathScanned(Ljava/lang/String;)V120
+O
+Hcom.simplecity.amp_library.utils.CustomMediaScanner$1#onScanCompleted()V122J
+
+1
+12Z
+
+3	
+354jõ
+@
+87:
+878829 *
+1l l(26:3B
+	
+9
+21
+
+
+11
+89
+@
+34:
+343520 *
+1" "(26:3B
+	
+9
+21
+
+
+11
+36
+
+67
+676815
+:
+1103
+1101118 *
+1ã_ ã(`290:3B
+
+
+9
+112
+@
+23:
+232425 *
+1 (,26:3B
+	
+9
+10
+
+
+11
+26
+@
+71:
+717229 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+73
+G
+121@
+12112229 *
+1£ £(2117:3B
+	
+9
+10
+
+
+11
+33
+@
+57:
+575820 *
+1* *(26:3B
+	
+9
+21
+
+
+11
+59
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+81
+818215
+A
+27;
+272829 *
+1	 (223:3B
+	
+9
+10
+
+
+11
+30
+
+49
+495015
+
+98
+989915
+@
+84:
+848529 *
+1\ \(26:3B
+	
+9
+21
+
+
+11
+86
+E
+113>
+11311429 *
+1ú ú(26:3B
+	
+9
+10
+
+
+11
+92
+
+115
+11511615
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+
+37
+373815
+
+93
+939415
+
+106
+10610715
+
+104
+10410515
+A
+31;
+313229 *
+1	 (223:3B
+	
+9
+10
+
+
+11
+33
+
+96
+969715
+@
+60:
+606120 *
+1, ,(26:3B
+	
+9
+21
+
+
+11
+62
+
+63
+636415
+@
+77:
+777829 *
+1I I(26:3B
+	
+9
+21
+
+
+11
+83
+@
+65:
+656629 *
+1. .(26:3B
+	
+9
+21
+
+
+11
+12
+
+13
+131415
+@
+79:
+798029 *
+1A A(26:3B
+	
+9
+10
+
+
+11
+33
+@
+90:
+909129 *
+1t t(26:3B
+	
+9
+10
+
+
+11
+92
+@
+74:
+747529 *
+1< <(26:3B
+	
+9
+10
+
+
+11
+76
+@
+52:
+525320 *
+1) )(26:3B
+	
+9
+21
+
+
+11
+54
+
+55
+555615
+
+102
+10210315
+G
+119@
+11912029 *
+1û û(2117:3B
+	
+9
+10
+
+
+11
+30
+@
+43:
+434420 *
+1& &(26:3B
+	
+9
+21
+
+
+11
+45
+@
+40:
+404120 *
+1$ $(26:3B
+	
+9
+21
+
+
+11
+42
+
+100
+10010115
+
+108
+10810915
+
+46
+464715
+=
+1176
+1171188 *
+1ùÄ ù(Å2113:3B
+
+
+9
+112rΩ
+
+61316*
+1, (B
+
+61317*
+1, (B
+
+61317*
+1C (_
+
+343739*
+1" "(
+
+343717*
+1" "(
+
+343717*
+1" "('
+
+432339*
+1' '()
+
+434648*
+1& &(
+
+434917*
+1& &(
+
+432317*
+1' '()
+
+432351*
+1' '()
+
+432317*
+1'* '(@
+
+525539*
+1) )(#
+
+525517*
+1) )(#
+
+525517*
+1)$ )(.
+
+606339*
+1, ,(
+
+606317*
+1, ,(
+
+606317*
+1, ,(
+
+656769*
+1.  .('
+
+652369*
+1.O .(e
+
+65670*
+1. .(
+
+656739*
+1.( .(/
+
+656717*
+1.  .('
+
+652339*
+1.f .(n
+
+654648*
+1.E .(F
+
+654917*
+1.F .(N
+
+652317*
+1.O .(e
+
+652351*
+1.O .(e
+
+65617*
+1/	 /(
+
+65651*
+1/	 /(
+
+653717*
+1/ /( 
+
+653451*
+1/ /( 
+
+65617*
+10	 0(
+
+65651*
+10	 0(
+
+654051*
+10 0(
+
+652317*
+11	 1(
+
+654351*
+11	 1(
+
+656317*
+12	 2(
+
+656051*
+12	 2(
+
+716769*
+15" 5()
+
+712369*
+15Q 5(g
+
+716739*
+15* 5(1
+
+716717*
+15" 5()
+
+712339*
+15h 5(p
+
+714648*
+15G 5(H
+
+714917*
+15H 5(P
+
+712317*
+15Q 5(g
+
+712351*
+15Q 5(g
+
+71639*
+16 6("
+
+71617*
+16	 6(
+
+71670*
+16) 6(;
+
+711339*
+17  7(*
+
+711317*
+17	 7(
+
+715517*
+18 8(
+
+715251*
+18 8(
+
+74651*
+1>	 >(
+
+747770*
+1>	 >(
+
+798169*
+1B. B(1
+
+798139*
+1B2 B(5
+
+798117*
+1B. B(1
+
+791851*
+1D D(
+
+79651*
+1F	 F(
+
+797770*
+1F	 F(
+
+775751*
+1J J(
+
+774051*
+1J J(
+
+774051*
+1J J(
+
+77651*
+1K K(
+
+778470*
+1K K(
+
+773717*
+1K K(,
+
+773451*
+1K K(,
+
+774051*
+1N N(
+
+774051*
+1N N(
+
+775751*
+1N! N()
+
+775251*
+1P	 P(
+
+775517*
+1P	 P(
+
+775251*
+1P	 P(
+
+775751*
+1Q	 Q(
+
+772317*
+1S S(#
+
+774351*
+1S S(#
+
+776317*
+1T T(
+
+776051*
+1T T(
+
+776051*
+1U U(
+
+776317*
+1U U(
+
+776051*
+1U U(
+
+771851*
+1Y Y(
+
+846769*
+1\ \(&
+
+846739*
+1\' \(.
+
+846717*
+1\ \(&
+
+845251*
+1]	 ](
+
+845517*
+1]	 ](
+
+845251*
+1]	 ](
+
+846317*
+1b b(
+
+846051*
+1b b(
+
+846051*
+1c c(
+
+846317*
+1c c(
+
+846051*
+1c c(
+
+876317*
+1m m(
+
+876051*
+1m m(
+
+876051*
+1n n(
+
+876317*
+1n n(
+
+876051*
+1n n(
+
+876317*
+1o o(
+
+876051*
+1o o(
+
+909395*
+1t t(
+
+906769*
+1t' t(.
+
+909669*
+1t8 t(D
+
+909317*
+1t t(
+
+906739*
+1t/ t(6
+
+906717*
+1t' t(.
+
+909639*
+1tE t(Q
+
+909617*
+1t8 t(D
+
+909839*
+1w w(
+
+9010048*
+1v	 v(
+
+
+9010217*
+1v
+ v(
+
+909817*
+1w	 w(
+
+9010439*
+1x x(
+
+9010417*
+1x	 x(
+
+9010639*
+1{ {(2
+
+9010617*
+1{	 {(
+
+9010639*
+1| |(/
+
+9010617*
+1|	 |(
+
+9010839*
+1~ ~(
+
+9010817*
+1~	 ~(
+
+9010817*
+1~% ~(3
+
+1136769*
+1ú! ú((
+
+11311569*
+1ú? ú(M
+
+1136739*
+1ú) ú(0
+
+1136717*
+1ú! ú((
+
+11311539*
+1úV ú(]
+
+11311517*
+1ú? ú(M
+
+113651*
+1ù	 ù(
+
+1137170*
+1ù ù(%
+
+113617*
+1ù	 ù(
+
+113617*
+1ùT ù(f

@@ -1,0 +1,233 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233437523*java2.Bê	
+r
+mlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/SpanSizeLookup.java2
+
+package4
+5
+0com.simplecityapps.recycler_adapter.recyclerview5
+D
+?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SpanSizeLookup12
+/
+)Recovered#typeBindingLGridLayoutManager;014
+
+unknown15
+
+extends16
+
+
+uses17
+V
+Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup.viewModelAdapter19
+
+field20
+
+private21
+
+viewModelAdapter22
+
+ViewModelAdapter24
+
+is type25
+O
+Icom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup.spanCount27
+
+	spanCount28
+b
+\com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#<init>(LViewModelAdapter;I)V30
+
+method31
+.
+(Recovered#typeBindingLViewModelAdapter;033
+
+	has param34
+
+calls35
+
+
+references36
+V
+Pcom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#setSpanCount(I)V38
+
+setSpanCount39
+U
+Ocom.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I41
+
+getSpanSize42
+'
+!Recovered#typeBindingLViewModel;044J
+
+1
+12Z
+
+3	
+354j’
+@
+26:
+262720 *
+1 (26:3B
+	
+9
+21
+
+
+11
+28
+@
+40:
+404131 *
+1 (26:3B
+	
+9
+10
+
+
+11
+42
+@
+29:
+293031 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+13
+131415
+
+32
+323315
+9
+64
+678 *
+1
+ 
+(:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+37:
+373831 *
+1 (26:3B
+	
+9
+10
+
+
+11
+39
+
+43
+434415
+
+23
+232415r˛
+
+61316*
+1
+% 
+(6
+
+61317*
+1
+% 
+(6
+
+61317*
+1
+7 
+(E
+
+182325*
+1 (
+
+182317*
+1 (
+
+182317*
+1 (.
+
+293234*
+1 (+
+
+29635*
+1 (
+
+293225*
+1, (<
+
+293217*
+1 (+
+
+29617*
+1	 (
+
+29636*
+1	 (
+
+292317*
+1 (
+
+291836*
+1 (
+
+29617*
+1	 (
+
+29636*
+1	 (
+
+292636*
+1 (
+
+37617*
+1	 (
+
+37636*
+1	 (
+
+372636*
+1 (
+
+404317*
+1 (
+
+402317*
+1! (1
+
+401836*
+1! (1
+
+402636*
+14 (=

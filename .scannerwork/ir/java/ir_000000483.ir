@@ -1,0 +1,19 @@
+Hthis; ;(("4com.simplecity.amp_library.utils.PlaceholderProvider"Z0
+.
+< <("#get-field# isDark:Bboolean&"$
+< <( *< <(2<> <(?"³!
+
+< <("#unknown-value#4
+2
+< <(""#get-field# drawable:B	!Unknown!F
+D
+< <(="(&#get-field# ic_placeholder_dark_medium:B	!Unknown!
+< <(="´!
+
+<@ <(A"#unknown-value#4
+2
+<@ <(J"#get-field# drawable:B	!Unknown!G
+E
+<@ <(f")'#get-field# ic_placeholder_light_medium:B	!Unknown!
+<@ <(f"$*	
+< <(g	*v/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/PlaceholderProvider.java

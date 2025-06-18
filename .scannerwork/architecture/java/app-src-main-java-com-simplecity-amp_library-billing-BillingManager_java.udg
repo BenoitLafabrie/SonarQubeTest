@@ -1,0 +1,821 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233438697*java2.B¨
+M
+Happ/src/main/java/com/simplecity/amp_library/billing/BillingManager.java2
+
+package4
+'
+"com.simplecity.amp_library.billing5
+6
+1com.simplecity.amp_library.billing.BillingManager7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BillingManager12
+6
+0Recovered#typeBindingLPurchasesUpdatedListener;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+;
+5com.simplecity.amp_library.billing.BillingManager.TAG19
+
+field20
+
+private21
+	
+TAG22
+W
+Qcom.simplecity.amp_library.billing.BillingManager.BILLING_MANAGER_NOT_INITIALIZED24
+%
+BILLING_MANAGER_NOT_INITIALIZED25
+N
+Hcom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener27
+
+	interface28
+
+BillingUpdatesListener29
+t
+ncom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPurchasesUpdated(Ljava/util/List;)V31
+
+method32
+
+onPurchasesUpdated33
+&
+ Recovered#typeBindingLPurchase;035
+l
+fcom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseCompleted()V37
+ 
+onPremiumPurchaseCompleted38
+k
+ecom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseRestored()V40
+
+onPremiumPurchaseRestored41
+@
+:com.simplecity.amp_library.billing.BillingManager.activity43
+
+activity44
+
+Activity46
+
+is type47
+G
+Acom.simplecity.amp_library.billing.BillingManager.updatesListener49
+
+updatesListener50
+
+
+references51
+E
+?com.simplecity.amp_library.billing.BillingManager.billingClient53
+
+billingClient54
+
+BillingClient56
+
+Nullable58
+
+annotated by59
+&
+ Recovered#typeBindingLNullable;061
+H
+Bcom.simplecity.amp_library.billing.BillingManager.serviceConnected63
+
+	protected64
+
+serviceConnected65
+Q
+Kcom.simplecity.amp_library.billing.BillingManager.billingClientResponseCode67
+
+billingClientResponseCode68
+M
+Gcom.simplecity.amp_library.billing.BillingManager.purchaseFlowInitiated70
+
+purchaseFlowInitiated71
+Q
+Kcom.simplecity.amp_library.billing.BillingManager.restorePurchasesInitiated73
+
+restorePurchasesInitiated74
+ñ
+ècom.simplecity.amp_library.billing.BillingManager#<init>(LActivity;Lcom/simplecity/amp_library/billing/BillingManager$BillingUpdatesListener;)V76
+&
+ Recovered#typeBindingLActivity;078
+
+	has param79
+
+Inject81
+$
+Recovered#typeBindingLInject;083
+
+calls84
+_
+Ycom.simplecity.amp_library.billing.BillingManager#startServiceConnection(LUnsafeAction;)V86
+
+startServiceConnection87
+*
+$Recovered#typeBindingLUnsafeAction;089
+9
+3com.simplecity.amp_library.billing.BillingManager$191
+T
+Ncom.simplecity.amp_library.billing.BillingManager$1#onBillingSetupFinished(I)V93
+
+onBillingSetupFinished94
+Y
+Scom.simplecity.amp_library.billing.BillingManager$1#onBillingServiceDisconnected()V96
+"
+onBillingServiceDisconnected97
+^
+Xcom.simplecity.amp_library.billing.BillingManager#onPurchasesUpdated(ILjava/util/List;)V99
+
+SuppressLint101
++
+$Recovered#typeBindingLSuppressLint;0103
+J
+Ccom.simplecity.amp_library.billing.BillingManager#queryPurchases()V105
+
+queryPurchases106
+t
+mcom.simplecity.amp_library.billing.BillingManager#initiatePurchaseFlow(Ljava/lang/String;Ljava/lang/String;)V108
+
+initiatePurchaseFlow109
+
+BillingClient.SkuType111
+,
+%Recovered#typeBindingLBillingClient;0113
+L
+Ecom.simplecity.amp_library.billing.BillingManager#restorePurchases()V115
+
+restorePurchases116
+X
+Qcom.simplecity.amp_library.billing.BillingManager#getBillingClientResponseCode()I118
+#
+getBillingClientResponseCode119
+C
+<com.simplecity.amp_library.billing.BillingManager#destroy()V121
+
+destroy122J
+
+1
+12Z
+
+3	
+354j§
+@
+42:
+424320 *
+1   (26:3B
+	
+9
+21
+
+
+11
+44
+A
+95;
+959632 *
+1G G(290:3B
+	
+9
+10
+
+
+11
+97
+F
+117?
+11711832 *
+1° °(26:3B
+	
+9
+10
+
+11
+119
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+10
+
+
+11
+25
+A
+39;
+394032 *
+1	 (226:3B
+	
+9
+10
+
+
+11
+41
+
+45
+454615
+A
+92;
+929332 *
+1> >(290:3B
+	
+9
+10
+
+
+11
+94
+D
+104=
+10410532 *
+1p p(26:3B
+	
+9
+10
+
+11
+106
+@
+62:
+626320 *
+1' '(26:3B
+	
+9
+64
+
+
+11
+65
+@
+72:
+727320 *
+1, ,(26:3B
+	
+9
+21
+
+
+11
+74
+
+110
+11011115
+@
+85:
+858632 *
+1; ;(26:3B
+	
+9
+21
+
+
+11
+87
+
+55
+555615
+
+77
+777815
+@
+52:
+525320 *
+1$ $(26:3B
+	
+9
+21
+
+
+11
+54
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+98:
+989932 *
+1Q Q(26:3B
+	
+9
+10
+
+
+11
+33
+
+60
+606115
+@
+75:
+757632 *
+1. .(26:3B
+	
+9
+10
+
+
+11
+12
+@
+26:
+262728 *
+1 (,26:3B
+	
+9
+10
+
+
+11
+29
+A
+30;
+303132 *
+1	 (226:3B
+	
+9
+10
+
+
+11
+33
+
+34
+343515
+4
+90.
+90918 *
+1=L =(M285:3B
+	
+9
+64
+
+80
+808115
+
+112
+11211315
+A
+36;
+363732 *
+1	 (226:3B
+	
+9
+10
+
+
+11
+38
+@
+48:
+484920 *
+1" "(26:3B
+	
+9
+21
+
+
+11
+50
+@
+66:
+666720 *
+1) )(26:3B
+	
+9
+64
+
+
+11
+68
+F
+107?
+10710832 *
+1Ö Ö(26:3B
+	
+9
+10
+
+11
+109
+
+82
+828315
+F
+120?
+12012132 *
+1• •(26:3B
+	
+9
+10
+
+11
+122
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+69:
+697020 *
+1+ +(26:3B
+	
+9
+21
+
+
+11
+71
+
+88
+888915
+F
+114?
+11411532 *
+1ò ò(26:3B
+	
+9
+10
+
+11
+116
+
+102
+10210315
+
+13
+131415
+
+100
+10010115
+
+57
+575815r¨
+
+61316*
+1( (@
+
+61317*
+1( (@
+
+303417*
+1& (.
+
+424547*
+1   (
+
+424517*
+1   (
+
+424517*
+1   (
+
+482647*
+1" "(#
+
+482617*
+1" "(#
+
+482651*
+1" "(#
+
+482617*
+1"$ "(3
+
+525547*
+1% %(
+
+525759*
+1$ $(
+
+526017*
+1$ $(
+
+525517*
+1% %(
+
+525517*
+1% %((
+
+662351*
+1)% )(D
+
+757779*
+1/ /(#
+
+752679*
+1/. /(D
+
+758059*
+1. .(
+
+758217*
+1. .(
+
+75684*
+1/ /(
+
+757747*
+1/$ /(,
+
+757717*
+1/ /(#
+
+752647*
+1/E /(T
+
+752617*
+1/. /(D
+
+752651*
+1/. /(D
+
+75617*
+11	 1(
+
+75651*
+11	 1(
+
+754517*
+11 1(
+
+754251*
+11 1(
+
+75617*
+12	 2(
+
+75651*
+12	 2(
+
+752617*
+12 2(
+
+754851*
+12 2(
+
+755517*
+14	 4(
+
+755251*
+14	 4(
+
+75617*
+15 5("
+
+75651*
+15 5("
+
+75651*
+18	 8(
+
+758584*
+18	 8(
+
+75617*
+18  8($
+
+75651*
+18  8($
+
+858879*
+1;) ;(5
+
+858847*
+1;6 ;(F
+
+858817*
+1;) ;(5
+
+855517*
+1< <(
+
+855251*
+1< <(
+
+855251*
+1= =(
+
+855517*
+1= =(
+
+855251*
+1= =(
+
+926251*
+1A A()
+
+926651*
+1D D(.
+
+956251*
+1K K(%
+
+9810059*
+1Q Q(
+
+9810217*
+1Q Q(
+
+985759*
+1S4 S(5
+
+986017*
+1S5 S(=
+
+983417*
+1SC S(K
+
+983447*
+1U U(%
+
+983417*
+1U U(
+
+983447*
+1V V(#
+
+983417*
+1V V(
+
+986951*
+1[ [(&
+
+987251*
+1[* [(C
+
+986951*
+1] ](.
+
+982651*
+1^ ^((
+
+983684*
+1^) ^(C
+
+984851*
+1^ ^((
+
+982617*
+1^ ^((
+
+984851*
+1^ ^((
+
+986951*
+1_ _(.
+
+987251*
+1a a(2
+
+982651*
+1b b((
+
+983984*
+1b) b(B
+
+984851*
+1b b((
+
+982617*
+1b b((
+
+984851*
+1b b((
+
+987251*
+1c c(2
+
+982651*
+1g g( 
+
+983084*
+1g! g(3
+
+984851*
+1g g( 
+
+982617*
+1g g( 
+
+984851*
+1g g( 
+
+981851*
+1j j(
+
+981851*
+1l# l(&
+
+1048847*
+1q q(!
+
+1048817*
+1q	 q(
+
+1046251*
+1{ {(
+
+104651*
+1~ ~(#
+
+1048584*
+1~ ~(#
+
+10711059*
+1Ö@ Ö(A
+
+10711217*
+1ÖA Ö(N
+
+10711217*
+1ÖO Ö(V
+
+1078847*
+1Ü Ü()
+
+1078817*
+1Ü	 Ü(
+
+1076251*
+1ë ë(
+
+107651*
+1î î(#
+
+1078584*
+1î î(#
+
+1147251*
+1ô	 ô("
+
+114651*
+1ö	 ö(
+
+11410484*
+1ö	 ö(
+
+1176651*
+1¢ ¢()
+
+1201851*
+1¶ ¶(
+
+1205517*
+1® ®(
+
+1205251*
+1® ®(
+
+1205251*
+1®& ®(3
+
+1205517*
+1®& ®(3
+
+1205251*
+1®& ®(3
+
+1205251*
+1© ©(
+
+1205517*
+1© ©(
+
+1205251*
+1© ©(
+
+1205517*
+1™ ™(
+
+1205251*
+1™ ™(

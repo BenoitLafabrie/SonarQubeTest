@@ -1,0 +1,134 @@
+
+Wcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#equals(Ljava/lang/Object;)Z‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/QueuePagerItemView.javaJ J("startingBlock*«
+2P7 P(;Y
+W
+P7 P(H
+%8"	__compare*
+PA P(C
+==*
+P7 P(@
+""*
+PD P(H
+""<
+:
+P7 P(H
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3P P("<
+:
+P P(4
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockJ J(#ˆ
+…
+I I(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+J! J("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*€
+4N7 N(8
+Š
+N N(9C
+that;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectY
+W
+P P(
+%5"	__compare*
+P P(
+!=*
+P P(
+""*
+P P(
+""*
+2
+3*!
+5L< L(A"
+L5 L(B
+""*ñ
+6L L(!»¸
+L L(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView2
+getClass()“
+L' L(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+L L(3
+%4boolean"	__compare*
+L$ L(&
+!=*#
+L L(#
+
+%2java.lang.Class*#
+L' L(3
+
+%3java.lang.Class*
+4
+5*Š
+7L L(s
+q
+L L(
+%1boolean"	__compare*
+L L(
+==*#
+L L(
+
+ojava.lang.Object*
+L L(
+""*
+5
+6*!
+8K K(""
+K K(#
+""*Å
+9K K(­
+ª
+K K(
+%0boolean"	__compare*
+K K(
+==*K
+K K(?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView*#
+K K(
+
+ojava.lang.Object*
+7
+8*!
+1P P(I"
+P P(I
+"":!
+J J("
+ojava.lang.ObjectB?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemViewHX

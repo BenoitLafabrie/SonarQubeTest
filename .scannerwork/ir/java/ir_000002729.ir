@@ -1,0 +1,13 @@
+
+falsebooleanEthis ("1com.simplecity.amp_library.billing.BillingManager51com.simplecity.amp_library.billing.BillingManager"»2
+0
+' '(%"#set-field# serviceConnected:E
+C
+)$ )(C"-+#get-field# BILLING_MANAGER_NOT_INITIALIZED:Bint;
+9
+) )(D"'%#set-field# billingClientResponseCode:7
+5
++ +(2"#!#set-field# purchaseFlowInitiated:;
+9
+, ,(6"'%#set-field# restorePurchasesInitiated:	
+ ­(*s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/billing/BillingManager.java

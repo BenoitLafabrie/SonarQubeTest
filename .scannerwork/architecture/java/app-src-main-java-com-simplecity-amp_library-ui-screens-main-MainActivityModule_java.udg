@@ -1,0 +1,1744 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233428111*java2.B€E
+Y
+Tapp/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivityModule.java2
+
+package4
+/
+*com.simplecity.amp_library.ui.screens.main5
+B
+=com.simplecity.amp_library.ui.screens.main.MainActivityModule7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+MainActivityModule12
+x
+rcom.simplecity.amp_library.ui.screens.main.MainActivityModule#appCompatActivity(LMainActivity;)LAppCompatActivity;14
+
+method15
+
+	protected16
+
+appCompatActivity17
+
+AppCompatActivity19
+
+unknown20
+
+returns21
+*
+$Recovered#typeBindingLMainActivity;023
+
+	has param24
+
+Binds26
+
+annotated by27
+#
+Recovered#typeBindingLBinds;029
+
+
+uses30
+
+ActivityScope32
++
+%Recovered#typeBindingLActivityScope;034
+
+is type35
+ô
+ícom.simplecity.amp_library.ui.screens.main.MainActivityModule#provideBillingUpdatesListener(LMainActivity;)LBillingManager/BillingUpdatesListener;37
+#
+provideBillingUpdatesListener38
++
+%BillingManager.BillingUpdatesListener40
+
+Provides42
+&
+ Recovered#typeBindingLProvides;044
+,
+&Recovered#typeBindingLBillingManager;046
+r
+lcom.simplecity.amp_library.ui.screens.main.MainActivityModule#libraryControllerInjector()LLibraryController;48
+
+libraryControllerInjector49
+
+LibraryController51
+
+FragmentScope53
++
+%Recovered#typeBindingLFragmentScope;055
+ 
+ContributesAndroidInjector57
+8
+2Recovered#typeBindingLContributesAndroidInjector;059
+3
+-Recovered#typeBindingLLibraryFragmentModule;061
+l
+fcom.simplecity.amp_library.ui.screens.main.MainActivityModule#drawerFragmentInjector()LDrawerFragment;63
+
+drawerFragmentInjector64
+
+DrawerFragment66
+2
+,Recovered#typeBindingLDrawerFragmentModule;068
+l
+fcom.simplecity.amp_library.ui.screens.main.MainActivityModule#mainControllerInjector()LMainController;70
+
+mainControllerInjector71
+
+MainController73
+2
+,Recovered#typeBindingLMainControllerModule;075
+v
+pcom.simplecity.amp_library.ui.screens.main.MainActivityModule#artistsFragmentInjector()LAlbumArtistListFragment;77
+
+artistsFragmentInjector78
+
+AlbumArtistListFragment80
+U
+Ocom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListFragmentModule82
+o
+icom.simplecity.amp_library.ui.screens.main.MainActivityModule#albumsFragmentInjector()LAlbumListFragment;84
+
+albumsFragmentInjector85
+
+AlbumListFragment87
+5
+/Recovered#typeBindingLAlbumListFragmentModule;089
+m
+gcom.simplecity.amp_library.ui.screens.main.MainActivityModule#songsFragmentInjector()LSongListFragment;91
+
+songsFragmentInjector92
+
+SongListFragment94
+5
+/Recovered#typeBindingLSongsListFragmentModule;096
+l
+fcom.simplecity.amp_library.ui.screens.main.MainActivityModule#playerFragmentInjector()LPlayerFragment;98
+
+playerFragmentInjector99
+
+PlayerFragment101
+3
+,Recovered#typeBindingLPlayerFragmentModule;0103
+k
+dcom.simplecity.amp_library.ui.screens.main.MainActivityModule#queueFragmentInjector()LQueueFragment;105
+
+queueFragmentInjector106
+
+QueueFragment108
+2
++Recovered#typeBindingLQueueFragmentModule;0110
+u
+ncom.simplecity.amp_library.ui.screens.main.MainActivityModule#queuePagerFragmentInjector()LQueuePagerFragment;112
+!
+queuePagerFragmentInjector113
+
+QueuePagerFragment115
+7
+0Recovered#typeBindingLQueuePagerFragmentModule;0117
+u
+ncom.simplecity.amp_library.ui.screens.main.MainActivityModule#miniPlayerFragmentInjector()LMiniPlayerFragment;119
+!
+miniPlayerFragmentInjector120
+
+MiniPlayerFragment122
+-
+&Recovered#typeBindingLFragmentModule;0124
+s
+lcom.simplecity.amp_library.ui.screens.main.MainActivityModule#suggestedFragmentInjector()LSuggestedFragment;126
+ 
+suggestedFragmentInjector127
+
+SuggestedFragment129
+6
+/Recovered#typeBindingLSuggestedFragmentModule;0131
+ú
+îcom.simplecity.amp_library.ui.screens.main.MainActivityModule#folderFragmentInjector()Lcom/simplecity/amp_library/ui/screens/folders/FolderFragment;133
+
+folderFragmentInjector134
+C
+<com.simplecity.amp_library.ui.screens.folders.FolderFragment136
+3
+,Recovered#typeBindingLFolderFragmentModule;0138
+w
+pcom.simplecity.amp_library.ui.screens.main.MainActivityModule#albumDetailFragmentInjector()LAlbumDetailFragment;140
+"
+albumDetailFragmentInjector141
+
+AlbumDetailFragment143
+9
+2Recovered#typeBindingLAlbumsDetailFragmentModule;0145
+y
+rcom.simplecity.amp_library.ui.screens.main.MainActivityModule#artistDetailFragmentInjector()LArtistDetailFragment;147
+#
+artistDetailFragmentInjector148
+
+ArtistDetailFragment150
+:
+3Recovered#typeBindingLArtistsDetailFragmentModule;0152
+u
+ncom.simplecity.amp_library.ui.screens.main.MainActivityModule#playlistFragmentInjector()LPlaylistListFragment;154
+
+playlistFragmentInjector155
+
+PlaylistListFragment157
+9
+2Recovered#typeBindingLPlaylistListFragmentModule;0159
+}
+vcom.simplecity.amp_library.ui.screens.main.MainActivityModule#playlistDetailFragmentInjector()LPlaylistDetailFragment;161
+%
+playlistDetailFragmentInjector162
+
+PlaylistDetailFragment164
+;
+4Recovered#typeBindingLPlaylistDetailFragmentModule;0166
+p
+icom.simplecity.amp_library.ui.screens.main.MainActivityModule#genresFragmentInjector()LGenreListFragment;168
+
+genresFragmentInjector169
+
+GenreListFragment171
+6
+/Recovered#typeBindingLGenreListFragmentModule;0173
+w
+pcom.simplecity.amp_library.ui.screens.main.MainActivityModule#genreDetailFragmentInjector()LGenreDetailFragment;175
+"
+genreDetailFragmentInjector176
+
+GenreDetailFragment178
+8
+1Recovered#typeBindingLGenreDetailFragmentModule;0180
+}
+vcom.simplecity.amp_library.ui.screens.main.MainActivityModule#settingsParentFragmentInjector()LSettingsParentFragment;182
+%
+settingsParentFragmentInjector183
+
+SettingsParentFragment185
+;
+4Recovered#typeBindingLSettingsParentFragmentModule;0187
+â
+Åcom.simplecity.amp_library.ui.screens.main.MainActivityModule#settingsFragmentInjector()LSettingsParentFragment/SettingsFragment;189
+
+settingsFragmentInjector190
+.
+'SettingsParentFragment.SettingsFragment192
+5
+.Recovered#typeBindingLSettingsFragmentModule;0194
+5
+.Recovered#typeBindingLSettingsParentFragment;0196
+m
+fcom.simplecity.amp_library.ui.screens.main.MainActivityModule#searchFragmentInjector()LSearchFragment;198
+
+searchFragmentInjector199
+
+SearchFragment201
+3
+,Recovered#typeBindingLSearchFragmentModule;0203
+s
+lcom.simplecity.amp_library.ui.screens.main.MainActivityModule#equalizerFragmentInjector()LEqualizerFragment;205
+ 
+equalizerFragmentInjector206
+
+EqualizerFragment208
+.
+'Recovered#typeBindingLEqualizerModule;0210
+y
+rcom.simplecity.amp_library.ui.screens.main.MainActivityModule#createPlaylistdialogInjector()LCreatePlaylistDialog;212
+#
+createPlaylistdialogInjector213
+
+CreatePlaylistDialog215
+3
+,Recovered#typeBindingLDialogFragmentModule;0217
+í
+äcom.simplecity.amp_library.ui.screens.main.MainActivityModule#deletePlaylistConfirmationDialogInjector()LDeletePlaylistConfirmationDialog;219
+/
+(deletePlaylistConfirmationDialogInjector220
+'
+ DeletePlaylistConfirmationDialog222
+s
+lcom.simplecity.amp_library.ui.screens.main.MainActivityModule#m3uPlaylistDialogInjector()LM3uPlaylistDialog;224
+ 
+m3uPlaylistDialogInjector225
+
+M3uPlaylistDialog227
+i
+bcom.simplecity.amp_library.ui.screens.main.MainActivityModule#taggerDialogInjector()LTaggerDialog;229
+
+taggerDialogInjector230
+
+TaggerDialog232
+i
+bcom.simplecity.amp_library.ui.screens.main.MainActivityModule#deleteDialogInjector()LDeleteDialog;234
+
+deleteDialogInjector235
+
+DeleteDialog237
+m
+fcom.simplecity.amp_library.ui.screens.main.MainActivityModule#inclExclDialogInjector()LInclExclDialog;239
+
+inclExclDialogInjector240
+
+InclExclDialog242
+k
+dcom.simplecity.amp_library.ui.screens.main.MainActivityModule#upgradeDialogInjector()LUpgradeDialog;244
+
+upgradeDialogInjector245
+
+UpgradeDialog247
+q
+jcom.simplecity.amp_library.ui.screens.main.MainActivityModule#UpgradeNagDialogInjector()LUpgradeNagDialog;249
+
+UpgradeNagDialogInjector250
+
+UpgradeNagDialog252
+u
+ncom.simplecity.amp_library.ui.screens.main.MainActivityModule#weekSelectorDialogInjector()LWeekSelectorDialog;254
+!
+weekSelectorDialogInjector255
+
+WeekSelectorDialog257
+o
+hcom.simplecity.amp_library.ui.screens.main.MainActivityModule#changelogDialogInjector()LChangelogDialog;259
+
+changelogDialogInjector260
+
+ChangelogDialog262
+r
+kcom.simplecity.amp_library.ui.screens.main.MainActivityModule#tabChooseerDialogInjector()LTabChooserDialog;264
+ 
+tabChooseerDialogInjector265
+
+TabChooserDialog267
+i
+bcom.simplecity.amp_library.ui.screens.main.MainActivityModule#lyricsDialogInjector()LLyricsDialog;269
+
+lyricsDialogInjector270
+
+LyricsDialog272
+n
+gcom.simplecity.amp_library.ui.screens.main.MainActivityModule#safDialogInjector()LSafManager/SafDialog;274
+
+safDialogInjector275
+
+SafManager.SafDialog277
+)
+"Recovered#typeBindingLSafManager;0279J
+
+1
+12Z
+
+3	
+354jπ!
+
+102
+10210320
+@
+76:
+767715 *
+1Z Z(26:3B
+	
+9
+16
+
+
+11
+78
+
+60
+606120
+9
+64
+678 *
+1C C():3B
+	
+9
+10
+
+
+11
+12
+
+256
+25625720
+
+28
+282920
+@
+47:
+474815 *
+1N N(26:3B
+	
+9
+16
+
+
+11
+49
+F
+238?
+23823915 *
+1º º(26:3B
+	
+9
+16
+
+11
+240
+
+33
+333420
+
+72
+727320
+
+116
+11611720
+F
+273?
+27327415 *
+1ÿ ÿ(26:3B
+	
+9
+16
+
+11
+275
+
+241
+24124220
+
+74
+747520
+F
+167?
+16716815 *
+1é é(26:3B
+	
+9
+16
+
+11
+169
+
+86
+868720
+
+39
+394020
+@
+13:
+131415 *
+1E E(26:3B
+	
+9
+16
+
+
+11
+17
+
+50
+505120
+F
+204?
+20420515 *
+1¢ ¢(26:3B
+	
+9
+16
+
+11
+206
+
+22
+222320
+@
+90:
+909115 *
+1b b(26:3B
+	
+9
+16
+
+
+11
+92
+
+79
+798020
+
+158
+15815920
+
+144
+14414520
+
+31
+313220
+
+200
+20020120
+
+58
+585920
+D
+139=
+13914015 *
+1~ ~(26:3B
+	
+9
+16
+
+11
+141
+F
+153?
+15315415 *
+1Ü Ü(26:3B
+	
+9
+16
+
+11
+155
+
+65
+656620
+F
+233?
+23323415 *
+1∏ ∏(26:3B
+	
+9
+16
+
+11
+235
+F
+181?
+18118215 *
+1ñ ñ(26:3B
+	
+9
+16
+
+11
+183
+
+95
+959620
+
+151
+15115220
+
+202
+20220320
+
+191
+19119220
+D
+111=
+11111215 *
+1n n(26:3B
+	
+9
+16
+
+11
+113
+
+25
+252620
+
+271
+27127220
+
+18
+181920
+F
+253?
+25325415 *
+1» »(26:3B
+	
+9
+16
+
+11
+255
+
+88
+888920
+@
+36:
+363715 *
+1I I(26:3B
+	
+9
+16
+
+
+11
+38
+D
+125=
+12512615 *
+1v v(26:3B
+	
+9
+16
+
+11
+127
+
+52
+525320
+@
+69:
+697015 *
+1V V(26:3B
+	
+9
+16
+
+
+11
+71
+
+170
+17017120
+
+261
+26126220
+
+209
+20921020
+
+54
+545520
+
+43
+434420
+F
+268?
+26826915 *
+1‘ ‘(26:3B
+	
+9
+16
+
+11
+270
+
+177
+17717820
+
+107
+10710820
+
+251
+25125220
+
+121
+12112220
+
+56
+565720
+D
+118=
+11811915 *
+1r r(26:3B
+	
+9
+16
+
+11
+120
+F
+223?
+22322415 *
+1∞ ∞(26:3B
+	
+9
+16
+
+11
+225
+F
+211?
+21121215 *
+1® ®(26:3B
+	
+9
+16
+
+11
+213
+
+266
+26626720
+@
+62:
+626315 *
+1R R(26:3B
+	
+9
+16
+
+
+11
+64
+
+114
+11411520
+
+184
+18418520
+F
+160?
+16016115 *
+1ä ä(26:3B
+	
+9
+16
+
+11
+162
+
+179
+17918020
+
+93
+939420
+F
+228?
+22822915 *
+1¥ ¥(26:3B
+	
+9
+16
+
+11
+230
+
+100
+10010120
+@
+83:
+838415 *
+1^ ^(26:3B
+	
+9
+16
+
+
+11
+85
+
+109
+10911020
+F
+197?
+19719815 *
+1û û(26:3B
+	
+9
+16
+
+11
+199
+
+214
+21421520
+D
+132=
+13213315 *
+1z z(26:3B
+	
+9
+16
+
+11
+134
+
+276
+27627720
+
+207
+20720820
+
+123
+12312420
+
+236
+23623720
+
+45
+454620
+
+156
+15615720
+
+172
+17217320
+
+130
+13013120
+
+195
+19519620
+
+226
+22622720
+F
+174?
+17417515 *
+1í í(26:3B
+	
+9
+16
+
+11
+176
+
+163
+16316420
+F
+248?
+24824915 *
+1ƒ ƒ(26:3B
+	
+9
+16
+
+11
+250
+
+165
+16516620
+@
+97:
+979815 *
+1f f(26:3B
+	
+9
+16
+
+
+11
+99
+
+193
+19319420
+
+246
+24624720
+
+186
+18618720
+
+142
+14214320
+F
+218?
+21821915 *
+1¨ ¨(26:3B
+	
+9
+16
+
+11
+220
+F
+263?
+26326415 *
+1– –(26:3B
+	
+9
+16
+
+11
+265
+F
+188?
+18818915 *
+1ö ö(26:3B
+	
+9
+16
+
+11
+190
+F
+258?
+25825915 *
+1Ã Ã(26:3B
+	
+9
+16
+
+11
+260
+
+128
+12812920
+
+231
+23123220
+
+278
+27827920
+
+149
+14915020
+
+41
+414220
+
+67
+676820
+
+135
+13513620
+
+81
+818220
+F
+243?
+24324415 *
+1¿ ¿(26:3B
+	
+9
+16
+
+11
+245
+
+221
+22122220
+F
+146?
+14614715 *
+1Ç Ç(26:3B
+	
+9
+16
+
+11
+148
+D
+104=
+10410515 *
+1j j(26:3B
+	
+9
+16
+
+11
+106
+
+216
+21621720
+
+137
+13713820r≥<
+
+131821*
+1G G(
+
+132224*
+1G2 G(>
+
+132527*
+1E E(
+
+132830*
+1E E(
+
+133127*
+1F F(
+
+133330*
+1F F(
+
+131830*
+1G G(
+
+132235*
+1G? G(K
+
+132230*
+1G2 G(>
+
+363921*
+1J J(
+
+362224*
+1JP J(\
+
+364127*
+1I I(
+
+364330*
+1I I(
+
+364530*
+1J J(
+
+363930*
+1J J(1
+
+362235*
+1J] J(i
+
+362230*
+1JP J(\
+
+475021*
+1P P(
+
+475227*
+1N N(
+
+475430*
+1N N(
+
+475627*
+1O O(
+
+475830*
+1O O( 
+
+476030*
+1O+ O(@
+
+475030*
+1P P(
+
+626521*
+1T T(
+
+625227*
+1R R(
+
+625430*
+1R R(
+
+625627*
+1S S(
+
+625830*
+1S S( 
+
+626730*
+1S+ S(?
+
+626530*
+1T T(
+
+697221*
+1X X(
+
+695227*
+1V V(
+
+695430*
+1V V(
+
+695627*
+1W W(
+
+695830*
+1W W( 
+
+697430*
+1W+ W(?
+
+697230*
+1X X(
+
+767921*
+1\ \(%
+
+765227*
+1Z Z(
+
+765430*
+1Z Z(
+
+765627*
+1[ [(
+
+765830*
+1[ [( 
+
+768130*
+1[+ [(H
+
+767930*
+1\ \(%
+
+838621*
+1` `(
+
+835227*
+1^ ^(
+
+835430*
+1^ ^(
+
+835627*
+1_ _(
+
+835830*
+1_ _( 
+
+838830*
+1_+ _(B
+
+838630*
+1` `(
+
+909321*
+1d d(
+
+905227*
+1b b(
+
+905430*
+1b b(
+
+905627*
+1c c(
+
+905830*
+1c c( 
+
+909530*
+1c+ c(B
+
+909330*
+1d d(
+
+9710021*
+1h h(
+
+975227*
+1f f(
+
+975430*
+1f f(
+
+975627*
+1g g(
+
+975830*
+1g g( 
+
+9710230*
+1g+ g(?
+
+9710030*
+1h h(
+
+10410721*
+1l l(
+
+1045227*
+1j j(
+
+1045430*
+1j j(
+
+1045627*
+1k k(
+
+1045830*
+1k k( 
+
+10410930*
+1k+ k(>
+
+10410730*
+1l l(
+
+11111421*
+1p p( 
+
+1115227*
+1n n(
+
+1115430*
+1n n(
+
+1115627*
+1o o(
+
+1115830*
+1o o( 
+
+11111630*
+1o+ o(C
+
+11111430*
+1p p( 
+
+11812121*
+1t t( 
+
+1185227*
+1r r(
+
+1185430*
+1r r(
+
+1185627*
+1s s(
+
+1185830*
+1s s( 
+
+11812330*
+1s+ s(9
+
+11812130*
+1t t( 
+
+12512821*
+1x x(
+
+1255227*
+1v v(
+
+1255430*
+1v v(
+
+1255627*
+1w w(
+
+1255830*
+1w w( 
+
+12513030*
+1w+ w(B
+
+12512830*
+1x x(
+
+13213521*
+1| |(
+
+1325227*
+1z z(
+
+1325430*
+1z z(
+
+1325627*
+1{ {(
+
+1325830*
+1{ {( 
+
+13213730*
+1{+ {(?
+
+13213530*
+1| |(
+
+13914221*
+1Ä Ä(!
+
+1395227*
+1~ ~(
+
+1395430*
+1~ ~(
+
+1395627*
+1 (
+
+1395830*
+1 ( 
+
+13914430*
+1+ (E
+
+13914230*
+1Ä Ä(!
+
+14614921*
+1Ñ Ñ("
+
+1465227*
+1Ç Ç(
+
+1465430*
+1Ç Ç(
+
+1465627*
+1É É(
+
+1465830*
+1É É( 
+
+14615130*
+1É+ É(F
+
+14614930*
+1Ñ Ñ("
+
+15315621*
+1à à("
+
+1535227*
+1Ü Ü(
+
+1535430*
+1Ü Ü(
+
+1535627*
+1á á(
+
+1535830*
+1á á( 
+
+15315830*
+1á+ á(E
+
+15315630*
+1à à("
+
+16016321*
+1å å($
+
+1605227*
+1ä ä(
+
+1605430*
+1ä ä(
+
+1605627*
+1ã ã(
+
+1605830*
+1ã ã( 
+
+16016530*
+1ã+ ã(G
+
+16016330*
+1å å($
+
+16717021*
+1ê ê(
+
+1675227*
+1é é(
+
+1675430*
+1é é(
+
+1675627*
+1è è(
+
+1675830*
+1è è( 
+
+16717230*
+1è+ è(B
+
+16717030*
+1ê ê(
+
+17417721*
+1î î(!
+
+1745227*
+1í í(
+
+1745430*
+1í í(
+
+1745627*
+1ì ì(
+
+1745830*
+1ì ì( 
+
+17417930*
+1ì+ ì(D
+
+17417730*
+1î î(!
+
+18118421*
+1ò ò($
+
+1815227*
+1ñ ñ(
+
+1815430*
+1ñ ñ(
+
+1815627*
+1ó ó(
+
+1815830*
+1ó ó( 
+
+18118630*
+1ó+ ó(G
+
+18118430*
+1ò ò($
+
+18819121*
+1ú ú($
+
+1885227*
+1ö ö(
+
+1885430*
+1ö ö(
+
+1885627*
+1õ õ(
+
+1885830*
+1õ õ( 
+
+18819330*
+1õ+ õ(A
+
+18819530*
+1ú ú($
+
+18819130*
+1ú% ú(5
+
+19720021*
+1† †(
+
+1975227*
+1û û(
+
+1975430*
+1û û(
+
+1975627*
+1ü ü(
+
+1975830*
+1ü ü( 
+
+19720230*
+1ü+ ü(?
+
+19720030*
+1† †(
+
+20420721*
+1§ §(
+
+2045227*
+1¢ ¢(
+
+2045430*
+1¢ ¢(
+
+2045627*
+1£ £(
+
+2045830*
+1£ £( 
+
+20420930*
+1£+ £(:
+
+20420730*
+1§ §(
+
+21121421*
+1™ ™("
+
+2115227*
+1® ®(
+
+2115430*
+1® ®(
+
+2115627*
+1© ©(
+
+2115830*
+1© ©( 
+
+21121630*
+1©+ ©(?
+
+21121430*
+1™ ™("
+
+21822121*
+1Æ Æ(.
+
+2185227*
+1¨ ¨(
+
+2185430*
+1¨ ¨(
+
+2185627*
+1≠ ≠(
+
+2185830*
+1≠ ≠( 
+
+21821630*
+1≠+ ≠(?
+
+21822130*
+1Æ Æ(.
+
+22322621*
+1≤ ≤(
+
+2235227*
+1∞ ∞(
+
+2235430*
+1∞ ∞(
+
+2235627*
+1± ±(
+
+2235830*
+1± ±( 
+
+22321630*
+1±+ ±(?
+
+22322630*
+1≤ ≤(
+
+22823121*
+1∂ ∂(
+
+2285227*
+1¥ ¥(
+
+2285430*
+1¥ ¥(
+
+2285627*
+1µ µ(
+
+2285830*
+1µ µ( 
+
+22821630*
+1µ+ µ(?
+
+22823130*
+1∂ ∂(
+
+23323621*
+1∫ ∫(
+
+2335227*
+1∏ ∏(
+
+2335430*
+1∏ ∏(
+
+2335627*
+1π π(
+
+2335830*
+1π π( 
+
+23321630*
+1π+ π(?
+
+23323630*
+1∫ ∫(
+
+23824121*
+1æ æ(
+
+2385227*
+1º º(
+
+2385430*
+1º º(
+
+2385627*
+1Ω Ω(
+
+2385830*
+1Ω Ω( 
+
+23821630*
+1Ω+ Ω(?
+
+23824130*
+1æ æ(
+
+24324621*
+1¬ ¬(
+
+2435227*
+1¿ ¿(
+
+2435430*
+1¿ ¿(
+
+2435627*
+1¡ ¡(
+
+2435830*
+1¡ ¡( 
+
+24321630*
+1¡+ ¡(?
+
+24324630*
+1¬ ¬(
+
+24825121*
+1∆ ∆(
+
+2485227*
+1ƒ ƒ(
+
+2485430*
+1ƒ ƒ(
+
+2485627*
+1≈ ≈(
+
+2485830*
+1≈ ≈( 
+
+24821630*
+1≈+ ≈(?
+
+24825130*
+1∆ ∆(
+
+25325621*
+1   ( 
+
+2535227*
+1» »(
+
+2535430*
+1» »(
+
+2535627*
+1… …(
+
+2535830*
+1… …( 
+
+25321630*
+1…+ …(?
+
+25325630*
+1   ( 
+
+25826121*
+1Œ Œ(
+
+2585227*
+1Ã Ã(
+
+2585430*
+1Ã Ã(
+
+2585627*
+1Õ Õ(
+
+2585830*
+1Õ Õ( 
+
+25821630*
+1Õ+ Õ(?
+
+25826130*
+1Œ Œ(
+
+26326621*
+1“ “(
+
+2635227*
+1– –(
+
+2635430*
+1– –(
+
+2635627*
+1— —(
+
+2635830*
+1— —( 
+
+26321630*
+1—+ —(?
+
+26326630*
+1“ “(
+
+26827121*
+1÷ ÷(
+
+2685227*
+1‘ ‘(
+
+2685430*
+1‘ ‘(
+
+2685627*
+1’ ’(
+
+2685830*
+1’ ’( 
+
+26821630*
+1’+ ’(?
+
+26827130*
+1÷ ÷(
+
+27327621*
+1⁄ ⁄(
+
+2735227*
+1ÿ ÿ(
+
+2735430*
+1ÿ ÿ(
+
+2735627*
+1Ÿ Ÿ(
+
+2735830*
+1Ÿ Ÿ( 
+
+27321630*
+1Ÿ+ Ÿ(?
+
+27327830*
+1⁄ ⁄(
+
+27327630*
+1⁄ ⁄("

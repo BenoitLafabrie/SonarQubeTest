@@ -1,0 +1,437 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440490*java2.B˝
+N
+Iapp/src/main/java/com/simplecity/amp_library/ui/modelviews/EmptyView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+7
+2com.simplecity.amp_library.ui.modelviews.EmptyView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+	EmptyView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+C
+=com.simplecity.amp_library.ui.modelviews.EmptyView$ViewHolder19
+
+
+references20
+=
+7com.simplecity.amp_library.ui.modelviews.EmptyView.text22
+
+field23
+
+private24
+
+
+text25
+>
+8com.simplecity.amp_library.ui.modelviews.EmptyView.resId27
+
+resId28
+?
+9com.simplecity.amp_library.ui.modelviews.EmptyView.height30
+
+height31
+T
+Ncom.simplecity.amp_library.ui.modelviews.EmptyView#<init>(Ljava/lang/String;)V33
+
+method34
+
+calls35
+C
+=com.simplecity.amp_library.ui.modelviews.EmptyView#<init>(I)V37
+
+	StringRes39
+
+annotated by40
+'
+!Recovered#typeBindingLStringRes;042
+F
+@com.simplecity.amp_library.ui.modelviews.EmptyView#setHeight(I)V44
+
+	setHeight45
+G
+Acom.simplecity.amp_library.ui.modelviews.EmptyView#getViewType()I47
+
+getViewType48
+J
+Dcom.simplecity.amp_library.ui.modelviews.EmptyView#getLayoutResId()I50
+
+getLayoutResId51
+É
+}com.simplecity.amp_library.ui.modelviews.EmptyView#bindView(Lcom/simplecity/amp_library/ui/modelviews/EmptyView$ViewHolder;)V53
+
+bindView54
+
+	has param55
+
+is type56
+
+BaseViewModel58
+&
+ Recovered#typeBindingLTextView;060
+ñ
+ècom.simplecity.amp_library.ui.modelviews.EmptyView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/EmptyView$ViewHolder;62
+
+createViewHolder63
+
+returns64
+'
+!Recovered#typeBindingLViewGroup;066
+
+
+ViewHolder67
+E
+?com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder69
+S
+Mcom.simplecity.amp_library.ui.modelviews.EmptyView$ViewHolder#<init>(LView;)V71
+"
+Recovered#typeBindingLView;073
+`
+Zcom.simplecity.amp_library.ui.modelviews.EmptyView$ViewHolder#toString()Ljava/lang/String;75
+
+toString76J
+
+1
+12Z
+
+3	
+354j∂
+A
+74;
+747534 *
+1I	 I(
+218:3B
+	
+9
+10
+
+
+11
+76
+@
+29:
+293023 *
+1 (26:3B
+	
+9
+24
+
+
+11
+31
+@
+32:
+323334 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+24
+
+
+11
+25
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+26:
+262723 *
+1 (26:3B
+	
+9
+24
+
+
+11
+28
+
+38
+383915
+
+59
+596015
+?
+189
+18198 *
+1C C(#26:3B
+	
+9
+10
+
+
+11
+67
+A
+70;
+707134 *
+1E	 E(218:3B
+	
+9
+10
+
+
+11
+67
+@
+43:
+434434 *
+1   (26:3B
+	
+9
+10
+
+
+11
+45
+@
+61:
+616234 *
+1> >(26:3B
+	
+9
+10
+
+
+11
+63
+
+57
+575815
+
+65
+656615
+
+41
+414215
+@
+52:
+525334 *
+1. .(26:3B
+	
+9
+10
+
+
+11
+54
+@
+46:
+464734 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+48
+
+68
+686915
+
+72
+727315
+@
+49:
+495034 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+51
+@
+36:
+363734 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+13
+131415rÁ	
+
+61316*
+1  (-
+
+61317*
+1  (-
+
+61817*
+18 (B
+
+61820*
+18 (B
+
+32635*
+1 (
+
+32617*
+1	 (
+
+32620*
+1	 (
+
+322120*
+1 (
+
+36635*
+1 (
+
+363840*
+1 (
+
+364117*
+1 ( 
+
+36617*
+1	 (
+
+36620*
+1	 (
+
+362620*
+1 (
+
+43617*
+1!	 !(
+
+43620*
+1!	 !(
+
+432920*
+1! !(
+
+521855*
+1/ /($
+
+521856*
+1/% /(+
+
+521817*
+1/ /($
+
+521820*
+1/ /($
+
+52620*
+10	 0(
+
+525717*
+10	 0(
+
+52620*
+10	 0(
+
+522620*
+12 2(
+
+522120*
+13 3(
+
+522620*
+13= 3(B
+
+525917*
+16 6(
+
+522120*
+16. 6(2
+
+522920*
+18 8(
+
+522920*
+19L 9(R
+
+522920*
+1:4 :(:
+
+611864*
+1? ?(
+
+616555*
+1?( ?(1
+
+611817*
+1? ?(
+
+611820*
+1? ?(
+
+616556*
+1?2 ?(8
+
+616517*
+1?( ?(1
+
+611835*
+1@ @(
+
+186816*
+1C, C(:
+
+707255*
+1E E(
+
+701835*
+1E E(
+
+707256*
+1E  E((
+
+707217*
+1E E(
+
+706820*
+1F F(
+
+706835*
+1F F(
+
+706835*
+1F F(

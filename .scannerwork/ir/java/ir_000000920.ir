@@ -1,0 +1,16 @@
+
+0.001ffloatvalue
+‚# ‚(."float"targetValue
+‚0 ‚(A"float"·0
+.
+
+ƒ ƒ(+"#dependent-value#:Bfloat=
+;
+
+ƒ ƒ(,"
+java.lang.Mathabs(F)F*2abs:Bfloat2
+0
+
+ƒ ƒ(5"#dependent-value#:Bboolean
+
+ƒ ƒ(6*z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java

@@ -1,0 +1,50 @@
+
+%", lastPlayed="java.lang.String
+"", artists="java.lang.String
+	", year="java.lang.String
++
+", albumArtistName='"java.lang.String
+$", dateAdded="java.lang.String
+'}'char
+ 
+", name='"java.lang.String
+#", numSongs="java.lang.String
+ 
+", paths="java.lang.String
+"id="java.lang.String
+"Album{"java.lang.String
+'\''char<this
+¬ ¬("&com.simplecity.amp_library.model.Album"­+
+)
+
+® ®("#get-field# id:Blong9
+7
+
+¯ ¯(!"#get-field# name:Bjava.lang.String#
+!
+
+° °(&	"#unknown-value#D
+B
+
+±( ±(7"#get-field# albumArtistName:Bjava.lang.String,
+*
+
+² ²( "#get-field# year:Bint0
+.
+
+³  ³(("#get-field# numSongs:Bint3
+1
+
+´" ´(,"#get-field# lastPlayed:Blong2
+0
+
+µ! µ(*"#get-field# dateAdded:Blong8
+6
+
+¶ ¶(""#get-field# paths:Bjava.util.ListC
+A
+
+­ ·("	#binop +#2+:	
+B	!Unknown!
+
+­ ·(*h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java

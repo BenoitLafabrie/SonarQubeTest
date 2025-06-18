@@ -1,0 +1,1287 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233430315*java2.BÎ(
+U
+Papp/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.java2
+
+package4
+/
+*com.simplecity.amp_library.ui.screens.main5
+>
+9com.simplecity.amp_library.ui.screens.main.MainController7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+MainController12
+6
+0Recovered#typeBindingLBaseNavigationController;014
+
+unknown15
+
+extends16
+.
+(Recovered#typeBindingLBackPressHandler;018
+
+
+implements19
+2
+,Recovered#typeBindingLDrawerLockController;021
+
+
+uses22
+C
+=com.simplecity.amp_library.ui.screens.main.MainController.TAG24
+
+field25
+
+private26
+	
+TAG27
+S
+Mcom.simplecity.amp_library.ui.screens.main.MainController.STATE_CURRENT_SHEET29
+
+STATE_CURRENT_SHEET30
+T
+Ncom.simplecity.amp_library.ui.screens.main.MainController.navigationEventRelay32
+
+	protected33
+
+navigationEventRelay34
+
+NavigationEventRelay36
+
+is type37
+
+Inject39
+
+annotated by40
+$
+Recovered#typeBindingLInject;042
+T
+Ncom.simplecity.amp_library.ui.screens.main.MainController.multiSheetEventRelay44
+
+multiSheetEventRelay45
+I
+Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay47
+Y
+Scom.simplecity.amp_library.ui.screens.main.MainController.multiSheetSlideEventRelay49
+
+multiSheetSlideEventRelay50
+
+MultiSheetSlideEventRelay52
+L
+Fcom.simplecity.amp_library.ui.screens.main.MainController.mediaManager54
+
+mediaManager55
+
+MediaManager57
+O
+Icom.simplecity.amp_library.ui.screens.main.MainController.playerPresenter59
+
+playerPresenter60
+
+PlayerPresenter62
+O
+Icom.simplecity.amp_library.ui.screens.main.MainController.settingsManager64
+
+settingsManager65
+
+SettingsManager67
+L
+Fcom.simplecity.amp_library.ui.screens.main.MainController.delayHandler69
+
+delayHandler70
+
+Handler72
+N
+Hcom.simplecity.amp_library.ui.screens.main.MainController.multiSheetView74
+
+multiSheetView75
+I
+Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView77
+
+BindView79
+&
+ Recovered#typeBindingLBindView;081
+K
+Ecom.simplecity.amp_library.ui.screens.main.MainController.disposables83
+
+disposables84
+
+CompositeDisposable86
+‰
+‚com.simplecity.amp_library.ui.screens.main.MainController#newInstance()Lcom/simplecity/amp_library/ui/screens/main/MainController;88
+
+method89
+
+newInstance90
+
+returns91
+$
+Recovered#typeBindingLBundle;093
+
+calls94
+I
+Ccom.simplecity.amp_library.ui.screens.main.MainController#<init>()V96
+T
+Ncom.simplecity.amp_library.ui.screens.main.MainController#onAttach(LContext;)V98
+
+onAttach99
+&
+Recovered#typeBindingLContext;0101
+
+	has param102
+
+
+references103
+
+BaseNavigationController105
+x
+qcom.simplecity.amp_library.ui.screens.main.MainController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;107
+
+onCreateView108
+
+View110
+-
+&Recovered#typeBindingLLayoutInflater;0112
+(
+!Recovered#typeBindingLViewGroup;0114
+
+Nullable116
+'
+ Recovered#typeBindingLNullable;0118
+#
+Recovered#typeBindingLView;0120
+«
+£com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#setMultiSheetEventRelay(Lcom/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay;)V122
+…
+~com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#setMultiSheetSlideEventRelay(LMultiSheetSlideEventRelay;)V124
+a
+Zcom.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V126
+L
+Ecom.simplecity.amp_library.ui.screens.main.MainController#onResume()V128
+
+onResume129
++
+$Recovered#typeBindingLIntentFilter;0131
+K
+Dcom.simplecity.amp_library.ui.screens.main.MainController#onPause()V133
+
+onPause134
+"
+toggleBottomSheetVisibility135
+I
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager137
+^
+Wcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z139
+œ
+”com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;141
+_
+Xcom.simplecity.amp_library.ui.screens.main.MainController#onSaveInstanceState(LBundle;)V143
+
+onSaveInstanceState144
+j
+ccom.simplecity.amp_library.ui.screens.main.MainController#getRootViewControllerInfo()LFragmentInfo;146
+ 
+getRootViewControllerInfo147
+
+FragmentInfo149
+C
+<com.simplecity.amp_library.ui.screens.main.LibraryController151
+`
+Ycom.simplecity.amp_library.ui.screens.main.LibraryController#fragmentInfo()LFragmentInfo;153
+T
+Mcom.simplecity.amp_library.ui.screens.main.MainController#consumeBackPress()Z155
+
+consumeBackPress156
+N
+Gcom.simplecity.amp_library.ui.screens.main.MainController#lockDrawer()V158
+
+
+lockDrawer159
+-
+&Recovered#typeBindingLDrawerProvider;0161
+P
+Icom.simplecity.amp_library.ui.screens.main.MainController#unlockDrawer()V163
+
+unlockDrawer164
+‚
+{com.simplecity.amp_library.ui.screens.main.MainController#pushViewController(LFragment;Ljava/lang/String;Ljava/util/List;)V166
+
+pushViewController167
+'
+ Recovered#typeBindingLFragment;0169
+
+NonNull171
+&
+Recovered#typeBindingLNonNull;0173
+#
+Recovered#typeBindingLPair;0175
+2
++Recovered#typeBindingLFragmentTransaction;0177J
+
+1
+12Z
+
+3	
+354jŠ
+9
+64
+678 *
+1> >(:3B
+	
+9
+10
+
+
+11
+12
+
+20
+202115
+
+176
+17617715
+
+148
+14814915
+
+61
+616215
+
+35
+353615
+
+113
+11311415
+@
+97:
+979889 *
+1h h(26:3B
+	
+9
+10
+
+
+11
+99
+
+152
+15215315
+
+17
+171815
+F
+127?
+12712889 *
+1 (26:3B
+	
+9
+10
+
+11
+129
+
+170
+17017115
+@
+87:
+878889 *
+1] ](26:3B
+	
+9
+10
+
+
+11
+90
+
+160
+16016115
+@
+53:
+535425 *
+1M M(26:3B
+	
+9
+33
+
+
+11
+55
+
+121
+12112215
+F
+145?
+14514689 *
+1‚ ‚(26:3B
+	
+9
+10
+
+11
+147
+F
+142?
+14214389 *
+1ü ü(26:3B
+	
+9
+10
+
+11
+144
+
+168
+16816915
+
+41
+414215
+F
+162?
+16216389 *
+1• •(26:3B
+	
+9
+10
+
+11
+164
+
+71
+717215
+
+76
+767715
+@
+82:
+828325 *
+1[ [(26:3B
+	
+9
+26
+
+
+11
+84
+
+138
+13813915
+
+51
+515215
+@
+68:
+686925 *
+1V V(26:3B
+	
+9
+26
+
+
+11
+70
+
+13
+131415
+
+92
+929315
+F
+165?
+16516689 *
+1¢ ¢(26:3B
+	
+9
+10
+
+11
+167
+@
+23:
+232425 *
+1@ @(26:3B
+	
+9
+26
+
+
+11
+27
+
+111
+11111215
+
+136
+13613715
+
+85
+858615
+
+115
+11511615
+
+100
+10010115
+
+130
+13013115
+F
+125?
+12512689 *
+1ô ô(26:3B
+	
+9
+26
+
+11
+135
+
+140
+14014115
+@
+63:
+636425 *
+1S S(26:3B
+	
+9
+33
+
+
+11
+65
+
+46
+464715
+F
+154?
+15415589 *
+1‡ ‡(26:3B
+	
+9
+10
+
+11
+156
+
+117
+11711815
+
+123
+12312415
+@
+28:
+282925 *
+1B B(26:3B
+	
+9
+10
+
+
+11
+30
+
+119
+11912015
+@
+95:
+959689 *
+1d d(26:3B
+	
+9
+10
+
+
+11
+12
+@
+48:
+484925 *
+1J J(26:3B
+	
+9
+33
+
+
+11
+50
+F
+132?
+13213389 *
+1å å(26:3B
+	
+9
+10
+
+11
+134
+D
+106=
+10610789 *
+1n n(26:3B
+	
+9
+10
+
+11
+108
+
+38
+383915
+F
+157?
+15715889 *
+1 (26:3B
+	
+9
+10
+
+11
+159
+
+66
+666715
+
+150
+15015115
+
+109
+10911015
+@
+58:
+585925 *
+1P P(26:3B
+	
+9
+33
+
+
+11
+60
+
+174
+17417515
+
+104
+10410515
+@
+43:
+434425 *
+1G G(26:3B
+	
+9
+33
+
+
+11
+45
+
+56
+565715
+
+78
+787915
+@
+73:
+737425 *
+1X X(26:3B
+	
+9
+33
+
+
+11
+75
+
+80
+808115
+
+172
+17217315
+@
+31:
+313225 *
+1D D(26:3B
+	
+9
+33
+
+
+11
+34rû2
+
+61316*
+1>% >(=
+
+61719*
+1>I >(Y
+
+62019*
+1>[ >(o
+
+61322*
+1>% >(=
+
+61722*
+1>I >(Y
+
+62022*
+1>[ >(o
+
+313537*
+1E E(
+
+313840*
+1D D(
+
+314122*
+1D D(
+
+313522*
+1E E(
+
+313522*
+1E E(.
+
+434637*
+1H H(
+
+433840*
+1G G(
+
+434122*
+1G G(
+
+434622*
+1H H(
+
+434622*
+1H H(.
+
+485137*
+1K K(
+
+483840*
+1J J(
+
+484122*
+1J J(
+
+485122*
+1K K(
+
+485122*
+1K K(8
+
+535637*
+1N N(
+
+533840*
+1M M(
+
+534122*
+1M M(
+
+535622*
+1N N(
+
+535622*
+1N N(
+
+586137*
+1Q Q(
+
+583840*
+1P P(
+
+584122*
+1P P(
+
+586122*
+1Q Q(
+
+586122*
+1Q Q($
+
+636637*
+1T T(
+
+633840*
+1S S(
+
+634122*
+1S S(
+
+636622*
+1T T(
+
+636622*
+1T T($
+
+687137*
+1V V(
+
+687122*
+1V V(
+
+687122*
+1V V(!
+
+737637*
+1Y Y(
+
+737840*
+1X X(
+
+738022*
+1X X(
+
+737622*
+1Y Y(
+
+737622*
+1Y Y((
+
+828537*
+1[ [( 
+
+828522*
+1[ [( 
+
+828522*
+1[! [(,
+
+87691*
+1] ](!
+
+87622*
+1] ](!
+
+879237*
+1^ ^(
+
+879222*
+1^	 ^(
+
+87637*
+1_ _( 
+
+87622*
+1_	 _(
+
+87694*
+1_' _(5
+
+95694*
+1d d(
+
+97100102*
+1i i(!
+
+9710037*
+1i" i()
+
+9710022*
+1i i(!
+
+97622*
+1j( j(,
+
+976103*
+1j( j(,
+
+976103*
+1k	 k(
+
+9710422*
+1k	 k(
+
+976103*
+1k	 k(
+
+10610991*
+1p p(
+
+106111102*
+1p p(,
+
+106113102*
+1pA p(J
+
+10692102*
+1p` p(f
+
+10611540*
+1n n(
+
+10611722*
+1n n(
+
+10610922*
+1p p(
+
+10611137*
+1p- p(5
+
+10611122*
+1p p(,
+
+10611337*
+1pK p(T
+
+10611540*
+1p7 p(8
+
+10611722*
+1p8 p(@
+
+10611322*
+1pA p(J
+
+1069237*
+1pg p(y
+
+10611540*
+1pV p(W
+
+10611722*
+1pW p(_
+
+1069222*
+1p` p(f
+
+10611937*
+1r r(
+
+10611922*
+1r	 r(
+
+106622*
+1t t(
+
+1066103*
+1t t(
+
+10676103*
+1w	 w(
+
+10612194*
+1w w(/
+
+10673103*
+1w	 w(
+
+1067622*
+1w	 w(
+
+10673103*
+1w	 w(
+
+1064622*
+1w0 w(D
+
+10643103*
+1w0 w(D
+
+10676103*
+1x	 x(
+
+10612394*
+1x x(4
+
+10673103*
+1x	 x(
+
+1067622*
+1x	 x(
+
+10673103*
+1x	 x(
+
+1065122*
+1x5 x(N
+
+10648103*
+1x5 x(N
+
+10673103*
+1} }((
+
+1067622*
+1} }((
+
+10673103*
+1} }((
+
+10673103*
+1~ ~((
+
+1067622*
+1~ ~((
+
+10673103*
+1~ ~((
+
+10673103*
+1 ((
+
+1067622*
+1 ((
+
+10673103*
+1 ((
+
+10673103*
+1‚ ‚(
+
+1067622*
+1‚ ‚(
+
+10673103*
+1‚ ‚(
+
+10628103*
+1‚C ‚(V
+
+10611322*
+1… …(
+
+10673103*
+1… …($
+
+1067622*
+1… …($
+
+10673103*
+1… …($
+
+10673103*
+1…2 …(@
+
+1067622*
+1…2 …(@
+
+10673103*
+1…2 …(@
+
+1066122*
+1†@ †(O
+
+10658103*
+1†@ †(O
+
+1066622*
+1†Q †(`
+
+10663103*
+1†Q †(`
+
+1066103*
+1ˆ	 ˆ($
+
+10612594*
+1ˆ	 ˆ($
+
+1276103*
+1	 (
+
+12710422*
+1	 (
+
+1276103*
+1	 (
+
+1277122*
+1‘ ‘(
+
+12768103*
+1‘ ‘(
+
+12768103*
+1’ ’(
+
+1277122*
+1’ ’(
+
+12768103*
+1’ ’(
+
+1277122*
+1”	 ”(
+
+12768103*
+1”	 ”(
+
+12782103*
+1–	 –(
+
+1278522*
+1–	 –(
+
+12782103*
+1–	 –(
+
+12731103*
+1– –(-
+
+1273522*
+1– –(-
+
+12731103*
+1– –(-
+
+12713037*
+1Ö Ö("
+
+12713022*
+1Ö	 Ö(
+
+12782103*
+1Ù	 Ù(
+
+1278522*
+1Ù	 Ù(
+
+12782103*
+1Ù	 Ù(
+
+127622*
+1âA â(E
+
+1276103*
+1âA â(E
+
+13268103*
+1ç	 ç(
+
+1327122*
+1ç	 ç(
+
+13268103*
+1ç	 ç(
+
+1327122*
+1è	 è(
+
+13268103*
+1è	 è(
+
+13282103*
+1ê	 ê(
+
+1328522*
+1ê	 ê(
+
+13282103*
+1ê	 ê(
+
+1326103*
+1î	 î(
+
+13210422*
+1î	 î(
+
+1326103*
+1î	 î(
+
+12553103*
+1õ õ(
+
+1255622*
+1õ õ(
+
+12553103*
+1õ õ(
+
+12553103*
+1õ2 õ(>
+
+1255622*
+1õ2 õ(>
+
+12553103*
+1õ2 õ(>
+
+12573103*
+1ö ö(
+
+1257622*
+1ö ö(
+
+12573103*
+1ö ö(
+
+125136103*
+1÷ ÷()
+
+12513894*
+1÷8 ÷(I
+
+12513691*
+1÷ ÷()
+
+125136103*
+1÷ ÷()
+
+12514094*
+1÷* ÷(5
+
+12513622*
+1÷ ÷()
+
+12573103*
+1ø ø(
+
+1257622*
+1ø ø(
+
+12573103*
+1ø ø(
+
+14292102*
+1ý% ý(+
+
+1429237*
+1ý, ý(4
+
+1429222*
+1ý% ý(+
+
+14228103*
+1þ þ(,
+
+14273103*
+1þ. þ(<
+
+1427622*
+1þ. þ(<
+
+14273103*
+1þ. þ(<
+
+1426103*
+1ÿ	 ÿ(
+
+14210422*
+1ÿ	 ÿ(
+
+1426103*
+1ÿ	 ÿ(
+
+14514891*
+1ƒ ƒ(
+
+14514822*
+1ƒ ƒ(
+
+14514891*
+1„ „(!
+
+145150103*
+1„ „(!
+
+14515294*
+1„" „(.
+
+14515022*
+1„ „(!
+
+15473103*
+1‰ ‰(
+
+1547622*
+1‰ ‰(
+
+15473103*
+1‰ ‰(
+
+1546103*
+1 (
+
+15410422*
+1 (
+
+1546103*
+1 (
+
+15716022*
+1’ ’(
+
+16273103*
+1˜ ˜(
+
+1627622*
+1˜ ˜(
+
+16273103*
+1˜ ˜(
+
+16273103*
+1˜O ˜(]
+
+1627622*
+1˜O ˜(]
+
+16273103*
+1˜O ˜(]
+
+16216022*
+1œ œ(
+
+165168102*
+1£- £(5
+
+16516837*
+1£6 £(>
+
+16517040*
+1£$ £(%
+
+16517222*
+1£% £(,
+
+16516822*
+1£- £(5
+
+16511540*
+1£@ £(A
+
+16511722*
+1£A £(I
+
+16511540*
+1£V £(W
+
+16511722*
+1£W £(_
+
+16517422*
+1£e £(i
+
+16511922*
+1£j £(n
+
+16517637*
+1¤ ¤(0
+
+16517622*
+1¤	 ¤(
+
+16517437*
+1¨% ¨()
+
+16517422*
+1¨ ¨(
+
+16511922*
+1¨ ¨(
+
+16523103*
+1¬+ ¬(.

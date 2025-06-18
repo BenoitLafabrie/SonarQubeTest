@@ -1,0 +1,408 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233427276*java2.B´
+U
+Papp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderLarge.java2
+
+package4
+*
+%com.simplecity.amp_library.ui.widgets5
+>
+9com.simplecity.amp_library.ui.widgets.WidgetProviderLarge7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+WidgetProviderLarge12
+0
+*Recovered#typeBindingLBaseWidgetProvider;014
+
+unknown15
+
+extends16
+
+	Singleton18
+
+annotated by19
+'
+!Recovered#typeBindingLSingleton;021
+
+
+uses22
+C
+=com.simplecity.amp_library.ui.widgets.WidgetProviderLarge.TAG24
+
+field25
+
+private26
+	
+TAG27
+S
+Mcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge.ARG_LARGE_LAYOUT_ID29
+
+ARG_LARGE_LAYOUT_ID30
+R
+Lcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge.CMDAPPWIDGETUPDATE32
+
+CMDAPPWIDGETUPDATE33
+I
+Ccom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#<init>()V35
+
+method36
+
+Inject38
+$
+Recovered#typeBindingLInject;040
+
+calls41
+j
+dcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getUpdateCommandString()Ljava/lang/String;43
+
+getUpdateCommandString44
+
+
+references45
+e
+_com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getLayoutIdString()Ljava/lang/String;47
+
+getLayoutIdString48
+T
+Ncom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getWidgetLayoutId()I50
+
+getWidgetLayoutId51
+P
+Jcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getRootViewId()I53
+
+getRootViewId54
+p
+jcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#initialiseWidget(LContext;LSharedPreferences;I)V56
+
+	protected57
+
+initialiseWidget58
+%
+Recovered#typeBindingLContext;060
+
+	has param61
+/
+)Recovered#typeBindingLSharedPreferences;063
+
+is type64
+'
+!Recovered#typeBindingLResources;066
+)
+#Recovered#typeBindingLRemoteViews;068
+’
+‹com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#update(Lcom/simplecity/amp_library/playback/MusicService;LSharedPreferences;[IZ)V70
+
+update71
+6
+0com.simplecity.amp_library.playback.MusicService73
+"
+Recovered#typeBindingLSong;075
+
+
+Song77
+
+returns78
+F
+@com.simplecity.amp_library.playback.MusicService#getSong()LSong;80
+C
+=com.simplecity.amp_library.playback.MusicService#isPlaying()Z82J
+
+1
+12Z
+
+3	
+354jç
+
+59
+596015
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+
+74
+747515
+@
+42:
+424336 *
+1 (26:3B
+	
+9
+10
+
+
+11
+44
+@
+34:
+343536 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+76
+767715
+@
+69:
+697036 *
+1P P(26:3B
+	
+9
+10
+
+
+11
+71
+
+62
+626315
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+
+67
+676815
+
+37
+373815
+
+13
+131415
+
+39
+394015
+@
+46:
+464736 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+48
+
+81
+818215
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+26
+
+
+11
+27
+@
+49:
+495036 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+51
+
+79
+798015
+
+65
+656615
+
+72
+727315
+
+17
+171815
+
+20
+202115
+@
+55:
+555636 *
+13 3(26:3B
+	
+9
+57
+
+
+11
+58
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+@
+52:
+525336 *
+1. .(26:3B
+	
+9
+10
+
+
+11
+54rÔ
+
+61316*
+1* (<
+
+61719*
+1 (
+
+62022*
+1 (
+
+61322*
+1* (<
+
+343719*
+1 (
+
+343922*
+1 (
+
+34641*
+1 (
+
+423145*
+1! !("
+
+462845*
+1& &(#
+
+555961*
+13% 3(,
+
+556261*
+136 3(G
+
+555964*
+13- 3(4
+
+555922*
+13% 3(,
+
+556264*
+13H 3(Y
+
+556222*
+136 3(G
+
+556564*
+14 4(
+
+556522*
+14 4(
+
+556764*
+15 5( 
+
+556722*
+15 5(
+
+55645*
+1L3 L(@
+
+555241*
+1L3 L(@
+
+697261*
+1P P($
+
+696261*
+1P. P(?
+
+697264*
+1P% P(,
+
+697222*
+1P P($
+
+696264*
+1P@ P(Q
+
+696222*
+1P. P(?
+
+692845*
+1Z2 Z(E
+
+696564*
+1\ \( 
+
+696522*
+1\ \(
+
+696764*
+1] ]($
+
+696722*
+1] ](
+
+697464*
+1d d(
+
+697422*
+1d d(
+
+697678*
+1d d( 
+
+697245*
+1d d( 
+
+697941*
+1d! d((
+
+697245*
+1Œ' Œ(.
+
+698141*
+1Œ/ Œ(8
+
+69645*
+1¯7 ¯(D
+
+695241*
+1¯7 ¯(D

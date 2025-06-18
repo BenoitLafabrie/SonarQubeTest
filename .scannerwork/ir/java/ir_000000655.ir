@@ -1,0 +1,93 @@
+
+
+2int
+falseboolean
+15int
+0.00001double
+
+	3int
+
+0int
+
+1intcolor=) =(2"intother=4 =(="intfindFg=? =(M"booleanminRatio=O =(^"double"(&"$
+> >( *> >(2>  >(!"
+> >("
+>" >('"@*fg&"$
+? ?( *? ?(2?  ?(!"
+? ?("
+?" ?('"ü*bg‘
+Ž
+@ @(:"a
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:Bdouble0
+.
+@ @(F"#dependent-value#:Bboolean"
+@ @(F *@ @(
+"
+A A("i=
+;
+D D($
+lab"#new-object#2Constructor:	Bdouble[]&"$
+E( E(.	 
+*E/ E(02E4 E(5"	
+E1 E(3"
+
+E6 E(8"è*	
+
+
+E E(>"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcolorToLAB(I[D)V2
+colorToLAB:
+Bvoid#
+!
+G G(low"#id#:Bint(
+&
+G G(%high"#array-read#:
+%
+#
+H H(a"#array-read#:
+%
+#
+H% H(+b"#array-read#:
+!
+
+I I(i"#id#:Bint
+I U(	"•*+minRatio+*(bg)*&fg'*#b#*"a"*!findFg!*low1*high0*i/+
+)
+I I("	#binop <#2<:Bboolean"
+I I( @"Š*
+(
+J J(("	#binop +#2+:Bdouble2
+0
+J J(- l"#dependent-value#:Bdouble&"$
+K K(! *K K(2M M("–
+
+V V(92"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatLABToColor(DDD)I2
+LABToColor:"#Bint
+V V(:2"p*
+(
+I" I(,"	#binop -#2-:Bdouble0
+.
+I" I(6"#dependent-value#:Bboolean
+I" I(6"6* "
+I U(	 *I I(8@"‘†
+ƒ
+L L(=$fg"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatLABToColor(DDD)I2
+LABToColor: "#Bint"‘†
+ƒ
+N N(=%bg"[
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatLABToColor(DDD)I2
+LABToColor: "#Bint"œ*)bg(%*'fg$&‘
+Ž
+P P(>*"a
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:')Bdouble0
+.
+P P(I,"#dependent-value#:*+Bboolean&"$
+P P(I, *P P(2R R("0&
+$
+Q Q(-low"#id#: Bdouble"1'
+%
+S S(.high"#id#: Bdouble"7*1low-*0high."/%
+#
+I8 I(;/i"	#binop +#2+:*t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

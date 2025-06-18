@@ -1,0 +1,21 @@
+=this6 6(")com.simplecity.amp_library.model.Playlisttype6 6(""intid6$ 6(+"long$name6- 6(8"java.lang.StringcanEdit6: 6(I"booleancanClear6K 6(["boolean 	canDelete6] 6(n"boolean!	canRename	6p 6(Å"boolean 	canSort
+6É 6(í"boolean"‡&
+$
+7 7(
+"#set-field# type:$
+"
+8 8("#set-field# id:&
+$
+9 9("#set-field# name:)
+'
+: :("#set-field# canEdit:*
+(
+; ;( "#set-field# canClear:+
+)
+< <(""#set-field# canDelete:+
+)
+= =(""#set-field# canRename:)
+'
+> >("#set-field# canSort:	
+
+? ?(*k/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.java

@@ -1,0 +1,876 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233433541*java2.Bë
+T
+Oapp/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+=
+8com.simplecity.amp_library.utils.InputMethodManagerLeaks7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InputMethodManagerLeaks12
+O
+Icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner14
+
+	protected15
+
+ReferenceCleaner16
+*
+$Recovered#typeBindingLMessageQueue;018
+
+unknown19
+
+
+implements20
+"
+Recovered#typeBindingLView;022
+.
+(Recovered#typeBindingLViewTreeObserver;024
+
+
+uses25
+b
+\com.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.inputMethodManager27
+
+field28
+
+private29
+
+inputMethodManager30
+
+InputMethodManager32
+
+is type33
+W
+Qcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.mHField35
+
+mHField36
+`
+Zcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.mServedViewField38
+
+mServedViewField39
+g
+acom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner.finishInputLockedMethod41
+
+finishInputLockedMethod42
+º
+³com.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#<init>(LInputMethodManager;Ljava/lang/reflect/Field;Ljava/lang/reflect/Field;Ljava/lang/reflect/Method;)V44
+
+method45
+0
+*Recovered#typeBindingLInputMethodManager;047
+
+	has param48
+
+calls49
+
+
+references50
+s
+mcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onGlobalFocusChanged(LView;LView;)V52
+
+onGlobalFocusChanged53
+o
+icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onViewAttachedToWindow(LView;)V55
+
+onViewAttachedToWindow56
+q
+kcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#onViewDetachedFromWindow(LView;)V58
+
+onViewDetachedFromWindow59
+\
+Vcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#queueIdle()Z61
+
+	queueIdle62
+n
+hcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#clearInputMethodManagerLeak()V64
+!
+clearInputMethodManagerLeak65
+&
+ Recovered#typeBindingLActivity;067
+
+Activity69
+
+returns70
+t
+ncom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#extractActivity(LContext;)LActivity;72
+
+extractActivity73
+%
+Recovered#typeBindingLContext;075
+)
+#Recovered#typeBindingLApplication;077
+,
+&Recovered#typeBindingLContextWrapper;079
+a
+[com.simplecity.amp_library.utils.InputMethodManagerLeaks#fixFocusedViewLeak(LApplication;)V81
+
+fixFocusedViewLeak82
+
+SuppressLint84
+
+annotated by85
+*
+$Recovered#typeBindingLSuppressLint;087
+@
+:com.simplecity.amp_library.utils.InputMethodManagerLeaks$189
+g
+acom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityCreated(LActivity;LBundle;)V91
+
+onActivityCreated92
+$
+Recovered#typeBindingLBundle;094
+_
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityStarted(LActivity;)V96
+
+onActivityStarted97
+_
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityResumed(LActivity;)V99
+
+onActivityResumed100
+_
+Xcom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityPaused(LActivity;)V102
+
+onActivityPaused103
+`
+Ycom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityStopped(LActivity;)V105
+
+onActivityStopped106
+r
+kcom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivitySaveInstanceState(LActivity;LBundle;)V108
+"
+onActivitySaveInstanceState109
+b
+[com.simplecity.amp_library.utils.InputMethodManagerLeaks$1#onActivityDestroyed(LActivity;)V111
+
+onActivityDestroyed112J
+
+1
+12Z
+
+3	
+354jÑ
+
+74
+747519
+
+46
+464719
+
+68
+686919
+
+31
+313219
+
+76
+767719
+9
+64
+678 *
+1 (%:3B
+	
+9
+10
+
+
+11
+12
+B
+80<
+808145 *
+1‘ ‘(26:3B
+	
+9
+10
+
+
+11
+82
+
+66
+666719
+A
+26;
+262728 *
+1 	  (213:3B
+	
+9
+29
+
+
+11
+30
+A
+54;
+545545 *
+19	 9(
+213:3B
+	
+9
+10
+
+
+11
+56
+
+78
+787919
+
+21
+212219
+A
+37;
+373828 *
+1"	 "(213:3B
+	
+9
+29
+
+
+11
+39
+A
+63;
+636445 *
+1J	 J(213:3B
+	
+9
+29
+
+
+11
+65
+C
+95=
+959645 *
+1´ ´(288:3B
+	
+9
+10
+
+
+11
+97
+
+17
+171819
+A
+71;
+717245 *
+1s	 s(213:3B
+	
+9
+29
+
+
+11
+73
+G
+107@
+10710845 *
+1Í Í(288:3B
+	
+9
+10
+
+11
+109
+A
+60;
+606145 *
+1D	 D(
+213:3B
+	
+9
+10
+
+
+11
+62
+D
+98>
+989945 *
+1¾ ¾(288:3B
+	
+9
+10
+
+11
+100
+6
+880
+88898 *
+1®e ®(f280:3B
+	
+9
+15
+A
+34;
+343528 *
+1!	 !(213:3B
+	
+9
+29
+
+
+11
+36
+G
+101@
+10110245 *
+1Ã Ã(288:3B
+	
+9
+10
+
+11
+103
+?
+139
+13148 *
+1 ("26:3B
+	
+9
+15
+
+
+11
+16
+G
+104@
+10410545 *
+1È È(288:3B
+	
+9
+10
+
+11
+106
+A
+43;
+434445 *
+1%	 %(213:3B
+	
+9
+15
+
+
+11
+16
+A
+40;
+404128 *
+1#	 #(213:3B
+	
+9
+29
+
+
+11
+42
+
+93
+939419
+G
+110@
+11011145 *
+1Ò Ò(288:3B
+	
+9
+10
+
+11
+112
+A
+57;
+575845 *
+1=	 =(
+213:3B
+	
+9
+10
+
+
+11
+59
+
+86
+868719
+
+23
+232419
+
+83
+838419
+A
+51;
+515245 *
+1-	 -(
+213:3B
+	
+9
+10
+
+
+11
+53
+C
+90=
+909145 *
+1¯ ¯(288:3B
+	
+9
+10
+
+
+11
+92r×
+
+131720*
+1 ($
+
+132120*
+12 (6
+
+132320*
+1 (
+
+131725*
+1 ($
+
+131725*
+1% (0
+
+132125*
+12 (6
+
+132125*
+17 (R
+
+132325*
+1 (
+
+132325*
+1 (9
+
+263133*
+1   ()
+
+263125*
+1   ()
+
+263125*
+1 *  (<
+
+434648*
+1% %(,
+
+431349*
+1%	 %(
+
+434633*
+1%- %(?
+
+434625*
+1% %(,
+
+431325*
+1' '(
+
+431350*
+1' '(
+
+433125*
+1' '($
+
+432650*
+1' '($
+
+431325*
+1( ((
+
+431350*
+1( ((
+
+433450*
+1( ((
+
+431325*
+1) )(
+
+431350*
+1) )(
+
+433750*
+1) )("
+
+431325*
+1* *(
+
+431350*
+1* *(
+
+434050*
+1* *()
+
+512148*
+1.* .(.
+
+512148*
+1.9 .(=
+
+512133*
+1./ .(7
+
+512125*
+1.* .(.
+
+512133*
+1.> .(F
+
+512125*
+1.9 .(=
+
+511325*
+13< 3(@
+
+511350*
+13< 3(@
+
+511325*
+150 5(4
+
+511350*
+150 5(4
+
+511325*
+165 6(9
+
+511350*
+165 6(9
+
+542148*
+1:, :(0
+
+542133*
+1:1 :(2
+
+542125*
+1:, :(0
+
+572148*
+1>. >(2
+
+572133*
+1>3 >(4
+
+572125*
+1>. >(2
+
+571325*
+1?1 ?(5
+
+571350*
+1?1 ?(5
+
+571325*
+1@0 @(4
+
+571350*
+1@0 @(4
+
+571325*
+1A- A(1
+
+571350*
+1A- A(1
+
+601350*
+1F F((
+
+606349*
+1F F((
+
+633450*
+1L% L(,
+
+633450*
+1L% L(,
+
+633125*
+1L1 L(C
+
+632650*
+1L1 L(C
+
+632133*
+1P P($
+
+632125*
+1P P(
+
+632125*
+1P( P(,
+
+633750*
+1P. P(>
+
+633750*
+1P. P(>
+
+633125*
+1PC P(U
+
+632650*
+1PC P(U
+
+631325*
+1ZJ Z(N
+
+631350*
+1ZJ Z(N
+
+631325*
+1[G [(K
+
+631350*
+1[G [(K
+
+636633*
+1^& ^(.
+
+636625*
+1^ ^(%
+
+636870*
+1^1 ^(@
+
+631350*
+1^1 ^(@
+
+637149*
+1^1 ^(@
+
+634050*
+1a! a(8
+
+634050*
+1a! a(8
+
+633125*
+1a@ a(R
+
+632650*
+1a@ a(R
+
+632133*
+1c& c(/
+
+632125*
+1c! c(%
+
+634050*
+1f% f(<
+
+634050*
+1f% f(<
+
+633125*
+1fD f(V
+
+632650*
+1fD f(V
+
+716870*
+1s s(
+
+717448*
+1s* s(1
+
+716825*
+1s s(
+
+717433*
+1s2 s(9
+
+717425*
+1s* s(1
+
+717625*
+1u( u(3
+
+716625*
+1w/ w(7
+
+716625*
+1x x(%
+
+717825*
+1y/ y(=
+
+717433*
+1z z((
+
+717425*
+1z z(
+
+717825*
+1z- z(;
+
+807648*
+1’+ ’(6
+
+808385*
+1‘ ‘(
+
+808625*
+1‘ ‘(
+
+807633*
+1’7 ’(B
+
+807625*
+1’+ ’(6
+
+804633*
+1™" ™(4
+
+804625*
+1™ ™(!
+
+804625*
+1š š($
+
+804625*
+1¡  ¡(2
+
+804625*
+1£ £()
+
+804625*
+1¥' ¥(9
+
+804625*
+1§ §(/
+
+802125*
+1§S §(W
+
+807625*
+1®< ®(G
+
+906648*
+1°+ °(3
+
+909348*
+1°> °(D
+
+906633*
+1°4 °(<
+
+906625*
+1°+ °(3
+
+909333*
+1°E °(W
+
+909325*
+1°> °(D
+
+956648*
+1µ+ µ(3
+
+956633*
+1µ4 µ(<
+
+956625*
+1µ+ µ(3
+
+951333*
+1¶" ¶()
+
+951325*
+1¶ ¶(!
+
+951350*
+1¶ ¶(!
+
+951349*
+1· ·(-
+
+952133*
+1¹ ¹(
+
+952125*
+1¹ ¹(
+
+952333*
+1º" º(2
+
+952325*
+1º º(!
+
+986648*
+1¿+ ¿(3
+
+986633*
+1¿4 ¿(<
+
+986625*
+1¿+ ¿(3
+
+1016648*
+1Ä* Ä(2
+
+1016633*
+1Ä3 Ä(;
+
+1016625*
+1Ä* Ä(2
+
+1046648*
+1É+ É(3
+
+1046633*
+1É4 É(<
+
+1046625*
+1É+ É(3
+
+1076648*
+1Î5 Î(=
+
+1079348*
+1ÎH Î(N
+
+1076633*
+1Î> Î(F
+
+1076625*
+1Î5 Î(=
+
+1079333*
+1ÎO Î(W
+
+1079325*
+1ÎH Î(N
+
+1106648*
+1Ó- Ó(5
+
+1106633*
+1Ó6 Ó(>
+
+1106625*
+1Ó- Ó(5

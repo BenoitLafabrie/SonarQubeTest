@@ -1,0 +1,622 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233423113*java2.B√
+W
+Rapp/src/main/java/com/simplecity/amp_library/ui/modelviews/QueuePagerItemView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+@
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+QueuePagerItemView12
++
+%Recovered#typeBindingLBaseViewModel;014
+
+unknown15
+
+extends16
+
+
+uses17
+L
+Fcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView$ViewHolder19
+
+
+references20
+F
+@com.simplecity.amp_library.ui.modelviews.QueuePagerItemView.song22
+
+field23
+
+
+song24
+
+
+Song26
+
+is type27
+P
+Jcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView.requestManager29
+
+private30
+
+requestManager31
+
+RequestManager33
+Q
+Kcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView.settingsManager35
+
+settingsManager36
+6
+0com.simplecity.amp_library.utils.SettingsManager38
+î
+çcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#<init>(LSong;LRequestManager;Lcom/simplecity/amp_library/utils/SettingsManager;)V40
+
+method41
+"
+Recovered#typeBindingLSong;043
+
+	has param44
+,
+&Recovered#typeBindingLRequestManager;046
+
+calls47
+P
+Jcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#getViewType()I49
+
+getViewType50
+S
+Mcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#getLayoutResId()I52
+
+getLayoutResId53
+®
+°com.simplecity.amp_library.ui.modelviews.QueuePagerItemView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/QueuePagerItemView$ViewHolder;55
+
+createViewHolder56
+
+returns57
+'
+!Recovered#typeBindingLViewGroup;059
+ñ
+ècom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/QueuePagerItemView$ViewHolder;)V61
+
+bindView62
+
+BaseViewModel64
+
+	ImageView66
+V
+Pcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView$ViewHolder.imageView68
+
+
+ViewHolder69
+,
+&Recovered#typeBindingLBaseViewHolder;071
+
+	protected72
+
+	imageView73
+\
+Vcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView$ViewHolder#<init>(LView;)V75
+"
+Recovered#typeBindingLView;077
+W
+Qcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView$ViewHolder#recycle()V79
+
+recycle80
+
+BaseViewHolder82
+]
+Wcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#equals(Ljava/lang/Object;)Z84
+
+equals85
+M
+Gcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#hashCode()I87
+
+hashCode88J
+
+1
+12Z
+
+3	
+354j…	
+A
+78;
+787941 *
+1A	 A(
+218:3B
+	
+9
+10
+
+
+11
+80
+@
+48:
+484941 *
+1 (26:3B
+	
+9
+10
+
+
+11
+50
+?
+189
+18198 *
+17 7(#26:3B
+	
+9
+10
+
+
+11
+69
+
+42
+424315
+
+58
+585915
+
+25
+252615
+@
+28:
+282923 *
+1 (26:3B
+	
+9
+30
+
+
+11
+31
+
+32
+323315
+@
+34:
+343523 *
+1 (26:3B
+	
+9
+30
+
+
+11
+36
+
+76
+767715
+@
+86:
+868741 *
+1S S(26:3B
+	
+9
+10
+
+
+11
+88
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+A
+67;
+676823 *
+19	 9(218:3B
+	
+9
+72
+
+
+11
+73
+A
+74;
+747541 *
+1;	 ;(218:3B
+	
+9
+10
+
+
+11
+69
+
+65
+656615
+@
+60:
+606141 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+62
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+
+81
+818215
+@
+83:
+838441 *
+1I I(26:3B
+	
+9
+10
+
+
+11
+85
+@
+39:
+394041 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+51:
+515241 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+53
+
+70
+707115
+
+37
+373815
+
+63
+636415
+
+45
+454615
+@
+54:
+545541 *
+1' '(26:3B
+	
+9
+10
+
+
+11
+56
+
+13
+131415rè
+
+61316*
+1) (6
+
+61317*
+1) (6
+
+61817*
+1J (T
+
+61820*
+1J (T
+
+212527*
+1 (
+
+212517*
+1 (
+
+212517*
+1 (
+
+283227*
+1 (
+
+283217*
+1 (
+
+283217*
+1 (*
+
+343727*
+1 (
+
+343717*
+1 (
+
+343717*
+1 (,
+
+394244*
+1 (#
+
+394544*
+1* (8
+
+393744*
+1I (X
+
+39647*
+1 (
+
+394227*
+1$ ((
+
+394217*
+1 (#
+
+394527*
+19 (G
+
+394517*
+1* (8
+
+393727*
+1Y (h
+
+393717*
+1I (X
+
+39617*
+1	 (
+
+39620*
+1	 (
+
+392517*
+1 (
+
+392120*
+1 (
+
+39617*
+1	 (
+
+39620*
+1	 (
+
+393217*
+1 (
+
+392820*
+1 (
+
+39617*
+1	 (
+
+39620*
+1	 (
+
+393717*
+1 (
+
+393420*
+1 (
+
+541857*
+1( ((
+
+545844*
+1(( ((1
+
+541817*
+1( ((
+
+541820*
+1( ((
+
+545827*
+1(2 ((8
+
+545817*
+1(( ((1
+
+541847*
+1) )(
+
+601844*
+1- -($
+
+601827*
+1-% -(+
+
+601817*
+1- -($
+
+601820*
+1- -($
+
+60620*
+1.	 .(
+
+606317*
+1.	 .(
+
+60620*
+1.	 .(
+
+602820*
+10	 0(
+
+603217*
+10	 0(
+
+602820*
+10	 0(
+
+602517*
+11 1(
+
+602120*
+11 1(
+
+602517*
+13m 3(q
+
+602120*
+13m 3(q
+
+603717*
+13~ 3(ç
+
+603420*
+13~ 3(ç
+
+606517*
+14 4('
+
+606720*
+14 4('
+
+187016*
+17, 7(:
+
+187017*
+17, 7(:
+
+18617*
+17; 7(M
+
+676527*
+19	 9(
+
+676517*
+19	 9(
+
+676517*
+19 9(
+
+747644*
+1; ;(
+
+741847*
+1; ;(
+
+747627*
+1;  ;((
+
+747617*
+1; ;(
+
+746517*
+1> >(
+
+746720*
+1> >(
+
+781820*
+1C C(
+
+788117*
+1C C(
+
+781820*
+1C C(
+
+786517*
+1E E("
+
+786720*
+1E E("
+
+83617*
+1K K(
+
+83620*
+1K K(
+
+83627*
+1N N( 
+
+83617*
+1N	 N(
+
+83617*
+1N$ N(6
+
+832517*
+1P P(
+
+832120*
+1P P(
+
+832120*
+1P P(#
+
+832517*
+1P P(#
+
+832120*
+1P P(#
+
+832517*
+1P0 P(4
+
+832120*
+1P0 P(4
+
+832517*
+1P= P(A
+
+832120*
+1P= P(A
+
+862517*
+1U U(
+
+862120*
+1U U(
+
+862120*
+1U U(#
+
+862517*
+1U U(#
+
+862120*
+1U U(#

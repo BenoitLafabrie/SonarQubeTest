@@ -1,0 +1,567 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233433746*java2.Bõ
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/SleepTimer.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+0
++com.simplecity.amp_library.utils.SleepTimer7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+SleepTimer12
+5
+/com.simplecity.amp_library.utils.SleepTimer.TAG14
+
+field15
+
+private16
+	
+TAG17
+:
+4com.simplecity.amp_library.utils.SleepTimer.instance19
+
+instance20
+
+is type21
+
+
+uses22
+:
+4com.simplecity.amp_library.utils.SleepTimer.isActive24
+
+isActive25
+;
+5com.simplecity.amp_library.utils.SleepTimer.playToEnd27
+
+	playToEnd28
+?
+9com.simplecity.amp_library.utils.SleepTimer.timeRemaining30
+
+timeRemaining31
+G
+Acom.simplecity.amp_library.utils.SleepTimer.currentTimeObservable33
+
+currentTimeObservable34
+
+Flowable36
+
+unknown37
+G
+Acom.simplecity.amp_library.utils.SleepTimer.timerActiveObservable39
+
+timerActiveObservable40
+
+BehaviorSubject42
+l
+fcom.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;44
+
+method45
+
+getInstance46
+
+returns47
+
+
+references48
+
+calls49
+;
+5com.simplecity.amp_library.utils.SleepTimer#<init>()V51
+V
+Pcom.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;53
+
+getCurrentTimeObservable54
+Z
+Tcom.simplecity.amp_library.utils.SleepTimer#getTimerActiveSubject()LBehaviorSubject;56
+
+getTimerActiveSubject57
+<
+6com.simplecity.amp_library.utils.SleepTimer#start(IZ)V59
+
+start60
+9
+3com.simplecity.amp_library.utils.SleepTimer#stop()V62
+
+
+stop63
+r
+lcom.simplecity.amp_library.utils.SleepTimer#getDialog(LContext;LUnsafeAction;LUnsafeAction;)LMaterialDialog;65
+
+	getDialog66
+
+MaterialDialog68
+%
+Recovered#typeBindingLContext;070
+
+	has param71
+*
+$Recovered#typeBindingLUnsafeAction;073
+,
+&Recovered#typeBindingLMaterialDialog;075
+]
+Wcom.simplecity.amp_library.utils.SleepTimer#showMinutesDialog(LContext;LUnsafeAction;)V77
+
+showMinutesDialog78
+"
+Recovered#typeBindingLView;080
+
+SuppressLint82
+
+annotated by83
+*
+$Recovered#typeBindingLSuppressLint;085
+&
+ Recovered#typeBindingLEditText;087J
+
+1
+12Z
+
+3	
+354jã	
+
+69
+697037
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+55:
+555645 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+57
+@
+38:
+383915 *
+1" "(26:3B
+	
+9
+16
+
+
+11
+40
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+31
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+64:
+646545 *
+1S S(26:3B
+	
+9
+10
+
+
+11
+66
+
+79
+798037
+@
+61:
+616245 *
+1N N(26:3B
+	
+9
+10
+
+
+11
+63
+@
+52:
+525345 *
+1@ @(26:3B
+	
+9
+10
+
+
+11
+54
+
+41
+414237
+
+67
+676837
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+26:
+262715 *
+1 (26:3B
+	
+9
+10
+
+
+11
+28
+
+72
+727337
+B
+76<
+767745 *
+1€ €(26:3B
+	
+9
+10
+
+
+11
+78
+@
+50:
+505145 *
+1+ +(26:3B
+	
+9
+16
+
+
+11
+12
+@
+58:
+585945 *
+1H H(26:3B
+	
+9
+10
+
+
+11
+60
+
+84
+848537
+
+81
+818237
+@
+23:
+232415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+25
+
+74
+747537
+@
+32:
+323315 *
+1   (26:3B
+	
+9
+16
+
+
+11
+34
+@
+43:
+434445 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+46
+
+86
+868737
+
+35
+353637rŽ
+
+18621*
+1 (
+
+18622*
+1 (
+
+18622*
+1 ('
+
+323521*
+1   (
+
+323522*
+1   (
+
+323522*
+1   (1
+
+384121*
+1" "(
+
+384122*
+1" "(
+
+384122*
+1"& "(;
+
+43647*
+1$ $(
+
+43622*
+1$ $(
+
+43622*
+1% %(
+
+431848*
+1% %(
+
+43622*
+1& &(
+
+431848*
+1& &(
+
+43649*
+1& &(&
+
+43622*
+1( ((
+
+431848*
+1( ((
+
+50649*
+1+ +(
+
+504122*
+1-	 -(
+
+503848*
+1-	 -(
+
+503522*
+1/	 /(
+
+503248*
+1/	 /(
+
+503848*
+1/! /(6
+
+504122*
+1/! /(6
+
+503848*
+1/! /(6
+
+50622*
+10' 0(+
+
+50648*
+10' 0(+
+
+523547*
+1@ @(
+
+523522*
+1@ @(
+
+523522*
+1A A(%
+
+523248*
+1A A(%
+
+554147*
+1D D(
+
+554122*
+1D D(
+
+554122*
+1E E(%
+
+553848*
+1E E(%
+
+58622*
+1I	 I(
+
+58648*
+1I	 I(
+
+582948*
+1I I(
+
+58622*
+1J	 J(
+
+58648*
+1J	 J(
+
+582648*
+1J J(
+
+583848*
+1K	 K(
+
+584122*
+1K	 K(
+
+583848*
+1K	 K(
+
+612348*
+1O	 O(
+
+613848*
+1P	 P(
+
+614122*
+1P	 P(
+
+613848*
+1P	 P(
+
+646747*
+1S S(
+
+646971*
+1S% S(,
+
+647271*
+1S6 S(B
+
+647271*
+1SV S(b
+
+646722*
+1S S(
+
+646921*
+1S- S(4
+
+646922*
+1S% S(,
+
+647221*
+1SC S(T
+
+647222*
+1S6 S(B
+
+647221*
+1Sc S(o
+
+647222*
+1SV S(b
+
+642348*
+1U U(
+
+647422*
+1V V(&
+
+647422*
+1] ](&
+
+766971*
+1€# €(*
+
+767271*
+1€4 €(@
+
+766921*
+1€+ €(2
+
+766922*
+1€# €(*
+
+767221*
+1€A €(M
+
+767222*
+1€4 €(@
+
+767921*
+1ƒ ƒ(
+
+768183*
+1‚	 ‚(
+
+
+768422*
+1‚
+ ‚(
+
+767922*
+1ƒ	 ƒ(
+
+768621*
+1… …(
+
+768622*
+1…	 …(
+
+767422*
+1‡ ‡(

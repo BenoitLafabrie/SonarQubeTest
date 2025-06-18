@@ -1,0 +1,293 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233433325*java2.Bè
+L
+Gapp/src/main/java/com/simplecity/amp_library/model/ArtworkProvider.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+5
+0com.simplecity.amp_library.model.ArtworkProvider7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+ArtworkProvider12
+;
+5com.simplecity.amp_library.model.ArtworkProvider$Type14
+
+
+annotation15
+
+
+Type16
+G
+Acom.simplecity.amp_library.model.ArtworkProvider$Type.MEDIA_STORE18
+
+field19
+
+MEDIA_STORE20
+?
+9com.simplecity.amp_library.model.ArtworkProvider$Type.TAG22
+	
+TAG23
+B
+<com.simplecity.amp_library.model.ArtworkProvider$Type.FOLDER25
+
+FOLDER26
+B
+<com.simplecity.amp_library.model.ArtworkProvider$Type.REMOTE28
+
+REMOTE29
+X
+Rcom.simplecity.amp_library.model.ArtworkProvider#getArtworkKey()Ljava/lang/String;31
+
+method32
+
+getArtworkKey33
+
+NonNull35
+
+unknown36
+
+annotated by37
+%
+Recovered#typeBindingLNonNull;039
+
+
+uses40
+^
+Xcom.simplecity.amp_library.model.ArtworkProvider#getRemoteArtworkUrl()Ljava/lang/String;42
+
+getRemoteArtworkUrl43
+
+Nullable45
+&
+ Recovered#typeBindingLNullable;047
+k
+ecom.simplecity.amp_library.model.ArtworkProvider#getMediaStoreArtwork(LContext;)Ljava/io/InputStream;49
+
+getMediaStoreArtwork50
+%
+Recovered#typeBindingLContext;052
+
+	has param53
+
+is type54
+^
+Xcom.simplecity.amp_library.model.ArtworkProvider#getFolderArtwork()Ljava/io/InputStream;56
+
+getFolderArtwork57
+[
+Ucom.simplecity.amp_library.model.ArtworkProvider#getTagArtwork()Ljava/io/InputStream;59
+
+getTagArtwork60
+^
+Xcom.simplecity.amp_library.model.ArtworkProvider#getFolderArtworkFiles()Ljava/util/List;62
+
+getFolderArtworkFiles63J
+
+1
+12Z
+
+3	
+354j˘
+
+51
+515236
+@
+30:
+303132 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+A
+27;
+272819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+29
+@
+55:
+555632 *
+1 (26:3B
+	
+9
+10
+
+
+11
+57
+@
+61:
+616232 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+63
+9
+64
+678 *
+1
+ 
+(!:3B
+	
+9
+10
+
+
+11
+12
+A
+24;
+242519 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+26
+@
+58:
+585932 *
+1 (26:3B
+	
+9
+10
+
+
+11
+60
+
+46
+464736
+@
+48:
+484932 *
+1 (26:3B
+	
+9
+10
+
+
+11
+50
+
+34
+343536
+A
+17;
+171819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+20
+A
+21;
+212219 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+23
+
+38
+383936
+
+44
+444536
+@
+41:
+414232 *
+1 (26:3B
+	
+9
+10
+
+
+11
+43rï
+
+303437*
+1 (
+
+303840*
+1 (
+
+414437*
+1 (
+
+414640*
+1 (
+
+485153*
+1& (-
+
+484437*
+1 (
+
+484640*
+1 (
+
+485154*
+1. (5
+
+485140*
+1& (-
+
+554437*
+1 (
+
+554640*
+1 (
+
+584437*
+1 (
+
+584640*
+1 (
+
+614437*
+1" "(
+
+614640*
+1" "(

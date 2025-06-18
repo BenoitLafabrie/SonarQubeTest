@@ -1,0 +1,161 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233432506*java2.B 	
+^
+Yapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java2
+
+package4
+*
+%com.simplecity.amp_library.ui.widgets5
+G
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+"
+WidgetConfigureActivityLarge12
+9
+3Recovered#typeBindingLBaseWidgetConfigureActivity;014
+
+unknown15
+
+extends16
+
+
+uses17
+L
+Fcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge.TAG19
+
+field20
+
+private21
+	
+TAG22
+]
+Wcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getWidgetLayouts()[I24
+
+method25
+
+	protected26
+
+getWidgetLayouts27
+n
+hcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getLayoutIdString()Ljava/lang/String;29
+
+getLayoutIdString30
+s
+mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getUpdateCommandString()Ljava/lang/String;32
+
+getUpdateCommandString33
+Y
+Scom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getRootViewId()I35
+
+getRootViewId36
+g
+acom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#screenName()Ljava/lang/String;38
+
+
+screenName39
+
+
+references40J
+
+1
+12Z
+
+3	
+354j€
+@
+37:
+373825 *
+1 (26:3B
+	
+9
+26
+
+
+11
+39
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+26
+
+
+11
+33
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+9
+64
+678 *
+1 (*:3B
+	
+9
+10
+
+
+11
+12
+@
+34:
+343525 *
+1 (26:3B
+	
+9
+26
+
+
+11
+36
+@
+23:
+232425 *
+1	 	(26:3B
+	
+9
+26
+
+
+11
+27
+
+13
+131415
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+26
+
+
+11
+30rO
+
+61316*
+13 (N
+
+61317*
+13 (N
+
+371840*
+1 (

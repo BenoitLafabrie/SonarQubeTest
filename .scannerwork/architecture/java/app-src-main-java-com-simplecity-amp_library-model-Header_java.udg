@@ -1,0 +1,167 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233437733*java2.Bˆ
+C
+>app/src/main/java/com/simplecity/amp_library/model/Header.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+,
+'com.simplecity.amp_library.model.Header7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Header12
+3
+-com.simplecity.amp_library.model.Header.title14
+
+field15
+
+title16
+I
+Ccom.simplecity.amp_library.model.Header#<init>(Ljava/lang/String;)V18
+
+method19
+
+calls20
+
+
+uses21
+
+
+references22
+I
+Ccom.simplecity.amp_library.model.Header#equals(Ljava/lang/Object;)Z24
+
+equals25
+
+is type26
+9
+3com.simplecity.amp_library.model.Header#hashCode()I28
+
+hashCode29J
+
+1
+12Z
+
+3	
+354j√
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+17:
+171819 *
+1	 	(26:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+@
+23:
+232419 *
+1 (26:3B
+	
+9
+10
+
+
+11
+25
+@
+27:
+272819 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29r√
+
+17620*
+1	 	(
+
+17621*
+1
+	 
+(
+
+17622*
+1
+	 
+(
+
+171322*
+1
+ 
+(
+
+23621*
+1 (
+
+23622*
+1 (
+
+23626*
+1 (
+
+23621*
+1	 (
+
+23621*
+1 ( 
+
+231322*
+1 (
+
+231322*
+1  (%
+
+231322*
+1  (%
+
+231322*
+14 (9
+
+231322*
+1D (I
+
+271322*
+1 (
+
+271322*
+1  (%
+
+271322*
+1  (%

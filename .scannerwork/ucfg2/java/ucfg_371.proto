@@ -1,0 +1,57 @@
+
+Hcom.simplecity.amp_library.model.Album#getArtworkKey()Ljava/lang/String;t
+h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java… …("3*≥
+2
+    (-ú
+ô
+
+    (/
+
+%2void"7com.simplecity.amp_library.model.Album#setArtworkKey()V*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album*
+1*ù
+3
+   (Ö
+Ç
+
+   (
+%0java.lang.String"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Album"
+
+artworkKey|
+z
+
+   (
+%1boolean"	__compare*
+
+   (
+==*&
+
+   (
+
+%0java.lang.String*
+
+   (
+""*
+2
+1*ø
+1
+À À(Ö
+Ç
+
+À À(
+%3java.lang.String"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Album"
+
+artworkKey"&
+
+À À(
+
+%3java.lang.StringB*(
+&com.simplecity.amp_library.model.AlbumH

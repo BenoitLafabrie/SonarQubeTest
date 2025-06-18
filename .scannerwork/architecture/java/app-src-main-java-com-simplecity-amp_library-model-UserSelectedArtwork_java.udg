@@ -1,0 +1,175 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233431168*java2.Bß
+P
+Kapp/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+9
+4com.simplecity.amp_library.model.UserSelectedArtwork7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+UserSelectedArtwork12
+?
+9com.simplecity.amp_library.model.UserSelectedArtwork.type14
+
+field15
+
+
+type16
+
+ArtworkProvider.Type18
+
+unknown19
+
+annotated by20
+-
+'Recovered#typeBindingLArtworkProvider;022
+
+
+uses23
+?
+9com.simplecity.amp_library.model.UserSelectedArtwork.path25
+
+
+path26
+W
+Qcom.simplecity.amp_library.model.UserSelectedArtwork#<init>(ILjava/lang/String;)V28
+
+method29
+
+calls30
+
+
+references31
+W
+Qcom.simplecity.amp_library.model.UserSelectedArtwork#toString()Ljava/lang/String;33
+
+toString34J
+
+1
+12Z
+
+3	
+354jÎ
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+17
+171819
+@
+32:
+323329 *
+1 (26:3B
+	
+9
+10
+
+
+11
+34
+@
+27:
+272829 *
+1	 	(26:3B
+	
+9
+10
+
+
+11
+12
+
+21
+212219
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26rê
+
+131720*
+1 (
+
+132123*
+1 (
+
+132123*
+1 (
+
+27630*
+1	 	(
+
+271720*
+1	  	(!
+
+272123*
+1	! 	(0
+
+272123*
+1	1 	(5
+
+27623*
+1
+	 
+(
+
+27631*
+1
+	 
+(
+
+271331*
+1
+ 
+(
+
+27623*
+1	 (
+
+27631*
+1	 (
+
+272431*
+1 (
+
+321331*
+1 (
+
+322431*
+1 ("

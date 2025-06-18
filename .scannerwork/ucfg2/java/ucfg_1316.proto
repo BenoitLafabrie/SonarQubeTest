@@ -1,0 +1,86 @@
+
+Ecom.simplecity.amp_library.playback.PlaybackManager#recentlyPlayed()ZÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.javañ ñ("3*¡
+2
+ó ó($s
+q
+
+ó ó(8
+
+%1long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+ó ó(I
+
+%2long"__calculate*
+
+ó9 ó(:
+-*
+
+ó ó(8
+
+
+%1long*
+
+ó; ó(I
+""c
+a
+
+óL ó(R	
+%3int"__calculate*
+
+óN ó(O
+**
+
+óL ó(M2*
+
+óP ó(R2<k
+i
+
+óL ó(Y	
+%4int"__calculate*
+
+óS ó(T
+**
+
+óL ó(R
+	
+%3int*
+
+óU ó(Y2Ët
+r
+
+ó ó(Y
+%5boolean"	__compare*
+
+óJ ó(K
+<*
+
+ó ó(I
+
+
+%2long*
+
+óL ó(Y
+	
+%4int*
+1*‹
+3
+ó ó(¬ø
+
+ó ó(
+%0boolean"@com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z*S
+
+__unknown_file (75
+3com.simplecity.amp_library.playback.PlaybackManager2isPlaying()*
+2
+1*%
+1
+ó ó(g"
+
+ó ó(g
+""B75
+3com.simplecity.amp_library.playback.PlaybackManagerX

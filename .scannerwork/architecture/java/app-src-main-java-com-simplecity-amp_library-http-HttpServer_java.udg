@@ -1,0 +1,673 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440891*java2.BŠ
+F
+Aapp/src/main/java/com/simplecity/amp_library/http/HttpServer.java2
+
+package4
+$
+com.simplecity.amp_library.http5
+/
+*com.simplecity.amp_library.http.HttpServer7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+HttpServer12
+4
+.com.simplecity.amp_library.http.HttpServer.TAG14
+
+field15
+
+private16
+	
+TAG17
+<
+6com.simplecity.amp_library.http.HttpServer.sHttpServer19
+
+sHttpServer20
+
+is type21
+
+
+uses22
+7
+1com.simplecity.amp_library.http.HttpServer.server24
+
+server25
+;
+5com.simplecity.amp_library.http.HttpServer$NanoServer27
+
+unknown28
+
+
+references29
+A
+;com.simplecity.amp_library.http.HttpServer.audioFileToServe31
+
+audioFileToServe32
+B
+<com.simplecity.amp_library.http.HttpServer.imageBytesToServe34
+
+imageBytesToServe35
+A
+;com.simplecity.amp_library.http.HttpServer.audioInputStream37
+
+audioInputStream38
+A
+;com.simplecity.amp_library.http.HttpServer.imageInputStream40
+
+imageInputStream41
+:
+4com.simplecity.amp_library.http.HttpServer.isStarted43
+
+	isStarted44
+j
+dcom.simplecity.amp_library.http.HttpServer#getInstance()Lcom/simplecity/amp_library/http/HttpServer;46
+
+method47
+
+getInstance48
+
+returns49
+
+calls50
+:
+4com.simplecity.amp_library.http.HttpServer#<init>()V52
+P
+Jcom.simplecity.amp_library.http.HttpServer#serveAudio(Ljava/lang/String;)V54
+
+
+serveAudio55
+@
+:com.simplecity.amp_library.http.HttpServer#serveImage([B)V57
+
+
+serveImage58
+>
+8com.simplecity.amp_library.http.HttpServer#clearImage()V60
+
+
+clearImage61
+9
+3com.simplecity.amp_library.http.HttpServer#start()V63
+
+start64
+8
+2com.simplecity.amp_library.http.HttpServer#stop()V66
+
+
+stop67
+F
+@com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()V69
+F
+@com.simplecity.amp_library.http.HttpServer#cleanupImageStream()V71
+
+
+NanoServer72
+'
+!Recovered#typeBindingLNanoHTTPD;074
+
+extends75
+q
+kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V77
+
+	protected78
+[
+Ucom.simplecity.amp_library.http.HttpServer$NanoServer#serve(LIHTTPSession;)LResponse;80
+
+serve81
+
+Response83
+*
+$Recovered#typeBindingLIHTTPSession;085
+
+	has param86
+&
+ Recovered#typeBindingLResponse;088
+b
+\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;90
+
+cleanupAudioStream91
+
+cleanupImageStream92
+;
+5com.simplecity.amp_library.http.HttpServer.MIME_TYPES94
+
+
+MIME_TYPES95
+2
+,com.simplecity.amp_library.http.HttpServer$197
+
+getMimeType98J
+
+1
+12Z
+
+3	
+354jø
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+33:
+333415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+35
+B
+93<
+939415 *
+1® ®(26:3B
+	
+9
+16
+
+
+11
+95
+@
+51:
+515247 *
+1# #(26:3B
+	
+9
+16
+
+
+11
+12
+
+87
+878828
+@
+45:
+454647 *
+1 (26:3B
+	
+9
+10
+
+
+11
+48
+@
+42:
+424315 *
+1 (26:3B
+	
+9
+16
+
+
+11
+44
+@
+62:
+626347 *
+17 7(26:3B
+	
+9
+10
+
+
+11
+64
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+?
+269
+26278 *
+1K K(26:3B
+	
+9
+16
+
+
+11
+72
+@
+65:
+656647 *
+1B B(26:3B
+	
+9
+10
+
+
+11
+67
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+30:
+303115 *
+1 (26:3B
+	
+9
+16
+
+
+11
+32
+@
+53:
+535447 *
+1' '(26:3B
+	
+9
+10
+
+
+11
+55
+
+84
+848528
+@
+56:
+565747 *
+1- -(26:3B
+	
+9
+10
+
+
+11
+58
+@
+39:
+394015 *
+1 (26:3B
+	
+9
+16
+
+
+11
+41
+@
+59:
+596047 *
+13 3(26:3B
+	
+9
+10
+
+
+11
+61
+@
+36:
+363715 *
+1 (26:3B
+	
+9
+16
+
+
+11
+38
+A
+79;
+798047 *
+1Q	 Q(
+226:3B
+	
+9
+10
+
+
+11
+81
+6
+960
+96978 *
+1®R ®(S293:3B
+	
+9
+78
+B
+68<
+686947 *
+1œ œ(	26:3B
+	
+9
+78
+
+
+11
+91
+@
+23:
+232415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+25
+
+73
+737428
+B
+70<
+707147 *
+1¥ ¥(	26:3B
+	
+9
+78
+
+
+11
+92
+
+82
+828328
+A
+76;
+767747 *
+1M	 M(226:3B
+	
+9
+78
+
+
+11
+72
+B
+89<
+899047 *
+1Ë Ë(26:3B
+	
+9
+78
+
+
+11
+98r×
+
+18621*
+1 (
+
+18622*
+1 (
+
+18622*
+1 (*
+
+232621*
+1 (
+
+232622*
+1 (
+
+232629*
+1 (
+
+232622*
+1 (
+
+45649*
+1 (
+
+45622*
+1 (
+
+45622*
+1 (
+
+451829*
+1 (
+
+45622*
+1 (
+
+451829*
+1 (
+
+45650*
+1 ()
+
+45622*
+1   (
+
+451829*
+1   (
+
+51650*
+1# #(
+
+512622*
+1$	 $(
+
+512329*
+1$	 $(
+
+512650*
+1$ $( 
+
+533029*
+1) )(
+
+563329*
+1/ /(
+
+593329*
+14	 4(
+
+624229*
+18 8(
+
+622329*
+1: :(
+
+622622*
+1: :(
+
+622329*
+1: :(
+
+624229*
+1; ;(
+
+621329*
+1= =(
+
+654229*
+1C C(
+
+652329*
+1D D(
+
+652622*
+1D D(
+
+652329*
+1D D(
+
+654229*
+1E E(
+
+65629*
+1F F(
+
+656850*
+1F F(
+
+65629*
+1G G(
+
+657050*
+1G G(
+
+267375*
+1K& K(/
+
+267322*
+1K& K(/
+
+762650*
+1M	 M(
+
+798249*
+1R R(
+
+798486*
+1R R(+
+
+798222*
+1R R(
+
+798421*
+1R, R(3
+
+798422*
+1R R(+
+
+793029*
+1T T(!
+
+791329*
+1U U(
+
+793029*
+1\* \(:
+
+79629*
+1 (+
+
+796850*
+1 (+
+
+793629*
+1€ €()
+
+793629*
+1 ()
+
+793629*
+1 ()
+
+798721*
+1‚" ‚(*
+
+798722*
+1‚ ‚(!
+
+79629*
+1‚e ‚(p
+
+798950*
+1‚e ‚(p
+
+793029*
+1‚q ‚(
+
+793629*
+1‚„ ‚(”
+
+79629*
+1…< …(G
+
+798950*
+1…< …(G
+
+793029*
+1…H …(X
+
+791329*
+1‹ ‹(
+
+793329*
+1 (&
+
+79629*
+1’ ’(#
+
+797050*
+1’ ’(#
+
+793929*
+1“ “(!
+
+793329*
+1“= “(N
+
+791329*
+1” ”(
+
+793329*
+1”6 ”(G
+
+793929*
+1•P •(`
+
+793329*
+1•b •(s
+
+791329*
+1— —(
+
+683629*
+1 (
+
+683629*
+1Ÿ Ÿ(!
+
+683629*
+1Ÿ Ÿ(!
+
+703929*
+1¦ ¦(
+
+703929*
+1¨ ¨(!
+
+703929*
+1¨ ¨(!
+
+899329*
+1Ì Ì(
+
+899329*
+1Ì Ì(

@@ -1,0 +1,70 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440029*java2.B¦
+]
+Xapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerLockController.java2
+
+package4
+1
+,com.simplecity.amp_library.ui.screens.drawer5
+F
+Acom.simplecity.amp_library.ui.screens.drawer.DrawerLockController7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+DrawerLockController12
+U
+Ocom.simplecity.amp_library.ui.screens.drawer.DrawerLockController#lockDrawer()V14
+
+method15
+
+
+lockDrawer16
+W
+Qcom.simplecity.amp_library.ui.screens.drawer.DrawerLockController#unlockDrawer()V18
+
+unlockDrawer19J
+
+1
+12Z
+
+3	
+354j¿
+9
+64
+678 *
+1 (&:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+16
+@
+17:
+171815 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+19

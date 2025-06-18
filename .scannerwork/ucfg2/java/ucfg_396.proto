@@ -1,0 +1,53 @@
+
+Eandroid.support.design.widget.CustomCollapsingTextHelper#isClose(FF)ZÜ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaÇ Ç(""1*î
+1
+É É(i
+g
+
+É É(+
+%0float"__calculate*
+
+É É(
+-*
+
+É É(
+""*
+
+É  É(+
+""è
+å
+
+É É(,
+%1float"java.lang.Math#abs(F)F*.
+
+__unknown_file ("
+java.lang.Math*)
+
+__unknown_file (
+
+%0floatp
+n
+
+É É(5
+%2boolean"	__compare*
+
+É- É(.
+<*
+
+É É(,
+
+%1float*
+
+É/ É(5
+"""
+
+É É(6
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B<":
+8android.support.design.widget.CustomCollapsingTextHelperX

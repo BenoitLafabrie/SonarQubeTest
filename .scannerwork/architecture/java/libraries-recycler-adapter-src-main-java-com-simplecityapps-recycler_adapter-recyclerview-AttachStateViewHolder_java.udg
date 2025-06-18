@@ -1,0 +1,69 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233418933*java2.Bö
+y
+tlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/AttachStateViewHolder.java2
+
+package4
+5
+0com.simplecityapps.recycler_adapter.recyclerview5
+K
+Fcom.simplecityapps.recycler_adapter.recyclerview.AttachStateViewHolder7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+AttachStateViewHolder12
+b
+\com.simplecityapps.recycler_adapter.recyclerview.AttachStateViewHolder#onAttachedToWindow()V14
+
+method15
+
+onAttachedToWindow16
+d
+^com.simplecityapps.recycler_adapter.recyclerview.AttachStateViewHolder#onDetachedFromWindow()V18
+
+onDetachedFromWindow19J
+
+1
+12Z
+
+3	
+354j¿
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+16
+9
+64
+678 *
+1 (':3B
+	
+9
+10
+
+
+11
+12
+@
+17:
+171815 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+19

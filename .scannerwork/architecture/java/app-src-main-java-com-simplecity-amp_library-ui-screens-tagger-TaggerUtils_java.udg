@@ -1,0 +1,477 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233433158*java2.BÁ
+T
+Oapp/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerUtils.java2
+
+package4
+1
+,com.simplecity.amp_library.ui.screens.tagger5
+=
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+TaggerUtils12
+B
+<com.simplecity.amp_library.ui.screens.tagger.TaggerUtils.TAG14
+
+field15
+
+private16
+	
+TAG17
+H
+Bcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#<init>()V19
+
+method20
+
+calls21
+|
+vcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getDocumentTree(LContext;LSettingsManager;)Ljava/lang/String;23
+
+getDocumentTree24
+%
+Recovered#typeBindingLContext;026
+
+unknown27
+
+	has param28
+-
+'Recovered#typeBindingLSettingsManager;030
+
+	TargetApi32
+
+annotated by33
+'
+!Recovered#typeBindingLTargetApi;035
+
+
+uses36
+
+is type37
++
+%Recovered#typeBindingLUriPermission;039
+ñ
+ècom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z41
+
+	protected42
+
+hasDocumentTreePermission43
+*
+$Recovered#typeBindingLDocumentFile;045
+
+
+references46
+
+DocumentFile48
+
+returns49
+z
+tcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getDocumentFile(LContext;LUri;Ljava/io/File;)LDocumentFile;51
+
+getDocumentFile52
+!
+Recovered#typeBindingLUri;054
+|
+vcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getExtSdCardFolder(LContext;Ljava/io/File;)Ljava/lang/String;56
+
+getExtSdCardFolder57
+n
+hcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#getExtSdCardPaths(LContext;)[Ljava/lang/String;59
+m
+gcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z61
+
+requiresPermission62
+
+getExtSdCardPaths63
+f
+`com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#copyFile(Ljava/io/File;Ljava/io/File;)V65
+
+copyFile66
+r
+lcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#copyFile(Ljava/io/File;Ljava/io/FileOutputStream;)V68
+ä
+Écom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#showChooseDocumentDialog(LContext;LMaterialDialog/SingleButtonCallback;Z)V70
+
+showChooseDocumentDialog71
+,
+&Recovered#typeBindingLMaterialDialog;073J
+
+1
+12Z
+
+3	
+354jœ
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+
+29
+293027
+
+44
+444527
+
+25
+252627
+
+47
+474827
+
+38
+383927
+@
+55:
+555620 *
+1q q(26:3B
+	
+9
+42
+
+
+11
+57
+
+34
+343527
+
+53
+535427
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+B
+60<
+606120 *
+1Ä Ä(26:3B
+	
+9
+42
+
+
+11
+62
+B
+64<
+646520 *
+1™ ™(26:3B
+	
+9
+42
+
+
+11
+66
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+@
+50:
+505120 *
+1N N(26:3B
+	
+9
+42
+
+
+11
+52
+
+72
+727327
+@
+40:
+404120 *
+12 2(26:3B
+	
+9
+42
+
+
+11
+43
+
+31
+313227
+B
+58<
+585920 *
+1ç ç(26:3B
+	
+9
+42
+
+
+11
+63
+B
+67<
+676820 *
+1ƒ ƒ(26:3B
+	
+9
+42
+
+
+11
+66
+B
+69<
+697020 *
+1◊ ◊(26:3B
+	
+9
+42
+
+
+11
+71rÌ
+
+18621*
+1 (
+
+222528*
+1 *  (1
+
+222928*
+1 ;  (J
+
+223133*
+1 (
+
+223436*
+1 (
+
+222537*
+1 2  (9
+
+222536*
+1 *  (1
+
+222937*
+1 K  (Z
+
+222936*
+1 ;  (J
+
+223836*
+1" "(
+
+223837*
+1# #( 
+
+223836*
+1# #(
+
+402528*
+12. 2(5
+
+402928*
+12? 2(N
+
+402537*
+126 2(=
+
+402536*
+12. 2(5
+
+402937*
+12O 2(^
+
+402936*
+12? 2(N
+
+404436*
+12e 2(q
+
+40646*
+16 6()
+
+402221*
+16 6()
+
+404437*
+1@ @(&
+
+404436*
+1@ @(
+
+404749*
+1@) @(8
+
+40646*
+1@) @(8
+
+405021*
+1@) @(8
+
+504749*
+1N N(
+
+502528*
+1N) N(0
+
+505328*
+1N: N(=
+
+504736*
+1N N(
+
+502537*
+1N1 N(8
+
+502536*
+1N) N(0
+
+505337*
+1N> N(E
+
+505336*
+1N: N(=
+
+50646*
+1O O(/
+
+505521*
+1O O(/
+
+504437*
+1b b(
+
+504436*
+1b	 b(
+
+504437*
+1f f(&
+
+504436*
+1f f(
+
+552528*
+1r& r(-
+
+553133*
+1q q(
+
+553436*
+1q q(
+
+552537*
+1r. r(5
+
+552536*
+1r& r(-
+
+55646*
+1s s(0
+
+555821*
+1s s(0
+
+602528*
+1Ä' Ä(.
+
+602537*
+1Ä/ Ä(6
+
+602536*
+1Ä' Ä(.
+
+60646*
+1Ñ" Ñ(4
+
+605521*
+1Ñ" Ñ(4
+
+582528*
+1é' é(.
+
+583133*
+1ç ç(
+
+583436*
+1ç ç(
+
+582537*
+1é/ é(6
+
+582536*
+1é' é(.
+
+581346*
+1ó# ó(&
+
+692528*
+1◊* ◊(1
+
+697228*
+1◊; ◊(I
+
+692537*
+1◊2 ◊(9
+
+692536*
+1◊* ◊(1
+
+697237*
+1◊_ ◊(g
+
+697236*
+1◊; ◊(I
+
+697236*
+1◊J ◊(^
+
+697237*
+1ÿ  ÿ('
+
+697236*
+1ÿ	 ÿ(
+
+697236*
+1ÿ ÿ(
+
+697236*
+1ÿ. ÿ(<

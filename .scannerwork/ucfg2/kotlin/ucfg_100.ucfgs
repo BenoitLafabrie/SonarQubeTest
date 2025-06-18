@@ -1,0 +1,26 @@
+À
+Ccom.simplecity.amp_library.di.app.activity.ActivityModule#<init>()VÅ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt	 ("0*<
+0	 	("/
+
+__unknown_file (
+implicit returnB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleHí
+acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
+0 ("*
+ (
+
+activityjava.lang.Object:(
+ (,
+activityjava.lang.ObjectB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleHÆ
+ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
+0 ("8
+ (.,
+*
+supportFragmentManagerjava.lang.Object:(
+ (3
+activityjava.lang.ObjectB=;
+9com.simplecity.amp_library.di.app.activity.ActivityModuleH

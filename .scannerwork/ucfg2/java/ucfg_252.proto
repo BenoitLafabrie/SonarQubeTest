@@ -1,0 +1,101 @@
+
+Mtest.com.androidnavigation.fragment.FragmentInfo#toString()Ljava/lang/String;Ž
+ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/FragmentInfo.java ("1*›	
+1 (r
+p
+ (%
+%0java.lang.String"__concat*
+ (
+FragmentInfo{*#
+ (%
+rootViewController=”
+‘
+( (:
+%1java.lang.Class"__id*h
+
+__unknown_file (L*J2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewController}
+{
+ (:
+%2"__calculate*
+& ('
++*$
+ (%
+
+%0java.lang.String*#
+( (:
+
+%1java.lang.Classq
+o
+  (+
+%3"__calculate*
+; (<
++*
+ (:
+
+%2*)
+   (+
+, rootViewControllerTag='˜
+•
+ .  (C
+%4java.lang.String"__id*k
+
+__unknown_file (O*M2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerTagl
+j
+  (C
+%5"__calculate*
+ ,  (-
++*
+  (+
+
+%3*$
+ .  (C
+
+%4java.lang.StringZ
+X
+  (J
+%6"__calculate*
+ D  (E
++*
+  (C
+
+%5*
+ F  (J
+\'_
+]
+ !(
+%7"__calculate*
+ K  (L
++*
+  (J
+
+%6*
+! !(	
+, args=Z
+X
+ !( 
+%8"__calculate*
+! !(
++*
+ !(
+
+%7*
+! !( 
+""Y
+W
+ "(
+%9"__calculate*
+!! !("
++*
+ !( 
+
+%8*
+" "(
+}"
+ "(
+
+%9B42
+0test.com.androidnavigation.fragment.FragmentInfoH

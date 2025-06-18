@@ -1,0 +1,54 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233426638*java2.B¦
+b
+]libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BackPressListener.java2
+
+package4
+(
+#test.com.androidnavigation.fragment5
+:
+5test.com.androidnavigation.fragment.BackPressListener7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+BackPressListener12
+O
+Itest.com.androidnavigation.fragment.BackPressListener#consumeBackPress()Z14
+
+method15
+
+consumeBackPress16J
+
+1
+12Z
+
+3	
+354j}
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+9
+64
+678 *
+1 (#:3B
+	
+9
+10
+
+
+11
+12

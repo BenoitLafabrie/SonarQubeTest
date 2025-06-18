@@ -1,0 +1,207 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233435959*java2.B¬	
+V
+Qapp/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerDivider.java2
+
+package4
+1
+,com.simplecity.amp_library.ui.screens.drawer5
+?
+:com.simplecity.amp_library.ui.screens.drawer.DrawerDivider7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+DrawerDivider12
+$
+Recovered#typeBindingLParent;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+)
+#Recovered#typeBindingLDrawerChild;019
+_
+Ycom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#getChildList()Ljava/util/List;21
+
+method22
+
+getChildList23
+W
+Qcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#isInitiallyExpanded()Z25
+
+isInitiallyExpanded26
+L
+Fcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#bindView()V28
+
+bindView29
+N
+Hcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider$DividerHolder31
+
+	protected32
+
+DividerHolder33
+.
+(Recovered#typeBindingLParentViewHolder;035
+
+extends36
+^
+Xcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider$DividerHolder#<init>(LView;)V38
+"
+Recovered#typeBindingLView;040
+
+	has param41
+
+calls42
+
+is type43
+
+NonNull45
+
+annotated by46
+%
+Recovered#typeBindingLNonNull;048J
+
+1
+12Z
+
+3	
+354jý
+
+13
+131415
+9
+64
+678 *
+1
+ 
+(:3B
+	
+9
+10
+
+
+11
+12
+
+39
+394015
+
+44
+444515
+
+18
+181915
+@
+24:
+242522 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+?
+309
+30318 *
+1 (26:3B
+	
+9
+32
+
+
+11
+33
+
+34
+343515
+@
+27:
+272822 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+@
+20:
+202122 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+
+47
+474815
+A
+37;
+373822 *
+1	 (230:3B
+	
+9
+32
+
+
+11
+33rÁ
+
+61316*
+1
+' 
+(-
+
+61317*
+1
+' 
+(-
+
+61817*
+1
+. 
+(9
+
+201817*
+1 (
+
+303436*
+1( (8
+
+303417*
+1( (8
+
+373941*
+1  ($
+
+373042*
+1	 (
+
+373943*
+1% (-
+
+374446*
+1 (
+
+374717*
+1 (
+
+373917*
+1  ($

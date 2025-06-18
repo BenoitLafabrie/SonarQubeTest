@@ -1,0 +1,24 @@
+
+"\nid='"java.lang.String
+ 
+"\nname='"java.lang.String
++"\nalbumArtistName='"java.lang.String
+	"\nSong{"java.lang.String
+	'}'char;this
+‡ ‡("%com.simplecity.amp_library.model.Song"þ+
+)
+
+‰ ‰("#get-field# id:Blong9
+7
+
+Š Š(!"#get-field# name:Bjava.lang.StringD
+B
+
+‹( ‹(7"#get-field# albumArtistName:Bjava.lang.String<
+:
+
+ˆ Œ(
+"	#binop +#2+:	Bjava.lang.String
+
+ˆ Œ(
+*g/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

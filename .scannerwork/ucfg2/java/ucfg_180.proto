@@ -1,0 +1,69 @@
+
+Dcom.simplecity.amp_library.ui.dialog.DeleteDialog#%field_initializer
+__unknown_file ("1*Æ
+1 (≤Ø
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW4 W(?
+%0java.util.ArrayList"java.util.ArrayList–
+Õ
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW0 W(A
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayListÇ
+ˇ
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaW W(BO3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+songsForNormalDeletion"__id*'
+ (
+
+%0java.util.ArrayList≤Ø
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX> X(I
+%2java.util.ArrayList"java.util.ArrayList–
+Õ
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX: X(K
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListÑ
+Å
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaX X(LQ3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+documentFilesForDeletion"__id*'
+ (
+
+%2java.util.ArrayList≤Ø
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY1 Y(<
+%4java.util.ArrayList"java.util.ArrayList–
+Õ
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY- Y(>
+%5"java.util.ArrayList#<init>()V*'
+ (
+
+%4java.util.ArrayListˇ
+¸
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javaY Y(?L3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+songsForSafDeletion"__id*'
+ (
+
+%4java.util.ArrayList‚
+ﬂ
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.java[ [(HD3
+1com.simplecity.amp_library.ui.dialog.DeleteDialog"
+disposables"__id*
+ (
+"""ì
+|
+s/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.java0 Ú(
+implicit returnB53
+1com.simplecity.amp_library.ui.dialog.DeleteDialog

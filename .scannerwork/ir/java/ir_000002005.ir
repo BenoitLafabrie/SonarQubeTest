@@ -1,0 +1,65 @@
+
+32int
+31int;this
+Ç Ç("%com.simplecity.amp_library.model.Song"ú+
+)
+
+È È("#get-field# id:Blong+
+)
+
+È" È($"#get-field# id:Blong.
+,
+
+È" È(+"#binop >>>#2>>>:Blong*
+(
+
+È È(,"	#binop ^#2^:Blong*
+(
+
+È È(-result"#cast#:Bint)
+'
+
+É É(	"	#binop *#2*:Bint1
+/
+
+É& É(.
+"#get-field# artistId:Blong1
+/
+
+É2 É(:"#get-field# artistId:Blong.
+,
+
+É2 É(A"#binop >>>#2>>>:Blong*
+(
+
+É& É(B"	#binop ^#2^:
+Blong"
+ 
+
+É É(C"#cast#:Bint1
+/
+
+É É(Cresult"	#binop +#2+:	Bint)
+'
+
+Ê Ê("	#binop *#2*:Bint0
+.
+
+Ê& Ê(-"#get-field# albumId:Blong0
+.
+
+Ê1 Ê(8"#get-field# albumId:Blong.
+,
+
+Ê1 Ê(?"#binop >>>#2>>>:Blong*
+(
+
+Ê& Ê(@"	#binop ^#2^:Blong"
+ 
+
+Ê Ê(A"#cast#:Bint1
+/
+
+Ê Ê(Aresult"	#binop +#2+:Bint
+
+Ë Ë(*g/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java

@@ -1,0 +1,191 @@
+
+Icom.simplecity.amp_library.model.ArtworkModel#equals(Ljava/lang/Object;)Zy
+o/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java$ $("startingBlock*á
+2+7 +(;‡
+„
++7 +(@
+%13java.io.File"__id*]
+
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.ArtworkModel"
+filer
+p
++7 +(H
+%10boolean"	__compare*
++A +(C
+==*!
++7 +(@
+
+%13java.io.File*
++D +(H
+""O
+M
++7 +(H
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*º
+3+ +("€
+~
++ +("
+%11java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+file‡
+„
++* +(3
+%12java.io.File"__id*]
+
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.ArtworkModel"
+fileÈÅ
++ +(4
+%9boolean"(java.io.File#equals(Ljava/lang/Object;)Z*1
+
+__unknown_file (
+
+%11java.io.File*1
+
+__unknown_file (
+
+%12java.io.File2equals(Ljava/lang/Object;)N
+L
++ +(4
+%8boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*ƒ
+startingBlock$ $(#‰
+†
+# #(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+$! $("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*ˆ
+4+ +(
+}
++ +(
+%6java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+filep
+n
++ +(
+%7boolean"	__compare*
++ +(
+!=* 
++ +(
+
+%6java.io.File*
++ +(
+""*
+2
+3*!
+5*& *(+"
+* *(,
+""*ù
+6(+ ((,~
+|
+( ((-5
+that-com.simplecity.amp_library.model.ArtworkModel"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+* *(
+%5boolean"	__compare*
+* *(
+!=*
+* *(
+""*
+* *(
+""*
+4
+5*!
+7&< &(A"
+&5 &(B
+""*ã
+8& &(!­ª
+& &(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.ArtworkModel2
+getClass()“
+&' &(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+& &(3
+%4boolean"	__compare*
+&$ &(&
+!=*#
+& &(#
+
+%2java.lang.Class*#
+&' &(3
+
+%3java.lang.Class*
+6
+7*Š
+9& &(s
+q
+& &(
+%1boolean"	__compare*
+& &(
+==*#
+& &(
+
+ojava.lang.Object*
+& &(
+""*
+7
+8*"
+10% %(""
+% %(#
+""*¹
+11% %(Ÿ
+œ
+% %(
+%0boolean"	__compare*
+% %(
+==*=
+% %(1/
+-com.simplecity.amp_library.model.ArtworkModel*#
+% %(
+
+ojava.lang.Object*
+9
+10*!
+1+ +(I"
++ +(I
+"":!
+$ $("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.ArtworkModelHX

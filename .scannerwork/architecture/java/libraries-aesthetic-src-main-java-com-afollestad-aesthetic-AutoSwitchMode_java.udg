@@ -1,0 +1,121 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440533*java2.BÁ
+S
+Nlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AutoSwitchMode.java2
+
+package4
+
+com.afollestad.aesthetic5
+,
+'com.afollestad.aesthetic.AutoSwitchMode7
+
+
+annotation8
+
+access9
+
+public10
+
+simple name11
+
+AutoSwitchMode12
+
+IntDef14
+
+unknown15
+
+annotated by16
+$
+Recovered#typeBindingLIntDef;018
+
+
+uses19
+1
++com.afollestad.aesthetic.AutoSwitchMode.OFF21
+
+
+references22
+0
+*com.afollestad.aesthetic.AutoSwitchMode.ON24
+2
+,com.afollestad.aesthetic.AutoSwitchMode.AUTO26
+
+field27
+	
+OFF28
+
+ON29
+
+
+AUTO30J
+
+1
+12Z
+
+3	
+354j©
+@
+25:
+252627 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+
+13
+131415
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12
+@
+20:
+202127 *
+1 (26:3B
+	
+9
+10
+
+
+11
+28
+@
+23:
+232427 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+
+17
+171815r‚
+
+61316*
+1 (
+
+61719*
+1 (
+
+62022*
+1 (
+
+62322*
+1 (
+
+62522*
+1 (

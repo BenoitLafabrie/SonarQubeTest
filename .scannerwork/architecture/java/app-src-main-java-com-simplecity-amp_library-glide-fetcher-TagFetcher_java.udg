@@ -1,0 +1,160 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233430167*java2.Bô
+O
+Japp/src/main/java/com/simplecity/amp_library/glide/fetcher/TagFetcher.java2
+
+package4
+-
+(com.simplecity.amp_library.glide.fetcher5
+8
+3com.simplecity.amp_library.glide.fetcher.TagFetcher7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+TagFetcher12
+)
+#Recovered#typeBindingLBaseFetcher;014
+
+unknown15
+
+extends16
+
+
+uses17
+=
+7com.simplecity.amp_library.glide.fetcher.TagFetcher.TAG19
+
+field20
+
+	protected21
+	
+TAG22
+T
+Ncom.simplecity.amp_library.glide.fetcher.TagFetcher#<init>(LArtworkProvider;)V24
+
+method25
+-
+'Recovered#typeBindingLArtworkProvider;027
+
+	has param28
+
+calls29
+
+is type30
+T
+Ncom.simplecity.amp_library.glide.fetcher.TagFetcher#getTag()Ljava/lang/String;32
+
+getTag33
+
+
+references34
+Z
+Tcom.simplecity.amp_library.glide.fetcher.TagFetcher#getStream()Ljava/io/InputStream;36
+
+	getStream37J
+
+1
+12Z
+
+3	
+354jë
+
+13
+131415
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+26
+262715
+@
+31:
+313225 *
+1 (26:3B
+	
+9
+21
+
+
+11
+33
+@
+23:
+232425 *
+1
+ 
+(26:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+35:
+353625 *
+1 (26:3B
+	
+9
+21
+
+
+11
+37rº
+
+61316*
+1! (,
+
+61317*
+1! (,
+
+232628*
+1
+ 
+(&
+
+23629*
+1
+ 
+(
+
+232630*
+1
+' 
+(6
+
+232617*
+1
+ 
+(&
+
+311834*
+1 (

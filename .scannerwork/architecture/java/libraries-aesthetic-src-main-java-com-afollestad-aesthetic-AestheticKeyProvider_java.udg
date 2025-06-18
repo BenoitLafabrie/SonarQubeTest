@@ -1,0 +1,77 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233431290*java2.Bã
+Y
+Tlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticKeyProvider.java2
+
+package4
+
+com.afollestad.aesthetic5
+2
+-com.afollestad.aesthetic.AestheticKeyProvider7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+AestheticKeyProvider12
+K
+Ecom.afollestad.aesthetic.AestheticKeyProvider#key()Ljava/lang/String;14
+
+method15
+	
+key16
+
+Nullable18
+
+unknown19
+
+annotated by20
+&
+ Recovered#typeBindingLNullable;022
+
+
+uses23J
+
+1
+12Z
+
+3	
+354j¥
+9
+64
+678 *
+1 (&:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1	 	(26:3B
+	
+9
+10
+
+
+11
+16
+
+21
+212219
+
+17
+171819r6
+
+131720*
+1	 	(
+
+132123*
+1	 	(

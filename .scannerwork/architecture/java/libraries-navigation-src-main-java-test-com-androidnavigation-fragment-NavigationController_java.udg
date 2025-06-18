@@ -1,0 +1,173 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233418861*java2.B◊
+e
+`libraries/navigation/src/main/java/test/com/androidnavigation/fragment/NavigationController.java2
+
+package4
+(
+#test.com.androidnavigation.fragment5
+=
+8test.com.androidnavigation.fragment.NavigationController7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+NavigationController12
+6
+0Recovered#typeBindingLBaseNavigationController;014
+
+unknown15
+
+extends16
+
+
+uses17
+P
+Jtest.com.androidnavigation.fragment.NavigationController.ARG_FRAGMENT_INFO19
+
+field20
+
+private21
+
+ARG_FRAGMENT_INFO22
+π
+≤test.com.androidnavigation.fragment.NavigationController#newInstance(Ltest/com/androidnavigation/fragment/FragmentInfo;)Ltest/com/androidnavigation/fragment/NavigationController;24
+
+method25
+
+newInstance26
+
+returns27
+6
+0test.com.androidnavigation.fragment.FragmentInfo29
+
+	has param30
+
+is type31
+$
+Recovered#typeBindingLBundle;033
+
+
+references34
+
+calls35
+ç
+Ütest.com.androidnavigation.fragment.NavigationController#getRootViewControllerInfo()Ltest/com/androidnavigation/fragment/FragmentInfo;37
+
+getRootViewControllerInfo38J
+
+1
+12Z
+
+3	
+354jΩ
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+13
+131415
+
+32
+323315
+@
+36:
+363725 *
+1 (26:3B
+	
+9
+10
+
+
+11
+38
+9
+64
+678 *
+1	 	(":3B
+	
+9
+10
+
+
+11
+12
+
+28
+282915
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26rƒ
+
+61316*
+1	+ 	(C
+
+61317*
+1	+ 	(C
+
+23627*
+1 ('
+
+232830*
+14 (@
+
+23617*
+1 ('
+
+232831*
+1A (M
+
+232817*
+14 (@
+
+233231*
+1 (
+
+233217*
+1	 (
+
+231834*
+1 (-
+
+23631*
+1 (&
+
+23617*
+1	 (
+
+23635*
+1- (A
+
+362827*
+1 (
+
+362817*
+1 (
+
+362817*
+1 (
+
+361834*
+1= (N

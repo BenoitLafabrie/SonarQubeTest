@@ -1,0 +1,21 @@
+DthisK K("0com.simplecity.amp_library.playback.QueueManagerImusicServiceCallbacksL L(8"$Recovered#typeBindingLMusicService;0AsongsRepositoryM M(6""Recovered#typeBindingLRepository;0VplaybackSettingsManagerN N(;"/Recovered#typeBindingLPlaybackSettingsManager;0FsettingsManagerO O(+"'Recovered#typeBindingLSettingsManager;0"ô!
+
+Q% Q(:"#unknown-value#7
+5
+Q Q(:"#!#set-field# musicServiceCallbacks:!
+
+R R(."#unknown-value#1
+/
+R R(.	"#set-field# songsRepository:!
+
+S' S(>
+"#unknown-value#9
+7
+S S(>"%##set-field# playbackSettingsManager:
+!
+
+T T(."#unknown-value#1
+/
+T T(."#set-field# settingsManager:
+
+U U(*r/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/QueueManager.java

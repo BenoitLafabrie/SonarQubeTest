@@ -1,0 +1,353 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233421136*java2.BÇ
+Y
+Tlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticProgressBar.java2
+
+package4
+
+com.afollestad.aesthetic5
+2
+-com.afollestad.aesthetic.AestheticProgressBar7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+AestheticProgressBar12
+1
++Recovered#typeBindingLMaterialProgressBar;014
+
+unknown15
+
+extends16
+
+
+uses17
+@
+:com.afollestad.aesthetic.AestheticProgressBar.subscription19
+
+field20
+
+private21
+
+subscription22
+
+
+Disposable24
+
+is type25
+F
+@com.afollestad.aesthetic.AestheticProgressBar#<init>(LContext;)V27
+
+method28
+%
+Recovered#typeBindingLContext;030
+
+	has param31
+
+calls32
+T
+Ncom.afollestad.aesthetic.AestheticProgressBar#<init>(LContext;LAttributeSet;)V34
+*
+$Recovered#typeBindingLAttributeSet;036
+U
+Ocom.afollestad.aesthetic.AestheticProgressBar#<init>(LContext;LAttributeSet;I)V38
+H
+Bcom.afollestad.aesthetic.AestheticProgressBar#invalidateColors(I)V40
+
+invalidateColors41
+
+
+references42
+I
+Ccom.afollestad.aesthetic.AestheticProgressBar#onAttachedToWindow()V44
+
+	protected45
+
+onAttachedToWindow46
+
+MaterialProgressBar48
+5
+/com.afollestad.aesthetic.AestheticProgressBar$150
+R
+Lcom.afollestad.aesthetic.AestheticProgressBar$1#accept(Ljava/lang/Integer;)V52
+
+accept53
+
+NonNull55
+
+annotated by56
+%
+Recovered#typeBindingLNonNull;058
+K
+Ecom.afollestad.aesthetic.AestheticProgressBar#onDetachedFromWindow()V60
+
+onDetachedFromWindow61J
+
+1
+12Z
+
+3	
+354jŽ
+
+13
+131415
+
+23
+232415
+@
+37:
+373828 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+@
+39:
+394028 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+41
+
+29
+293015
+@
+33:
+333428 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+@
+43:
+434428 *
+1! !(26:3B
+	
+9
+45
+
+
+11
+46
+4
+49.
+49508 *
+1)) )(*243:3B
+	
+9
+45
+A
+51;
+515228 *
+1* *(249:3B
+	
+9
+10
+
+
+11
+53
+
+47
+474815
+
+54
+545515
+@
+59:
+596028 *
+12 2(26:3B
+	
+9
+45
+
+
+11
+61
+9
+64
+678 *
+1 (":3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+22
+
+57
+575815
+@
+26:
+262728 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+
+35
+353615r¬
+
+61316*
+1+ (>
+
+61317*
+1+ (>
+
+182325*
+1 (
+
+182317*
+1 (
+
+182317*
+1 ("
+
+262931*
+1 (&
+
+26632*
+1
+ (
+
+262925*
+1' (.
+
+262917*
+1 (&
+
+332931*
+1 (&
+
+333531*
+10 (<
+
+33632*
+1
+ (
+
+332925*
+1' (.
+
+332917*
+1 (&
+
+333525*
+1= (B
+
+333517*
+10 (<
+
+372931*
+1 (&
+
+373531*
+10 (<
+
+37632*
+1
+ (
+
+372925*
+1' (.
+
+372917*
+1 (&
+
+373525*
+1= (B
+
+373517*
+10 (<
+
+39617*
+1 (
+
+39642*
+1 (
+
+43642*
+1# #(
+
+
+434717*
+1# #(
+
+
+43642*
+1# #(
+
+
+432317*
+1$ $(
+
+431842*
+1$ $(
+
+515456*
+1+& +('
+
+515717*
+1+' +(.
+
+51642*
+1, ,(%
+
+513932*
+1, ,(%
+
+591842*
+14 4(
+
+592317*
+14 4(
+
+591842*
+14 4(
+
+59642*
+15 5(
+
+
+594717*
+15 5(
+
+
+59642*
+15 5(

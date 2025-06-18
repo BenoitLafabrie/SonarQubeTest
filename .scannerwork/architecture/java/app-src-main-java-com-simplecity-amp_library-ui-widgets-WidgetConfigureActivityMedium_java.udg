@@ -1,0 +1,188 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233435710*java2.BÁ
+_
+Zapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java2
+
+package4
+*
+%com.simplecity.amp_library.ui.widgets5
+H
+Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+#
+WidgetConfigureActivityMedium12
+9
+3Recovered#typeBindingLBaseWidgetConfigureActivity;014
+
+unknown15
+
+extends16
+
+
+uses17
+M
+Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium.TAG19
+
+field20
+
+private21
+	
+TAG22
+^
+Xcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getWidgetLayouts()[I24
+
+method25
+
+	protected26
+
+getWidgetLayouts27
+o
+icom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;29
+
+getLayoutIdString30
+@
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMedium32
+U
+Ocom.simplecity.amp_library.ui.widgets.WidgetProviderMedium.ARG_MEDIUM_LAYOUT_ID34
+
+
+references35
+t
+ncom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getUpdateCommandString()Ljava/lang/String;37
+
+getUpdateCommandString38
+S
+Mcom.simplecity.amp_library.ui.widgets.WidgetProviderMedium.CMDAPPWIDGETUPDATE40
+Z
+Tcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getRootViewId()I42
+
+getRootViewId43
+h
+bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#screenName()Ljava/lang/String;45
+
+
+screenName46J
+
+1
+12Z
+
+3	
+354j—
+@
+36:
+363725 *
+1 (26:3B
+	
+9
+26
+
+
+11
+38
+
+33
+333415
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+26
+
+
+11
+30
+
+31
+313215
+@
+41:
+414225 *
+1 (26:3B
+	
+9
+26
+
+
+11
+43
+
+39
+394015
+9
+64
+678 *
+1 (+:3B
+	
+9
+10
+
+
+11
+12
+
+13
+131415
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+@
+23:
+232425 *
+1	 	(26:3B
+	
+9
+26
+
+
+11
+27
+@
+44:
+444525 *
+1 (26:3B
+	
+9
+26
+
+
+11
+46r»
+
+61316*
+14 (O
+
+61317*
+14 (O
+
+283117*
+1 ($
+
+283335*
+1% (9
+
+363117*
+1 ($
+
+363935*
+1% (7
+
+441835*
+1 (

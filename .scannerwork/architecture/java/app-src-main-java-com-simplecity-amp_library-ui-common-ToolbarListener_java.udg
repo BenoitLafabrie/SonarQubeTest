@@ -1,0 +1,77 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233435302*java2.Bú
+P
+Kapp/src/main/java/com/simplecity/amp_library/ui/common/ToolbarListener.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.common5
+9
+4com.simplecity.amp_library.ui.common.ToolbarListener7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+ToolbarListener12
+V
+Pcom.simplecity.amp_library.ui.common.ToolbarListener#toolbarAttached(LToolbar;)V14
+
+method15
+
+toolbarAttached16
+%
+Recovered#typeBindingLToolbar;018
+
+unknown19
+
+	has param20
+
+is type21
+
+
+uses22J
+
+1
+12Z
+
+3	
+354j‘
+@
+13:
+131415 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+16
+
+17
+171819
+9
+64
+678 *
+1 (!:3B
+	
+9
+10
+
+
+11
+12rQ
+
+131720*
+1 (!
+
+131721*
+1" ()
+
+131722*
+1 (!

@@ -1,0 +1,102 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233425746*java2.B¹
+[
+Vlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/TabLayoutIndicatorMode.java2
+
+package4
+
+com.afollestad.aesthetic5
+4
+/com.afollestad.aesthetic.TabLayoutIndicatorMode7
+
+
+annotation8
+
+access9
+
+public10
+
+simple name11
+
+TabLayoutIndicatorMode12
+
+IntDef14
+
+unknown15
+
+annotated by16
+$
+Recovered#typeBindingLIntDef;018
+
+
+uses19
+=
+7com.afollestad.aesthetic.TabLayoutIndicatorMode.PRIMARY21
+
+
+references22
+<
+6com.afollestad.aesthetic.TabLayoutIndicatorMode.ACCENT24
+
+field25
+
+PRIMARY26
+
+ACCENT27J
+
+1
+12Z
+
+3	
+354jç
+
+13
+131415
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27
+9
+64
+678 *
+1 ():3B
+	
+9
+10
+
+
+11
+12
+
+17
+171815
+@
+20:
+202125 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26rh
+
+61316*
+1 (
+
+61719*
+1 (
+
+62022*
+1 (
+
+62322*
+1 (!

@@ -1,0 +1,437 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233438123*java2.B…
+S
+Napp/src/main/java/com/simplecity/amp_library/ui/modelviews/DiscNumberView.java2
+
+package4
+-
+(com.simplecity.amp_library.ui.modelviews5
+<
+7com.simplecity.amp_library.ui.modelviews.DiscNumberView7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+DiscNumberView12
+=
+7com.simplecityapps.recycler_adapter.model.BaseViewModel14
+
+unknown15
+
+extends16
+
+
+uses17
+H
+Bcom.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolder19
+
+
+references20
+H
+Bcom.simplecity.amp_library.ui.modelviews.DiscNumberView.discNumber22
+
+field23
+
+private24
+
+
+discNumber25
+H
+Bcom.simplecity.amp_library.ui.modelviews.DiscNumberView#<init>(I)V27
+
+method28
+
+calls29
+L
+Fcom.simplecity.amp_library.ui.modelviews.DiscNumberView#getViewType()I31
+
+getViewType32
+O
+Icom.simplecity.amp_library.ui.modelviews.DiscNumberView#getLayoutResId()I34
+
+getLayoutResId35
+Ž
+‡com.simplecity.amp_library.ui.modelviews.DiscNumberView#bindView(Lcom/simplecity/amp_library/ui/modelviews/DiscNumberView$ViewHolder;)V37
+
+bindView38
+
+	has param39
+
+is type40
+Y
+Scom.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V42
+
+TextView44
+Q
+Kcom.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolder.textView46
+ 
+™com.simplecity.amp_library.ui.modelviews.DiscNumberView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/DiscNumberView$ViewHolder;48
+
+createViewHolder49
+
+returns50
+'
+!Recovered#typeBindingLViewGroup;052
+
+
+View54
+[
+Ucom.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;56
+
+
+ViewHolder57
+,
+&Recovered#typeBindingLBaseViewHolder;059
+
+	protected60
+
+textView61
+X
+Rcom.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolder#<init>(LView;)V63
+"
+Recovered#typeBindingLView;065
+Y
+Scom.simplecity.amp_library.ui.modelviews.DiscNumberView#equals(Ljava/lang/Object;)Z67
+
+equals68
+I
+Ccom.simplecity.amp_library.ui.modelviews.DiscNumberView#hashCode()I70
+
+hashCode71
+c
+]com.simplecity.amp_library.ui.modelviews.DiscNumberView#areContentsEqual(Ljava/lang/Object;)Z73
+
+areContentsEqual74J
+
+1
+12Z
+
+3	
+354jô
+A
+45;
+454623 *
+1-	 -(218:3B
+	
+9
+60
+
+
+11
+61
+?
+189
+18198 *
+1+ +(#26:3B
+	
+9
+10
+
+
+11
+57
+@
+21:
+212223 *
+1 (26:3B
+	
+9
+24
+
+
+11
+25
+
+58
+585915
+@
+33:
+333428 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+
+55
+555615
+@
+47:
+474828 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+49
+@
+72:
+727328 *
+1E E(26:3B
+	
+9
+10
+
+
+11
+74
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+53
+535415
+
+51
+515215
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+41
+414215
+@
+30:
+303128 *
+1 (26:3B
+	
+9
+10
+
+
+11
+32
+
+64
+646515
+
+43
+434415
+A
+62;
+626328 *
+1/	 /(218:3B
+	
+9
+10
+
+
+11
+57
+@
+69:
+697028 *
+1@ @(26:3B
+	
+9
+10
+
+
+11
+71
+@
+66:
+666728 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+68
+
+13
+131415
+@
+36:
+363728 *
+1   (26:3B
+	
+9
+10
+
+
+11
+38rÒ
+
+
+61316*
+1% (2
+
+61317*
+1% (2
+
+61817*
+1B (L
+
+61820*
+1B (L
+
+26629*
+1 (
+
+26617*
+1	 (
+
+26620*
+1	 (
+
+262120*
+1 (
+
+361839*
+1! !($
+
+361840*
+1!% !(+
+
+361817*
+1! !($
+
+361820*
+1! !($
+
+361320*
+1"	 "(
+
+364129*
+1" "(
+
+36620*
+1"	 "(
+
+361317*
+1"	 "(
+
+36620*
+1"	 "(
+
+364317*
+1# #(
+
+364520*
+1# #(
+
+362120*
+1#[ #(e
+
+471850*
+1' '(
+
+475139*
+1'( '(1
+
+471817*
+1' '(
+
+471820*
+1' '(
+
+475140*
+1'2 '(8
+
+475117*
+1'( '(1
+
+471829*
+1( ((
+
+475350*
+1( (()
+
+471320*
+1( (()
+
+475529*
+1( (()
+
+185816*
+1+, +(:
+
+185817*
+1+, +(:
+
+454340*
+1-	 -(
+
+454317*
+1-	 -(
+
+454317*
+1- -(
+
+626439*
+1/ /(
+
+621829*
+1/ /(
+
+626440*
+1/  /((
+
+626417*
+1/ /(
+
+624317*
+12 2(
+
+624520*
+12 2(
+
+66617*
+18 8(
+
+66620*
+18 8(
+
+66640*
+1; ;(
+
+66617*
+1;	 ;(
+
+66617*
+1;  ;(.
+
+662120*
+1= =(
+
+662120*
+1=# =(-
+
+692120*
+1B B(
+
+72620*
+1G G(
+
+726629*
+1G G(

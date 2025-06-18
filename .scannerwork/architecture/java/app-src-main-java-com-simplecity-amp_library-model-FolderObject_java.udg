@@ -1,0 +1,156 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233423787*java2.Bï
+I
+Dapp/src/main/java/com/simplecity/amp_library/model/FolderObject.java2
+
+package4
+%
+ com.simplecity.amp_library.model5
+2
+-com.simplecity.amp_library.model.FolderObject7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+FolderObject12
+,
+&Recovered#typeBindingLBaseFileObject;014
+
+unknown15
+
+extends16
+
+
+uses17
+=
+7com.simplecity.amp_library.model.FolderObject.fileCount19
+
+field20
+
+	fileCount21
+?
+9com.simplecity.amp_library.model.FolderObject.folderCount23
+
+folderCount24
+=
+7com.simplecity.amp_library.model.FolderObject#<init>()V26
+
+method27
+
+calls28
+
+
+references29
+P
+Jcom.simplecity.amp_library.model.FolderObject#toString()Ljava/lang/String;31
+
+toString32
+
+BaseFileObject34J
+
+1
+12Z
+
+3	
+354jë
+
+13
+131415
+@
+30:
+303127 *
+1 (26:3B
+	
+9
+10
+
+
+11
+32
+
+33
+333415
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+25:
+252627 *
+1
+ 
+(26:3B
+	
+9
+10
+
+
+11
+12
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21r‡
+
+61316*
+1# (1
+
+61317*
+1# (1
+
+25628*
+1
+ 
+(
+
+25617*
+1	 (
+
+25629*
+1	 (
+
+301829*
+1  ()
+
+302229*
+1$ (/
+
+30629*
+1 (
+
+303317*
+1 (
+
+30629*
+1 (

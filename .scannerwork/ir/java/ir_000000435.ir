@@ -1,0 +1,34 @@
+?this ("+com.simplecity.amp_library.model.SuggestionQmostPlayedAlbumArtist (7",com.simplecity.amp_library.model.AlbumArtist<mostPlayedAlbum (!"Recovered#typeBindingLAlbum;0:mostPlayedSong ("Recovered#typeBindingLSong;04favouriteSongsOne (-"java.util.ArrayList4favouriteSongsTwo (-"java.util.ArrayList7recentlyPlayedAlbums (1"java.util.ArrayList9recentlyAddedAlbumsOne (3"java.util.ArrayList9	recentlyAddedAlbumsTwo (3"java.util.ArrayList"²2
+0
+ (5
+"#set-field# mostPlayedArtist:!
+
+ (."#unknown-value#1
+/
+ (."#set-field# mostPlayedAlbum:!
+
+ (,"#unknown-value#0
+.
+ (,"#set-field# mostPlayedSong:!
+
+! (2"#unknown-value#3
+1
+ (2"#set-field# favouriteSongsOne:!
+
+! (2"#unknown-value#3
+1
+ (2"#set-field# favouriteSongsTwo:!
+
+$ (8"#unknown-value#6
+4
+ (8"" #set-field# recentlyPlayedAlbums:!
+
+& (<"#unknown-value#8
+6
+ (<"$"#set-field# recentlyAddedAlbumsOne:!
+
+ &  (<"#unknown-value#8
+6
+   (<"$"#set-field# recentlyAddedAlbumsTwo:
+
+! !(*m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java

@@ -1,0 +1,319 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440395*java2.BÆ
+
+W
+Rlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticViewPager.java2
+
+package4
+
+com.afollestad.aesthetic5
+0
++com.afollestad.aesthetic.AestheticViewPager7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+AestheticViewPager12
+'
+!Recovered#typeBindingLViewPager;014
+
+unknown15
+
+extends16
+
+
+uses17
+>
+8com.afollestad.aesthetic.AestheticViewPager.subscription19
+
+field20
+
+private21
+
+subscription22
+
+
+Disposable24
+
+is type25
+D
+>com.afollestad.aesthetic.AestheticViewPager#<init>(LContext;)V27
+
+method28
+%
+Recovered#typeBindingLContext;030
+
+	has param31
+
+calls32
+R
+Lcom.afollestad.aesthetic.AestheticViewPager#<init>(LContext;LAttributeSet;)V34
+*
+$Recovered#typeBindingLAttributeSet;036
+F
+@com.afollestad.aesthetic.AestheticViewPager#invalidateColors(I)V38
+
+invalidateColors39
+
+
+references40
+G
+Acom.afollestad.aesthetic.AestheticViewPager#onAttachedToWindow()V42
+
+	protected43
+
+onAttachedToWindow44
+
+	ViewPager46
+3
+-com.afollestad.aesthetic.AestheticViewPager$148
+P
+Jcom.afollestad.aesthetic.AestheticViewPager$1#accept(Ljava/lang/Integer;)V50
+
+accept51
+
+NonNull53
+
+annotated by54
+%
+Recovered#typeBindingLNonNull;056
+I
+Ccom.afollestad.aesthetic.AestheticViewPager#onDetachedFromWindow()V58
+
+onDetachedFromWindow59J
+
+1
+12Z
+
+3	
+354jÌ
+
+23
+232415
+@
+57:
+575828 *
+1. .(26:3B
+	
+9
+43
+
+
+11
+59
+
+29
+293015
+@
+26:
+262728 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+A
+49;
+495028 *
+1& &(247:3B
+	
+9
+10
+
+
+11
+51
+@
+18:
+181920 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+22
+
+13
+131415
+@
+41:
+414228 *
+1 (26:3B
+	
+9
+43
+
+
+11
+44
+
+45
+454615
+@
+37:
+373828 *
+1 (
+26:3B
+	
+9
+21
+
+
+11
+39
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+
+52
+525315
+@
+33:
+333428 *
+1 (	26:3B
+	
+9
+10
+
+
+11
+12
+4
+47.
+47488 *
+1%) %(*241:3B
+	
+9
+43
+
+55
+555615
+
+35
+353615rð
+
+61316*
+1) (2
+
+61317*
+1) (2
+
+182325*
+1 (
+
+182317*
+1 (
+
+182317*
+1 ("
+
+262931*
+1 ($
+
+26632*
+1
+ (
+
+262925*
+1% (,
+
+262917*
+1 ($
+
+332931*
+1 ($
+
+333531*
+1. (:
+
+33632*
+1
+ (
+
+332925*
+1% (,
+
+332917*
+1 ($
+
+333525*
+1; (@
+
+333517*
+1. (:
+
+37617*
+1# ('
+
+37640*
+1# ('
+
+41640*
+1 (
+
+
+414517*
+1 (
+
+
+41640*
+1 (
+
+
+412317*
+1   (
+
+411840*
+1   (
+
+495254*
+1'& '('
+
+495517*
+1'' '(.
+
+49640*
+1( ((%
+
+493732*
+1( ((%
+
+571840*
+10 0(
+
+572317*
+10 0(
+
+571840*
+10 0(
+
+57640*
+11 1(
+
+
+574517*
+11 1(
+
+
+57640*
+11 1(

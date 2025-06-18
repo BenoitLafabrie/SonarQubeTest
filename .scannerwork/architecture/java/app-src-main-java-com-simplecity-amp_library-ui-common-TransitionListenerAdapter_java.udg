@@ -1,0 +1,206 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440481*java2.Bà	
+Z
+Uapp/src/main/java/com/simplecity/amp_library/ui/common/TransitionListenerAdapter.java2
+
+package4
+)
+$com.simplecity.amp_library.ui.common5
+C
+>com.simplecity.amp_library.ui.common.TransitionListenerAdapter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+TransitionListenerAdapter12
+(
+"Recovered#typeBindingLTransition;014
+
+unknown15
+
+
+implements16
+
+	TargetApi18
+
+annotated by19
+'
+!Recovered#typeBindingLTargetApi;021
+
+
+uses22
+e
+_com.simplecity.amp_library.ui.common.TransitionListenerAdapter#onTransitionStart(LTransition;)V24
+
+method25
+
+onTransitionStart26
+
+	has param27
+
+is type28
+c
+]com.simplecity.amp_library.ui.common.TransitionListenerAdapter#onTransitionEnd(LTransition;)V30
+
+onTransitionEnd31
+f
+`com.simplecity.amp_library.ui.common.TransitionListenerAdapter#onTransitionCancel(LTransition;)V33
+
+onTransitionCancel34
+e
+_com.simplecity.amp_library.ui.common.TransitionListenerAdapter#onTransitionPause(LTransition;)V36
+
+onTransitionPause37
+f
+`com.simplecity.amp_library.ui.common.TransitionListenerAdapter#onTransitionResume(LTransition;)V39
+
+onTransitionResume40J
+
+1
+12Z
+
+3	
+354j¡
+
+20
+202115
+9
+64
+678 *
+1 (0:3B
+	
+9
+10
+
+
+11
+12
+@
+23:
+232425 *
+1
+ 
+(26:3B
+	
+9
+10
+
+
+11
+26
+@
+35:
+353625 *
+1 (26:3B
+	
+9
+10
+
+
+11
+37
+@
+29:
+293025 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+
+13
+131415
+@
+32:
+323325 *
+1 (26:3B
+	
+9
+10
+
+
+11
+34
+
+17
+171815
+@
+38:
+383925 *
+1 (26:3B
+	
+9
+10
+
+
+11
+40ró
+
+61316*
+1< (F
+
+61719*
+1 (
+
+62022*
+1 (
+
+61322*
+1< (F
+
+61322*
+1G (Y
+
+231327*
+1# (-
+
+231328*
+1. (8
+
+231322*
+1# (-
+
+291327*
+1! (+
+
+291328*
+1, (6
+
+291322*
+1! (+
+
+321327*
+1$ (.
+
+321328*
+1/ (9
+
+321322*
+1$ (.
+
+351327*
+1# (-
+
+351328*
+1. (8
+
+351322*
+1# (-
+
+381327*
+1$ (.
+
+381328*
+1/ (9
+
+381322*
+1$ (.

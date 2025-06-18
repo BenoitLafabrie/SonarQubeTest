@@ -1,0 +1,54 @@
+
+7com.simplecity.amp_library.model.Song#getElapsedTime()Js
+g/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
+2
+× ×("
+
+× ×(
+""*ú
+1
+Ù Ù(s
+q
+
+Ù! Ù(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+Ù Ù(;
+
+%1long"__calculate*
+
+Ù Ù( 
++*
+
+Ù Ù(
+""*
+
+Ù! Ù(;
+
+
+%0longn
+l
+
+Ù Ù(G
+
+%2long"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+
+%1long*
+
+Ù> Ù(G
+"""
+
+Ù Ù(H
+""B)'
+%com.simplecity.amp_library.model.SongX

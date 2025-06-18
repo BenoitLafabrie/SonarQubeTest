@@ -1,0 +1,109 @@
+
+8com.simplecity.amp_library.model.AlbumArtist#hashCode()Ix
+n/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javax x("7*V
+2zE z(FB
+@
+zE z(F
+%8"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*P
+3z1 z(7<
+:
+z1 z(B
+%8"__id*"
+
+__unknown_file (
+
+%9*
+1*Ï
+4y y(8]
+[
+z z(	
+%6int"__calculate*
+z z(
+**
+z z(2*
+z z(
+""Y
+W
+z  z(.
+%7"	__compare*
+z' z()
+!=*
+z  z(&
+""*
+z* z(.
+""*
+2
+3*Z
+5y6 y(7F
+D
+y6 y(7	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+4*Ù
+6y$ y((ƒ
+€
+y$ y((
+%5java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namewu
+y$ y(3	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+y$ y(3	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+4*‘
+7y y(ƒ
+€
+y y(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+namet
+r
+y y(!
+%1boolean"	__compare*
+y y(
+!=*$
+y y(
+
+%0java.lang.String*
+y y(!
+""*
+5
+6*ƒ
+1z z(G`
+^
+z z(G
+%11"__calculate*
+z z(
++*
+z z(
+	
+%6int*
+z z(G
+
+%8"
+{ {(
+""B0.
+,com.simplecity.amp_library.model.AlbumArtistHX

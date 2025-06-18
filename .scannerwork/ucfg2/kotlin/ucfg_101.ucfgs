@@ -1,0 +1,129 @@
+é
+[com.simplecity.amp_library.ui.screens.search.SearchResult#getAlbumArtists()Ljava/util/List;
+__unknown_file ("0*–
+0 (ô
+ñ
+ (
+fieldjava.util.List"__id*k
+ (_*];
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumArtistsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultHÆ
+\com.simplecity.amp_library.ui.screens.search.SearchResult#setAlbumArtists(Ljava/util/List;)V
+__unknown_file ("0* 
+0 (ô
+ñ
+ (];
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumArtistsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultHÇ
+Ucom.simplecity.amp_library.ui.screens.search.SearchResult#getAlbums()Ljava/util/List;
+__unknown_file ("0* 
+0 (ì
+ê
+ (
+fieldjava.util.List"__id*e
+ (Y*W;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH¢
+Vcom.simplecity.amp_library.ui.screens.search.SearchResult#setAlbums(Ljava/util/List;)V
+__unknown_file ("0*ƒ
+0 (ì
+ê
+ (W;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+albumsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultHÄ
+Tcom.simplecity.amp_library.ui.screens.search.SearchResult#getSongs()Ljava/util/List;
+__unknown_file ("0*…
+0 (í
+è
+ (
+fieldjava.util.List"__id*d
+ (X*V;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+songsjava.util.List"%
+ (
+
+fieldjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH†
+Ucom.simplecity.amp_library.ui.screens.search.SearchResult#setSongs(Ljava/util/List;)V
+__unknown_file ("0*√
+0 (í
+è
+ (V;
+9com.simplecity.amp_library.ui.screens.search.SearchResult"
+songsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH∑
+
+scom.simplecity.amp_library.ui.screens.search.SearchResult#<init>(Ljava/util/List;Ljava/util/List;Ljava/util/List;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchResult.kt ("0*˝
+0	 (Çö
+ó
+ (?
+%0java.util.List"\com.simplecity.amp_library.ui.screens.search.SearchResult#setAlbumArtists(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*<
+
+__unknown_file ( 
+
+albumArtistsjava.util.Listé
+ã
+A (a
+%1java.util.List"Vcom.simplecity.amp_library.ui.screens.search.SearchResult#setAlbums(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*6
+
+__unknown_file (
+
+albumsjava.util.Listç
+ä
+	c (Å
+%2java.util.List"Ucom.simplecity.amp_library.ui.screens.search.SearchResult#setSongs(Ljava/util/List;)V*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.screens.search.SearchResult*5
+
+__unknown_file (
+
+songsjava.util.List"/
+
+__unknown_file (
+implicit return:*
+ (?
+albumArtistsjava.util.List:$
+A (a
+albumsjava.util.List:$
+	c (Å
+songsjava.util.ListB=;
+9com.simplecity.amp_library.ui.screens.search.SearchResultH

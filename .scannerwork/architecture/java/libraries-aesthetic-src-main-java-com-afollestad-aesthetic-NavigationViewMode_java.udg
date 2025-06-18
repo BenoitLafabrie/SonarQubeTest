@@ -1,0 +1,102 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233431002*java2.BÉ
+W
+Rlibraries/aesthetic/src/main/java/com/afollestad/aesthetic/NavigationViewMode.java2
+
+package4
+
+com.afollestad.aesthetic5
+0
++com.afollestad.aesthetic.NavigationViewMode7
+
+
+annotation8
+
+access9
+
+public10
+
+simple name11
+
+NavigationViewMode12
+
+IntDef14
+
+unknown15
+
+annotated by16
+$
+Recovered#typeBindingLIntDef;018
+
+
+uses19
+B
+<com.afollestad.aesthetic.NavigationViewMode.SELECTED_PRIMARY21
+
+
+references22
+A
+;com.afollestad.aesthetic.NavigationViewMode.SELECTED_ACCENT24
+
+field25
+
+SELECTED_PRIMARY26
+
+SELECTED_ACCENT27J
+
+1
+12Z
+
+3	
+354jç
+9
+64
+678 *
+1 (%:3B
+	
+9
+10
+
+
+11
+12
+
+13
+131415
+@
+20:
+202125 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+
+17
+171815
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27rh
+
+61316*
+1 (
+
+61719*
+1 (
+
+62022*
+1 ("
+
+62322*
+1$ (3

@@ -1,0 +1,757 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440373*java2.Bž
+T
+Oapp/src/main/java/com/simplecity/amp_library/utils/ContextualToolbarHelper.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+=
+8com.simplecity.amp_library.utils.ContextualToolbarHelper7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ContextualToolbarHelper12
+G
+Acom.simplecity.amp_library.utils.ContextualToolbarHelper$Callback14
+
+	interface15
+
+Callback16
+q
+kcom.simplecity.amp_library.utils.ContextualToolbarHelper$Callback#notifyItemChanged(LSelectableViewModel;)V18
+
+method19
+
+notifyItemChanged20
+1
++Recovered#typeBindingLSelectableViewModel;022
+
+unknown23
+
+	has param24
+
+is type25
+
+
+uses26
+_
+Ycom.simplecity.amp_library.utils.ContextualToolbarHelper$Callback#notifyDatasetChanged()V28
+
+notifyDatasetChanged29
+Q
+Kcom.simplecity.amp_library.utils.ContextualToolbarHelper.applicationContext31
+
+field32
+
+private33
+
+applicationContext34
+
+Context36
+B
+<com.simplecity.amp_library.utils.ContextualToolbarHelper.map38
+	
+map39
+P
+Jcom.simplecity.amp_library.utils.ContextualToolbarHelper.contextualToolbar41
+
+contextualToolbar42
+
+ContextualToolbar44
+
+NonNull46
+
+annotated by47
+%
+Recovered#typeBindingLNonNull;049
+G
+Acom.simplecity.amp_library.utils.ContextualToolbarHelper.callback51
+
+callback52
+
+
+references53
+G
+Acom.simplecity.amp_library.utils.ContextualToolbarHelper.isActive55
+
+isActive56
+M
+Gcom.simplecity.amp_library.utils.ContextualToolbarHelper.canChangeTitle58
+
+canChangeTitle59
+¨
+¡com.simplecity.amp_library.utils.ContextualToolbarHelper#<init>(LContext;LContextualToolbar;Lcom/simplecity/amp_library/utils/ContextualToolbarHelper$Callback;)V61
+%
+Recovered#typeBindingLContext;063
+/
+)Recovered#typeBindingLContextualToolbar;065
+
+calls66
+T
+Ncom.simplecity.amp_library.utils.ContextualToolbarHelper#setCanChangeTitle(Z)V68
+
+setCanChangeTitle69
+G
+Acom.simplecity.amp_library.utils.ContextualToolbarHelper#start()V71
+
+start72
+H
+Bcom.simplecity.amp_library.utils.ContextualToolbarHelper#finish()V74
+
+finish75
+M
+Gcom.simplecity.amp_library.utils.ContextualToolbarHelper#updateCount()V77
+
+updateCount78
+x
+rcom.simplecity.amp_library.utils.ContextualToolbarHelper#addOrRemoveItem(LSelectableViewModel;Ljava/lang/Object;)V80
+
+addOrRemoveItem81
+
+T83
+t
+ncom.simplecity.amp_library.utils.ContextualToolbarHelper#handleClick(LSelectableViewModel;Ljava/lang/Object;)Z85
+
+handleClick86
+x
+rcom.simplecity.amp_library.utils.ContextualToolbarHelper#handleLongClick(LSelectableViewModel;Ljava/lang/Object;)Z88
+
+handleLongClick89
+Y
+Scom.simplecity.amp_library.utils.ContextualToolbarHelper#getItems()Ljava/util/List;91
+
+getItems92J
+
+1
+12Z
+
+3	
+354j
+@
+37:
+373832 *
+1 (26:3B
+	
+9
+33
+
+
+11
+39
+@
+57:
+575832 *
+1   (26:3B
+	
+9
+33
+
+
+11
+59
+
+62
+626323
+@
+70:
+707119 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+72
+@
+60:
+606119 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+12
+@
+87:
+878819 *
+1^ ^(26:3B
+	
+9
+10
+
+
+11
+89
+@
+54:
+545532 *
+1 (26:3B
+	
+9
+33
+
+
+11
+56
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+@
+67:
+676819 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+69
+@
+90:
+909119 *
+1h h(26:3B
+	
+9
+10
+
+
+11
+92
+A
+17;
+171819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+20
+
+21
+212223
+@
+30:
+303132 *
+1 (26:3B
+	
+9
+33
+
+
+11
+34
+
+82
+828323
+
+64
+646523
+
+45
+454623
+A
+27;
+272819 *
+1	 (213:3B
+	
+9
+10
+
+
+11
+29
+@
+76:
+767719 *
+1? ?(26:3B
+	
+9
+33
+
+
+11
+78
+
+43
+434423
+
+35
+353623
+@
+84:
+848519 *
+1U U(26:3B
+	
+9
+10
+
+
+11
+86
+9
+64
+678 *
+1 (%:3B
+	
+9
+10
+
+
+11
+12
+@
+40:
+404132 *
+1 (26:3B
+	
+9
+33
+
+
+11
+42
+@
+79:
+798019 *
+1E E(26:3B
+	
+9
+33
+
+
+11
+81
+@
+50:
+505132 *
+1 (26:3B
+	
+9
+33
+
+
+11
+52
+@
+73:
+737419 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+75
+
+48
+484923r
+
+172124*
+1  (3
+
+172125*
+14 (=
+
+172126*
+1  (3
+
+303525*
+1 (
+
+303526*
+1 (
+
+303526*
+1 ('
+
+372126*
+1 (*
+
+404325*
+1 ($
+
+404547*
+1 (
+
+404826*
+1 (
+
+404326*
+1 ($
+
+404326*
+1% (6
+
+501325*
+1 (
+
+504547*
+1 (
+
+504826*
+1 (
+
+501326*
+1 (
+
+501353*
+1 (
+
+501326*
+1 ($
+
+606224*
+1"$ "(+
+
+606424*
+1"> "(O
+
+601324*
+1"l "(t
+
+60666*
+1" "(#
+
+606225*
+1", "(3
+
+606226*
+1"$ "(+
+
+606425*
+1"P "(a
+
+604547*
+1"5 "(6
+
+604826*
+1"6 "(=
+
+606426*
+1"> "(O
+
+601325*
+1"u "(}
+
+604547*
+1"c "(d
+
+604826*
+1"d "(k
+
+601326*
+1"l "(t
+
+601353*
+1"l "(t
+
+60626*
+1#	 #(
+
+60653*
+1#	 #(
+
+603526*
+1# #( 
+
+603053*
+1# #( 
+
+60626*
+1$	 $(
+
+60653*
+1$	 $(
+
+604326*
+1$ $(
+
+604053*
+1$ $(
+
+60626*
+1%	 %(
+
+60653*
+1%	 %(
+
+601326*
+1% %(
+
+605053*
+1% %(
+
+67626*
+1)	 )(
+
+67653*
+1)	 )(
+
+675753*
+1) )(
+
+704053*
+1-	 -(
+
+704326*
+1-	 -(
+
+704053*
+1-	 -(
+
+704053*
+1.	 .(
+
+704326*
+1.	 .(
+
+704053*
+1.	 .(
+
+705453*
+1/	 /(
+
+733753*
+13 3(
+
+733753*
+13 3(
+
+733753*
+14 4(
+
+733753*
+14 4(
+
+731353*
+15 5(
+
+732766*
+15 5(*
+
+735053*
+15 5(
+
+731326*
+15 5(
+
+735053*
+15 5(
+
+733753*
+18	 8(
+
+733753*
+18	 8(
+
+734053*
+1:	 :(
+
+734326*
+1:	 :(
+
+734053*
+1:	 :(
+
+734053*
+1;	 ;(
+
+734326*
+1;	 ;(
+
+734053*
+1;	 ;(
+
+735453*
+1<	 <(
+
+765753*
+1@ @(
+
+764053*
+1A A(
+
+764326*
+1A A(
+
+764053*
+1A A(
+
+763053*
+1A( A(:
+
+763526*
+1A( A(:
+
+763053*
+1A( A(:
+
+763753*
+1Ak A(n
+
+763753*
+1Ak A(n
+
+792124*
+1E" E(5
+
+798224*
+1EA E(B
+
+792125*
+1E6 E(?
+
+792126*
+1E" E(5
+
+798225*
+1EC E(H
+
+793753*
+1F F(
+
+793753*
+1F F(
+
+793753*
+1G G(
+
+793753*
+1G G(
+
+793753*
+1J J(
+
+793753*
+1J J(
+
+79653*
+1N	 N(
+
+797666*
+1N	 N(
+
+793753*
+1P P(
+
+793753*
+1P P(
+
+79653*
+1Q Q(
+
+797366*
+1Q Q(
+
+842124*
+1U  U(3
+
+848224*
+1UI U(J
+
+842125*
+1U4 U(G
+
+842126*
+1U  U(3
+
+848225*
+1UK U(O
+
+845453*
+1V V(
+
+84653*
+1W W(
+
+847966*
+1W W(
+
+841353*
+1X X(
+
+841766*
+1X X('
+
+845053*
+1X X(
+
+841326*
+1X X(
+
+845053*
+1X X(
+
+872124*
+1^$ ^(7
+
+878224*
+1^M ^(N
+
+872125*
+1^8 ^(K
+
+872126*
+1^$ ^(7
+
+878225*
+1^O ^(S
+
+875453*
+1_ _(
+
+87653*
+1` `(
+
+877066*
+1` `(
+
+87653*
+1a a(
+
+877966*
+1a a(
+
+871353*
+1b b(
+
+871766*
+1b b('
+
+875053*
+1b b(
+
+871326*
+1b b(
+
+875053*
+1b b(
+
+903753*
+1i  i(#
+
+903753*
+1i  i(#

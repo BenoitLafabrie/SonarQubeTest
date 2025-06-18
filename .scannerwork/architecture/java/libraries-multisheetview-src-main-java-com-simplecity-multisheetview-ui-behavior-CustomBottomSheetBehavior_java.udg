@@ -1,0 +1,291 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233426465*java2.B¨
+t
+olibraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/behavior/CustomBottomSheetBehavior.java2
+
+package4
+.
+)com.simplecity.multisheetview.ui.behavior5
+H
+Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CustomBottomSheetBehavior12
+1
++Recovered#typeBindingLBottomSheetBehavior;014
+
+unknown15
+
+extends16
+
+
+View18
+
+	has param19
+
+V21
+
+
+uses22
+M
+Gcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior.TAG24
+
+field25
+
+private26
+	
+TAG27
+W
+Qcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior.allowDragging29
+
+allowDragging30
+S
+Mcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#<init>()V32
+
+method33
+
+calls34
+j
+dcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#<init>(LContext;LAttributeSet;)V36
+%
+Recovered#typeBindingLContext;038
+*
+$Recovered#typeBindingLAttributeSet;040
+
+is type41
+^
+Xcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#setAllowDragging(Z)V43
+
+setAllowDragging44
+
+
+references45
+‰
+‚com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#onInterceptTouchEvent(LCoordinatorLayout;LView;LMotionEvent;)Z47
+
+onInterceptTouchEvent48
+/
+)Recovered#typeBindingLCoordinatorLayout;050
+)
+#Recovered#typeBindingLMotionEvent;052
+
+BottomSheetBehavior54J
+
+1
+12Z
+
+3	
+354jç
+@
+46:
+464733 *
+1 (26:3B
+	
+9
+10
+
+
+11
+48
+
+37
+373815
+@
+42:
+424333 *
+1 (26:3B
+	
+9
+10
+
+
+11
+44
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+26
+
+
+11
+27
+
+49
+495015
+
+13
+131415
+
+17
+171815
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+26
+
+
+11
+30
+
+53
+535415
+@
+35:
+353633 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+20
+202115
+
+51
+515215
+9
+64
+678 *
+1
+ 
+(':3B
+	
+9
+10
+
+
+11
+12
+@
+31:
+313233 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+39
+394015rž
+
+61316*
+1
+@ 
+(S
+
+61719*
+1
+2 
+(6
+
+62022*
+1
+( 
+()
+
+61722*
+1
+2 
+(6
+
+61322*
+1
+@ 
+(S
+
+62022*
+1
+T 
+(U
+
+31634*
+1 (%
+
+353719*
+1& (-
+
+353919*
+17 (C
+
+35634*
+1 (%
+
+353741*
+1. (5
+
+353722*
+1& (-
+
+353941*
+1D (I
+
+353922*
+17 (C
+
+42622*
+1	 (
+
+42645*
+1	 (
+
+422845*
+1 (
+
+464919*
+1* (;
+
+462019*
+1D (E
+
+465119*
+1M (X
+
+464941*
+1< (B
+
+464922*
+1* (;
+
+462041*
+1F (K
+
+462022*
+1D (E
+
+465141*
+1Y (^
+
+465122*
+1M (X
+
+462845*
+1 (
+
+46645*
+1! !(
+
+465322*
+1! !(
+
+46645*
+1! !(

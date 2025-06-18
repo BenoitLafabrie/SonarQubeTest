@@ -1,0 +1,664 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440564*java2.BÆ
+G
+Bapp/src/main/java/com/simplecity/amp_library/utils/FileHelper.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+0
++com.simplecity.amp_library.utils.FileHelper7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+FileHelper12
+5
+/com.simplecity.amp_library.utils.FileHelper.TAG14
+
+field15
+
+private16
+	
+TAG17
+@
+:com.simplecity.amp_library.utils.FileHelper.ROOT_DIRECTORY19
+
+ROOT_DIRECTORY20
+B
+<com.simplecity.amp_library.utils.FileHelper.PARENT_DIRECTORY22
+
+PARENT_DIRECTORY23
+C
+=com.simplecity.amp_library.utils.FileHelper.CURRENT_DIRECTORY25
+
+CURRENT_DIRECTORY26
+L
+Fcom.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z28
+
+method29
+
+	isSymlink30
+^
+Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;32
+
+resolveSymlink33
+_
+Ycom.simplecity.amp_library.utils.FileHelper#getName(Ljava/lang/String;)Ljava/lang/String;35
+
+getName36
+
+
+references37
+d
+^com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;39
+
+unknown40
+
+calls41
+
+getExtension42
+R
+Lcom.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z44
+
+isRootDirectory45
+
+
+uses46
+O
+Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z48
+
+canReadWrite49
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getPath(Ljava/io/File;)Ljava/lang/String;51
+
+getPath52
+
+SuppressLint54
+
+annotated by55
+*
+$Recovered#typeBindingLSuppressLint;057
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getHumanReadableSize(J)Ljava/lang/String;59
+
+getHumanReadableSize60
+z
+tcom.simplecity.amp_library.utils.FileHelper#getDuration(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;)J62
+
+getDuration63
+%
+Recovered#typeBindingLContext;065
+
+	has param66
+5
+/com.simplecity.amp_library.model.BaseFileObject68
+
+is type69
+:
+4com.simplecity.amp_library.model.BaseFileObject.path71
+!
+Recovered#typeBindingLUri;073
+)
+#Recovered#typeBindingLMediaPlayer;075
+[
+Ucom.simplecity.amp_library.utils.FileHelper#getPathList(Ljava/io/File;ZZ)LObservable;77
+
+getPathList78
+
+
+Observable80
+
+returns81
+s
+mcom.simplecity.amp_library.utils.FileHelper#getSongList(LRepository/SongsRepository;Ljava/io/File;ZZ)LSingle;83
+
+getSongList84
+
+Single86
+(
+"Recovered#typeBindingLRepository;088
+"
+Recovered#typeBindingLSong;090
+m
+gcom.simplecity.amp_library.utils.FileHelper#getSong(LRepository/SongsRepository;Ljava/io/File;)LSingle;92
+
+getSong93
+h
+bcom.simplecity.amp_library.utils.FileHelper#walk(Ljava/io/File;Ljava/util/List;ZZ)Ljava/util/List;95
+
+
+walk96
+
+WorkerThread98
++
+$Recovered#typeBindingLWorkerThread;0100
+W
+Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;102
+N
+Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z104
+
+
+deleteFile105
+S
+Lcom.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z107
+
+DeleteRecursive108
+ç
+Öcom.simplecity.amp_library.utils.FileHelper#renameFile(LContext;Lcom/simplecity/amp_library/model/BaseFileObject;Ljava/lang/String;)Z110
+
+
+renameFile111
+)
+"Recovered#typeBindingLFileObject;0113
+P
+Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;115
+;
+4com.simplecity.amp_library.model.BaseFileObject.name117
+>
+7com.simplecity.amp_library.utils.FileHelper.sExtensions119
+
+sExtensions120
+
+getAudioFilter121J
+
+1
+12Z
+
+3	
+354j›
+@
+21:
+212215 *
+1' '(26:3B
+	
+9
+10
+
+
+11
+23
+
+64
+646540
+B
+82<
+828329 *
+1€ €(26:3B
+	
+9
+10
+
+
+11
+84
+F
+103?
+10310429 *
+1û û(26:3B
+	
+9
+10
+
+11
+105
+
+89
+899040
+F
+118?
+11811915 *
+1’ ’(26:3B
+	
+9
+10
+
+11
+120
+@
+31:
+313229 *
+1F F(26:3B
+	
+9
+10
+
+
+11
+33
+
+72
+727340
+F
+106?
+10610729 *
+1® ®(26:3B
+	
+9
+16
+
+11
+108
+
+116
+11611740
+B
+61<
+616229 *
+1µ µ(26:3B
+	
+9
+10
+
+
+11
+63
+
+67
+676840
+B
+50<
+505129 *
+1É É(26:3B
+	
+9
+10
+
+
+11
+52
+
+87
+878840
+@
+24:
+242515 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+26
+@
+27:
+272829 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+30
+B
+94<
+949529 *
+1¸ ¸(26:3B
+	
+9
+16
+
+
+11
+96
+
+114
+11411540
+
+74
+747540
+@
+47:
+474829 *
+1x x(26:3B
+	
+9
+10
+
+
+11
+49
+B
+76<
+767729 *
+1Õ Õ(26:3B
+	
+9
+10
+
+
+11
+78
+B
+91<
+919229 *
+1Ê Ê(26:3B
+	
+9
+10
+
+
+11
+93
+
+99
+9910040
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+34:
+343529 *
+1P P(26:3B
+	
+9
+10
+
+
+11
+36
+
+79
+798040
+@
+18:
+181915 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+20
+
+97
+979840
+B
+58<
+585929 *
+1¨ ¨(26:3B
+	
+9
+10
+
+
+11
+60
+
+70
+707140
+
+85
+858640
+@
+38:
+383929 *
+1^ ^(26:3B
+	
+9
+10
+
+
+11
+42
+
+56
+565740
+
+53
+535440
+@
+43:
+434429 *
+1n n(26:3B
+	
+9
+10
+
+
+11
+45
+F
+109?
+10911029 *
+1º º(26:3B
+	
+9
+10
+
+11
+111
+
+112
+11211340
+F
+101?
+10110229 *
+1‡ ‡(26:3B
+	
+9
+10
+
+11
+121r…
+
+34637*
+1Q Q("
+
+343841*
+1Q Q("
+
+43646*
+1o+ o(5
+
+431837*
+1o6 o(D
+
+505355*
+1É É(
+
+505646*
+1É É(
+
+50637*
+1ç ç(
+
+502741*
+1ç ç(
+
+50637*
+1é é(&
+
+503141*
+1é é(&
+
+616466*
+1µ$ µ(+
+
+616766*
+1µ5 µ(C
+
+616469*
+1µ, µ(3
+
+616446*
+1µ$ µ(+
+
+616769*
+1µD µ(R
+
+616746*
+1µ5 µ(C
+
+617037*
+1∑I ∑(M
+
+617269*
+1∏ ∏(
+
+617246*
+1∏ ∏(
+
+617037*
+1∏0 ∏(4
+
+617469*
+1∫ ∫((
+
+617446*
+1∫ ∫(
+
+767981*
+1Õ Õ(
+
+767946*
+1Õ Õ(
+
+828581*
+1€ €(
+
+828766*
+1€2 €(<
+
+828546*
+1€ €(
+
+828946*
+1€ €(#
+
+828769*
+1€M €(\
+
+828746*
+1€2 €(<
+
+828746*
+1€= €(L
+
+918581*
+1Ê Ê(
+
+918766*
+1Ê( Ê(2
+
+918546*
+1Ê Ê(
+
+918946*
+1Ê Ê(
+
+918769*
+1ÊC Ê(R
+
+918746*
+1Ê( Ê(2
+
+918746*
+1Ê3 Ê(B
+
+949755*
+1¸ ¸(
+
+949946*
+1¸ ¸(
+
+94637*
+1à& à(4
+
+9410141*
+1à& à(4
+
+94637*
+1ç ç(
+
+103637*
+1ü ü(
+
+10310641*
+1ü ü(
+
+106637*
+1Ø Ø($
+
+1096466*
+1º& º(-
+
+1096766*
+1º7 º(E
+
+1096469*
+1º. º(5
+
+1096446*
+1º& º(-
+
+1096769*
+1ºF º(T
+
+1096746*
+1º7 º(E
+
+10911246*
+1¡' ¡(1
+
+10911246*
+1¬ ¬(&
+
+1097037*
+1»- »(1
+
+1096737*
+1…! …(/
+
+10911441*
+1…0 …(9
+
+10911637*
+1À À( 
+
+109637*
+1À# À(-
+
+1093441*
+1À. À(5
+
+109646*
+1À# À(-
+
+101637*
+1Ê" Ê(.
+
+1013841*
+1Ê" Ê(.
+
+10111837*
+1Á4 Á(?

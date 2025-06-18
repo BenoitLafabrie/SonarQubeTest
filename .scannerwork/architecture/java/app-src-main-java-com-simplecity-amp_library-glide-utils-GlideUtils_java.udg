@@ -1,0 +1,169 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233441687*java2.Bµ
+M
+Happ/src/main/java/com/simplecity/amp_library/glide/utils/GlideUtils.java2
+
+package4
++
+&com.simplecity.amp_library.glide.utils5
+6
+1com.simplecity.amp_library.glide.utils.GlideUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+GlideUtils12
+A
+;com.simplecity.amp_library.glide.utils.GlideUtils#<init>()V14
+
+method15
+
+private16
+
+calls17
+\
+Vcom.simplecity.amp_library.glide.utils.GlideUtils#drawableToBitmap(LDrawable;)LBitmap;19
+
+drawableToBitmap20
+
+Bitmap22
+
+unknown23
+
+returns24
+&
+ Recovered#typeBindingLDrawable;026
+
+	has param27
+
+
+uses28
+
+is type29
+
+NonNull31
+
+annotated by32
+%
+Recovered#typeBindingLNonNull;034
+$
+Recovered#typeBindingLBitmap;036
+,
+&Recovered#typeBindingLBitmapDrawable;038
+$
+Recovered#typeBindingLCanvas;040J
+
+1
+12Z
+
+3	
+354jË
+
+21
+212223
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+10
+
+
+11
+20
+
+39
+394023
+
+37
+373823
+
+30
+303123
+9
+64
+678 *
+1	 	(:3B
+	
+9
+10
+
+
+11
+12
+
+25
+252623
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+
+35
+353623
+
+33
+333423r¯
+
+13617*
+1 (
+
+182124*
+1 (
+
+182527*
+14 (<
+
+182128*
+1 (
+
+182529*
+1= (E
+
+183032*
+1+ (,
+
+183328*
+1, (3
+
+182528*
+14 (<
+
+183529*
+1 (
+
+183528*
+1	 (
+
+183728*
+1! (/
+
+183729*
+1 (*
+
+183728*
+1 (
+
+183728*
+1. (<
+
+183929*
+1 (
+
+183928*
+1	 (

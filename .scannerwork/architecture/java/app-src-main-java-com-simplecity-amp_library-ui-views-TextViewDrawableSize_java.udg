@@ -1,0 +1,393 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233427108*java2.BÁ
+T
+Oapp/src/main/java/com/simplecity/amp_library/ui/views/TextViewDrawableSize.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+=
+8com.simplecity.amp_library.ui.views.TextViewDrawableSize7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+TextViewDrawableSize12
+7
+1Recovered#typeBindingLAestheticDrawableTextView;014
+
+unknown15
+
+extends16
+
+
+uses17
+L
+Fcom.simplecity.amp_library.ui.views.TextViewDrawableSize.drawableWidth19
+
+field20
+
+private21
+
+drawableWidth22
+M
+Gcom.simplecity.amp_library.ui.views.TextViewDrawableSize.drawableHeight24
+
+drawableHeight25
+Q
+Kcom.simplecity.amp_library.ui.views.TextViewDrawableSize#<init>(LContext;)V27
+
+method28
+%
+Recovered#typeBindingLContext;030
+
+	has param31
+
+calls32
+
+is type33
+
+
+references34
+^
+Xcom.simplecity.amp_library.ui.views.TextViewDrawableSize#init(LContext;LAttributeSet;I)V36
+_
+Ycom.simplecity.amp_library.ui.views.TextViewDrawableSize#<init>(LContext;LAttributeSet;)V38
+*
+$Recovered#typeBindingLAttributeSet;040
+`
+Zcom.simplecity.amp_library.ui.views.TextViewDrawableSize#<init>(LContext;LAttributeSet;I)V42
+
+
+init43
+(
+"Recovered#typeBindingLTypedArray;045
+Z
+Tcom.simplecity.amp_library.ui.views.TextViewDrawableSize#initCompoundDrawableSize()V47
+
+initCompoundDrawableSize48
+A
+;Recovered#innerTypeBindingRecovered#typeBindingLDrawable;0150
+&
+ Recovered#typeBindingLDrawable;052
+"
+Recovered#typeBindingLRect;054J
+
+1
+12Z
+
+3	
+354j•
+9
+64
+678 *
+1
+ 
+(":3B
+	
+9
+10
+
+
+11
+12
+@
+37:
+373828 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+29
+293015
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+46:
+464728 *
+1- -(26:3B
+	
+9
+21
+
+
+11
+48
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25
+@
+35:
+353628 *
+1 (26:3B
+	
+9
+21
+
+
+11
+43
+@
+41:
+414228 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+49
+495015
+
+44
+444515
+
+51
+515215
+
+53
+535415
+
+13
+131415
+
+39
+394015r«
+
+61316*
+1
++ 
+(D
+
+61317*
+1
++ 
+(D
+
+262931*
+1! ((
+
+26632*
+1 ( 
+
+262933*
+1) (0
+
+262917*
+1! ((
+
+26634*
+1	 (
+
+263532*
+1	 (
+
+372931*
+1! ((
+
+373931*
+12 (>
+
+37632*
+1 ( 
+
+372933*
+1) (0
+
+372917*
+1! ((
+
+373933*
+1? (D
+
+373917*
+12 (>
+
+37634*
+1	 (
+
+373532*
+1	 (
+
+412931*
+1! ((
+
+413931*
+12 (>
+
+41632*
+1 ( 
+
+412933*
+1) (0
+
+412917*
+1! ((
+
+413933*
+1? (D
+
+413917*
+12 (>
+
+41634*
+1	 (
+
+413532*
+1	 (
+
+352931*
+1 (
+
+353931*
+1( (4
+
+352933*
+1 (&
+
+352917*
+1 (
+
+353933*
+15 (:
+
+353917*
+1( (4
+
+354433*
+1 (
+
+354417*
+1	 (
+
+351834*
+1" "(
+
+352334*
+1# #(
+
+351834*
+1( ((
+
+352334*
+1(" ((0
+
+35634*
+1) )(%
+
+354632*
+1) )(%
+
+464933*
+1. .(
+
+465117*
+1.	 .(
+
+465133*
+1/ /(
+
+465117*
+1/ /(
+
+465333*
+14 4(
+
+465317*
+14 4(
+
+46617*
+1: :(
+
+46634*
+1: :(
+
+461834*
+1: :(#
+
+46617*
+1;% ;()
+
+46634*
+1;% ;()
+
+461834*
+1;* ;(7
+
+46617*
+1<% <()
+
+46634*
+1<% <()
+
+461834*
+1<* <(7
+
+46617*
+1@ @(
+
+46634*
+1@ @(
+
+462334*
+1@ @($
+
+46617*
+1A& A(*
+
+46634*
+1A& A(*
+
+462334*
+1A+ A(9
+
+46617*
+1B& B(*
+
+46634*
+1B& B(*
+
+462334*
+1B+ B(9

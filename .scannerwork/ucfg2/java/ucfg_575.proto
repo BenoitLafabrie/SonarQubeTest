@@ -1,0 +1,88 @@
+
+Ecom.simplecity.amp_library.playback.MediaManager#getAudioSessionId()I~
+r/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.javaÂ Â( "4*¬
+2
+Ä Ä(.½
+º
+
+Ä Ä(<5
+%5/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderÄÁ
+
+Ä Ä(I
+%6"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
+
+__unknown_file (7
+5
+%5/com.simplecity.amp_library.playback.LocalBinder2getService()"
+
+Ä Ä(^
+""*
+3
+ÃA Ã(\½
+º
+
+ÃA Ã(j5
+%2/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderÄÁ
+
+ÃA Ã(w
+%3"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
+
+__unknown_file (7
+5
+%2/com.simplecity.amp_library.playback.LocalBinder2getService()a
+_
+
+ÃA Ã(
+%4"	__compare*
+
+Ãx Ã(z
+!=*
+
+ÃA Ã(w
+
+%3*
+
+Ã{ Ã(
+""*
+2
+1*ö
+4
+Ã Ã('½
+º
+
+Ã Ã(55
+%0/com.simplecity.amp_library.playback.LocalBinder"__id*o
+
+__unknown_file (S*Q>
+<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
+serviceBinderœ
+™
+
+Ã Ã(=
+%1boolean"	__compare*
+
+Ã6 Ã(8
+!=*E
+
+Ã Ã(57
+5
+%0/com.simplecity.amp_library.playback.LocalBinder*
+
+Ã9 Ã(=
+""*
+3
+1*%
+1
+Æ Æ("
+
+Æ Æ(
+""B42
+0com.simplecity.amp_library.playback.MediaManagerHX

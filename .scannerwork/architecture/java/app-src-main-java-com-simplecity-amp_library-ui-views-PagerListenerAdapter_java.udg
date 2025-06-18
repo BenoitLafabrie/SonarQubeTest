@@ -1,0 +1,107 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233422502*java2.BØ
+T
+Oapp/src/main/java/com/simplecity/amp_library/ui/views/PagerListenerAdapter.java2
+
+package4
+(
+#com.simplecity.amp_library.ui.views5
+=
+8com.simplecity.amp_library.ui.views.PagerListenerAdapter7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+PagerListenerAdapter12
+'
+!Recovered#typeBindingLViewPager;014
+
+unknown15
+
+
+implements16
+
+
+uses17
+S
+Mcom.simplecity.amp_library.ui.views.PagerListenerAdapter#onPageScrolled(IFI)V19
+
+method20
+
+onPageScrolled21
+Q
+Kcom.simplecity.amp_library.ui.views.PagerListenerAdapter#onPageSelected(I)V23
+
+onPageSelected24
+[
+Ucom.simplecity.amp_library.ui.views.PagerListenerAdapter#onPageScrollStateChanged(I)V26
+
+onPageScrollStateChanged27J
+
+1
+12Z
+
+3	
+354j•
+@
+25:
+252620 *
+1 (26:3B
+	
+9
+10
+
+
+11
+27
+9
+64
+678 *
+1 (+:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+21
+
+13
+131415
+@
+22:
+222320 *
+1 (26:3B
+	
+9
+10
+
+
+11
+24rN
+
+61316*
+17 (@
+
+61317*
+17 (@
+
+61317*
+1A (U

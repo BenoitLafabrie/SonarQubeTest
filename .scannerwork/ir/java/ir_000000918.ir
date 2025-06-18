@@ -1,0 +1,26 @@
+
+50int
+15int
+25intLthis- -(-"8android.support.design.widget.CustomCollapsingTextHelper"’!
+
+E' E(."#unknown-value#;
+9
+E' E(>"#get-field# CENTER_VERTICAL:B	!Unknown!6
+4
+E E(?"" #set-field# mExpandedTextGravity:!
+
+F( F(/"#unknown-value#;
+9
+F( F(?"#get-field# CENTER_VERTICAL:B	!Unknown!7
+5
+F F(@"#!#set-field# mCollapsedTextGravity:3
+1
+G G()	"#set-field# mExpandedTextSize:4
+2
+H H(*
+" #set-field# mCollapsedTextSize:2
+0
+k k(("#set-field# mExpandedSubSize:3
+1
+p p()"#set-field# mCollapsedSubSize:	
+, Ù(*z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java

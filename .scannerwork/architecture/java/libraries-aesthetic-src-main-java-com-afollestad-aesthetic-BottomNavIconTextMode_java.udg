@@ -1,0 +1,120 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233440412*java2.B·
+Z
+Ulibraries/aesthetic/src/main/java/com/afollestad/aesthetic/BottomNavIconTextMode.java2
+
+package4
+
+com.afollestad.aesthetic5
+3
+.com.afollestad.aesthetic.BottomNavIconTextMode7
+
+
+annotation8
+
+access9
+
+public10
+
+simple name11
+
+BottomNavIconTextMode12
+
+IntDef14
+
+unknown15
+
+annotated by16
+$
+Recovered#typeBindingLIntDef;018
+
+
+uses19
+E
+?com.afollestad.aesthetic.BottomNavIconTextMode.SELECTED_PRIMARY21
+
+
+references22
+D
+>com.afollestad.aesthetic.BottomNavIconTextMode.SELECTED_ACCENT24
+E
+?com.afollestad.aesthetic.BottomNavIconTextMode.BLACK_WHITE_AUTO26
+
+field27
+
+SELECTED_PRIMARY28
+
+SELECTED_ACCENT29
+
+BLACK_WHITE_AUTO30J
+
+1
+12Z
+
+3	
+354j©
+
+13
+131415
+@
+25:
+252627 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+9
+64
+678 *
+1 ((:3B
+	
+9
+10
+
+
+11
+12
+
+17
+171815
+@
+20:
+202127 *
+1 (26:3B
+	
+9
+10
+
+
+11
+28
+@
+23:
+232427 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29r‚
+
+61316*
+1 (
+
+61719*
+1 (
+
+62022*
+1 ("
+
+62322*
+1$ (3
+
+62522*
+15 (E

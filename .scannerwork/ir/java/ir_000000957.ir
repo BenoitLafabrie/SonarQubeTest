@@ -1,0 +1,100 @@
+Nthis
+‘ ‘(""8android.support.design.widget.CustomCollapsingTextHelperfraction
+‘# ‘(1"float"ï#
+!
+
+’# ’(2"#unknown-value#2
+0
+
+’# ’(7"#get-field# left:B	!Unknown!#
+!
+
+’9 ’(I"#unknown-value#2
+0
+
+’9 ’(N"#get-field# left:B	!Unknown!#
+!
+
+“ “(/"#unknown-value#}
+{
+
+’ “(0"T
+8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
+!
+
+’ ’(	"#unknown-value#(
+&
+
+’ “(0
+"#set-field# left:	8
+6
+
+”" ”(0"#get-field# mExpandedDrawY:Bfloat9
+7
+
+”2 ”(A"#get-field# mCollapsedDrawY:Bfloat#
+!
+
+• •(/"#unknown-value#}
+{
+
+” •(0"T
+8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
+!
+
+” ”("#unknown-value#'
+%
+
+” •(0"#set-field# top:#
+!
+
+–$ –(3"#unknown-value#3
+1
+
+–$ –(9"#get-field# right:B	!Unknown!#
+!
+
+–; –(K"#unknown-value#3
+1
+
+–; –(Q"#get-field# right:B	!Unknown!#
+!
+
+— —(/"#unknown-value#}
+{
+
+– —(0"T
+8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
+!
+
+– –("#unknown-value#)
+'
+
+– —(0"#set-field# right:#
+!
+
+˜% ˜(4"#unknown-value#4
+2
+
+˜% ˜(;"#get-field# bottom:B	!Unknown!#
+!
+
+˜= ˜(M"#unknown-value#4
+2
+
+˜= ˜(T"#get-field# bottom:B	!Unknown!#
+!
+
+™ ™(/"#unknown-value#}
+{
+
+˜  ™(0"T
+8android.support.design.widget.CustomCollapsingTextHelperlerp(FFFLInterpolator;)F2lerp:B	!Unknown!#
+!
+
+˜ ˜("#unknown-value#*
+(
+
+˜ ™(0 "#set-field# bottom:
+
+š š(*z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java

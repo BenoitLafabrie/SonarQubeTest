@@ -1,0 +1,723 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233431533*java2.B±
+H
+Capp/src/main/java/com/simplecity/amp_library/utils/StringUtils.java2
+
+package4
+%
+ com.simplecity.amp_library.utils5
+1
+,com.simplecity.amp_library.utils.StringUtils7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+StringUtils12
+6
+0com.simplecity.amp_library.utils.StringUtils.TAG14
+
+field15
+
+private16
+	
+TAG17
+A
+;com.simplecity.amp_library.utils.StringUtils.sFormatBuilder19
+
+sFormatBuilder20
+=
+7com.simplecity.amp_library.utils.StringUtils.sFormatter22
+
+
+sFormatter23
+
+
+references24
+:
+4com.simplecity.amp_library.utils.StringUtils.pattern26
+
+pattern27
+<
+6com.simplecity.amp_library.utils.StringUtils#<init>()V29
+
+method30
+
+calls31
+_
+Ycom.simplecity.amp_library.utils.StringUtils#makeTimeString(LContext;J)Ljava/lang/String;33
+
+makeTimeString34
+%
+Recovered#typeBindingLContext;036
+
+unknown37
+
+	has param38
+
+is type39
+
+NonNull41
+
+annotated by42
+%
+Recovered#typeBindingLNonNull;044
+
+
+uses45
+d
+^com.simplecity.amp_library.utils.StringUtils#makeShortTimeString(LContext;J)Ljava/lang/String;47
+c
+]com.simplecity.amp_library.utils.StringUtils#makeLongTimeString(LContext;J)Ljava/lang/String;49
+
+makeLongTimeString50
+
+makeShortTimeString51
+h
+bcom.simplecity.amp_library.utils.StringUtils#makeTimeString(Ljava/lang/String;J)Ljava/lang/String;53
+e
+_com.simplecity.amp_library.utils.StringUtils#makeSubfoldersLabel(LContext;II)Ljava/lang/String;55
+
+makeSubfoldersLabel56
+'
+!Recovered#typeBindingLResources;058
+h
+bcom.simplecity.amp_library.utils.StringUtils#makeAlbumAndSongsLabel(LContext;II)Ljava/lang/String;60
+
+makeAlbumAndSongsLabel61
+`
+Zcom.simplecity.amp_library.utils.StringUtils#makeAlbumsLabel(LContext;I)Ljava/lang/String;63
+
+makeAlbumsLabel64
+_
+Ycom.simplecity.amp_library.utils.StringUtils#makeSongsLabel(LContext;I)Ljava/lang/String;66
+
+makeSongsLabel67
+^
+Xcom.simplecity.amp_library.utils.StringUtils#makeYearLabel(LContext;I)Ljava/lang/String;69
+
+makeYearLabel70
+g
+acom.simplecity.amp_library.utils.StringUtils#makeSongsAndTimeLabel(LContext;IJ)Ljava/lang/String;72
+
+makeSongsAndTimeLabel73
+_
+Ycom.simplecity.amp_library.utils.StringUtils#keyFor(Ljava/lang/String;)Ljava/lang/String;75
+
+keyFor76
+l
+fcom.simplecity.amp_library.utils.StringUtils#containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Z78
+
+containsIgnoreCase79
+z
+tcom.simplecity.amp_library.utils.StringUtils#getAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D81
+&
+ getAdjustedJaroWinklerSimilarity82
+
+Nullable84
+&
+ Recovered#typeBindingLNullable;086
+r
+lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D88
+
+getJaroWinklerSimilarity89
+n
+hcom.simplecity.amp_library.utils.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I91
+
+matches92
+P
+Jcom.simplecity.amp_library.utils.StringUtils#parseInt(Ljava/lang/String;)I94
+
+parseInt95J
+
+1
+12Z
+
+3	
+354j±
+
+35
+353637
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+46:
+464730 *
+10 0(26:3B
+	
+9
+16
+
+
+11
+51
+
+85
+858637
+@
+32:
+323330 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+34
+
+40
+404137
+B
+62<
+626330 *
+1å å(26:3B
+	
+9
+10
+
+
+11
+64
+B
+65<
+656630 *
+1ñ ñ(26:3B
+	
+9
+10
+
+
+11
+67
+@
+28:
+282930 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+16
+
+
+11
+23
+B
+93<
+939430 *
+1∆ ∆(26:3B
+	
+9
+10
+
+
+11
+95
+B
+71<
+717230 *
+1© ©(26:3B
+	
+9
+10
+
+
+11
+73
+B
+74<
+747530 *
+1º º(26:3B
+	
+9
+10
+
+
+11
+76
+B
+77<
+777830 *
+1Õ Õ(26:3B
+	
+9
+10
+
+
+11
+79
+B
+68<
+686930 *
+1† †(26:3B
+	
+9
+10
+
+
+11
+70
+B
+80<
+808130 *
+1◊ ◊(26:3B
+	
+9
+10
+
+
+11
+82
+@
+48:
+484930 *
+1, ,(26:3B
+	
+9
+16
+
+
+11
+50
+
+57
+575837
+@
+52:
+525330 *
+14 4(26:3B
+	
+9
+16
+
+
+11
+34
+B
+87<
+878830 *
+1˚ ˚(26:3B
+	
+9
+10
+
+
+11
+89
+@
+25:
+252615 *
+1 (26:3B
+	
+9
+16
+
+
+11
+27
+@
+54:
+545530 *
+1I I(26:3B
+	
+9
+10
+
+
+11
+56
+B
+90<
+909130 *
+1é é(26:3B
+	
+9
+16
+
+
+11
+92
+
+43
+434437
+
+83
+838437
+@
+59:
+596030 *
+1q q(26:3B
+	
+9
+10
+
+
+11
+61r¶
+
+211824*
+19 (G
+
+28631*
+1 (
+
+323538*
+1&2 &(9
+
+323539*
+1&: &(A
+
+324042*
+1&) &(*
+
+324345*
+1&* &(1
+
+323545*
+1&2 &(9
+
+321824*
+1'	 '(
+
+321824*
+1'	 '(
+
+32624*
+1)( )(;
+
+324631*
+1)( )(;
+
+32624*
+1)M )(_
+
+324831*
+1)M )(_
+
+483538*
+1,7 ,(>
+
+483539*
+1,? ,(F
+
+484042*
+1,. ,(/
+
+484345*
+1,/ ,(6
+
+483545*
+1,7 ,(>
+
+48624*
+1- -(
+
+483231*
+1- -(
+
+463538*
+108 0(?
+
+463539*
+10@ 0(G
+
+464042*
+10/ 0(0
+
+464345*
+100 0(7
+
+463545*
+108 0(?
+
+46624*
+11 1(
+
+463231*
+11 1(
+
+521824*
+16	 6(
+
+521824*
+16	 6(
+
+522124*
+17 7(
+
+522124*
+17 7(
+
+543538*
+1I. I(5
+
+543539*
+1I6 I(=
+
+543545*
+1I. I(5
+
+545739*
+1M M(
+
+545745*
+1M M(
+
+541824*
+1U U(
+
+541824*
+1U U(
+
+542124*
+1V V(
+
+542124*
+1V V(
+
+541824*
+1W W(-
+
+541824*
+1d d(
+
+541824*
+1d d(
+
+542124*
+1e e(
+
+542124*
+1e e(
+
+541824*
+1f f(-
+
+593538*
+1q1 q(8
+
+593539*
+1q9 q(@
+
+593545*
+1q1 q(8
+
+595739*
+1t t(
+
+595745*
+1t t(
+
+591824*
+1y y(
+
+591824*
+1y y(
+
+592124*
+1z z(
+
+592124*
+1z z(
+
+591824*
+1{" {(0
+
+591824*
+1Ö Ö(
+
+591824*
+1Ö Ö(
+
+592124*
+1Ü Ü(
+
+592124*
+1Ü Ü(
+
+591824*
+1á" á(0
+
+623538*
+1å* å(1
+
+623539*
+1å2 å(9
+
+623545*
+1å* å(1
+
+621824*
+1è	 è(
+
+621824*
+1è	 è(
+
+622124*
+1ê	 ê(
+
+622124*
+1ê	 ê(
+
+621824*
+1ë ë(,
+
+653538*
+1ñ) ñ(0
+
+653539*
+1ñ1 ñ(8
+
+653545*
+1ñ) ñ(0
+
+651824*
+1ô	 ô(
+
+651824*
+1ô	 ô(
+
+652124*
+1ö	 ö(
+
+652124*
+1ö	 ö(
+
+651824*
+1õ õ(,
+
+683538*
+1†( †(/
+
+683539*
+1†0 †(7
+
+683545*
+1†( †(/
+
+713538*
+1©0 ©(7
+
+713539*
+1©8 ©(?
+
+713545*
+1©0 ©(7
+
+71624*
+1™L ™(Z
+
+716531*
+1™L ™(Z
+
+71624*
+1™o ™(Å
+
+714831*
+1™o ™(Å
+
+742524*
+1ø ø(
+
+742524*
+1ø ø(
+
+808342*
+1◊; ◊(<
+
+808545*
+1◊< ◊(D
+
+808342*
+1◊S ◊(T
+
+808545*
+1◊T ◊(\
+
+80624*
+1·# ·(;
+
+808731*
+1·# ·(;
+
+80624*
+1Á Á(5
+
+808731*
+1Á Á(5
+
+80624*
+1È È(,
+
+808731*
+1È È(,
+
+874042*
+1˚3 ˚(4
+
+874345*
+1˚4 ˚(;
+
+874042*
+1˚J ˚(K
+
+874345*
+1˚K ˚(R
+
+87624*
+1Ñ Ñ("
+
+879031*
+1Ñ Ñ("
+
+938342*
+1∆  ∆(!
+
+938545*
+1∆! ∆()

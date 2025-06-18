@@ -1,0 +1,94 @@
+
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750233431323*java2.B¥
+N
+Iapp/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmImage.java2
+
+package4
++
+&com.simplecity.amp_library.http.lastfm5
+7
+2com.simplecity.amp_library.http.lastfm.LastFmImage7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+LastFmImage12
+<
+6com.simplecity.amp_library.http.lastfm.LastFmImage.url14
+
+field15
+	
+url16
+
+SerializedName18
+
+unknown19
+
+annotated by20
+,
+&Recovered#typeBindingLSerializedName;022
+
+
+uses23
+=
+7com.simplecity.amp_library.http.lastfm.LastFmImage.size25
+
+
+size26J
+
+1
+12Z
+
+3	
+354jç
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+21
+212219
+
+17
+171819
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12r6
+
+131720*
+1 (
+
+132123*
+1 (
