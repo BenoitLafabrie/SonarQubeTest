@@ -1,56 +1,0 @@
-
-Tcom.simplecity.amp_library.model.AlbumArtist#getRemoteArtworkUrl()Ljava/lang/String;Ä
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaë ë(%"4*Ë
-2ì ì(ú¨
-©
-ì ì(ú
-%4java.lang.String"__concat*O
-
-ì ì(RA?
-=https://artwork.shuttlemusicplayer.app/api/v1/artwork?artist=*'
-ìU ì(ú
-
-%3java.lang.String"'
-ì ì(ù
-
-%4java.lang.String*µ
-3ìU ì(úù
-ö
-ìU ì(ú
-%3java.lang.String"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*3
-
-__unknown_file ("
-java.net.URLEncoder*4
-
-__unknown_file (
-
-%0java.lang.String*4
-
-__unknown_file (
-
-%2java.lang.String*
-2*õ
-4
-ì ì(RÖ
-Ç
-
-ìg ì(k
-%0java.lang.String"__id*V
-
-__unknown_file (:*8.
-,com.simplecity.amp_library.model.AlbumArtist"
-nameY
-W
-ìm ì(î
-%1java.nio.charset.Charset"__id*"
-
-__unknown_file (
-""°û
-ìm ì(õ
-%2java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;*<
-
-__unknown_file ( 
-
-%1java.nio.charset.Charset2name()*
-3B0.
-,com.simplecity.amp_library.model.AlbumArtistH

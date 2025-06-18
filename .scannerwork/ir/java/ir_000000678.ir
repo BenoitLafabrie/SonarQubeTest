@@ -1,52 +1,0 @@
-
-4.5ffloat
-nullnull
-truebooleanHthis
-»# »(7"2com.simplecity.amp_library.utils.color.ColorHelper(backgroundLight
-»8 »(O"boolean$foregroundColor
-»Q »(d"int$backgroundColor
-»f »(y"int62com.simplecity.amp_library.utils.color.ColorHelper".,"*
-
-À À( *
-À À(
-2
-”
- ”("©ì
-ê
-
-Ã! –(secondaryTextColor"N
-2com.simplecity.amp_library.utils.color.ColorHelperfindContrastColor(IIZD)I2findContrastColor:BintG
-E
-
-“) “(H	"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint*
-(
-
-“( “(H
-"#unaryop -#2-:	Bintì
-ê
-
-— “(IprimaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:
-Bint"æ©
-¶
-
-‘! ÿ(secondaryTextColor"Y
-2com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I2findContrastColorAgainstDark:BintF
-D
-
-⁄) ⁄(G",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint*
-(
-
-⁄( ⁄(G"#unaryop -#2-:Bintì
-ê
-
-Ÿ ⁄(HprimaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:Bint" $*"secondaryTextColor"* primaryTextColor3
-1
-
-‹ ‹(?"#new-object#2ConstructorBPair5
-3
-
-‹ ‹(?"#unknown-value#2Constructor:
-
-‹ ‹(@*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

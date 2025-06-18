@@ -1,54 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261959605*java2.B”
-O
-Japp/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmResult.java2
-
-package4
-+
-&com.simplecity.amp_library.http.lastfm5
-8
-3com.simplecity.amp_library.http.lastfm.LastFmResult7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-
-LastFmResult12
-Y
-Scom.simplecity.amp_library.http.lastfm.LastFmResult#getImageUrl()Ljava/lang/String;14
-
-method15
-
-getImageUrl16J
-
-1
-12Z
-
-3	
-354j}
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12

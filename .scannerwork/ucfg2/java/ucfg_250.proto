@@ -1,944 +1,0 @@
-
-Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#hslToColor([F)IÜ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaë ë("2*Ü
-2
-í í(g
-e
-
-ñ+ ñ(0
-%0float"__calculate*
-
-ñ- ñ(.
-**
-
-ñ+ ñ(,2*
-
-ñ/ ñ(0
-""p
-n
-
-ñ+ ñ(5
-%1float"__calculate*
-
-ñ1 ñ(2
--*
-
-ñ+ ñ(0
-
-%0float*
-
-ñ3 ñ(5
-""è
-å
-
-ñ" ñ(6
-%2float"java.lang.Math#abs(F)F*.
-
-__unknown_file ("
-java.lang.Math*)
-
-__unknown_file (
-
-%1floatp
-n
-
-ñ ñ(6
-%3float"__calculate*
-
-ñ  ñ(!
--*
-
-ñ ñ(
-""*
-
-ñ" ñ(6
-
-%2floatp
-n
-
-ñ ñ(;
-%4float"__calculate*
-
-ñ8 ñ(9
-**
-
-ñ ñ(7
-
-%3float*
-
-ñ: ñ(;
-""i
-g
-
-ó  ó((
-%5float"__calculate*
-
-ó% ó(&
-**
-
-ó  ó($
-""*
-
-ó' ó((
-""p
-n
-
-ó ó((
-%6float"__calculate*
-
-ó ó(
--*
-
-ó ó(
-""*
-
-ó  ó((
-
-%5floati
-g
-
-ò0 ò(7
-%7float"__calculate*
-
-ò2 ò(3
-/*
-
-ò0 ò(1
-""*
-
-ò4 ò(7
-""p
-n
-
-ò0 ò(<
-%8float"__calculate*
-
-ò8 ò(9
-%*
-
-ò0 ò(7
-
-%7float*
-
-ò: ò(<
-""p
-n
-
-ò/ ò(B
-%9float"__calculate*
-
-ò> ò(?
--*
-
-ò/ ò(=
-
-%8float*
-
-ò@ ò(B
-""ê
-ç
-
-ò& ò(C
-%10float"java.lang.Math#abs(F)F*.
-
-__unknown_file ("
-java.lang.Math*)
-
-__unknown_file (
-
-%9floatr
-p
-
-ò! ò(C
-%11float"__calculate*
-
-ò$ ò(%
--*
-
-ò! ò(#
-""*
-
-ò& ò(C
-
-%10floatr
-p
-
-ò ò(D
-%12float"__calculate*
-
-ò ò(
-**
-
-ò ò(
-""*
-
-ò  ò(D
-
-%11floatf
-d
-
-ö# ö(/
-
-%13int"__calculate*
-
-ö+ ö(,
-/*
-
-ö# ö(*
-""*
-
-ö- ö(/2<*
-3
-4
-5
-6
-7
-8
-9*ë
-3
-¿ ƒ(i
-g
-
-¡# ¡(*
-%62float"__calculate*
-
-¡' ¡((
-**
-
-¡# ¡(&2ˇ*
-
-¡) ¡(*
-""ë
-é
-
-¡ ¡(+
-
-%63int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%62floati
-g
-
-¬# ¬(*
-%64float"__calculate*
-
-¬' ¬((
-**
-
-¬# ¬(&2ˇ*
-
-¬) ¬(*
-""ë
-é
-
-¬ ¬(+
-
-%65int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%64floati
-g
-
-√# √(*
-%66float"__calculate*
-
-√' √((
-**
-
-√# √(&2ˇ*
-
-√) √(*
-""ë
-é
-
-√ √(+
-
-%67int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%66float*
-1*˘
-4
-∫ ø(j
-h
-
-º* º(/
-%54float"__calculate*
-
-º, º(-
-+*
-
-º* º(+
-""*
-
-º. º(/
-""q
-o
-
-º# º(0
-%55float"__calculate*
-
-º' º((
-**
-
-º# º(&2ˇ*
-
-º) º(0
-
-%54floatë
-é
-
-º º(1
-
-%56int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%55floati
-g
-
-Ω# Ω(*
-%57float"__calculate*
-
-Ω' Ω((
-**
-
-Ω# Ω(&2ˇ*
-
-Ω) Ω(*
-""ë
-é
-
-Ω Ω(+
-
-%58int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%57floatj
-h
-
-æ* æ(/
-%59float"__calculate*
-
-æ, æ(-
-+*
-
-æ* æ(+
-""*
-
-æ. æ(/
-""q
-o
-
-æ# æ(0
-%60float"__calculate*
-
-æ' æ((
-**
-
-æ# æ(&2ˇ*
-
-æ) æ(0
-
-%59floatë
-é
-
-æ æ(1
-
-%61int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%60float*
-1*˘
-5
-µ π(j
-h
-
-∂* ∂(/
-%46float"__calculate*
-
-∂, ∂(-
-+*
-
-∂* ∂(+
-""*
-
-∂. ∂(/
-""q
-o
-
-∂# ∂(0
-%47float"__calculate*
-
-∂' ∂((
-**
-
-∂# ∂(&2ˇ*
-
-∂) ∂(0
-
-%46floatë
-é
-
-∂ ∂(1
-
-%48int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%47floati
-g
-
-∑# ∑(*
-%49float"__calculate*
-
-∑' ∑((
-**
-
-∑# ∑(&2ˇ*
-
-∑) ∑(*
-""ë
-é
-
-∑ ∑(+
-
-%50int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%49floatj
-h
-
-∏* ∏(/
-%51float"__calculate*
-
-∏, ∏(-
-+*
-
-∏* ∏(+
-""*
-
-∏. ∏(/
-""q
-o
-
-∏# ∏(0
-%52float"__calculate*
-
-∏' ∏((
-**
-
-∏# ∏(&2ˇ*
-
-∏) ∏(0
-
-%51floatë
-é
-
-∏ ∏(1
-
-%53int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%52float*
-1*˘
-6
-∞ ¥(i
-g
-
-±# ±(*
-%38float"__calculate*
-
-±' ±((
-**
-
-±# ±(&2ˇ*
-
-±) ±(*
-""ë
-é
-
-± ±(+
-
-%39int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%38floatj
-h
-
-≤* ≤(/
-%40float"__calculate*
-
-≤, ≤(-
-+*
-
-≤* ≤(+
-""*
-
-≤. ≤(/
-""q
-o
-
-≤# ≤(0
-%41float"__calculate*
-
-≤' ≤((
-**
-
-≤# ≤(&2ˇ*
-
-≤) ≤(0
-
-%40floatë
-é
-
-≤ ≤(1
-
-%42int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%41floatj
-h
-
-≥* ≥(/
-%43float"__calculate*
-
-≥, ≥(-
-+*
-
-≥* ≥(+
-""*
-
-≥. ≥(/
-""q
-o
-
-≥# ≥(0
-%44float"__calculate*
-
-≥' ≥((
-**
-
-≥# ≥(&2ˇ*
-
-≥) ≥(0
-
-%43floatë
-é
-
-≥ ≥(1
-
-%45int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%44float*
-1*˘
-7
-´ Ø(i
-g
-
-¨# ¨(*
-%30float"__calculate*
-
-¨' ¨((
-**
-
-¨# ¨(&2ˇ*
-
-¨) ¨(*
-""ë
-é
-
-¨ ¨(+
-
-%31int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%30floatj
-h
-
-≠* ≠(/
-%32float"__calculate*
-
-≠, ≠(-
-+*
-
-≠* ≠(+
-""*
-
-≠. ≠(/
-""q
-o
-
-≠# ≠(0
-%33float"__calculate*
-
-≠' ≠((
-**
-
-≠# ≠(&2ˇ*
-
-≠) ≠(0
-
-%32floatë
-é
-
-≠ ≠(1
-
-%34int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%33floatj
-h
-
-Æ* Æ(/
-%35float"__calculate*
-
-Æ, Æ(-
-+*
-
-Æ* Æ(+
-""*
-
-Æ. Æ(/
-""q
-o
-
-Æ# Æ(0
-%36float"__calculate*
-
-Æ' Æ((
-**
-
-Æ# Æ(&2ˇ*
-
-Æ) Æ(0
-
-%35floatë
-é
-
-Æ Æ(1
-
-%37int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%36float*
-1*˘
-8
-¶ ™(j
-h
-
-ß* ß(/
-%22float"__calculate*
-
-ß, ß(-
-+*
-
-ß* ß(+
-""*
-
-ß. ß(/
-""q
-o
-
-ß# ß(0
-%23float"__calculate*
-
-ß' ß((
-**
-
-ß# ß(&2ˇ*
-
-ß) ß(0
-
-%22floatë
-é
-
-ß ß(1
-
-%24int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%23floatj
-h
-
-®* ®(/
-%25float"__calculate*
-
-®, ®(-
-+*
-
-®* ®(+
-""*
-
-®. ®(/
-""q
-o
-
-®# ®(0
-%26float"__calculate*
-
-®' ®((
-**
-
-®# ®(&2ˇ*
-
-®) ®(0
-
-%25floatë
-é
-
-® ®(1
-
-%27int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%26floati
-g
-
-©# ©(*
-%28float"__calculate*
-
-©' ©((
-**
-
-©# ©(&2ˇ*
-
-©) ©(*
-""ë
-é
-
-© ©(+
-
-%29int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%28float*
-1*˘
-9
-° •(j
-h
-
-¢* ¢(/
-%14float"__calculate*
-
-¢, ¢(-
-+*
-
-¢* ¢(+
-""*
-
-¢. ¢(/
-""q
-o
-
-¢# ¢(0
-%15float"__calculate*
-
-¢' ¢((
-**
-
-¢# ¢(&2ˇ*
-
-¢) ¢(0
-
-%14floatë
-é
-
-¢ ¢(1
-
-%16int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%15floatj
-h
-
-£* £(/
-%17float"__calculate*
-
-£, £(-
-+*
-
-£* £(+
-""*
-
-£. £(/
-""q
-o
-
-£# £(0
-%18float"__calculate*
-
-£' £((
-**
-
-£# £(&2ˇ*
-
-£) £(0
-
-%17floatë
-é
-
-£ £(1
-
-%19int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%18floati
-g
-
-§# §(*
-%20float"__calculate*
-
-§' §((
-**
-
-§# §(&2ˇ*
-
-§) §(*
-""ë
-é
-
-§ §(+
-
-%21int"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math**
-
-__unknown_file (
-
-%20float*
-1*˙
-1
-« «(ƒ
-¡
-
-« «($
-
-%68int"Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(III)I*g
-
-__unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
-
-__unknown_file (
-""*
-
-__unknown_file (2 *!
-
-__unknown_file (2ˇƒ
-¡
-
-» »($
-
-%69int"Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(III)I*g
-
-__unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
-
-__unknown_file (
-""*
-
-__unknown_file (2 *!
-
-__unknown_file (2ˇƒ
-¡
-
-… …($
-
-%70int"Wcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#constrain(III)I*g
-
-__unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
-
-__unknown_file (
-""*
-
-__unknown_file (2 *!
-
-__unknown_file (2ˇ"
-
-À À(&
-"": 
-
-__unknown_file (
-""BK"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX

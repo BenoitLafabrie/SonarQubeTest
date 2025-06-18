@@ -1,138 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261963042*java2.BÀ
-T
-Olibraries/aesthetic/src/main/java/com/afollestad/aesthetic/BottomNavBgMode.java2
-
-package4
-
-com.afollestad.aesthetic5
--
-(com.afollestad.aesthetic.BottomNavBgMode7
-
-
-annotation8
-
-access9
-
-public10
-
-simple name11
-
-BottomNavBgMode12
-
-IntDef14
-
-unknown15
-
-annotated by16
-$
-Recovered#typeBindingLIntDef;018
-
-
-uses19
-?
-9com.afollestad.aesthetic.BottomNavBgMode.BLACK_WHITE_AUTO21
-
-
-references22
-6
-0com.afollestad.aesthetic.BottomNavBgMode.PRIMARY24
-;
-5com.afollestad.aesthetic.BottomNavBgMode.PRIMARY_DARK26
-5
-/com.afollestad.aesthetic.BottomNavBgMode.ACCENT28
-
-field29
-
-BLACK_WHITE_AUTO30
-
-PRIMARY31
-
-PRIMARY_DARK32
-
-ACCENT33J
-
-1
-12Z
-
-3	
-354jë
-9
-64
-678 *
-1 (":3B
-	
-9
-10
-
-
-11
-12
-@
-25:
-252629 *
-1 (26:3B
-	
-9
-10
-
-
-11
-32
-
-13
-131415
-@
-27:
-272829 *
-1 (26:3B
-	
-9
-10
-
-
-11
-33
-@
-20:
-202129 *
-1 (26:3B
-	
-9
-10
-
-
-11
-30
-
-17
-171815
-@
-23:
-232429 *
-1 (26:3B
-	
-9
-10
-
-
-11
-31rœ
-
-61316*
-1 (
-
-61719*
-1 (
-
-62022*
-1 ("
-
-62322*
-1$ (+
-
-62522*
-1- (9
-
-62722*
-1; (A

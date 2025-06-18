@@ -1,764 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261961315*java2.Bº
-Q
-Lapp/src/main/java/com/simplecity/amp_library/ui/modelviews/InclExclView.java2
-
-package4
--
-(com.simplecity.amp_library.ui.modelviews5
-:
-5com.simplecity.amp_library.ui.modelviews.InclExclView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-InclExclView12
-+
-%Recovered#typeBindingLBaseViewModel;014
-
-unknown15
-
-extends16
-
-
-uses17
-F
-@com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder19
-
-
-references20
-I
-Ccom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener22
-
-	interface23
-
-ClickListener24
-ç
-Ücom.simplecity.amp_library.ui.modelviews.InclExclView$ClickListener#onRemove(Lcom/simplecity/amp_library/ui/modelviews/InclExclView;)V26
-
-method27
-
-onRemove28
-
-	has param29
-
-is type30
-H
-Bcom.simplecity.amp_library.ui.modelviews.InclExclView.inclExclItem32
-
-field33
-
-private34
-
-inclExclItem35
-
-InclExclItem37
-[
-Ucom.simplecity.amp_library.ui.modelviews.InclExclView#getInclExclItem()LInclExclItem;39
-
-getInclExclItem40
-
-returns41
-S
-Mcom.simplecity.amp_library.ui.modelviews.InclExclView#<init>(LInclExclItem;)V43
-*
-$Recovered#typeBindingLInclExclItem;045
-
-calls46
-D
->com.simplecity.amp_library.ui.modelviews.InclExclView.listener48
-
-	protected49
-
-listener50
-
-Nullable52
-
-annotated by53
-&
- Recovered#typeBindingLNullable;055
-ï
-écom.simplecity.amp_library.ui.modelviews.InclExclView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ClickListener;)V57
-
-setClickListener58
-G
-Acom.simplecity.amp_library.ui.modelviews.InclExclView#onRemove()V60
-J
-Dcom.simplecity.amp_library.ui.modelviews.InclExclView#getViewType()I62
-
-getViewType63
-M
-Gcom.simplecity.amp_library.ui.modelviews.InclExclView#getLayoutResId()I65
-
-getLayoutResId66
-ä
-Écom.simplecity.amp_library.ui.modelviews.InclExclView#bindView(Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;)V68
-
-bindView69
-
-BaseViewModel71
-
-TextView73
-N
-Hcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.lineOne75
-ú
-ïcom.simplecity.amp_library.ui.modelviews.InclExclView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;77
-
-createViewHolder78
-'
-!Recovered#typeBindingLViewGroup;080
-
-
-ViewHolder81
-,
-&Recovered#typeBindingLBaseViewHolder;083
-
-lineOne84
-
-BindView86
-&
- Recovered#typeBindingLBindView;088
-O
-Icom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder.overflow90
-
-overflow91
-
-OverflowButton93
-V
-Pcom.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#<init>(LView;)V95
-"
-Recovered#typeBindingLView;097
-c
-]com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#toString()Ljava/lang/String;99
-
-toString100
-X
-Qcom.simplecity.amp_library.ui.modelviews.InclExclView#equals(Ljava/lang/Object;)Z102
-
-equals103
-H
-Acom.simplecity.amp_library.ui.modelviews.InclExclView#hashCode()I105
-
-hashCode106
-b
-[com.simplecity.amp_library.ui.modelviews.InclExclView#areContentsEqual(Ljava/lang/Object;)Z108
-
-areContentsEqual109J
-
-1
-12Z
-
-3	
-354j¯
-@
-38:
-383927 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-@
-21:
-212223 *
-1 (#26:3B
-	
-9
-10
-
-
-11
-24
-@
-31:
-313233 *
-1 (26:3B
-	
-9
-34
-
-
-11
-35
-@
-47:
-474833 *
-1" "(26:3B
-	
-9
-49
-
-
-11
-50
-
-36
-363715
-@
-56:
-565727 *
-1% %(26:3B
-	
-9
-10
-
-
-11
-58
-A
-25;
-252627 *
-1	 (221:3B
-	
-9
-10
-
-
-11
-28
-
-79
-798015
-D
-107=
-10710827 *
-1n n(26:3B
-	
-9
-10
-
-11
-109
-
-44
-444515
-@
-61:
-616227 *
-1/ /(26:3B
-	
-9
-10
-
-
-11
-63
-
-54
-545515
-
-96
-969715
-
-72
-727315
-A
-94;
-949527 *
-1M	 M(218:3B
-	
-9
-10
-
-
-11
-81
-?
-189
-18198 *
-1E E(#26:3B
-	
-9
-10
-
-
-11
-81
-
-92
-929315
-D
-104=
-10410527 *
-1i i(26:3B
-	
-9
-10
-
-11
-106
-B
-98<
-989927 *
-1Y	 Y(
-218:3B
-	
-9
-10
-
-11
-100
-D
-101=
-10110227 *
-1_ _(26:3B
-	
-9
-10
-
-11
-103
-
-82
-828315
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-67:
-676827 *
-19 9(26:3B
-	
-9
-10
-
-
-11
-69
-
-70
-707115
-A
-74;
-747533 *
-1G	 G(
-218:3B
-	
-9
-10
-
-
-11
-84
-@
-42:
-424327 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-A
-89;
-899033 *
-1J	 J(
-218:3B
-	
-9
-10
-
-
-11
-91
-
-85
-858615
-@
-64:
-646527 *
-14 4(26:3B
-	
-9
-10
-
-
-11
-66
-
-13
-131415
-@
-59:
-596027 *
-1) )(	26:3B
-	
-9
-49
-
-
-11
-28
-
-51
-515215
-
-87
-878815
-@
-76:
-767727 *
-1@ @(26:3B
-	
-9
-10
-
-
-11
-78r≤
-
-61316*
-1# (0
-
-61317*
-1# (0
-
-61817*
-1> (H
-
-61820*
-1> (H
-
-25629*
-1 (#
-
-25630*
-1$ (0
-
-25617*
-1 (#
-
-313630*
-1 (
-
-313617*
-1 (
-
-313617*
-1 (&
-
-383641*
-1 (
-
-383617*
-1 (
-
-383617*
-1 (
-
-383120*
-1 (
-
-424429*
-1 (%
-
-42646*
-1 (
-
-424430*
-1& (2
-
-424417*
-1 (%
-
-42617*
-1	 (
-
-42620*
-1	 (
-
-423617*
-1 (
-
-423120*
-1 (
-
-472130*
-1# #(
-
-475153*
-1" "(
-
-475417*
-1" "(
-
-472117*
-1# #(
-
-472120*
-1# #(
-
-472117*
-1# #(
-
-562129*
-1%, %(9
-
-562130*
-1%: %(B
-
-565153*
-1%" %(#
-
-565417*
-1%# %(+
-
-562117*
-1%, %(9
-
-562120*
-1%, %(9
-
-56617*
-1&	 &(
-
-56620*
-1&	 &(
-
-562117*
-1& &(
-
-564720*
-1& &(
-
-592117*
-1* *(
-
-594720*
-1* *(
-
-592120*
-1+ +(
-
-592546*
-1+ +(
-
-594720*
-1+ +(
-
-592117*
-1+ +(
-
-594720*
-1+ +(
-
-59617*
-1+ +(#
-
-59620*
-1+ +(#
-
-671829*
-1: :($
-
-671830*
-1:% :(+
-
-671817*
-1: :($
-
-671820*
-1: :($
-
-67620*
-1;	 ;(
-
-677017*
-1;	 ;(
-
-67620*
-1;	 ;(
-
-677217*
-1= =(
-
-677420*
-1= =(
-
-673617*
-1=  =(,
-
-673120*
-1=  =(,
-
-761841*
-1A A(
-
-767929*
-1A( A(1
-
-761817*
-1A A(
-
-761820*
-1A A(
-
-767930*
-1A2 A(8
-
-767917*
-1A( A(1
-
-761846*
-1B B(
-
-188216*
-1E, E(:
-
-188217*
-1E, E(:
-
-18617*
-1E; E(G
-
-747230*
-1H H(
-
-748553*
-1G	 G(
-
-
-748717*
-1G
- G(
-
-747217*
-1H H(
-
-747217*
-1H H( 
-
-899230*
-1K K(
-
-898553*
-1J	 J(
-
-
-898717*
-1J
- J(
-
-899217*
-1K K(
-
-899217*
-1K K('
-
-949629*
-1M M(
-
-941846*
-1M M(
-
-949630*
-1M  M((
-
-949617*
-1M M(
-
-941817*
-1P P("
-
-941820*
-1P P("
-
-947420*
-1R R(
-
-947217*
-1R R(
-
-947420*
-1R R(
-
-949217*
-1T T(
-
-948920*
-1T T(
-
-948920*
-1V V(
-
-949217*
-1V V(
-
-948920*
-1V V(
-
-101617*
-1a a(
-
-101620*
-1a a(
-
-101630*
-1d d(
-
-101617*
-1d	 d(
-
-101617*
-1d d(*
-
-1013617*
-1f f(
-
-1013120*
-1f f(
-
-1013120*
-1f' f(3
-
-1013617*
-1f' f(3
-
-1013120*
-1f' f(3
-
-1013617*
-1f@ f(L
-
-1013120*
-1f@ f(L
-
-1013617*
-1fU f(a
-
-1013120*
-1fU f(a
-
-1043617*
-1k k(
-
-1043120*
-1k k(
-
-1043120*
-1k' k(3
-
-1043617*
-1k' k(3
-
-1043120*
-1k' k(3

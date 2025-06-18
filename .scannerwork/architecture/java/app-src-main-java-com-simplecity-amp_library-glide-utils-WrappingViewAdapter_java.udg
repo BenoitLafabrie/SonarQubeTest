@@ -1,267 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261960990*java2.Bò	
-V
-Qapp/src/main/java/com/simplecity/amp_library/glide/utils/WrappingViewAdapter.java2
-
-package4
-+
-&com.simplecity.amp_library.glide.utils5
-?
-:com.simplecity.amp_library.glide.utils.WrappingViewAdapter7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-WrappingViewAdapter12
-)
-#Recovered#typeBindingLViewAdapter;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-H
-Bcom.simplecity.amp_library.glide.utils.WrappingViewAdapter.adapter19
-
-field20
-
-	protected21
-
-adapter22
-
-ViewAdapter24
-
-is type25
-W
-Qcom.simplecity.amp_library.glide.utils.WrappingViewAdapter#<init>(LViewAdapter;)V27
-
-method28
-
-	has param29
-
-calls30
-
-NonNull32
-
-annotated by33
-%
-Recovered#typeBindingLNonNull;035
-
-
-references36
-P
-Jcom.simplecity.amp_library.glide.utils.WrappingViewAdapter#getView()LView;38
-
-getView39
-
-
-View41
-
-returns42
-_
-Ycom.simplecity.amp_library.glide.utils.WrappingViewAdapter#getCurrentDrawable()LDrawable;44
-
-getCurrentDrawable45
-
-Drawable47
-Y
-Scom.simplecity.amp_library.glide.utils.WrappingViewAdapter#setDrawable(LDrawable;)V49
-
-setDrawable50
-&
- Recovered#typeBindingLDrawable;052J
-
-1
-12Z
-
-3	
-354jë
-@
-37:
-373828 *
-1 (26:3B
-	
-9
-10
-
-
-11
-39
-@
-48:
-484928 *
-1 (26:3B
-	
-9
-10
-
-
-11
-50
-@
-26:
-262728 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-
-46
-464715
-
-40
-404115
-
-23
-232415
-9
-64
-678 *
-1 (!:3B
-	
-9
-10
-
-
-11
-12
-@
-18:
-181920 *
-1	 	(26:3B
-	
-9
-21
-
-
-11
-22
-
-31
-313215
-@
-43:
-434428 *
-1 (26:3B
-	
-9
-10
-
-
-11
-45
-
-51
-515215
-
-34
-343515r¿
-
-61316*
-1- (8
-
-61317*
-1- (8
-
-182325*
-1	 	( 
-
-182317*
-1	 	( 
-
-182317*
-1	! 	((
-
-261329*
-1) (4
-
-26630*
-1 (
-
-261325*
-15 (<
-
-263133*
-1  (!
-
-263417*
-1! ((
-
-261317*
-1) (4
-
-26617*
-1	 (
-
-26636*
-1	 (
-
-262317*
-1 (
-
-261836*
-1 (
-
-374042*
-1 (
-
-374017*
-1 (
-
-371836*
-1 (
-
-372317*
-1 (
-
-371836*
-1 (
-
-434642*
-1 (
-
-434617*
-1 (
-
-431836*
-1 (
-
-432317*
-1 (
-
-431836*
-1 (
-
-485129*
-1 (%
-
-485125*
-1& (.
-
-485117*
-1 (%
-
-481836*
-1	 (
-
-482317*
-1	 (
-
-481836*
-1	 (

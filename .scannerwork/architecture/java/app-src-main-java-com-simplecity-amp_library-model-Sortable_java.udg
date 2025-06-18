@@ -1,73 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261950070*java2.B»
-E
-@app/src/main/java/com/simplecity/amp_library/model/Sortable.java2
-
-package4
-%
- com.simplecity.amp_library.model5
-.
-)com.simplecity.amp_library.model.Sortable7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-
-Sortable12
-N
-Hcom.simplecity.amp_library.model.Sortable#getSortKey()Ljava/lang/String;14
-
-method15
-
-
-getSortKey16
-=
-7com.simplecity.amp_library.model.Sortable#setSortKey()V18
-
-
-setSortKey19J
-
-1
-12Z
-
-3	
-354j¿
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-17:
-171815 *
-1
- 
-(	26:3B
-	
-9
-10
-
-
-11
-19
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16

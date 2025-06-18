@@ -1,353 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261965952*java2.Bý
-^
-Ylibraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java2
-
-package4
-
-com.afollestad.aesthetic5
-7
-2com.afollestad.aesthetic.AestheticNestedScrollView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-AestheticNestedScrollView12
-.
-(Recovered#typeBindingLNestedScrollView;014
-
-unknown15
-
-extends16
-
-
-uses17
-E
-?com.afollestad.aesthetic.AestheticNestedScrollView.subscription19
-
-field20
-
-private21
-
-subscription22
-
-
-Disposable24
-
-is type25
-K
-Ecom.afollestad.aesthetic.AestheticNestedScrollView#<init>(LContext;)V27
-
-method28
-%
-Recovered#typeBindingLContext;030
-
-	has param31
-
-calls32
-Y
-Scom.afollestad.aesthetic.AestheticNestedScrollView#<init>(LContext;LAttributeSet;)V34
-*
-$Recovered#typeBindingLAttributeSet;036
-Z
-Tcom.afollestad.aesthetic.AestheticNestedScrollView#<init>(LContext;LAttributeSet;I)V38
-M
-Gcom.afollestad.aesthetic.AestheticNestedScrollView#invalidateColors(I)V40
-
-invalidateColors41
-
-
-references42
-N
-Hcom.afollestad.aesthetic.AestheticNestedScrollView#onAttachedToWindow()V44
-
-onAttachedToWindow45
-
-NestedScrollView47
-:
-4com.afollestad.aesthetic.AestheticNestedScrollView$149
-
-	protected50
-W
-Qcom.afollestad.aesthetic.AestheticNestedScrollView$1#accept(Ljava/lang/Integer;)V52
-
-accept53
-
-NonNull55
-
-annotated by56
-%
-Recovered#typeBindingLNonNull;058
-P
-Jcom.afollestad.aesthetic.AestheticNestedScrollView#onDetachedFromWindow()V60
-
-onDetachedFromWindow61J
-
-1
-12Z
-
-3	
-354jŽ
-
-23
-232415
-
-29
-293015
-@
-33:
-333428 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-12
-4
-48.
-48498 *
-1)) )(*243:3B
-	
-9
-50
-@
-59:
-596028 *
-12 2(26:3B
-	
-9
-50
-
-
-11
-61
-@
-18:
-181920 *
-1 (
-26:3B
-	
-9
-21
-
-
-11
-22
-
-13
-131415
-9
-64
-678 *
-1 (':3B
-	
-9
-10
-
-
-11
-12
-@
-43:
-434428 *
-1! !(26:3B
-	
-9
-10
-
-
-11
-45
-@
-37:
-373828 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-12
-@
-39:
-394028 *
-1 (
-26:3B
-	
-9
-21
-
-
-11
-41
-@
-26:
-262728 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-12
-
-54
-545515
-A
-51;
-515228 *
-1* *(248:3B
-	
-9
-10
-
-
-11
-53
-
-46
-464715
-
-57
-575815
-
-35
-353615r¬
-
-61316*
-10 (@
-
-61317*
-10 (@
-
-182325*
-1 (
-
-182317*
-1 (
-
-182317*
-1 ("
-
-262931*
-1$ (+
-
-26632*
-1
- (#
-
-262925*
-1, (3
-
-262917*
-1$ (+
-
-332931*
-1$ (+
-
-333531*
-15 (A
-
-33632*
-1
- (#
-
-332925*
-1, (3
-
-332917*
-1$ (+
-
-333525*
-1B (G
-
-333517*
-15 (A
-
-372931*
-1$ (+
-
-373531*
-15 (A
-
-37632*
-1
- (#
-
-372925*
-1, (3
-
-372917*
-1$ (+
-
-373525*
-1B (G
-
-373517*
-15 (A
-
-39617*
-1# ('
-
-39642*
-1# ('
-
-43642*
-1# #(
-
-
-434617*
-1# #(
-
-
-43642*
-1# #(
-
-
-432317*
-1$ $(
-
-431842*
-1$ $(
-
-515456*
-1+& +('
-
-515717*
-1+' +(.
-
-51642*
-1, ,(%
-
-513932*
-1, ,(%
-
-591842*
-14 4(
-
-592317*
-14 4(
-
-591842*
-14 4(
-
-59642*
-15 5(
-
-
-594617*
-15 5(
-
-
-59642*
-15 5(

@@ -1,182 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261956986*java2.Bç
-R
-Mapp/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java2
-
-package4
--
-(com.simplecity.amp_library.glide.fetcher5
-;
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher7
-
-
-class8
-
-access9
-
-	protected10
-
-simple name11
-
-FolderFetcher12
-)
-#Recovered#typeBindingLBaseFetcher;014
-
-unknown15
-
-extends16
-
-
-uses17
-@
-:com.simplecity.amp_library.glide.fetcher.FolderFetcher.TAG19
-
-field20
-
-private21
-	
-TAG22
-A
-;com.simplecity.amp_library.glide.fetcher.FolderFetcher.file24
-
-
-file25
-e
-_com.simplecity.amp_library.glide.fetcher.FolderFetcher#<init>(LArtworkProvider;Ljava/io/File;)V27
-
-method28
--
-'Recovered#typeBindingLArtworkProvider;030
-
-	has param31
-
-calls32
-
-is type33
-
-
-references34
-W
-Qcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;36
-
-getTag37
-]
-Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;39
-
-	getStream40J
-
-1
-12Z
-
-3	
-354j­
-@
-35:
-353628 *
-1 (26:3B
-	
-9
-10
-
-
-11
-37
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-@
-26:
-262728 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-29
-293015
-@
-23:
-232420 *
-1 (26:3B
-	
-9
-21
-
-
-11
-25
-@
-38:
-383928 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-@
-18:
-181920 *
-1
- 
-(26:3B
-	
-9
-21
-
-
-11
-22r¿
-
-61316*
-1 ((
-
-61317*
-1 ((
-
-262931*
-1 ("
-
-26632*
-1 (
-
-262933*
-1# (2
-
-262917*
-1 ("
-
-26617*
-1	 (
-
-26634*
-1	 (
-
-262334*
-1 (
-
-351834*
-1 (
-
-382334*
-1 (
-
-382334*
-1, (0

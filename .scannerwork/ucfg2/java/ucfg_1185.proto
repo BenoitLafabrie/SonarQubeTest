@@ -1,32 +1,0 @@
-
-<com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ColorUtils.java (!"1*€
-1 (Z
-X
- (:
-%0"__calculate*
-2 (3
-**
- (1
-""*
-4 (:
-""€
-~
- (;
-%1"java.lang.Math#round(F)I*.
-
-__unknown_file ("
-java.lang.Math*"
-
-__unknown_file (
-
-%0"
- (3
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B/"-
-+com.simplecity.amp_library.utils.ColorUtilsHX

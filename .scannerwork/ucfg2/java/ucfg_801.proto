@@ -1,37 +1,0 @@
-
-Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;ˆ
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java (#"3*!
-2 (""
- (6
-""*“
-3 (‰
-†
- (
-%0java.io.File"__id*`
-
-__unknown_file (D*B8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
-filep
-n
- (
-%1boolean"	__compare*
- (
-==* 
- (
-
-%0java.io.File*
- (
-""*
-2
-1*­
-1 (‰
-†
-+ (/
-%2java.io.File"__id*`
-
-__unknown_file (D*B8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
-file"
- (1
-""B:8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher

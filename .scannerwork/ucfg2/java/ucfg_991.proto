@@ -1,39 +1,0 @@
-
-Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer
-__unknown_file ("1*
-1 (—
-”
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ()Q>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-enableLogging"__id*
- (2ž
-›
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java  (1V>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-setItemsDisposable"__id*
- (
-""ÜÙ
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%' %(2
-%0java.util.ArrayList"java.util.ArrayListú
-÷
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%# %(4
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList¦
-£
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java% %(5I>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-items"__id*'
- (
-
-%0java.util.ArrayList"½
-¥
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java œ(
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter

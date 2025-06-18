@@ -1,594 +1,0 @@
-¬
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog#<init>()VÇ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/SongInfoDialog.kt õ("0*>
-0 ('"/
-
-__unknown_file (
-implicit returnB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogHË
-Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;
-__unknown_file ("0*»
-0 (è
-å
- (
-fieldjava.lang.Object"__id*_
- (S*Q5
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog"
-songjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogHà
-Dcom.simplecity.amp_library.ui.dialog.SongInfoDialog#setSong(LSong;)V
-__unknown_file ("0*¿
-0 (è
-å
- (Q5
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog"
-songjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogH§
-Hcom.simplecity.amp_library.ui.dialog.SongInfoDialog#onAttach(LContext;)VÉ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/SongInfoDialog.kt ("0*Í
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.Object€
-ÿ
- (<
-%1java.lang.Object"Dcom.simplecity.amp_library.ui.dialog.SongInfoDialog#setSong(LSong;)V*C
- (<75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:'
- (+
-contextjava.lang.ObjectB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogHò@
-Tcom.simplecity.amp_library.ui.dialog.SongInfoDialog#onCreateDialog(LBundle;)LDialog;É
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/SongInfoDialog.kt! !("0*«=
-0! !(X
-V
-	" #(ã
-viewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>\
-Z
-% %(;
-	titleViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-& &(A
-titleKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>]
-[
-( ((E
-
-titleValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-) )(
-%0java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-) )(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogT
-R
-) )(#
-textjava.lang.Object"__id*&
-) )(#
-
-namejava.lang.Objectb
-`
-+ +(H#
-trackNumberViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>a
-_
-, ,(M"
-trackNumberKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>c
-a
-. .(Q$
-trackNumberValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-/  /($
-%1java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-/  /($75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogê
-ç
-/6 /(@
-%2java.lang.String"5kotlin#toString(Ljava/lang/Object;)Ljava/lang/String;*2
-/% /(5&
-$
-trackNumberLabeljava.lang.ObjectR
-P
-/ /(@
-textjava.lang.Object"__id*$
-/6 /(@
-
-%2java.lang.String]
-[
-1 1(8
-
-artistViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>\
-Z
-2 2(C
-	artistKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>^
-\
-4 4(G
-artistValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-5 5(
-%3java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-5 5(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogZ
-X
-5 5(*
-textjava.lang.Object"__id*,
-5  5(* 
-
-
-artistNamejava.lang.Object\
-Z
-7 7(6
-	albumViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-8 8(A
-albumKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>]
-[
-: :(E
-
-albumValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-; ;(
-%4java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-; ;(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogY
-W
-; ;((
-textjava.lang.Object"__id*+
-; ;((
-
-	albumNamejava.lang.Object\
-Z
-= =(;
-	genreViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-> >(A
-genreKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>]
-[
-@ @(E
-
-genreValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-A A(
-%5java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-A A(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogb
-`
-G G(H#
-albumArtistViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>a
-_
-H H(M"
-albumArtistKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>c
-a
-J J(Q$
-albumArtistValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-K  K($
-%6java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-K  K($75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog_
-]
-K K(4
-textjava.lang.Object"__id*1
-K% K(4%
-#
-albumArtistNamejava.lang.Object_
-]
-M M(A 
-durationViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>^
-\
-N N(G
-durationKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-P P(K!
-durationValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-Q Q(!
-%7java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-Q Q(!75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogW
-U
-Q Q(;
-textjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>[
-Y
-S S(9
-pathViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Z
-X
-T T(?
-pathKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>\
-Z
-V V(C
-	pathValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-W W(
-%8java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-W W(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogT
-R
-W W("
-textjava.lang.Object"__id*&
-W W("
-
-pathjava.lang.Objecta
-_
-Y Y(F"
-discNumberViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-Z Z(K!
-discNumberKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>b
-`
-\ \(O#
-discNumberValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ø
-¨
-] ](#
-%9java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-] ](#75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogê
-ç
-]4 ](>
-%10java.lang.String"5kotlin#toString(Ljava/lang/Object;)Ljava/lang/String;*1
-]$ ](3%
-#
-discNumberLabeljava.lang.ObjectS
-Q
-] ](>
-textjava.lang.Object"__id*%
-]4 ](>
-
-%10java.lang.String_
-]
-_ _(B 
-fileSizeViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>^
-\
-` `(G
-fileSizeKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-b b(K!
-fileSizeValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>∞
-≠
-c c(!
-%11java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-c c(!75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog]
-[
-c c(/
-textjava.lang.Object"__id*/
-c" c(/#
-!
-fileSizeLabeljava.lang.Object]
-[
-e e(=
-
-formatViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>\
-Z
-f f(C
-	formatKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>^
-\
-h h(G
-formatValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>∞
-≠
-i i(
-%12java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-i i(75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialog[
-Y
-i i(+
-textjava.lang.Object"__id*-
-i  i(+!
-
-formatLabeljava.lang.Object^
-\
-k k(?
-bitrateViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>]
-[
-l l(E
-
-bitrateKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>_
-]
-n n(I 
-bitrateValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>∞
-≠
-o o( 
-%13java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-o o( 75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogW
-U
-o o(9
-textjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>c
-a
-q q(H$
-samplingRateViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>b
-`
-r r(O#
-samplingRateKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>d
-b
-t t(S%
-samplingRateValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>∞
-≠
-u! u(%
-%14java.lang.Object"Ccom.simplecity.amp_library.ui.dialog.SongInfoDialog#getSong()LSong;*C
-u! u(%75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogW
-U
-u u(A
-textjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-w w(D!
-playCountViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>_
-]
-x x(I 
-playCountKeyjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>a
-_
-z z(M"
-playCountValuejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-
-Ç Ü(
-	<unknown>:2
-!  !(;&
-savedInstanceStatejava.lang.ObjectB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogHâ
-Lcom.simplecity.amp_library.ui.dialog.SongInfoDialog#show(LFragmentManager;)VÖ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/SongInfoDialog.ktâ â("0*@
-0
-â â(."/
-
-__unknown_file (
-implicit return:1
-
-â â(-#
-fragmentManagerjava.lang.ObjectB75
-3com.simplecity.amp_library.ui.dialog.SongInfoDialogHê
-Xcom.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*—
-0 (ò
-ï
- (
-fieldjava.lang.Object"__id*h
- (\*Z?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBA?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$CompanionH∞
-Ycom.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*…
-0 (ò
-ï
- (Z?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBA?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$CompanionHö
-]com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion#getARG_SONG()Ljava/lang/String;
-__unknown_file ("0*÷
-0 (ù
-ö
- (
-fieldjava.lang.Object"__id*m
- (a*_?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion"
-ARG_SONGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBA?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$CompanionH∫
-^com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion#setARG_SONG(Ljava/lang/String;)V
-__unknown_file ("0*Œ
-0 (ù
-ö
- (_?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion"
-ARG_SONGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBA?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$CompanionH‰
-Ücom.simplecity.amp_library.ui.dialog.SongInfoDialog$Companion#newInstance(LSong;)Lcom/simplecity/amp_library/ui/dialog/SongInfoDialog;Ö
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/SongInfoDialog.ktì ì("0*‡
-0
-ì ì(#Y
-W
-
-î î(
-argsjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>~|
-
-ñ ñ(+9
-%03com.simplecity.amp_library.ui.dialog.SongInfoDialog"3com.simplecity.amp_library.ui.dialog.SongInfoDialogü
-ú
-
-ñ ñ(+
-%1"=com.simplecity.amp_library.ui.dialog.SongInfoDialog#<init>()V*I
-
-ñ ñ(+;
-9
-%03com.simplecity.amp_library.ui.dialog.SongInfoDialog°
-û
-
-ñ ñ(+?
-fragment3com.simplecity.amp_library.ui.dialog.SongInfoDialog"__id*I
-
-ñ ñ(+;
-9
-%03com.simplecity.amp_library.ui.dialog.SongInfoDialog]
-[
-
-ó ó(%
-	argumentsjava.lang.Object"__id*(
-
-ó! ó(%
-
-argsjava.lang.Object"O
-
-ò ò(A
-?
-fragment3com.simplecity.amp_library.ui.dialog.SongInfoDialog:&
-
-ì ì("
-songjava.lang.ObjectBA"?
-=com.simplecity.amp_library.ui.dialog.SongInfoDialog$CompanionH

@@ -1,311 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261963009*java2.Bö
-j
-elibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java2
-
-package4
-.
-)com.simplecityapps.recycler_adapter.model5
-<
-7com.simplecityapps.recycler_adapter.model.BaseViewModel7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BaseViewModel12
-'
-!Recovered#typeBindingLViewModel;014
-
-unknown15
-
-
-implements16
-0
-*Recovered#typeBindingLContentsComparator;018
-
-BaseViewHolder20
-
-	has param21
-
-VH23
-
-
-uses24
-O
-Icom.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I26
-
-method27
-
-getLayoutResId28
-
-	LayoutRes30
-
-annotated by31
-'
-!Recovered#typeBindingLLayoutRes;033
-L
-Fcom.simplecityapps.recycler_adapter.model.BaseViewModel#getViewType()I35
-
-getViewType36
-
-
-references37
-
-calls38
-Y
-Scom.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V40
-
-bindView41
-
-	CallSuper43
-'
-!Recovered#typeBindingLCallSuper;045
-
-is type46
-j
-dcom.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;ILjava/util/List;)V48
-[
-Ucom.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;50
-
-	protected51
-
-
-createView52
-
-
-View54
-
-returns55
-'
-!Recovered#typeBindingLViewGroup;057
-c
-]com.simplecityapps.recycler_adapter.model.BaseViewModel#areContentsEqual(Ljava/lang/Object;)Z59
-
-areContentsEqual60
-M
-Gcom.simplecityapps.recycler_adapter.model.BaseViewModel#getSpanSize(I)I62
-
-getSpanSize63J
-
-1
-12Z
-
-3	
-354jÑ
-@
-58:
-585927 *
-1* *(26:3B
-	
-9
-10
-
-
-11
-60
-
-19
-192015
-@
-47:
-474827 *
-1 (26:3B
-	
-9
-10
-
-
-11
-41
-@
-49:
-495027 *
-1& &(26:3B
-	
-9
-51
-
-
-11
-52
-
-53
-535415
-
-44
-444515
-
-56
-565715
-
-22
-222315
-@
-39:
-394027 *
-1 (26:3B
-	
-9
-10
-
-
-11
-41
-
-42
-424315
-@
-61:
-616227 *
-1/ /(26:3B
-	
-9
-10
-
-
-11
-63
-
-29
-293015
-@
-25:
-252627 *
-1 (26:3B
-	
-9
-10
-
-
-11
-28
-
-32
-323315
-@
-34:
-343527 *
-1 (26:3B
-	
-9
-10
-
-
-11
-36
-
-17
-171815
-
-13
-131415
-9
-64
-678 *
-1 ($:3B
-	
-9
-10
-
-
-11
-12r¸
-
-61316*
-1	 (
-
-61716*
-1	 (
-
-61921*
-10 (>
-
-62224*
-1% ('
-
-61924*
-10 (>
-
-61324*
-1	 (
-
-62224*
-1 (
-
-61724*
-1	 (
-
-252931*
-1 (
-
-253224*
-1 (
-
-34637*
-1 (
-
-342538*
-1 (
-
-392221*
-1 (
-
-394231*
-1 (
-
-394424*
-1 (
-
-392246*
-1 (#
-
-392224*
-1 (
-
-39624*
-1 (
-
-39637*
-1 (
-
-472221*
-1   (
-
-472246*
-1   (#
-
-472224*
-1   (
-
-47637*
-1" "(
-
-473938*
-1" "(
-
-495355*
-1& &(
-
-495621*
-1& &((
-
-495324*
-1& &(
-
-495646*
-1&) &(/
-
-495624*
-1& &((
-
-49637*
-1'A '(O
-
-492538*
-1'A '(O

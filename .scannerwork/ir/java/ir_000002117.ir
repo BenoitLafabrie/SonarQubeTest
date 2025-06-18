@@ -1,19 +1,0 @@
-
-%"InclExclItem{"java.lang.String
-	", type="java.lang.String
-
-'}'char
-"id="java.lang.String
- 
-", path='"java.lang.String
-'\''charAthis   ("-com.simplecity.amp_library.model.InclExclItem"Ý)
-'
-" "("#get-field# id:Blong7
-5
-# #(!"#get-field# path:Bjava.lang.String*
-(
-$ $( 	"#get-field# type:Bint;
-9
-! %("	#binop +#2+:		
-Bjava.lang.String
-! %(*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java

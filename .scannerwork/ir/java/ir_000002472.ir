@@ -1,18 +1,0 @@
-8context
-‰3 ‰(B"Recovered#typeBindingLContext;02song
-‰D ‰(V"Recovered#typeBindingLSong;0"¹#
-!
-
-Š$ Š(+"#unknown-value##
-!
-
-Š- Š(1"#unknown-value#5
-3
-
-Š- Š(9"#get-field# albumId:B	!Unknown!£
- 
-
-Š Š(:"k
--com.simplecity.amp_library.utils.ArtworkUtils:getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;2getMediaStoreArtwork:B	!Unknown!
-
-Š Š(;*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java

@@ -1,18 +1,0 @@
-8context
-‘3 ‘(B"Recovered#typeBindingLContext;04album
-‘D ‘(X"Recovered#typeBindingLAlbum;0"´#
-!
-
-’$ ’(+"#unknown-value##
-!
-
-’- ’(2"#unknown-value#0
-.
-
-’- ’(5"#get-field# id:B	!Unknown!£
- 
-
-’ ’(6"k
--com.simplecity.amp_library.utils.ArtworkUtils:getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;2getMediaStoreArtwork:B	!Unknown!
-
-’ ’(7*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java

@@ -1,195 +1,0 @@
-Å
-?com.simplecity.amp_library.ui.views.PlayerViewAdapter#<init>()Vƒ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt \("0*<
-0 ("/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHð
-Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#setSeekProgress(I)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt	 	( "0*>
-0	 	("/
-
-__unknown_file (
-implicit return:
-	! 	(.
-progressintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH€
-Vcom.simplecity.amp_library.ui.views.PlayerViewAdapter#currentTimeVisibilityChanged(Z)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt (-"0*>
-0 ("/
-
-__unknown_file (
-implicit return:
-. (>
-visiblebooleanB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHó
-Lcom.simplecity.amp_library.ui.views.PlayerViewAdapter#currentTimeChanged(J)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt (#"0*>
-0 ("/
-
-__unknown_file (
-implicit return:
-$ (1
-secondslongB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHñ
-Jcom.simplecity.amp_library.ui.views.PlayerViewAdapter#totalTimeChanged(J)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt (!"0*>
-0 ("/
-
-__unknown_file (
-implicit return:
-" (/
-secondslongB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH“
-Gcom.simplecity.amp_library.ui.views.PlayerViewAdapter#queueChanged(II)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt ("0*>
-0 ("/
-
-__unknown_file (
-implicit return: 
- (0
-queuePositionint:
-2 (B
-queueLengthintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHõ
-Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#playbackChanged(Z)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt ( "0*>
-0 ("/
-
-__unknown_file (
-implicit return: 
-! (3
-	isPlayingbooleanB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHò
-Hcom.simplecity.amp_library.ui.views.PlayerViewAdapter#shuffleChanged(I)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt! !("0*>
-0! !("/
-
-__unknown_file (
-implicit return:
-!  !(0
-shuffleModeintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHð
-Gcom.simplecity.amp_library.ui.views.PlayerViewAdapter#repeatChanged(I)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt% %("0*>
-0% %("/
-
-__unknown_file (
-implicit return:
-% %(.
-
-repeatModeintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHö
-Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#favoriteChanged(Z)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt) )( "0*>
-0) )("/
-
-__unknown_file (
-implicit return:!
-)! )(4
-
-isFavoritebooleanB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHÿ
-Ocom.simplecity.amp_library.ui.views.PlayerViewAdapter#trackInfoChanged(LSong;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt- -(!"0*>
-0- -("/
-
-__unknown_file (
-implicit return:$
--" -(-
-songjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHÓ
-Icom.simplecity.amp_library.ui.views.PlayerViewAdapter#showLyricsDialog()V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt1 1(!"0*>
-01 1("/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHÔ
-Jcom.simplecity.amp_library.ui.views.PlayerViewAdapter#showUpgradeDialog()V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt5 5(""0*>
-05 5("/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH“
-dcom.simplecity.amp_library.ui.views.PlayerViewAdapter#presentCreatePlaylistDialog(Ljava/util/List;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt9 9(,"0*>
-09 9("/
-
-__unknown_file (
-implicit return:#
-9- 9(>
-songsjava.util.ListB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH„
-Tcom.simplecity.amp_library.ui.views.PlayerViewAdapter#presentSongInfoDialog(LSong;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.kt= =(&"0*>
-0= =("/
-
-__unknown_file (
-implicit return:$
-=' =(1
-songjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH«
-Zcom.simplecity.amp_library.ui.views.PlayerViewAdapter#onSongsAddedToPlaylist(LPlaylist;I)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktA A('"0*>
-0A A("/
-
-__unknown_file (
-implicit return:(
-A( A(:
-playlistjava.lang.Object:
-A< A(I
-numSongsintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHô
-Mcom.simplecity.amp_library.ui.views.PlayerViewAdapter#onSongsAddedToQueue(I)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktE E($"0*>
-0E E("/
-
-__unknown_file (
-implicit return:
-E% E(2
-numSongsintB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH…
-Ucom.simplecity.amp_library.ui.views.PlayerViewAdapter#presentTagEditorDialog(LSong;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktI I('"0*>
-0I I("/
-
-__unknown_file (
-implicit return:$
-I( I(2
-songjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH‹
-\com.simplecity.amp_library.ui.views.PlayerViewAdapter#presentDeleteDialog(Ljava/util/List;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktM M($"0*>
-0M M("/
-
-__unknown_file (
-implicit return:#
-M% M(6
-songsjava.util.ListB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHø
-Hcom.simplecity.amp_library.ui.views.PlayerViewAdapter#shareSong(LSong;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktQ Q("0*>
-0Q Q("/
-
-__unknown_file (
-implicit return:$
-Q Q(%
-songjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHâ
-Xcom.simplecity.amp_library.ui.views.PlayerViewAdapter#presentRingtonePermissionDialog()V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktU U(0"0*>
-0U U("/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterHÙ
-Ocom.simplecity.amp_library.ui.views.PlayerViewAdapter#showRingtoneSetMessage()V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayerViewAdapter.ktY Y('"0*>
-0Y Y("/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayerViewAdapterH

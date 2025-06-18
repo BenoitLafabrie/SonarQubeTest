@@ -1,141 +1,0 @@
-
-3com.simplecity.amp_library.model.Artist#hashCode()Iy
-o/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Artist.java ("4*Z
-2!A !(BF
-D
-!A !(B	
-%5int"__id*'
-
-__unknown_file (
-	
-%7int*
-1*Ò
-3!/ !(3}
-{
-!/ !(3
-%8java.lang.String"__id*Q
-
-__unknown_file (5*3)
-'com.simplecity.amp_library.model.Artist"
-namewu
-!/ !(>	
-%6int"java.lang.String#hashCode()I*4
-
-__unknown_file (
-
-%8java.lang.String2
-hashCode()F
-D
-!/ !(>	
-%5int"__id*'
-
-__unknown_file (
-	
-%6int*
-1*³
-4   (`
-^
- "  (+
-
-%0long"__calculate*
- %  ((
->>>*
- "  ($
-""*
- )  (+2 f
-d
-   (,
-
-%1long"__calculate*
-   ( 
-^*
-   (
-""*
- !  (,
-
-
-%0long]
-[
-! !(	
-%2int"__calculate*
-! !(
-**
-! !(2*
-! !(
-""}
-{
-!  !($
-%3java.lang.String"__id*Q
-
-__unknown_file (5*3)
-'com.simplecity.amp_library.model.Artist"
-namet
-r
-!  !(,
-%4boolean"	__compare*
-!% !('
-!=*$
-!  !($
-
-%3java.lang.String*
-!( !(,
-""*
-2
-3*œ
-1! !(Ci
-g
-! !(C	
-%9int"__calculate*
-! !(
-+*
-! !(
-	
-%2int*
-! !(C
-	
-%5int^
-\
-" "(
-
-%10int"__calculate*
-" "(
-**
-" "(2*
-" "(
-""f
-d
-" "((
-
-%11int"__calculate*
-" "(
-+*
-" "(
-
-
-%10int*
-" "((
-""^
-\
-# #(
-
-%12int"__calculate*
-# #(
-**
-# #(2*
-# #(
-""f
-d
-# #('
-
-%13int"__calculate*
-# #(
-+*
-# #(
-
-
-%12int*
-# #('
-"""
-$ $(
-""B+)
-'com.simplecity.amp_library.model.ArtistHX

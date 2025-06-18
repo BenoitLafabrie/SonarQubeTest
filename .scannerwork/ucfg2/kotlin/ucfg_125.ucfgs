@@ -1,193 +1,0 @@
-×
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#<init>()V‰
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ArtistBiographyDialog.kt \("0*>
-0 (."/
-
-__unknown_file (
-implicit returnB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogHˆ
-Scom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#getArtist()LAlbumArtist;
-__unknown_file ("0*Ñ
-0 (˜
-•
- (
-fieldjava.lang.Object"__id*h
- (\*Z<
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog"
-artistjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogH¨
-Tcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#setArtist(LAlbumArtist;)V
-__unknown_file ("0*É
-0 (˜
-•
- (Z<
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog"
-artistjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogHÑ
-Ocom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#onAttach(LContext;)V‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ArtistBiographyDialog.kt ("0*
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.Objectò
-ï
-   (G
-%1java.lang.Object"Tcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#setArtist(LAlbumArtist;)V*J
-   (G><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:'
- (+
-contextjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogH†
-[com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#onCreateDialog(LBundle;)LDialog;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ArtistBiographyDialog.kt# #("0*Ÿ
-0# #(]
-[
-% &(e
-
-customViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>^
-\
-( ((M
-progressBarjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Z
-X
-) )(E
-messagejava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Z
-X
-B E()
-builderjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-G G(
-	<unknown>:2
-#  #(;&
-savedInstanceStatejava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogH™
-Scom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#show(LFragmentManager;)V‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ArtistBiographyDialog.ktJ J("0*>
-0J J(."/
-
-__unknown_file (
-implicit return:/
-J J(-#
-fragmentManagerjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogH¥
-_com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Ø
-0 (Ÿ
-œ
- (
-fieldjava.lang.Object"__id*o
- (c*aF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBHF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$CompanionHÅ
-`com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Ð
-0 (Ÿ
-œ
- (aF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBHF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$CompanionH³
-fcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion#getARG_ARTIST()Ljava/lang/String;
-__unknown_file ("0*ß
-0 (¦
-£
- (
-fieldjava.lang.Object"__id*v
- (j*hF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion"
-
-ARG_ARTISTjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBHF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$CompanionHÓ
-gcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion#setARG_ARTIST(Ljava/lang/String;)V
-__unknown_file ("0*×
-0 (¦
-£
- (hF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion"
-
-ARG_ARTISTjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBHF
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$CompanionH¥	
-›com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$Companion#newInstance(LAlbumArtist;)Lcom/simplecity/amp_library/ui/dialog/ArtistBiographyDialog;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ArtistBiographyDialog.ktT T("0*ÿ
-0T T(,W
-U
-U U(
-argsjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>‹ˆ
-W W(2@
-%0:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog":com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog©
-¦
-W W(2
-%1"Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog#<init>()V*N
-W W(2B
-@
-%0:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog«
-¨
-W W(2F
-fragment:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog"__id*N
-W W(2B
-@
-%0:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialogY
-W
-X X(%
-	argumentsjava.lang.Object"__id*&
-X! X(%
-
-argsjava.lang.Object"T
-Y Y(H
-F
-fragment:com.simplecity.amp_library.ui.dialog.ArtistBiographyDialog:&
-T T(+
-artistjava.lang.ObjectBH"F
-Dcom.simplecity.amp_library.ui.dialog.ArtistBiographyDialog$CompanionH

@@ -11,20 +11,12 @@ public class MiniPlayerLockManager {
 
     private List<MiniPlayerLock> miniPlayerLocks = new ArrayList<>();
     
-    private MiniPlayerLockManager() {
-    
+    public MiniPlayerLockManager() {
+        // Constructor is intentionally empty because no initialization is required at this time.
     }
     
     public boolean canShowMiniPlayer() {
         return miniPlayerLocks.isEmpty();
-    }
-    
-    private static class Holder {
-        private static final MiniPlayerLockManager INSTANCE = new MiniPlayerLockManager();
-    }
-    
-    public static MiniPlayerLockManager getInstance() {
-        return Holder.INSTANCE;
     }
 
     public void addMiniPlayerLock(MiniPlayerLock miniPlayerLock) {

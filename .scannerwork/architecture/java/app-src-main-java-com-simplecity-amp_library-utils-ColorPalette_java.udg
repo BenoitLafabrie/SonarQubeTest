@@ -1,221 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261961829*java2.Bå	
-I
-Dapp/src/main/java/com/simplecity/amp_library/utils/ColorPalette.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-2
--com.simplecity.amp_library.utils.ColorPalette7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ColorPalette12
-b
-\com.simplecity.amp_library.utils.ColorPalette#getPrimaryColors(LContext;LSettingsManager;)[I14
-
-method15
-
-getPrimaryColors16
-%
-Recovered#typeBindingLContext;018
-
-unknown19
-
-	has param20
--
-'Recovered#typeBindingLSettingsManager;022
-
-is type23
-
-
-uses24
-0
-*Recovered#typeBindingLShuttleApplication;026
-B
-<com.simplecity.amp_library.utils.ColorPalette.PRIMARY_COLORS28
-
-
-references29
-G
-Acom.simplecity.amp_library.utils.ColorPalette.PRIMARY_COLORS_FREE31
-f
-`com.simplecity.amp_library.utils.ColorPalette#getPrimaryColorsSub(LContext;LSettingsManager;)[[I33
-
-getPrimaryColorsSub34
-F
-@com.simplecity.amp_library.utils.ColorPalette.PRIMARY_COLORS_SUB36
-K
-Ecom.simplecity.amp_library.utils.ColorPalette.PRIMARY_COLORS_SUB_FREE38
-
-field39
-
-private40
-
-PRIMARY_COLORS41
-
-PRIMARY_COLORS_SUB42
-
-PRIMARY_COLORS_FREE43
-
-PRIMARY_COLORS_SUB_FREE44J
-
-1
-12Z
-
-3	
-354já
-@
-13:
-131415 *
-1	 	(26:3B
-	
-9
-10
-
-
-11
-16
-
-21
-212219
-
-17
-171819
-B
-30<
-303139 *
-1é é(26:3B
-	
-9
-40
-
-
-11
-43
-B
-37<
-373839 *
-1ò ò(26:3B
-	
-9
-40
-
-
-11
-44
-@
-32:
-323315 *
-1 (26:3B
-	
-9
-10
-
-
-11
-34
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-27:
-272839 *
-1 (26:3B
-	
-9
-40
-
-
-11
-41
-@
-35:
-353639 *
-1' '(26:3B
-	
-9
-40
-
-
-11
-42
-
-25
-252619rÎ
-
-131720*
-1	* 	(1
-
-132120*
-1	; 	(J
-
-131723*
-1	2 	(9
-
-131724*
-1	* 	(1
-
-132123*
-1	K 	(Z
-
-132124*
-1	; 	(J
-
-132524*
-1
-) 
-(;
-
-132729*
-1
-q 
-(
-
-133029*
-1
-Ç 
-(ï
-
-321720*
-1/ (6
-
-322120*
-1@ (O
-
-321723*
-17 (>
-
-321724*
-1/ (6
-
-322123*
-1P (_
-
-322124*
-1@ (O
-
-322524*
-1) (;
-
-323529*
-1q (É
-
-323729*
-1Ü (ù

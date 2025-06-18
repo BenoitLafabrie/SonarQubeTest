@@ -1,64 +1,0 @@
-
-gcom.simplecity.amp_library.model.AlbumArtist#compareTo(Lcom/simplecity/amp_library/model/AlbumArtist;)I€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java² ²("startingBlock* 
-startingBlock
-² ²(:°
-­
-
-± ±(
-%2"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*Y
-
-__unknown_file (=
-;
-albumArtist,com.simplecity.amp_library.model.AlbumArtist¥
-¢
-
-² ²(!
-%3"
-__annotate*'
-
-__unknown_file (	
-NonNull*Y
-
-__unknown_file (=
-;
-albumArtist,com.simplecity.amp_library.model.AlbumArtist¢
-Ÿ
-
-². ²(9;
-albumArtist,com.simplecity.amp_library.model.AlbumArtist"__annotation*"
-
-__unknown_file (
-
-%2*"
-
-__unknown_file (
-
-%3*
-1*Ø
-1
-³ ³(ÐÍ
-
-³' ³(3
-%0java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*L
-
-__unknown_file (0.
-,com.simplecity.amp_library.model.AlbumArtist2getSortKey()ÝÚ
-
-³5 ³(M
-%1java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*Y
-
-__unknown_file (=
-;
-albumArtist,com.simplecity.amp_library.model.AlbumArtist2getSortKey()"
-
-³ ³(O
-"":I
-
-² ²(9;
-albumArtist,com.simplecity.amp_library.model.AlbumArtistB0.
-,com.simplecity.amp_library.model.AlbumArtistHX

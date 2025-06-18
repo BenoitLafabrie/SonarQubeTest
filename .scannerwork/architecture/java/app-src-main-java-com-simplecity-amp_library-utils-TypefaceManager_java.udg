@@ -1,281 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261942537*java2.BÅ
-
-L
-Gapp/src/main/java/com/simplecity/amp_library/utils/TypefaceManager.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-5
-0com.simplecity.amp_library.utils.TypefaceManager7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-TypefaceManager12
-A
-;com.simplecity.amp_library.utils.TypefaceManager.SANS_SERIF14
-
-field15
-
-
-SANS_SERIF16
-H
-Bcom.simplecity.amp_library.utils.TypefaceManager.SANS_SERIF_MEDIUM18
-
-SANS_SERIF_MEDIUM19
-G
-Acom.simplecity.amp_library.utils.TypefaceManager.SANS_SERIF_LIGHT21
-
-SANS_SERIF_LIGHT22
-=
-7com.simplecity.amp_library.utils.TypefaceManager.mCache24
-
-private25
-
-mCache26
-&
- Recovered#typeBindingLTypeface;028
-
-unknown29
-
-
-uses30
-@
-:com.simplecity.amp_library.utils.TypefaceManager.sInstance32
-
-	sInstance33
-
-is type34
-@
-:com.simplecity.amp_library.utils.TypefaceManager#<init>()V36
-
-method37
-
-calls38
-v
-pcom.simplecity.amp_library.utils.TypefaceManager#getInstance()Lcom/simplecity/amp_library/utils/TypefaceManager;40
-
-getInstance41
-
-returns42
-
-
-references43
-i
-ccom.simplecity.amp_library.utils.TypefaceManager#getTypeface(LContext;Ljava/lang/String;)LTypeface;45
-
-getTypeface46
-
-Typeface48
-%
-Recovered#typeBindingLContext;050
-
-	has param51J
-
-1
-12Z
-
-3	
-354já
-@
-35:
-353637 *
-1 (26:3B
-	
-9
-25
-
-
-11
-12
-@
-44:
-444537 *
-1% %(26:3B
-	
-9
-10
-
-
-11
-46
-@
-20:
-202115 *
-1 (26:3B
-	
-9
-10
-
-
-11
-22
-
-49
-495029
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-
-47
-474829
-
-27
-272829
-@
-39:
-394037 *
-1 (26:3B
-	
-9
-10
-
-
-11
-41
-@
-17:
-171815 *
-1 (26:3B
-	
-9
-10
-
-
-11
-19
-@
-13:
-131415 *
-1
- 
-(26:3B
-	
-9
-10
-
-
-11
-16
-@
-23:
-232415 *
-1 (26:3B
-	
-9
-25
-
-
-11
-26
-@
-31:
-313215 *
-1 (26:3B
-	
-9
-25
-
-
-11
-33rÍ
-
-232730*
-1 ('
-
-31634*
-1 (#
-
-31630*
-1 (#
-
-31630*
-1$ (-
-
-35638*
-1 (
-
-39642*
-1 ("
-
-39630*
-1 ("
-
-39630*
-1 (
-
-393143*
-1 (
-
-39630*
-1 (
-
-393143*
-1 (
-
-39638*
-1 (,
-
-39630*
-1 (
-
-393143*
-1 (
-
-444742*
-1% %(
-
-444951*
-1%! %((
-
-444730*
-1% %(
-
-444934*
-1%) %(0
-
-444930*
-1%! %((
-
-442734*
-1& &(
-
-442730*
-1&	 &(
-
-442343*
-1& &(!
-
-442343*
-1& &(!
-
-441343*
-1* *( 
-
-441743*
-1- -('
-
-442043*
-10 0(&
-
-442343*
-17 7(
-
-442343*
-17 7(

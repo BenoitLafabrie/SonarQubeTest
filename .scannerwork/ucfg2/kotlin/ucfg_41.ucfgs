@@ -1,166 +1,0 @@
-·
-:com.simplecity.amp_library.ui.dialog.ShareDialog#<init>()V~
-v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt g("0*>
-0 ($"/
-
-__unknown_file (
-implicit returnB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogHß
-@com.simplecity.amp_library.ui.dialog.ShareDialog#getSong()LSong;
-__unknown_file ("0*Å
-0 (Œ
-‰
- (
-fieldjava.lang.Object"__id*\
- (P*N2
-0com.simplecity.amp_library.ui.dialog.ShareDialog"
-songjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogHÿ
-Acom.simplecity.amp_library.ui.dialog.ShareDialog#setSong(LSong;)V
-__unknown_file ("0*½
-0 (Œ
-‰
- (N2
-0com.simplecity.amp_library.ui.dialog.ShareDialog"
-songjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogH•
-Ecom.simplecity.amp_library.ui.dialog.ShareDialog#onAttach(LContext;)V€
-v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt ("0*ä
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.ObjectÕ
-Ò
-   (<
-%1java.lang.Object"Acom.simplecity.amp_library.ui.dialog.ShareDialog#setSong(LSong;)V*@
-   (<42
-0com.simplecity.amp_library.ui.dialog.ShareDialog*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:'
- (+
-contextjava.lang.ObjectB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogHï
-Qcom.simplecity.amp_library.ui.dialog.ShareDialog#onCreateDialog(LBundle;)LDialog;€
-v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt# #("0*(
-0# #("
-$ R(
-	<unknown>:2
-#  #(;&
-savedInstanceStatejava.lang.ObjectB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogHú
-Icom.simplecity.amp_library.ui.dialog.ShareDialog#show(LFragmentManager;)V€
-v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.ktU U("0*>
-0U U(."/
-
-__unknown_file (
-implicit return:/
-U U(-#
-fragmentManagerjava.lang.ObjectB42
-0com.simplecity.amp_library.ui.dialog.ShareDialogH‡
-Ucom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Î
-0 (•
-’
- (
-fieldjava.lang.Object"__id*e
- (Y*W<
-:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH§
-Vcom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Æ
-0 (•
-’
- (W<
-:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH‘
-Zcom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#getARG_SONG()Ljava/lang/String;
-__unknown_file ("0*Ó
-0 (š
-—
- (
-fieldjava.lang.Object"__id*j
- (^*\<
-:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
-ARG_SONGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH±
-[com.simplecity.amp_library.ui.dialog.ShareDialog$Companion#setARG_SONG(Ljava/lang/String;)V
-__unknown_file ("0*Ë
-0 (š
-—
- (\<
-:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
-ARG_SONGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH«
-€com.simplecity.amp_library.ui.dialog.ShareDialog$Companion#newInstance(LSong;)Lcom/simplecity/amp_library/ui/dialog/ShareDialog;€
-v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt_ _("0*·
-0_ _(#W
-U
-` `(
-argsjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>vt
-b b((6
-%00com.simplecity.amp_library.ui.dialog.ShareDialog"0com.simplecity.amp_library.ui.dialog.ShareDialog•
-’
-b b((
-%1":com.simplecity.amp_library.ui.dialog.ShareDialog#<init>()V*D
-b b((8
-6
-%00com.simplecity.amp_library.ui.dialog.ShareDialog—
-”
-b b((<
-fragment0com.simplecity.amp_library.ui.dialog.ShareDialog"__id*D
-b b((8
-6
-%00com.simplecity.amp_library.ui.dialog.ShareDialogY
-W
-c c(%
-	argumentsjava.lang.Object"__id*&
-c! c(%
-
-argsjava.lang.Object"J
-d d(>
-<
-fragment0com.simplecity.amp_library.ui.dialog.ShareDialog:$
-_ _("
-songjava.lang.ObjectB>"<
-:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH

@@ -1,104 +1,0 @@
-
-fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqual(Ljava/lang/Object;)Z“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/BaseSelectableViewModel.java' '(#"startingBlock*!
-2)D )(I"
-)= )(J
-""*ú
-3) )(%À½
-) )('
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*`
-
-__unknown_file (DB
-@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel2
-getClass()—”
-)+ )(;
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
-
-__unknown_file (
-
-otherjava.lang.Object2
-getClass()…
-‚
-) )(;
-%4boolean"	__compare*
-)( )(*
-!=*#
-) )('
-
-%2java.lang.Class*#
-)+ )(;
-
-%3java.lang.Class*
-2
-1*ˆ
-startingBlock'# '(1Œ
-‰
-& &(
-%6"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*7
-
-__unknown_file (
-
-otherjava.lang.ObjectY
-W
-'+ '(0
-otherjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%6*
-6*Ž
-4) )(w
-u
-) )(
-%1boolean"	__compare*
-) )(
-==*'
-) )(
-
-otherjava.lang.Object*
-) )(
-""*
-2
-3*!
-5(" ((&"
-( (('
-""*Î
-6( ((¶
-³
-( ((
-%0boolean"	__compare*
-( ((
-==*P
-( ((DB
-@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel*'
-( ((
-
-otherjava.lang.Object*
-4
-5*ž
-1+I +(N–
-“
-+ +(OH
-that@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel"__id*7
-
-__unknown_file (
-
-otherjava.lang.Objectb
-`
-- -(,
-%5boolean"	__compare*
-- -(
-==*
-- -(
-""*
-- -(,
-"""
-- -(-
-"":%
-'$ '(0
-otherjava.lang.ObjectBDB
-@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModelHX

@@ -1,912 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261965724*java2.BÕ
-M
-Happ/src/main/java/com/simplecity/amp_library/billing/BillingManager.java2
-
-package4
-'
-"com.simplecity.amp_library.billing5
-6
-1com.simplecity.amp_library.billing.BillingManager7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BillingManager12
-6
-0Recovered#typeBindingLPurchasesUpdatedListener;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-;
-5com.simplecity.amp_library.billing.BillingManager.TAG19
-
-field20
-
-private21
-	
-TAG22
-W
-Qcom.simplecity.amp_library.billing.BillingManager.BILLING_MANAGER_NOT_INITIALIZED24
-%
-BILLING_MANAGER_NOT_INITIALIZED25
-N
-Hcom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener27
-
-	interface28
-
-BillingUpdatesListener29
-t
-ncom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPurchasesUpdated(Ljava/util/List;)V31
-
-method32
-
-onPurchasesUpdated33
-&
- Recovered#typeBindingLPurchase;035
-l
-fcom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseCompleted()V37
- 
-onPremiumPurchaseCompleted38
-k
-ecom.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseRestored()V40
-
-onPremiumPurchaseRestored41
-@
-:com.simplecity.amp_library.billing.BillingManager.activity43
-
-activity44
-
-Activity46
-
-is type47
-G
-Acom.simplecity.amp_library.billing.BillingManager.updatesListener49
-
-updatesListener50
-
-
-references51
-E
-?com.simplecity.amp_library.billing.BillingManager.billingClient53
-
-billingClient54
-
-BillingClient56
-
-Nullable58
-
-annotated by59
-&
- Recovered#typeBindingLNullable;061
-H
-Bcom.simplecity.amp_library.billing.BillingManager.serviceConnected63
-
-	protected64
-
-serviceConnected65
-Q
-Kcom.simplecity.amp_library.billing.BillingManager.billingClientResponseCode67
-
-billingClientResponseCode68
-M
-Gcom.simplecity.amp_library.billing.BillingManager.purchaseFlowInitiated70
-
-purchaseFlowInitiated71
-Q
-Kcom.simplecity.amp_library.billing.BillingManager.restorePurchasesInitiated73
-
-restorePurchasesInitiated74
-ñ
-ècom.simplecity.amp_library.billing.BillingManager#<init>(LActivity;Lcom/simplecity/amp_library/billing/BillingManager$BillingUpdatesListener;)V76
-&
- Recovered#typeBindingLActivity;078
-
-	has param79
-
-Inject81
-$
-Recovered#typeBindingLInject;083
-
-calls84
-_
-Ycom.simplecity.amp_library.billing.BillingManager#startServiceConnection(LUnsafeAction;)V86
-
-startServiceConnection87
-*
-$Recovered#typeBindingLUnsafeAction;089
-9
-3com.simplecity.amp_library.billing.BillingManager$191
-T
-Ncom.simplecity.amp_library.billing.BillingManager$1#onBillingSetupFinished(I)V93
-
-onBillingSetupFinished94
-Y
-Scom.simplecity.amp_library.billing.BillingManager$1#onBillingServiceDisconnected()V96
-"
-onBillingServiceDisconnected97
-^
-Xcom.simplecity.amp_library.billing.BillingManager#onPurchasesUpdated(ILjava/util/List;)V99
-
-SuppressLint101
-+
-$Recovered#typeBindingLSuppressLint;0103
-\
-Ucom.simplecity.amp_library.billing.BillingManager#handleOkResponse(Ljava/util/List;)V105
-
-handleOkResponse106
-
-Purchase108
-
-returns109
-h
-acom.simplecity.amp_library.billing.BillingManager#findPremiumPurchase(Ljava/util/List;)LPurchase;111
-_
-Xcom.simplecity.amp_library.billing.BillingManager#handlePremiumPurchaseFlow(LPurchase;)V113
-
-findPremiumPurchase114
- 
-handlePremiumPurchaseFlow115
-J
-Ccom.simplecity.amp_library.billing.BillingManager#queryPurchases()V117
-
-queryPurchases118
-t
-mcom.simplecity.amp_library.billing.BillingManager#initiatePurchaseFlow(Ljava/lang/String;Ljava/lang/String;)V120
-
-initiatePurchaseFlow121
-
-BillingClient.SkuType123
-,
-%Recovered#typeBindingLBillingClient;0125
-L
-Ecom.simplecity.amp_library.billing.BillingManager#restorePurchases()V127
-
-restorePurchases128
-X
-Qcom.simplecity.amp_library.billing.BillingManager#getBillingClientResponseCode()I130
-#
-getBillingClientResponseCode131
-C
-<com.simplecity.amp_library.billing.BillingManager#destroy()V133
-
-destroy134J
-
-1
-12Z
-
-3	
-354jç
-@
-42:
-424320 *
-1   (26:3B
-	
-9
-21
-
-
-11
-44
-A
-95;
-959632 *
-1G G(290:3B
-	
-9
-10
-
-
-11
-97
-D
-104=
-10410532 *
-1] ](26:3B
-	
-9
-21
-
-11
-106
-F
-129?
-12913032 *
-1≠ ≠(26:3B
-	
-9
-10
-
-11
-131
-@
-23:
-232420 *
-1 (26:3B
-	
-9
-10
-
-
-11
-25
-A
-39;
-394032 *
-1	 (226:3B
-	
-9
-10
-
-
-11
-41
-
-45
-454615
-A
-92;
-929332 *
-1> >(290:3B
-	
-9
-10
-
-
-11
-94
-D
-116=
-11611732 *
-1| |(26:3B
-	
-9
-10
-
-11
-118
-@
-62:
-626320 *
-1' '(26:3B
-	
-9
-64
-
-
-11
-65
-@
-72:
-727320 *
-1, ,(26:3B
-	
-9
-21
-
-
-11
-74
-
-122
-12212315
-@
-85:
-858632 *
-1; ;(26:3B
-	
-9
-21
-
-
-11
-87
-
-55
-555615
-
-77
-777815
-@
-52:
-525320 *
-1$ $(26:3B
-	
-9
-21
-
-
-11
-54
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-98:
-989932 *
-1Q Q(26:3B
-	
-9
-10
-
-
-11
-33
-
-60
-606115
-@
-75:
-757632 *
-1. .(26:3B
-	
-9
-10
-
-
-11
-12
-@
-26:
-262728 *
-1 (,26:3B
-	
-9
-10
-
-
-11
-29
-A
-30;
-303132 *
-1	 (226:3B
-	
-9
-10
-
-
-11
-33
-
-34
-343515
-4
-90.
-90918 *
-1=L =(M285:3B
-	
-9
-64
-
-80
-808115
-
-124
-12412515
-A
-36;
-363732 *
-1	 (226:3B
-	
-9
-10
-
-
-11
-38
-
-107
-10710815
-@
-48:
-484920 *
-1" "(26:3B
-	
-9
-21
-
-
-11
-50
-@
-66:
-666720 *
-1) )(26:3B
-	
-9
-64
-
-
-11
-68
-F
-119?
-11912032 *
-1ë ë(26:3B
-	
-9
-10
-
-11
-121
-
-82
-828315
-F
-132?
-13213332 *
-1± ±(26:3B
-	
-9
-10
-
-11
-134
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-@
-69:
-697020 *
-1+ +(26:3B
-	
-9
-21
-
-
-11
-71
-
-88
-888915
-F
-126?
-12612732 *
-1§ §(26:3B
-	
-9
-10
-
-11
-128
-
-102
-10210315
-
-13
-131415
-D
-110=
-11011132 *
-1f f(26:3B
-	
-9
-21
-
-11
-114
-
-100
-10010115
-D
-112=
-11211332 *
-1o o(26:3B
-	
-9
-21
-
-11
-115
-
-57
-575815r÷
-
-61316*
-1( (@
-
-61317*
-1( (@
-
-303417*
-1& (.
-
-424547*
-1   (
-
-424517*
-1   (
-
-424517*
-1   (
-
-482647*
-1" "(#
-
-482617*
-1" "(#
-
-482651*
-1" "(#
-
-482617*
-1"$ "(3
-
-525547*
-1% %(
-
-525759*
-1$ $(
-
-526017*
-1$ $(
-
-525517*
-1% %(
-
-525517*
-1% %((
-
-662351*
-1)% )(D
-
-757779*
-1/ /(#
-
-752679*
-1/. /(D
-
-758059*
-1. .(
-
-758217*
-1. .(
-
-75684*
-1/ /(
-
-757747*
-1/$ /(,
-
-757717*
-1/ /(#
-
-752647*
-1/E /(T
-
-752617*
-1/. /(D
-
-752651*
-1/. /(D
-
-75617*
-11	 1(
-
-75651*
-11	 1(
-
-754517*
-11 1(
-
-754251*
-11 1(
-
-75617*
-12	 2(
-
-75651*
-12	 2(
-
-752617*
-12 2(
-
-754851*
-12 2(
-
-755517*
-14	 4(
-
-755251*
-14	 4(
-
-75617*
-15 5("
-
-75651*
-15 5("
-
-75651*
-18	 8(
-
-758584*
-18	 8(
-
-75617*
-18  8($
-
-75651*
-18  8($
-
-858879*
-1;) ;(5
-
-858847*
-1;6 ;(F
-
-858817*
-1;) ;(5
-
-855517*
-1< <(
-
-855251*
-1< <(
-
-855251*
-1= =(
-
-855517*
-1= =(
-
-855251*
-1= =(
-
-926251*
-1A A()
-
-926651*
-1D D(.
-
-956251*
-1K K(%
-
-9810059*
-1Q Q(
-
-9810217*
-1Q Q(
-
-985759*
-1S4 S(5
-
-986017*
-1S5 S(=
-
-983417*
-1SC S(K
-
-98651*
-1U U(
-
-9810484*
-1U U(
-
-981851*
-1W W(
-
-981851*
-1Y# Y(&
-
-1043417*
-1]( ](0
-
-1043447*
-1^ ^(!
-
-1043417*
-1^	 ^(
-
-104107109*
-1^$ ^(7
-
-104651*
-1^$ ^(7
-
-10411084*
-1^$ ^(7
-
-1046951*
-1_ _("
-
-1047251*
-1_& _(?
-
-104651*
-1` `(&
-
-10411284*
-1` `(&
-
-1042651*
-1b b(
-
-1043084*
-1b b(/
-
-1044851*
-1b b(
-
-1042617*
-1b b(
-
-1044851*
-1b b(
-
-110107109*
-1f f(
-
-11010717*
-1f f(
-
-1103417*
-1f/ f(7
-
-1103447*
-1g g(
-
-1103417*
-1g g(
-
-1123479*
-1o, o(4
-
-1123447*
-1o5 o(D
-
-1123417*
-1o, o(4
-
-1126951*
-1q q(&
-
-1122651*
-1r r( 
-
-1123684*
-1r! r(;
-
-1124851*
-1r r( 
-
-1122617*
-1r r( 
-
-1124851*
-1r r( 
-
-1126951*
-1s s(&
-
-1127251*
-1u u(*
-
-1122651*
-1v v( 
-
-1123984*
-1v! v(:
-
-1124851*
-1v v( 
-
-1122617*
-1v v( 
-
-1124851*
-1v v( 
-
-1127251*
-1w w(*
-
-1168847*
-1} }(!
-
-1168817*
-1}	 }(
-
-1166251*
-1á á(
-
-116651*
-1ä ä(#
-
-1168584*
-1ä ä(#
-
-11912259*
-1ë@ ë(A
-
-11912417*
-1ëA ë(N
-
-11912417*
-1ëO ë(V
-
-1198847*
-1í í()
-
-1198817*
-1í	 í(
-
-1196251*
-1ù ù(
-
-119651*
-1† †(#
-
-1198584*
-1† †(#
-
-1267251*
-1•	 •("
-
-126651*
-1¶	 ¶(
-
-12611684*
-1¶	 ¶(
-
-1296651*
-1Æ Æ()
-
-1321851*
-1≤ ≤(
-
-1325517*
-1¥ ¥(
-
-1325251*
-1¥ ¥(
-
-1325251*
-1¥& ¥(3
-
-1325517*
-1¥& ¥(3
-
-1325251*
-1¥& ¥(3
-
-1325251*
-1µ µ(
-
-1325517*
-1µ µ(
-
-1325251*
-1µ µ(
-
-1325517*
-1∂ ∂(
-
-1325251*
-1∂ ∂(

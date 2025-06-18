@@ -1,291 +1,0 @@
-õ
-§com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getArtistsRepository()Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;
-__unknown_file ("0*Ç
-0 (ò
-ï
- (J
-fieldAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"__id*∂
- (©*¶L
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"V
-artistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"X
- (L
-J
-fieldAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepositoryBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHπ
-•com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setArtistsRepository(Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;)V
-__unknown_file ("0*«
-0 (ñ
-ì
- (¶L
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"V
-artistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"__id*X
- (L
-J
-valueAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"
- (
-implicit return:V
- (J
-valueAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepositoryBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH¬
-hcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getSortManager()LSortManager;
-__unknown_file ("0*Ê
-0 (≠
-™
- (
-fieldjava.lang.Object"__id*}
- (q*oL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"
-sortManagerjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH‚
-icom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setSortManager(LSortManager;)V
-__unknown_file ("0*ﬁ
-0 (≠
-™
- (oL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"
-sortManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÀ
-¥com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getAlbumArtistsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;
-__unknown_file ("0*¢
-0 (∞
-≠
- (R
-fieldIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"__id*∆
- (π*∂L
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"f
-albumArtistsMenuPresenterIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"`
- (T
-R
-fieldIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenterBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÈ
-µcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)V
-__unknown_file ("0*ﬂ
-0 (Æ
-´
- (∂L
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"f
-albumArtistsMenuPresenterIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"__id*`
- (T
-R
-valueIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"
- (
-implicit return:^
- (R
-valueIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenterBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH˛
-Ôcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;LSortManager;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt' (2"0*ë
-0 (&‡
-›
- (9G
-%0Acom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"•com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setArtistsRepository(Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;)V*j
-
-__unknown_file (NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*t
-
-__unknown_file (X
-V
-artistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepositoryª
-∏
- ((
-%1java.lang.Object"icom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setSortManager(LSortManager;)V*j
-
-__unknown_file (NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*=
-
-__unknown_file (!
-
-sortManagerjava.lang.Objectâ
-Ü
- (CO
-%2Icom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"µcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)V*j
-
-__unknown_file (NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*Ñ
-
-__unknown_file (h
-f
-albumArtistsMenuPresenterIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter£
-†
- (;
-%3java.lang.Object"ucom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtists(Lerror/NonExistentClass;)V*Z
- (;NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*)
-
-__unknown_file (
-	<unknown>"/
-
-__unknown_file (
-implicit return:b
- (9V
-artistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository:+
- ((
-sortManagerjava.lang.Object:r
- (Cf
-albumArtistsMenuPresenterIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenterBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHœ
-tcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getAlbumArtists()Lerror/NonExistentClass;
-__unknown_file ("0*Á
-0 (Æ
-´
- (
-fieldjava.lang.Object"__id*~
- (r*pL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter" 
-albumArtistsjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÔ
-ucom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtists(Lerror/NonExistentClass;)V
-__unknown_file ("0*ﬂ
-0 (Æ
-´
- (pL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter" 
-albumArtistsjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHı
-¶com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
-0 (>
-<
- (
-%0	Presenter"__id*
- (
-	PresenterÒ
-Ó
- (!O
-%1Icom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"¥com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getAlbumArtistsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;*Z
- (!NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"/
-
-__unknown_file (
-implicit return:b
- ($V
-viewNcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListContract$ViewBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH˜
-®com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
-0 (>
-<
-   (
-%0	Presenter"__id*
-   (
-	PresenterÒ
-Ó
-! !(!O
-%1Icom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenter"¥com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getAlbumArtistsMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;*Z
-! !(!NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"/
-
-__unknown_file (
-implicit return:b
- (&V
-viewNcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListContract$ViewBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH∏
-_com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#loadAlbumArtists(Z)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt% %(!"0*>
-0$ %("/
-
-__unknown_file (
-implicit return:"
-%" %(6
-scrollToTopbooleanBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÜ
-gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsSortOrder(I)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt; ;()"0*ç
-0; ;(Î
-Ë
-< <(
-%0java.lang.Object"hcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getSortManager()LSortManager;*Z
-< <(NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterT
-R
-< <(,$
-artistsSortOrderjava.lang.Object"__id*
-<' <(,
-
-orderintàÖ
-= =(
-%1kotlin.Unit"_com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#loadAlbumArtists(Z)V*Z
-= =(NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*
-= =(
-true2loadAlbumArtists(Z)"/
-
-__unknown_file (
-implicit return:
-;* ;(4
-orderintBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHñ
-gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsAscending(Z)Võ
-ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.ktA A()"0*ï
-0A A(Î
-Ë
-B B(
-%0java.lang.Object"hcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#getSortManager()LSortManager;*Z
-B B(NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter\
-Z
-B B(0$
-artistsAscendingjava.lang.Object"__id*"
-B' B(0
-
-	ascendingbooleanàÖ
-C C(
-%1kotlin.Unit"_com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#loadAlbumArtists(Z)V*Z
-C C(NL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*
-C C(
-true2loadAlbumArtists(Z)"/
-
-__unknown_file (
-implicit return: 
-A* A(<
-	ascendingbooleanBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH’
-ocom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Ë
-0 (Ø
-¨
- (
-fieldjava.lang.Object"__id*
- (s*qV
-Tcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$CompanionHı
-pcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*‡
-0 (Ø
-¨
- (qV
-Tcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBXV
-Tcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter$CompanionH

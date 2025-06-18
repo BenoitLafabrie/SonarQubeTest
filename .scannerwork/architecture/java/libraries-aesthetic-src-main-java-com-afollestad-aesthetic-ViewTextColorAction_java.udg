@@ -1,273 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261965049*java2.BÓ
-X
-Slibraries/aesthetic/src/main/java/com/afollestad/aesthetic/ViewTextColorAction.java2
-
-package4
-
-com.afollestad.aesthetic5
-1
-,com.afollestad.aesthetic.ViewTextColorAction7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ViewTextColorAction12
-&
- Recovered#typeBindingLConsumer;014
-
-unknown15
-
-
-implements16
-
-
-RestrictTo18
-
-annotated by19
-(
-"Recovered#typeBindingLRestrictTo;021
-
-
-uses22
-7
-1com.afollestad.aesthetic.ViewTextColorAction.view24
-
-field25
-
-private26
-
-
-view27
-
-TextView29
-
-is type30
-F
-@com.afollestad.aesthetic.ViewTextColorAction#<init>(LTextView;)V32
-
-method33
-&
- Recovered#typeBindingLTextView;035
-
-	has param36
-
-calls37
-
-
-references38
-s
-mcom.afollestad.aesthetic.ViewTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewTextColorAction;40
-
-create41
-
-returns42
-
-NonNull44
-%
-Recovered#typeBindingLNonNull;046
-O
-Icom.afollestad.aesthetic.ViewTextColorAction#accept(Ljava/lang/Integer;)V48
-
-accept49
-&
- io.reactivex.annotations.NonNull51
- 
-Recovered#typeBindingLio;053J
-
-1
-12Z
-
-3	
-354j÷
-9
-64
-678 *
-1 (!:3B
-	
-9
-10
-
-
-11
-12
-@
-23:
-232425 *
-1 (
-26:3B
-	
-9
-26
-
-
-11
-27
-@
-47:
-474833 *
-1 (26:3B
-	
-9
-10
-
-
-11
-49
-
-50
-505115
-
-34
-343515
-
-52
-525315
-
-17
-171815
-
-13
-131415
-
-20
-202115
-@
-31:
-313233 *
-1 (
-26:3B
-	
-9
-26
-
-
-11
-12
-@
-39:
-394033 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-41
-
-43
-434415
-
-28
-282915
-
-45
-454615rñ
-
-61316*
-1- (5
-
-61719*
-1 (
-
-62022*
-1 (
-
-61322*
-1- (5
-
-232830*
-1 (
-
-232822*
-1 (
-
-232822*
-1 (
-
-313436*
-1 ('
-
-31637*
-1 (
-
-313430*
-1( (,
-
-313422*
-1 ('
-
-31622*
-1 (	
-
-31638*
-1 (	
-
-312822*
-1
- (
-
-312338*
-1
- (
-
-39642*
-1 ($
-
-393436*
-15 (=
-
-39622*
-1 ($
-
-393430*
-1> (B
-
-394319*
-1, (-
-
-394522*
-1- (4
-
-393422*
-15 (=
-
-39637*
-1 (#
-
-475019*
-1 (
-
-475222*
-1 (
-
-475222*
-1 (#
-
-475222*
-1$ (/
-
-475222*
-10 (7
-
-472822*
-1	 (
-
-472338*
-1	 (
-
-472338*
-1 (
-
-472822*
-1 (
-
-472338*
-1 (

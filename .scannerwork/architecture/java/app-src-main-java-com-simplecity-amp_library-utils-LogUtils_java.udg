@@ -1,102 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261963035*java2.BÐ
-E
-@app/src/main/java/com/simplecity/amp_library/utils/LogUtils.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-.
-)com.simplecity.amp_library.utils.LogUtils7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-LogUtils12
-9
-3com.simplecity.amp_library.utils.LogUtils#<init>()V14
-
-method15
-
-private16
-
-calls17
-x
-rcom.simplecity.amp_library.utils.LogUtils#logException(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V19
-
-logException20
-
-Nullable22
-
-unknown23
-
-annotated by24
-&
- Recovered#typeBindingLNullable;026
-
-
-uses27J
-
-1
-12Z
-
-3	
-354jç
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-13:
-131415 *
-1
- 
-(26:3B
-	
-9
-16
-
-
-11
-12
-
-25
-252623
-@
-18:
-181915 *
-1 (26:3B
-	
-9
-10
-
-
-11
-20
-
-21
-212223rP
-
-13617*
-1
- 
-(
-
-182124*
-1A (B
-
-182527*
-1B (J

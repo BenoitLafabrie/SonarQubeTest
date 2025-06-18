@@ -1,990 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261950827*java2.B˜
-b
-]libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.java2
-
-package4
-
-com.afollestad.aesthetic5
-;
-6com.afollestad.aesthetic.AestheticBottomNavigationView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-#
-AestheticBottomNavigationView12
-2
-,Recovered#typeBindingLBottomNavigationView;014
-
-unknown15
-
-extends16
-
-
-uses17
-N
-Hcom.afollestad.aesthetic.AestheticBottomNavigationView.modesSubscription19
-
-field20
-
-private21
-
-modesSubscription22
-
-
-Disposable24
-
-is type25
-O
-Icom.afollestad.aesthetic.AestheticBottomNavigationView.colorSubscriptions27
-
-colorSubscriptions28
-
-CompositeDisposable30
-N
-Hcom.afollestad.aesthetic.AestheticBottomNavigationView.lastTextIconColor32
-
-lastTextIconColor33
-O
-Icom.afollestad.aesthetic.AestheticBottomNavigationView#<init>(LContext;)V35
-
-method36
-%
-Recovered#typeBindingLContext;038
-
-	has param39
-
-calls40
-]
-Wcom.afollestad.aesthetic.AestheticBottomNavigationView#<init>(LContext;LAttributeSet;)V42
-*
-$Recovered#typeBindingLAttributeSet;044
-^
-Xcom.afollestad.aesthetic.AestheticBottomNavigationView#<init>(LContext;LAttributeSet;I)V46
-Y
-Scom.afollestad.aesthetic.AestheticBottomNavigationView#invalidateIconTextColor(II)V48
-
-invalidateIconTextColor49
-,
-&Recovered#typeBindingLColorStateList;051
-S
-Mcom.afollestad.aesthetic.AestheticBottomNavigationView#setBackgroundColor(I)V53
-
-setBackgroundColor54
-
-ColorInt56
-
-annotated by57
-&
- Recovered#typeBindingLColorInt;059
-
-
-references60
-
-BottomNavigationView62
-…
-com.afollestad.aesthetic.AestheticBottomNavigationView#onState(Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;)V64
-
-onState65
-B
-<com.afollestad.aesthetic.AestheticBottomNavigationView$State67
-O
-Icom.afollestad.aesthetic.AestheticBottomNavigationView$State.iconTextMode69
->
-8com.afollestad.aesthetic.AestheticBottomNavigationView$171
-
-	protected72
-[
-Ucom.afollestad.aesthetic.AestheticBottomNavigationView$1#accept(Ljava/lang/Integer;)V74
-
-accept75
-
-NonNull77
-%
-Recovered#typeBindingLNonNull;079
->
-8com.afollestad.aesthetic.AestheticBottomNavigationView$281
-[
-Ucom.afollestad.aesthetic.AestheticBottomNavigationView$2#accept(Ljava/lang/Integer;)V83
-I
-Ccom.afollestad.aesthetic.AestheticBottomNavigationView$State.bgMode85
-I
-Ccom.afollestad.aesthetic.AestheticBottomNavigationView$State.isDark87
-R
-Lcom.afollestad.aesthetic.AestheticBottomNavigationView#onAttachedToWindow()V89
-
-onAttachedToWindow90
-
-	Function392
-
-returns93
-W
-Qcom.afollestad.aesthetic.AestheticBottomNavigationView$State#creator()LFunction3;95
->
-8com.afollestad.aesthetic.AestheticBottomNavigationView$397
-‡
-€com.afollestad.aesthetic.AestheticBottomNavigationView$3#accept(Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;)V99
-)
-"android.support.annotation.NonNull101
-9
-2Recovered#typeBindingLandroid/support/annotation;0103
-U
-Ncom.afollestad.aesthetic.AestheticBottomNavigationView#onDetachedFromWindow()V105
-
-onDetachedFromWindow106
-
-State107
-
-bgMode108
-
-BottomNavBgMode110
-.
-'Recovered#typeBindingLBottomNavBgMode;0112
-
-iconTextMode113
-
-BottomNavIconTextMode115
-4
--Recovered#typeBindingLBottomNavIconTextMode;0117
-
-isDark118
-P
-Icom.afollestad.aesthetic.AestheticBottomNavigationView$State#<init>(IIZ)V120
-Ž
-†com.afollestad.aesthetic.AestheticBottomNavigationView$State#create(IIZ)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;122
-
-create123
-
-creator124
-E
->com.afollestad.aesthetic.AestheticBottomNavigationView$State$1126
-Å
-½com.afollestad.aesthetic.AestheticBottomNavigationView$State$1#apply(Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Boolean;)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;128
-
-apply129J
-
-1
-12Z
-
-3	
-354jõ
-@
-18:
-181920 *
-1 (
-26:3B
-	
-9
-21
-
-
-11
-22
-
-37
-373815
-
-109
-10911015
-9
-64
-678 *
-1 (+:3B
-	
-9
-10
-
-
-11
-12
-
-102
-10210315
-
-13
-131415
-@
-41:
-414236 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-12
-B
-66<
-66678 *
-1¯ ¯(26:3B
-	
-9
-21
-
-11
-107
-H
-127A
-12712836 *
-1Â	 Â(
-2125:3B
-	
-9
-10
-
-11
-129
-
-100
-10010115
-
-111
-11111215
-9
-1252
-1251268 *
-1Á@ Á(A294:3B
-	
-9
-72
-D
-84>
-848520 *
-1± ±(266:3B
-	
-9
-21
-
-11
-108
-@
-47:
-474836 *
-1' '(
-26:3B
-	
-9
-21
-
-
-11
-49
-
-114
-11411515
-B
-88<
-888936 *
-1” ”(26:3B
-	
-9
-72
-
-
-11
-90
-
-61
-616215
-A
-73;
-737436 *
-1T T(270:3B
-	
-9
-10
-
-
-11
-75
-@
-34:
-343536 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-12
-
-58
-585915
-
-76
-767715
-
-50
-505115
-A
-82;
-828336 *
-1b b(280:3B
-	
-9
-10
-
-
-11
-75
-D
-94>
-949536 *
-1À À(266:3B
-	
-9
-72
-
-11
-124
-C
-98=
-989936 *
-1   (296:3B
-	
-9
-10
-
-
-11
-75
-@
-26:
-262720 *
-1 (
-26:3B
-	
-9
-21
-
-
-11
-28
-
-23
-232415
-@
-63:
-636436 *
-1F F(
-26:3B
-	
-9
-21
-
-
-11
-65
-F
-104?
-10410536 *
-1¨ ¨(26:3B
-	
-9
-72
-
-11
-106
-@
-52:
-525336 *
-1= =(26:3B
-	
-9
-10
-
-
-11
-54
-G
-119@
-11912036 *
-1µ µ(266:3B
-	
-9
-21
-
-11
-107
-
-91
-919215
-
-116
-11611715
-@
-45:
-454636 *
-1# #(	26:3B
-	
-9
-10
-
-
-11
-12
-
-55
-555615
-D
-86>
-868720 *
-1³ ³(266:3B
-	
-9
-21
-
-11
-118
-G
-121@
-12112236 *
-1» »(266:3B
-	
-9
-72
-
-11
-123
-6
-960
-96978 *
-1Ÿ' Ÿ((288:3B
-	
-9
-72
-4
-80.
-80818 *
-1a- a(.263:3B
-	
-9
-72
-4
-70.
-70718 *
-1S- S(.263:3B
-	
-9
-72
-D
-68>
-686920 *
-1² ²(266:3B
-	
-9
-21
-
-11
-113
-@
-31:
-313220 *
-1 (
-26:3B
-	
-9
-21
-
-
-11
-33
-
-29
-293015
-
-78
-787915
-
-43
-434415r®"
-
-61316*
-14 (H
-
-61317*
-14 (H
-
-182325*
-1 (
-
-182317*
-1 (
-
-182317*
-1 ('
-
-262925*
-1 (
-
-262917*
-1 (
-
-262917*
-1 (1
-
-343739*
-1( (/
-
-34640*
-1
- ('
-
-343725*
-10 (7
-
-343717*
-1( (/
-
-413739*
-1( (/
-
-414339*
-19 (E
-
-41640*
-1
- ('
-
-413725*
-10 (7
-
-413717*
-1( (/
-
-414325*
-1F (K
-
-414317*
-19 (E
-
-453739*
-1#( #(/
-
-454339*
-1#9 #(E
-
-45640*
-1#
- #('
-
-453725*
-1#0 #(7
-
-453717*
-1#( #(/
-
-454325*
-1#F #(K
-
-454317*
-1#9 #(E
-
-475025*
-1- -(
-
-475017*
-1- -(
-
-475025*
-13 3(
-
-475017*
-13 3(
-
-525557*
-1>" >(#
-
-525817*
-1># >(+
-
-52660*
-1? ?(
-
-
-526117*
-1? ?(
-
-
-52660*
-1? ?(
-
-
-523160*
-1@	 @(
-
-523160*
-1A A(
-
-52660*
-1C C(
-
-524740*
-1C C(
-
-523160*
-1C$ C(5
-
-636639*
-1F F(
-
-636625*
-1F F(#
-
-636617*
-1F F(
-
-636660*
-1F F(
-
-632917*
-1G	 G(
-
-632660*
-1G	 G(
-
-632660*
-1H H(
-
-632917*
-1H H(
-
-632660*
-1H H(
-
-632917*
-1J J(
-
-632660*
-1J J(
-
-636860*
-1L L(
-
-632660*
-1N	 N(
-
-632917*
-1N	 N(
-
-632660*
-1N	 N(
-
-737657*
-1U* U(+
-
-737817*
-1U+ U(2
-
-733160*
-1V V(*
-
-632660*
-1\	 \(
-
-632917*
-1\	 \(
-
-632660*
-1\	 \(
-
-827657*
-1c* c(+
-
-827817*
-1c+ c(2
-
-823160*
-1d d(*
-
-633160*
-1k	 k(
-
-636860*
-1nW n(c
-
-638460*
-1q q(
-
-632660*
-1s	 s(
-
-632917*
-1s	 s(
-
-632660*
-1s	 s(
-
-63617*
-1w8 w(<
-
-63660*
-1w8 w(<
-
-632660*
-1z	 z(
-
-632917*
-1z	 z(
-
-632660*
-1z	 z(
-
-63617*
-1~8 ~(<
-
-63660*
-1~8 ~(<
-
-632660*
-1	 (
-
-632917*
-1	 (
-
-632660*
-1	 (
-
-63617*
-1…8 …(<
-
-63660*
-1…8 …(<
-
-63660*
-1ˆ	 ˆ(
-
-635240*
-1ˆ	 ˆ(
-
-638660*
-1‹ ‹(
-
-638460*
-1P (V
-
-88660*
-1– –(
-
-
-886117*
-1– –(
-
-
-88660*
-1– –(
-
-
-882317*
-1— —(
-
-881860*
-1— —(
-
-889193*
-1œ œ(
-
-886660*
-1œ œ(
-
-889440*
-1œ œ(
-
-886660*
-1œ œ(
-
-886617*
-1œ œ(
-
-886660*
-1œ œ(
-
-886617*
-1 (
-
-886660*
-1 (
-
-886617*
-1Ÿ Ÿ(#
-
-886660*
-1Ÿ Ÿ(#
-
-986639*
-1¡J ¡(O
-
-986625*
-1¡P ¡(U
-
-9810057*
-1¡& ¡('
-
-9810217*
-1¡7 ¡(A
-
-9810217*
-1¡B ¡(I
-
-986617*
-1¡J ¡(O
-
-986660*
-1¡J ¡(O
-
-98660*
-1¢ ¢(
-
-986340*
-1¢ ¢(
-
-1041860*
-1ª ª(
-
-1042317*
-1ª ª(
-
-1041860*
-1ª ª(
-
-1042660*
-1« «(
-
-1042917*
-1« «(
-
-1042660*
-1« «(
-
-104660*
-1¬ ¬(
-
-
-1046117*
-1¬ ¬(
-
-
-104660*
-1¬ ¬(
-
-
-8410957*
-1± ±(
-
-8411117*
-1± ±(
-
-6811457*
-1² ²(
-
-6811617*
-1² ²(
-
-1196640*
-1µ µ(
-
-1196617*
-1¶ ¶(
-
-1196660*
-1¶ ¶(
-
-1198460*
-1¶ ¶(
-
-1196617*
-1· ·(
-
-1196660*
-1· ·(
-
-1196860*
-1· ·(
-
-1196617*
-1¸ ¸(
-
-1196660*
-1¸ ¸(
-
-1198660*
-1¸ ¸(
-
-1216693*
-1» »(
-
-1216617*
-1» »(
-
-1216660*
-1» »(
-
-12110957*
-1¼	 ¼(
-
-
-12111117*
-1¼
- ¼(
-
-12111457*
-1¼& ¼('
-
-12111617*
-1¼' ¼(<
-
-1216640*
-1½ ½(
-
-949193*
-1À À(
-
-949117*
-1À À(
-
-946617*
-1À1 À(6
-
-946660*
-1À1 À(6
-
-946617*
-1Á7 Á(<
-
-946660*
-1Á7 Á(<
-
-1276693*
-1Ã Ã(
-
-1276617*
-1Ã Ã(
-
-1276660*
-1Ã Ã(
-
-1276693*
-1Ä Ä(
-
-1276660*
-1Ä Ä(
-
-12712140*
-1Ä Ä(
-
-1276660*
-1Ä Ä(
-
-1276617*
-1Ä Ä(
-
-1276660*
-1Ä Ä(

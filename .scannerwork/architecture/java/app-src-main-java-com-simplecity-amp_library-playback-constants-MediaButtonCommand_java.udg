@@ -1,195 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261959039*java2.B¨
-
-\
-Wapp/src/main/java/com/simplecity/amp_library/playback/constants/MediaButtonCommand.java2
-
-package4
-2
--com.simplecity.amp_library.playback.constants5
-E
-@com.simplecity.amp_library.playback.constants.MediaButtonCommand7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-
-MediaButtonCommand12
-O
-Icom.simplecity.amp_library.playback.constants.MediaButtonCommand.CMD_NAME14
-
-field15
-
-CMD_NAME16
-S
-Mcom.simplecity.amp_library.playback.constants.MediaButtonCommand.TOGGLE_PAUSE18
-
-TOGGLE_PAUSE19
-K
-Ecom.simplecity.amp_library.playback.constants.MediaButtonCommand.STOP21
-
-
-STOP22
-L
-Fcom.simplecity.amp_library.playback.constants.MediaButtonCommand.PAUSE24
-
-PAUSE25
-K
-Ecom.simplecity.amp_library.playback.constants.MediaButtonCommand.PLAY27
-
-
-PLAY28
-O
-Icom.simplecity.amp_library.playback.constants.MediaButtonCommand.PREVIOUS30
-
-PREVIOUS31
-K
-Ecom.simplecity.amp_library.playback.constants.MediaButtonCommand.NEXT33
-
-
-NEXT34
-V
-Pcom.simplecity.amp_library.playback.constants.MediaButtonCommand.TOGGLE_FAVORITE36
-
-TOGGLE_FAVORITE37
-X
-Rcom.simplecity.amp_library.playback.constants.MediaButtonCommand.FROM_MEDIA_BUTTON39
-
-FROM_MEDIA_BUTTON40
-U
-Ocom.simplecity.amp_library.playback.constants.MediaButtonCommand.FORCE_PREVIOUS42
-
-FORCE_PREVIOUS43J
-
-1
-12Z
-
-3	
-354jœ
-@
-17:
-171815 *
-1 (26:3B
-	
-9
-10
-
-
-11
-19
-@
-23:
-232415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-25
-@
-41:
-414215 *
-1 (26:3B
-	
-9
-10
-
-
-11
-43
-9
-64
-678 *
-1 ($:3B
-	
-9
-10
-
-
-11
-12
-@
-38:
-383915 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-@
-29:
-293015 *
-1	 	(26:3B
-	
-9
-10
-
-
-11
-31
-@
-32:
-323315 *
-1
- 
-(26:3B
-	
-9
-10
-
-
-11
-34
-@
-26:
-262715 *
-1 (26:3B
-	
-9
-10
-
-
-11
-28
-@
-20:
-202115 *
-1 (26:3B
-	
-9
-10
-
-
-11
-22
-@
-35:
-353615 *
-1 (26:3B
-	
-9
-10
-
-
-11
-37
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16

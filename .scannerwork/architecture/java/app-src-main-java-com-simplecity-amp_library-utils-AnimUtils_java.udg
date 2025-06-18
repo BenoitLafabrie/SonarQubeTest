@@ -1,102 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261951366*java2.B¢
-F
-Aapp/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-/
-*com.simplecity.amp_library.utils.AnimUtils7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-	AnimUtils12
-;
-5com.simplecity.amp_library.utils.AnimUtils#lerp(FFF)F14
-
-method15
-
-
-lerp16
-;
-5com.simplecity.amp_library.utils.AnimUtils#lerp(III)I18
-;
-5com.simplecity.amp_library.utils.AnimUtils#lerp(DDD)D20
-:
-4com.simplecity.amp_library.utils.AnimUtils#<init>()V22
-
-private23
-
-calls24J
-
-1
-12Z
-
-3	
-354j√
-@
-19:
-192015 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-17:
-171815 *
-1	 	(26:3B
-	
-9
-10
-
-
-11
-16
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16
-@
-21:
-212215 *
-1 (26:3B
-	
-9
-23
-
-
-11
-12r
-
-21624*
-1 (

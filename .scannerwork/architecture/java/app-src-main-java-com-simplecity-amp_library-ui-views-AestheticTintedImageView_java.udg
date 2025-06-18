@@ -1,482 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261955516*java2.Bø
-X
-Sapp/src/main/java/com/simplecity/amp_library/ui/views/AestheticTintedImageView.java2
-
-package4
-(
-#com.simplecity.amp_library.ui.views5
-A
-<com.simplecity.amp_library.ui.views.AestheticTintedImageView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-AestheticTintedImageView12
-0
-*Recovered#typeBindingLAppCompatImageView;014
-
-unknown15
-
-extends16
-
-
-uses17
-V
-Pcom.simplecity.amp_library.ui.views.AestheticTintedImageView.aestheticDisposable19
-
-field20
-
-	protected21
-
-aestheticDisposable22
-
-
-Disposable24
-
-is type25
-K
-Ecom.simplecity.amp_library.ui.views.AestheticTintedImageView.drawable27
-
-private28
-
-drawable29
-
-Drawable31
-
-Nullable33
-
-annotated by34
-&
- Recovered#typeBindingLNullable;036
-U
-Ocom.simplecity.amp_library.ui.views.AestheticTintedImageView#<init>(LContext;)V38
-
-method39
-%
-Recovered#typeBindingLContext;041
-
-	has param42
-
-calls43
-c
-]com.simplecity.amp_library.ui.views.AestheticTintedImageView#<init>(LContext;LAttributeSet;)V45
-*
-$Recovered#typeBindingLAttributeSet;047
-d
-^com.simplecity.amp_library.ui.views.AestheticTintedImageView#<init>(LContext;LAttributeSet;I)V49
-`
-Zcom.simplecity.amp_library.ui.views.AestheticTintedImageView#setImageDrawable(LDrawable;)V51
-
-setImageDrawable52
-&
- Recovered#typeBindingLDrawable;054
-
-
-references55
-
-AppCompatImageView57
-c
-]com.simplecity.amp_library.ui.views.AestheticTintedImageView#getColorObservable()LObservable;59
-
-getColorObservable60
-
-
-Observable62
-
-returns63
-(
-"com.afollestad.aesthetic.Aesthetic65
-[
-Ucom.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;67
-W
-Qcom.simplecity.amp_library.ui.views.AestheticTintedImageView#invalidateColors(I)V69
-
-invalidateColors70
-X
-Rcom.simplecity.amp_library.ui.views.AestheticTintedImageView#onAttachedToWindow()V72
-
-onAttachedToWindow73
-Z
-Tcom.simplecity.amp_library.ui.views.AestheticTintedImageView#onDetachedFromWindow()V75
-
-onDetachedFromWindow76J
-
-1
-12Z
-
-3	
-354j¿
-
-23
-232415
-
-40
-404115
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-@
-58:
-585939 *
-1, ,(26:3B
-	
-9
-21
-
-
-11
-60
-
-66
-666715
-9
-64
-678 *
-1 (&:3B
-	
-9
-10
-
-
-11
-12
-
-30
-303115
-@
-37:
-373839 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-44:
-444539 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-56
-565715
-
-61
-616215
-
-64
-646515
-@
-68:
-686939 *
-10 0(	26:3B
-	
-9
-21
-
-
-11
-70
-
-35
-353615
-@
-48:
-484939 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-74:
-747539 *
-1@ @(26:3B
-	
-9
-21
-
-
-11
-76
-@
-71:
-717239 *
-17 7(26:3B
-	
-9
-21
-
-
-11
-73
-@
-50:
-505139 *
-1   (26:3B
-	
-9
-10
-
-
-11
-52
-
-53
-535415
-
-32
-323315
-
-13
-131415
-@
-26:
-262720 *
-1 (26:3B
-	
-9
-28
-
-
-11
-29
-
-46
-464715rÑ
-
-61316*
-1/ (A
-
-61317*
-1/ (A
-
-182325*
-1 (
-
-182317*
-1 (
-
-182317*
-1 (#
-
-263025*
-1 (
-
-263234*
-1 (
-
-263517*
-1 (
-
-263017*
-1 (
-
-263017*
-1 (
-
-374042*
-1% (,
-
-37643*
-1 ($
-
-374025*
-1- (4
-
-374017*
-1% (,
-
-444042*
-1% (,
-
-444642*
-16 (B
-
-44643*
-1 ($
-
-444025*
-1- (4
-
-444017*
-1% (,
-
-444625*
-1C (H
-
-444617*
-16 (B
-
-484042*
-1% (,
-
-484642*
-16 (B
-
-48643*
-1 ($
-
-484025*
-1- (4
-
-484017*
-1% (,
-
-484625*
-1C (H
-
-484617*
-16 (B
-
-505342*
-1!, !(4
-
-505325*
-1!5 !(=
-
-503234*
-1!" !(#
-
-503517*
-1!# !(+
-
-505317*
-1!, !(4
-
-50617*
-1'	 '(
-
-50655*
-1'	 '(
-
-503017*
-1' '(
-
-502655*
-1' '(
-
-50655*
-1)	 )(
-
-505617*
-1)	 )(
-
-50655*
-1)	 )(
-
-586163*
-1, ,(
-
-586117*
-1, ,(
-
-586463*
-1- -(
-
-586455*
-1- -(
-
-586643*
-1- -(
-
-586417*
-1- -(
-
-683017*
-11 1(
-
-682655*
-11 1(
-
-683017*
-12$ 2(,
-
-682655*
-12$ 2(,
-
-68655*
-13 3(
-
-685043*
-13 3(
-
-683017*
-13 3(&
-
-682655*
-13 3(&
-
-71655*
-19	 9(
-
-715617*
-19	 9(
-
-71655*
-19	 9(
-
-712317*
-1< <( 
-
-711855*
-1< <( 
-
-716163*
-1<# <(5
-
-71655*
-1<# <(5
-
-715843*
-1<# <(5
-
-71617*
-1<B <(F
-
-71655*
-1<B <(F
-
-741855*
-1B	 B(
-
-742317*
-1B	 B(
-
-741855*
-1B	 B(
-
-74655*
-1D	 D(
-
-745617*
-1D	 D(
-
-74655*
-1D	 D(

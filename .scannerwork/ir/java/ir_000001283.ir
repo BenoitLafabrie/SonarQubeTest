@@ -1,20 +1,0 @@
-
-
-1int
-
-0int[callback 1  (R"Ccom.simplecity.amp_library.utils.PermissionUtils$PermissionCallback"úB
-@
-! !(U"#new-object#2Constructor:Bjava.lang.String[]!
-
-!* !(2"#unknown-value#6
-4
-!* !(="#get-field# permission:B	!Unknown!B
-@
-!* !(T"$"#get-field# WRITE_EXTERNAL_STORAGE:B	!Unknown!$
-"
-! !(U"#array-write#:à
-Ý
-! !(U	"¦
-0com.simplecity.amp_library.utils.PermissionUtilsrsimplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)V2simplePermissionRequest:B	!Unknown!
-
-" "(*x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/PermissionUtils.java

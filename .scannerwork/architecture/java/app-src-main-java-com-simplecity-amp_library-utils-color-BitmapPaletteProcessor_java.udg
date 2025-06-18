@@ -1,770 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261963837*java2.Bœ
-Y
-Tapp/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java2
-
-package4
-+
-&com.simplecity.amp_library.utils.color5
-B
-=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BitmapPaletteProcessor12
-h
-bcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.POPULATION_FRACTION_FOR_MORE_VIBRANT14
-
-field15
-
-private16
-*
-$POPULATION_FRACTION_FOR_MORE_VIBRANT17
-`
-Zcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.MIN_SATURATION_WHEN_DECIDING19
-"
-MIN_SATURATION_WHEN_DECIDING20
-Z
-Tcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.MINIMUM_IMAGE_FRACTION22
-
-MINIMUM_IMAGE_FRACTION23
-d
-^com.simplecity.amp_library.utils.color.BitmapPaletteProcessor.POPULATION_FRACTION_FOR_DOMINANT25
-&
- POPULATION_FRACTION_FOR_DOMINANT26
-j
-dcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.POPULATION_FRACTION_FOR_WHITE_OR_BLACK28
-,
-&POPULATION_FRACTION_FOR_WHITE_OR_BLACK29
-W
-Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.BLACK_MAX_LIGHTNESS31
-
-BLACK_MAX_LIGHTNESS32
-W
-Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.WHITE_MIN_LIGHTNESS34
-
-WHITE_MIN_LIGHTNESS35
-V
-Pcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.RESIZE_BITMAP_AREA37
-
-RESIZE_BITMAP_AREA38
-Z
-Tcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.mFilteredBackgroundHsl40
-
-mFilteredBackgroundHsl41
-U
-Ocom.simplecity.amp_library.utils.color.BitmapPaletteProcessor.mBlackWhiteFilter43
-
-mBlackWhiteFilter44
-
-Palette.Filter46
-
-unknown47
-
-is type48
-%
-Recovered#typeBindingLPalette;050
-
-
-uses51
-a
-[com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#processBitmap(LBitmap;)LPair;53
-
-method54
-
-processBitmap55
-
-
-Pair57
-
-returns58
-$
-Recovered#typeBindingLBitmap;060
-
-	has param61
-
-
-references62
-l
-fcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#findBackgroundColorAndFilter(LPalette;)I64
-
-calls65
-f
-`com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColor(ILPalette;)I67
-
-selectForegroundColor68
-π
-≤com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColorForSwatches(LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;I)I70
-&
- selectForegroundColorForSwatches71
-
-Palette.Swatch73
-ç
-Ücom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectVibrantCandidate(LPalette/Swatch;LPalette/Swatch;)LPalette/Swatch;75
-ã
-Ñcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectMutedCandidate(LPalette/Swatch;LPalette/Swatch;)LPalette/Swatch;77
-j
-dcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#hasEnoughPopulation(LPalette/Swatch;)Z79
-
-selectMutedCandidate80
-
-selectVibrantCandidate81
-
-hasEnoughPopulation82
-"
-findBackgroundColorAndFilter83
-W
-Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z85
-
-isWhiteOrBlack86
-P
-Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z88
-P
-Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z90
-
-isBlack91
-
-isWhite92J
-
-1
-12Z
-
-3	
-354j’
-B
-78<
-787954 *
-1Æ Æ(26:3B
-	
-9
-16
-
-
-11
-82
-9
-64
-678 *
-1 ($:3B
-	
-9
-10
-
-
-11
-12
-@
-13:
-131415 *
-1! !(26:3B
-	
-9
-16
-
-
-11
-17
-B
-89<
-899054 *
-1Ì Ì(26:3B
-	
-9
-16
-
-
-11
-92
-
-45
-454647
-B
-76<
-767754 *
-1Ö Ö(26:3B
-	
-9
-16
-
-
-11
-80
-@
-39:
-394015 *
-1; ;(26:3B
-	
-9
-16
-
-
-11
-41
-@
-18:
-181915 *
-1' '(26:3B
-	
-9
-16
-
-
-11
-20
-@
-33:
-333415 *
-19 9(26:3B
-	
-9
-16
-
-
-11
-35
-@
-36:
-363715 *
-1: :(26:3B
-	
-9
-16
-
-
-11
-38
-
-49
-495047
-@
-30:
-303115 *
-18 8(26:3B
-	
-9
-16
-
-
-11
-32
-
-59
-596047
-
-56
-565747
-@
-24:
-242515 *
-12 2(26:3B
-	
-9
-16
-
-
-11
-26
-B
-63<
-636454 *
-1¥ ¥(26:3B
-	
-9
-16
-
-
-11
-83
-@
-69:
-697054 *
-1m m(26:3B
-	
-9
-16
-
-
-11
-71
-B
-84<
-848554 *
-1ﬁ ﬁ(26:3B
-	
-9
-16
-
-
-11
-86
-@
-52:
-525354 *
-1G G(26:3B
-	
-9
-10
-
-
-11
-55
-@
-21:
-212215 *
-1, ,(26:3B
-	
-9
-16
-
-
-11
-23
-@
-42:
-424315 *
-1< <(26:3B
-	
-9
-16
-
-
-11
-44
-
-72
-727347
-B
-87<
-878854 *
-1Ê Ê(26:3B
-	
-9
-16
-
-
-11
-91
-@
-66:
-666754 *
-1[ [(26:3B
-	
-9
-16
-
-
-11
-68
-@
-27:
-272815 *
-17 7(26:3B
-	
-9
-16
-
-
-11
-29
-B
-74<
-747554 *
-1ö ö(26:3B
-	
-9
-16
-
-
-11
-81r˜
-
-424548*
-1< <(
-
-424951*
-1< <(
-
-424551*
-1< <(
-
-424551*
-1< <(-
-
-525658*
-1G G(
-
-525961*
-1G1 G(7
-
-525651*
-1G G(
-
-525948*
-1G8 G(>
-
-525951*
-1G1 G(7
-
-524948*
-1I I('
-
-524951*
-1I	 I(
-
-524951*
-1I I(
-
-524948*
-1J J(
-
-524951*
-1J	 J(
-
-52662*
-1K K(7
-
-526365*
-1K K(7
-
-523962*
-1L L(#
-
-524551*
-1S" S(3
-
-524262*
-1S" S(3
-
-52662*
-1V V(4
-
-526665*
-1V V(4
-
-664961*
-1[< [(C
-
-664948*
-1[D [(K
-
-664951*
-1[< [(C
-
-66662*
-1] ](4
-
-666965*
-1] ](4
-
-66662*
-1d d(4
-
-666965*
-1d d(4
-
-694961*
-1m2 m(9
-
-694961*
-1n n(
-
-694961*
-1n% n(,
-
-694961*
-1nE n(L
-
-694961*
-1o o(
-
-694948*
-1mA m(L
-
-694951*
-1m2 m(9
-
-694951*
-1m: m(@
-
-694948*
-1n n(#
-
-694951*
-1n n(
-
-694951*
-1n n(
-
-694948*
-1n4 n(C
-
-694951*
-1n% n(,
-
-694951*
-1n- n(3
-
-694948*
-1nT n(_
-
-694951*
-1nE n(L
-
-694951*
-1nM n(S
-
-694948*
-1o o(*
-
-694951*
-1o o(
-
-694951*
-1o o(
-
-694948*
-1p p((
-
-694951*
-1p	 p(
-
-694951*
-1p p(
-
-697258*
-1p+ p(A
-
-69662*
-1p+ p(A
-
-697465*
-1p+ p(A
-
-697258*
-1r  r(4
-
-69662*
-1r  r(4
-
-697665*
-1r  r(4
-
-692462*
-1x x(7
-
-691862*
-1y5 y(Q
-
-69662*
-1~ ~('
-
-697865*
-1~ ~('
-
-767258*
-1Ö Ö(
-
-764961*
-1Ö1 Ö(8
-
-764961*
-1Ü Ü(
-
-764951*
-1Ö Ö(
-
-767251*
-1Ö Ö(
-
-764948*
-1Ö@ Ö(E
-
-764951*
-1Ö1 Ö(8
-
-764951*
-1Ö9 Ö(?
-
-764948*
-1Ü Ü("
-
-764951*
-1Ü Ü(
-
-764951*
-1Ü Ü(
-
-76662*
-1á á(1
-
-767865*
-1á á(1
-
-76662*
-1à à(2
-
-767865*
-1à à(2
-
-747258*
-1ö ö(
-
-744961*
-1ö3 ö(:
-
-744961*
-1öI ö(P
-
-744951*
-1ö ö(
-
-747251*
-1ö ö(
-
-744948*
-1öB ö(G
-
-744951*
-1ö3 ö(:
-
-744951*
-1ö; ö(A
-
-744948*
-1öX ö(^
-
-744951*
-1öI ö(P
-
-744951*
-1öQ ö(W
-
-74662*
-1õ õ(1
-
-747865*
-1õ õ(1
-
-74662*
-1ú ú(2
-
-747865*
-1ú ú(2
-
-741362*
-1° °(;
-
-784961*
-1Æ) Æ(0
-
-784948*
-1Æ8 Æ(>
-
-784951*
-1Æ) Æ(0
-
-784951*
-1Æ1 Æ(7
-
-783662*
-1±6 ±(H
-
-782162*
-1±K ±(a
-
-634961*
-1¥. ¥(5
-
-634948*
-1¥6 ¥(=
-
-634951*
-1¥. ¥(5
-
-634948*
-1∂ ∂(&
-
-634951*
-1∂	 ∂(
-
-634951*
-1∂ ∂(
-
-633962*
-1π π(#
-
-63662*
-1Ω Ω(
-
-638465*
-1Ω Ω(
-
-633962*
-1æ æ(#
-
-634951*
-1¬ ¬(
-
-634951*
-1¬ ¬(
-
-634948*
-1ƒ ƒ(
-
-634951*
-1ƒ	 ƒ(
-
-634951*
-1ƒ ƒ(
-
-634948*
-1≈ ≈(#
-
-634951*
-1≈ ≈(
-
-634951*
-1≈ ≈(
-
-63662*
-1» »('
-
-638465*
-1» »('
-
-633962*
-1œ œ(#
-
-632762*
-1” ”(9
-
-633962*
-1÷ ÷(#
-
-633962*
-1Ÿ Ÿ(#
-
-84662*
-1ﬂ ﬂ(
-
-848765*
-1ﬂ ﬂ(
-
-84662*
-1ﬂ  ﬂ('
-
-848965*
-1ﬂ  ﬂ('
-
-873062*
-1Á Á(2
-
-893362*
-1Ó Ó(2

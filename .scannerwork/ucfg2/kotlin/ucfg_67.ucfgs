@@ -1,115 +1,0 @@
-Ç
-?com.simplecity.amp_library.ui.dialog.UpgradeNagDialog#<init>()Vƒ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/UpgradeNagDialog.kt /("0*>
-0 ()"/
-
-__unknown_file (
-implicit returnB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogHÅ
-[com.simplecity.amp_library.ui.dialog.UpgradeNagDialog#getSettingsManager()LSettingsManager;
-__unknown_file ("0*‹
-0 (œ
-™
- (
-fieldjava.lang.Object"__id*l
- (`*^7
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialog"#
-settingsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
- (
-
-fieldjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogHå
-\com.simplecity.amp_library.ui.dialog.UpgradeNagDialog#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*ƒ
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0œ
-™
- (^7
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialog"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogHÌ
-Jcom.simplecity.amp_library.ui.dialog.UpgradeNagDialog#onAttach(LContext;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/UpgradeNagDialog.kt ("0*Œ
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.Object"/
-
-__unknown_file (
-implicit return:'
- (+
-contextjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogHÓ
-Tcom.simplecity.amp_library.ui.dialog.UpgradeNagDialog#onViewCreated(LView;LBundle;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/UpgradeNagDialog.kt ("0*Ø
-0 (L
-J
- (
-%0java.lang.Object"__id* 
- (
-java.lang.ObjectÉ
-Æ
- (
-%1java.lang.Object"[com.simplecity.amp_library.ui.dialog.UpgradeNagDialog#getSettingsManager()LSettingsManager;*E
- (97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialog"/
-
-__unknown_file (
-implicit return:$
- ()
-viewjava.lang.Object:2
-+ (F&
-savedInstanceStatejava.lang.ObjectB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogHÛ
-Vcom.simplecity.amp_library.ui.dialog.UpgradeNagDialog#onCreateDialog(LBundle;)LDialog;…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/UpgradeNagDialog.kt ("0*„
-0 (Z
-X
- +(5
-builderjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-- -(
-	<unknown>:2
-  (;&
-savedInstanceStatejava.lang.ObjectB97
-5com.simplecity.amp_library.ui.dialog.UpgradeNagDialogH

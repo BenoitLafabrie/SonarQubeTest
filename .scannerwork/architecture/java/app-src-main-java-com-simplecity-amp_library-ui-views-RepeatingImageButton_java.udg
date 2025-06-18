@@ -1,742 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261945426*java2.B˜
-T
-Oapp/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java2
-
-package4
-(
-#com.simplecity.amp_library.ui.views5
-=
-8com.simplecity.amp_library.ui.views.RepeatingImageButton7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-RepeatingImageButton12
-0
-*Recovered#typeBindingLandroid/support/v7;014
-
-unknown15
-
-extends16
-
-
-uses17
-H
-Bcom.simplecity.amp_library.ui.views.RepeatingImageButton.startTime19
-
-field20
-
-private21
-
-	startTime22
-J
-Dcom.simplecity.amp_library.ui.views.RepeatingImageButton.repeatCount24
-
-repeatCount25
-G
-Acom.simplecity.amp_library.ui.views.RepeatingImageButton.listener27
-
-listener28
-M
-Gcom.simplecity.amp_library.ui.views.RepeatingImageButton$RepeatListener30
-
-is type31
-
-
-references32
-G
-Acom.simplecity.amp_library.ui.views.RepeatingImageButton.interval34
-
-	protected35
-
-interval36
-G
-Acom.simplecity.amp_library.ui.views.RepeatingImageButton.drawable38
-
-drawable39
-
-Drawable41
-
-NonNull43
-
-annotated by44
-%
-Recovered#typeBindingLNonNull;046
-J
-Dcom.simplecity.amp_library.ui.views.RepeatingImageButton.normalColor48
-
-normalColor49
-Q
-Kcom.simplecity.amp_library.ui.views.RepeatingImageButton#<init>(LContext;)V51
-
-method52
-%
-Recovered#typeBindingLContext;054
-
-	has param55
-
-calls56
-_
-Ycom.simplecity.amp_library.ui.views.RepeatingImageButton#<init>(LContext;LAttributeSet;)V58
-*
-$Recovered#typeBindingLAttributeSet;060
-`
-Zcom.simplecity.amp_library.ui.views.RepeatingImageButton#<init>(LContext;LAttributeSet;I)V62
-
-–com.simplecity.amp_library.ui.views.RepeatingImageButton#setRepeatListener(Lcom/simplecity/amp_library/ui/views/RepeatingImageButton$RepeatListener;)V64
-
-setRepeatListener65
-R
-Lcom.simplecity.amp_library.ui.views.RepeatingImageButton#performLongClick()Z67
-
-performLongClick68
-H
-Bcom.simplecity.amp_library.ui.views.RepeatingImageButton.mRepeater70
-[
-Ucom.simplecity.amp_library.ui.views.RepeatingImageButton#onTouchEvent(LMotionEvent;)Z72
-
-onTouchEvent73
-)
-#Recovered#typeBindingLMotionEvent;075
-K
-Ecom.simplecity.amp_library.ui.views.RepeatingImageButton#doRepeat(Z)V77
-4
-.android.support.v7.widget.AppCompatImageButton79
-V
-Pcom.simplecity.amp_library.ui.views.RepeatingImageButton#onKeyDown(ILKeyEvent;)Z81
-
-	onKeyDown82
-&
- Recovered#typeBindingLKeyEvent;084
-T
-Ncom.simplecity.amp_library.ui.views.RepeatingImageButton#onKeyUp(ILKeyEvent;)Z86
-
-onKeyUp87
-
-	mRepeater88
-@
-:com.simplecity.amp_library.ui.views.RepeatingImageButton$190
-G
-Acom.simplecity.amp_library.ui.views.RepeatingImageButton$1#run()V92
-	
-run93
-
-doRepeat94
-a
-[com.simplecity.amp_library.ui.views.RepeatingImageButton$RepeatListener#onRepeat(LView;JI)V96
-
-	interface97
-
-RepeatListener98
-
-onRepeat99
-#
-Recovered#typeBindingLView;0101
-T
-Mcom.simplecity.amp_library.ui.views.RepeatingImageButton#invalidateColors(I)V103
-
-invalidateColors104J
-
-1
-12Z
-
-3	
-354jî
-@
-71:
-717252 *
-1B B(26:3B
-	
-9
-10
-
-
-11
-73
-
-53
-535415
-@
-33:
-333420 *
-1 (	26:3B
-	
-9
-35
-
-
-11
-36
-
-13
-131415
-@
-29:
-293097 *
-1{ {($26:3B
-	
-9
-10
-
-
-11
-98
-A
-91;
-919252 *
-1l	 l(289:3B
-	
-9
-10
-
-
-11
-93
-@
-80:
-808152 *
-1O O(26:3B
-	
-9
-10
-
-
-11
-82
-
-83
-838415
-4
-89.
-89908 *
-1k1 k(2269:3B
-	
-9
-35
-@
-61:
-616252 *
-1& &(26:3B
-	
-9
-10
-
-
-11
-12
-@
-66:
-666752 *
-1: :(26:3B
-	
-9
-10
-
-
-11
-68
-F
-102?
-10210352 *
-1Š Š(26:3B
-	
-9
-10
-
-11
-104
-@
-63:
-636452 *
-16 6(26:3B
-	
-9
-10
-
-
-11
-65
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-9
-64
-678 *
-1 (":3B
-	
-9
-10
-
-
-11
-12
-
-100
-10010115
-@
-23:
-232420 *
-1 (26:3B
-	
-9
-21
-
-
-11
-25
-
-42
-424315
-@
-37:
-373820 *
-1 (26:3B
-	
-9
-35
-
-
-11
-39
-C
-95=
-959652 *
-1‡	 ‡(229:3B
-	
-9
-10
-
-
-11
-99
-@
-47:
-474820 *
-1 (26:3B
-	
-9
-35
-
-
-11
-49
-
-40
-404115
-
-78
-787915
-@
-69:
-697020 *
-1k k(26:3B
-	
-9
-21
-
-
-11
-88
-@
-50:
-505152 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-76:
-767752 *
-1t t(	26:3B
-	
-9
-35
-
-
-11
-94
-@
-85:
-858652 *
-1\ \(26:3B
-	
-9
-10
-
-
-11
-87
-@
-26:
-262720 *
-1 (26:3B
-	
-9
-21
-
-
-11
-28
-
-74
-747515
-@
-57:
-575852 *
-1" "(26:3B
-	
-9
-10
-
-
-11
-12
-
-45
-454615
-
-59
-596015rà
-
-61316*
-1+ (2
-
-61317*
-1; (=
-
-61317*
-1> (D
-
-61317*
-1E (Y
-
-262931*
-1 (
-
-262917*
-1 (
-
-262932*
-1 (
-
-262917*
-1 ($
-
-374031*
-1 (
-
-374244*
-1 (
-
-374517*
-1 (
-
-374017*
-1 (
-
-374017*
-1 (
-
-505355*
-1! ((
-
-50656*
-1 ( 
-
-505331*
-1) (0
-
-505317*
-1! ((
-
-50632*
-1	 (
-
-50656*
-1	 (
-
-50656*
-1	 (
-
-575355*
-1"! "((
-
-575955*
-1"2 "(>
-
-57656*
-1" "( 
-
-575331*
-1") "(0
-
-575317*
-1"! "((
-
-575931*
-1"? "(D
-
-575917*
-1"2 "(>
-
-57632*
-1#	 #(
-
-57656*
-1#	 #(
-
-57656*
-1#	 #(
-
-615355*
-1&! &((
-
-615955*
-1&2 &(>
-
-61656*
-1& &( 
-
-615331*
-1&) &(0
-
-615317*
-1&! &((
-
-615931*
-1&? &(D
-
-615917*
-1&2 &(>
-
-614017*
-1+	 +(
-
-613732*
-1+	 +(
-
-614017*
-1,  ,((
-
-613732*
-1,  ,((
-
-614732*
-1,* ,(5
-
-614017*
-1- -("
-
-613732*
-1- -("
-
-632955*
-16# 6(1
-
-632931*
-162 6(3
-
-632917*
-16# 6(1
-
-632932*
-16# 6(1
-
-632917*
-17	 7(
-
-632632*
-17	 7(
-
-661832*
-1<	 <(
-
-662332*
-1=	 =(
-
-666932*
-1> >(
-
-717455*
-1C! C(,
-
-717431*
-1C- C(2
-
-717417*
-1C! C(,
-
-716932*
-1F F(&
-
-711832*
-1G G(
-
-71632*
-1H H(
-
-717656*
-1H H(
-
-711832*
-1I I(
-
-71632*
-1L L(
-
-717817*
-1L L(
-
-71632*
-1L L(
-
-808355*
-1P+ P(3
-
-808331*
-1P4 P(9
-
-808317*
-1P+ P(3
-
-80632*
-1V V(
-
-807817*
-1V V(
-
-80632*
-1V V(
-
-80632*
-1Y Y(
-
-807817*
-1Y Y(
-
-80632*
-1Y Y(
-
-858355*
-1]) ](1
-
-858331*
-1]2 ](7
-
-858317*
-1]) ](1
-
-856932*
-1b! b(*
-
-851832*
-1c c(
-
-85632*
-1d d(
-
-857656*
-1d d(
-
-851832*
-1e e(
-
-85632*
-1h h(
-
-857817*
-1h h(
-
-85632*
-1h h(
-
-91632*
-1m m(
-
-917656*
-1m m(
-
-918917*
-1o o(!
-
-918932*
-1o o(!
-
-913332*
-1o# o(+
-
-762917*
-1v v(
-
-762632*
-1v v(
-
-762932*
-1w w(
-
-769556*
-1w w(
-
-762632*
-1w w(
-
-762917*
-1w w(
-
-762632*
-1w w(
-
-76617*
-1w w(#
-
-76632*
-1w w(#
-
-761832*
-1w+ w(4
-
-762332*
-1wB w(M
-
-9510055*
-1‡ ‡(
-
-9510031*
-1‡ ‡(
-
-9510017*
-1‡ ‡(
-
-102617*
-1Œ	 Œ(
-
-102632*
-1Œ	 Œ(
-
-1024732*
-1Œ Œ(
-
-1024017*
-1Ž  Ž((
-
-1023732*
-1Ž  Ž((

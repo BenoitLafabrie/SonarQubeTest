@@ -1,430 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261968463*java2.Bí
-U
-Papp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java2
-
-package4
-*
-%com.simplecity.amp_library.ui.widgets5
->
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmall7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-WidgetProviderSmall12
-0
-*Recovered#typeBindingLBaseWidgetProvider;014
-
-unknown15
-
-extends16
-
-	Singleton18
-
-annotated by19
-'
-!Recovered#typeBindingLSingleton;021
-
-
-uses22
-S
-Mcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall.ARG_SMALL_LAYOUT_ID24
-
-field25
-
-ARG_SMALL_LAYOUT_ID26
-R
-Lcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall.CMDAPPWIDGETUPDATE28
-
-CMDAPPWIDGETUPDATE29
-I
-Ccom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#<init>()V31
-
-method32
-
-Inject34
-$
-Recovered#typeBindingLInject;036
-
-calls37
-j
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;39
-
-getUpdateCommandString40
-
-
-references41
-e
-_com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getLayoutIdString()Ljava/lang/String;43
-
-getLayoutIdString44
-T
-Ncom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getWidgetLayoutId()I46
-
-getWidgetLayoutId47
-P
-Jcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()I49
-
-getRootViewId50
-p
-jcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#initialiseWidget(LContext;LSharedPreferences;I)V52
-
-	protected53
-
-initialiseWidget54
-%
-Recovered#typeBindingLContext;056
-
-	has param57
-/
-)Recovered#typeBindingLSharedPreferences;059
-
-is type60
-'
-!Recovered#typeBindingLResources;062
-)
-#Recovered#typeBindingLRemoteViews;064
-m
-gcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#update(LMusicService;LSharedPreferences;[IZ)V66
-
-update67
-*
-$Recovered#typeBindingLMusicService;069
-w
-qcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#updateSingleWidget(LMusicService;LSharedPreferences;I)V71
-
-private72
-
-updateSingleWidget73
-"
-Recovered#typeBindingLSong;075
-¯
-¨com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#setTitleAndArtistViews(LRemoteViews;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V77
-
-setTitleAndArtistViews78J
-
-1
-12Z
-
-3	
-354jí
-@
-23:
-232425 *
-1 (26:3B
-	
-9
-10
-
-
-11
-26
-
-33
-333415
-@
-51:
-515232 *
-1/ /(26:3B
-	
-9
-53
-
-
-11
-54
-
-55
-555615
-9
-64
-678 *
-1 (!:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-@
-42:
-424332 *
-1   (26:3B
-	
-9
-10
-
-
-11
-44
-
-35
-353615
-@
-70:
-707132 *
-1R R(26:3B
-	
-9
-72
-
-
-11
-73
-
-68
-686915
-
-74
-747515
-@
-30:
-303132 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-38:
-383932 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-@
-65:
-656632 *
-1K K(26:3B
-	
-9
-10
-
-
-11
-67
-@
-27:
-272825 *
-1 (26:3B
-	
-9
-10
-
-
-11
-29
-@
-76:
-767732 *
-1| |(26:3B
-	
-9
-72
-
-
-11
-78
-
-61
-616215
-
-17
-171815
-@
-45:
-454632 *
-1% %(26:3B
-	
-9
-10
-
-
-11
-47
-@
-48:
-484932 *
-1* *(26:3B
-	
-9
-10
-
-
-11
-50
-
-20
-202115
-
-58
-585915
-
-63
-636415r¢
-
-
-61316*
-1* (<
-
-61719*
-1 (
-
-62022*
-1 (
-
-61322*
-1* (<
-
-303319*
-1 (
-
-303522*
-1 (
-
-30637*
-1 (
-
-382741*
-1 ("
-
-422341*
-1" "(#
-
-515557*
-1/% /(,
-
-515857*
-1/6 /(G
-
-515560*
-1/- /(4
-
-515522*
-1/% /(,
-
-515860*
-1/H /(Y
-
-515822*
-1/6 /(G
-
-516160*
-10 0(
-
-516122*
-10 0(
-
-516360*
-11 1( 
-
-516322*
-11 1(
-
-51641*
-1G3 G(@
-
-514837*
-1G3 G(@
-
-656857*
-1K K($
-
-655857*
-1K. K(?
-
-656860*
-1K% K(,
-
-656822*
-1K K($
-
-655860*
-1K@ K(Q
-
-655822*
-1K. K(?
-
-65641*
-1N N(
-
-657037*
-1N N(
-
-706857*
-1R% R(1
-
-705857*
-1R; R(L
-
-706860*
-1R2 R(9
-
-706822*
-1R% R(1
-
-705860*
-1RM R(^
-
-705822*
-1R; R(L
-
-702341*
-1T. T(A
-
-706160*
-1V V(
-
-706122*
-1V V(
-
-706360*
-1W W( 
-
-706322*
-1W W(
-
-707460*
-1Y Y(
-
-707422*
-1Y	 Y(
-
-70641*
-1_	 _(
-
-707637*
-1_	 _(
-
-70641*
-1q3 q(@
-
-704837*
-1q3 q(@
-
-766357*
-1|) |(4
-
-766360*
-1|5 |(:
-
-766322*
-1|) |(4

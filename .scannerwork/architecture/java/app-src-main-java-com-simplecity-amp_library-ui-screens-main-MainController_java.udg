@@ -1,1182 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261956307*java2.B¢%
-U
-Papp/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.java2
-
-package4
-/
-*com.simplecity.amp_library.ui.screens.main5
->
-9com.simplecity.amp_library.ui.screens.main.MainController7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-MainController12
-6
-0Recovered#typeBindingLBaseNavigationController;014
-
-unknown15
-
-extends16
-.
-(Recovered#typeBindingLBackPressHandler;018
-
-
-implements19
-2
-,Recovered#typeBindingLDrawerLockController;021
-
-
-uses22
-S
-Mcom.simplecity.amp_library.ui.screens.main.MainController.STATE_CURRENT_SHEET24
-
-field25
-
-STATE_CURRENT_SHEET26
-T
-Ncom.simplecity.amp_library.ui.screens.main.MainController.navigationEventRelay28
-
-	protected29
-
-navigationEventRelay30
-
-NavigationEventRelay32
-
-is type33
-
-Inject35
-
-annotated by36
-$
-Recovered#typeBindingLInject;038
-T
-Ncom.simplecity.amp_library.ui.screens.main.MainController.multiSheetEventRelay40
-
-multiSheetEventRelay41
-I
-Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay43
-Y
-Scom.simplecity.amp_library.ui.screens.main.MainController.multiSheetSlideEventRelay45
-
-multiSheetSlideEventRelay46
-
-MultiSheetSlideEventRelay48
-L
-Fcom.simplecity.amp_library.ui.screens.main.MainController.mediaManager50
-
-mediaManager51
-
-MediaManager53
-O
-Icom.simplecity.amp_library.ui.screens.main.MainController.playerPresenter55
-
-playerPresenter56
-
-PlayerPresenter58
-O
-Icom.simplecity.amp_library.ui.screens.main.MainController.settingsManager60
-
-settingsManager61
-
-SettingsManager63
-L
-Fcom.simplecity.amp_library.ui.screens.main.MainController.delayHandler65
-
-private66
-
-delayHandler67
-
-Handler69
-N
-Hcom.simplecity.amp_library.ui.screens.main.MainController.multiSheetView71
-
-multiSheetView72
-I
-Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView74
-
-BindView76
-&
- Recovered#typeBindingLBindView;078
-K
-Ecom.simplecity.amp_library.ui.screens.main.MainController.disposables80
-
-disposables81
-
-CompositeDisposable83
-‰
-‚com.simplecity.amp_library.ui.screens.main.MainController#newInstance()Lcom/simplecity/amp_library/ui/screens/main/MainController;85
-
-method86
-
-newInstance87
-
-returns88
-$
-Recovered#typeBindingLBundle;090
-
-calls91
-I
-Ccom.simplecity.amp_library.ui.screens.main.MainController#<init>()V93
-T
-Ncom.simplecity.amp_library.ui.screens.main.MainController#onAttach(LContext;)V95
-
-onAttach96
-%
-Recovered#typeBindingLContext;098
-
-	has param99
-
-
-references100
-
-BaseNavigationController102
-x
-qcom.simplecity.amp_library.ui.screens.main.MainController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;104
-
-onCreateView105
-
-View107
--
-&Recovered#typeBindingLLayoutInflater;0109
-(
-!Recovered#typeBindingLViewGroup;0111
-
-Nullable113
-'
- Recovered#typeBindingLNullable;0115
-#
-Recovered#typeBindingLView;0117
-«
-£com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#setMultiSheetEventRelay(Lcom/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay;)V119
-…
-~com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#setMultiSheetSlideEventRelay(LMultiSheetSlideEventRelay;)V121
-a
-Zcom.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V123
-L
-Ecom.simplecity.amp_library.ui.screens.main.MainController#onResume()V125
-
-onResume126
-+
-$Recovered#typeBindingLIntentFilter;0128
-K
-Dcom.simplecity.amp_library.ui.screens.main.MainController#onPause()V130
-
-onPause131
-"
-toggleBottomSheetVisibility132
-I
-Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager134
-^
-Wcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z136
-œ
-”com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;138
-_
-Xcom.simplecity.amp_library.ui.screens.main.MainController#onSaveInstanceState(LBundle;)V140
-
-onSaveInstanceState141
-j
-ccom.simplecity.amp_library.ui.screens.main.MainController#getRootViewControllerInfo()LFragmentInfo;143
- 
-getRootViewControllerInfo144
-
-FragmentInfo146
-C
-<com.simplecity.amp_library.ui.screens.main.LibraryController148
-`
-Ycom.simplecity.amp_library.ui.screens.main.LibraryController#fragmentInfo()LFragmentInfo;150
-T
-Mcom.simplecity.amp_library.ui.screens.main.MainController#consumeBackPress()Z152
-
-consumeBackPress153
-N
-Gcom.simplecity.amp_library.ui.screens.main.MainController#lockDrawer()V155
-
-
-lockDrawer156
--
-&Recovered#typeBindingLDrawerProvider;0158
-P
-Icom.simplecity.amp_library.ui.screens.main.MainController#unlockDrawer()V160
-
-unlockDrawer161J
-
-1
-12Z
-
-3	
-354jŠ
-9
-64
-678 *
-1> >(:3B
-	
-9
-10
-
-
-11
-12
-
-20
-202115
-
-145
-14514615
-
-57
-575815
-
-31
-313215
-
-110
-11011115
-@
-94:
-949586 *
-1h h(26:3B
-	
-9
-10
-
-
-11
-96
-
-149
-14915015
-
-17
-171815
-F
-124?
-12412586 *
-1 (26:3B
-	
-9
-10
-
-11
-126
-@
-84:
-848586 *
-1\ \(26:3B
-	
-9
-10
-
-
-11
-87
-
-157
-15715815
-@
-49:
-495025 *
-1L L(26:3B
-	
-9
-29
-
-
-11
-51
-
-118
-11811915
-F
-142?
-14214386 *
-1€ €(26:3B
-	
-9
-10
-
-11
-144
-F
-139?
-13914086 *
-1ú ú(26:3B
-	
-9
-10
-
-11
-141
-
-37
-373815
-F
-159?
-15916086 *
-1“ “(26:3B
-	
-9
-10
-
-11
-161
-
-68
-686915
-
-73
-737415
-@
-79:
-798025 *
-1Z Z(26:3B
-	
-9
-66
-
-
-11
-81
-
-135
-13513615
-
-47
-474815
-@
-64:
-646525 *
-1U U(26:3B
-	
-9
-66
-
-
-11
-67
-
-13
-131415
-
-89
-899015
-
-108
-10810915
-
-133
-13313415
-
-82
-828315
-
-112
-11211315
-
-97
-979815
-
-127
-12712815
-F
-122?
-12212386 *
-1ò ò(26:3B
-	
-9
-66
-
-11
-132
-
-137
-13713815
-@
-59:
-596025 *
-1R R(26:3B
-	
-9
-29
-
-
-11
-61
-
-42
-424315
-F
-151?
-15115286 *
-1… …(26:3B
-	
-9
-10
-
-11
-153
-
-114
-11411515
-
-120
-12012115
-@
-23:
-232425 *
-1A A(26:3B
-	
-9
-10
-
-
-11
-26
-
-116
-11611715
-@
-92:
-929386 *
-1c c(26:3B
-	
-9
-10
-
-
-11
-12
-@
-44:
-444525 *
-1I I(26:3B
-	
-9
-29
-
-
-11
-46
-F
-129?
-12913086 *
-1ã ã(26:3B
-	
-9
-10
-
-11
-131
-D
-103=
-10310486 *
-1n n(26:3B
-	
-9
-10
-
-11
-105
-
-34
-343515
-F
-154?
-15415586 *
-1Ž Ž(26:3B
-	
-9
-10
-
-11
-156
-
-62
-626315
-
-147
-14714815
-
-106
-10610715
-@
-54:
-545525 *
-1O O(26:3B
-	
-9
-29
-
-
-11
-56
-
-101
-10110215
-@
-39:
-394025 *
-1F F(26:3B
-	
-9
-29
-
-
-11
-41
-
-52
-525315
-
-75
-757615
-@
-70:
-707125 *
-1W W(26:3B
-	
-9
-29
-
-
-11
-72
-
-77
-777815
-@
-27:
-272825 *
-1C C(26:3B
-	
-9
-29
-
-
-11
-30rã.
-
-61316*
-1>% >(=
-
-61719*
-1>I >(Y
-
-62019*
-1>[ >(o
-
-61322*
-1>% >(=
-
-61722*
-1>I >(Y
-
-62022*
-1>[ >(o
-
-273133*
-1D D(
-
-273436*
-1C C(
-
-273722*
-1C C(
-
-273122*
-1D D(
-
-273122*
-1D D(.
-
-394233*
-1G G(
-
-393436*
-1F F(
-
-393722*
-1F F(
-
-394222*
-1G G(
-
-394222*
-1G G(.
-
-444733*
-1J J(
-
-443436*
-1I I(
-
-443722*
-1I I(
-
-444722*
-1J J(
-
-444722*
-1J J(8
-
-495233*
-1M M(
-
-493436*
-1L L(
-
-493722*
-1L L(
-
-495222*
-1M M(
-
-495222*
-1M M(
-
-545733*
-1P P(
-
-543436*
-1O O(
-
-543722*
-1O O(
-
-545722*
-1P P(
-
-545722*
-1P P($
-
-596233*
-1S S(
-
-593436*
-1R R(
-
-593722*
-1R R(
-
-596222*
-1S S(
-
-596222*
-1S S($
-
-646833*
-1U U(
-
-646822*
-1U U(
-
-646822*
-1U U(!
-
-707333*
-1X X(
-
-707536*
-1W W(
-
-707722*
-1W W(
-
-707322*
-1X X(
-
-707322*
-1X X((
-
-798233*
-1Z Z( 
-
-798222*
-1Z Z( 
-
-798222*
-1Z! Z(,
-
-84688*
-1\ \(!
-
-84622*
-1\ \(!
-
-848933*
-1] ](
-
-848922*
-1]	 ](
-
-84633*
-1^ ^( 
-
-84622*
-1^	 ^(
-
-84691*
-1^' ^(5
-
-92691*
-1c c(
-
-949799*
-1i i(!
-
-949733*
-1i" i()
-
-949722*
-1i i(!
-
-94622*
-1j( j(,
-
-946100*
-1j( j(,
-
-946100*
-1k	 k(
-
-9410122*
-1k	 k(
-
-946100*
-1k	 k(
-
-10310688*
-1p p(
-
-10310899*
-1p p(,
-
-10311099*
-1pA p(J
-
-1038999*
-1p` p(f
-
-10311236*
-1n n(
-
-10311422*
-1n n(
-
-10310622*
-1p p(
-
-10310833*
-1p- p(5
-
-10310822*
-1p p(,
-
-10311033*
-1pK p(T
-
-10311236*
-1p7 p(8
-
-10311422*
-1p8 p(@
-
-10311022*
-1pA p(J
-
-1038933*
-1pg p(y
-
-10311236*
-1pV p(W
-
-10311422*
-1pW p(_
-
-1038922*
-1p` p(f
-
-10311633*
-1r r(
-
-10311622*
-1r	 r(
-
-103622*
-1t t(
-
-1036100*
-1t t(
-
-10373100*
-1w	 w(
-
-10311891*
-1w w(/
-
-10370100*
-1w	 w(
-
-1037322*
-1w	 w(
-
-10370100*
-1w	 w(
-
-1034222*
-1w0 w(D
-
-10339100*
-1w0 w(D
-
-10373100*
-1x	 x(
-
-10312091*
-1x x(4
-
-10370100*
-1x	 x(
-
-1037322*
-1x	 x(
-
-10370100*
-1x	 x(
-
-1034722*
-1x5 x(N
-
-10344100*
-1x5 x(N
-
-10370100*
-1} }((
-
-1037322*
-1} }((
-
-10370100*
-1} }((
-
-10370100*
-1~ ~((
-
-1037322*
-1~ ~((
-
-10370100*
-1~ ~((
-
-10370100*
-1 ((
-
-1037322*
-1 ((
-
-10370100*
-1 ((
-
-10370100*
-1‚ ‚(
-
-1037322*
-1‚ ‚(
-
-10370100*
-1‚ ‚(
-
-10323100*
-1‚C ‚(V
-
-10311022*
-1… …(
-
-10370100*
-1… …($
-
-1037322*
-1… …($
-
-10370100*
-1… …($
-
-10370100*
-1…2 …(@
-
-1037322*
-1…2 …(@
-
-10370100*
-1…2 …(@
-
-1035722*
-1†@ †(O
-
-10354100*
-1†@ †(O
-
-1036222*
-1†Q †(`
-
-10359100*
-1†Q †(`
-
-1036100*
-1ˆ	 ˆ($
-
-10312291*
-1ˆ	 ˆ($
-
-1246100*
-1	 (
-
-12410122*
-1	 (
-
-1246100*
-1	 (
-
-1246822*
-1‘ ‘(
-
-12464100*
-1‘ ‘(
-
-12464100*
-1’ ’(
-
-1246822*
-1’ ’(
-
-12464100*
-1’ ’(
-
-1246822*
-1”	 ”(
-
-12464100*
-1”	 ”(
-
-12479100*
-1–	 –(
-
-1248222*
-1–	 –(
-
-12479100*
-1–	 –(
-
-12427100*
-1– –(-
-
-1243122*
-1– –(-
-
-12427100*
-1– –(-
-
-12412733*
-1Ö Ö("
-
-12412722*
-1Ö	 Ö(
-
-12479100*
-1Ù	 Ù(
-
-1248222*
-1Ù	 Ù(
-
-12479100*
-1Ù	 Ù(
-
-124622*
-1àA à(E
-
-1246100*
-1àA à(E
-
-12964100*
-1å	 å(
-
-1296822*
-1å	 å(
-
-12964100*
-1å	 å(
-
-1296822*
-1æ	 æ(
-
-12964100*
-1æ	 æ(
-
-12979100*
-1è	 è(
-
-1298222*
-1è	 è(
-
-12979100*
-1è	 è(
-
-1296100*
-1ì	 ì(
-
-12910122*
-1ì	 ì(
-
-1296100*
-1ì	 ì(
-
-12249100*
-1ó ó(
-
-1225222*
-1ó ó(
-
-12249100*
-1ó ó(
-
-12249100*
-1ó2 ó(>
-
-1225222*
-1ó2 ó(>
-
-12249100*
-1ó2 ó(>
-
-12270100*
-1ô ô(
-
-1227322*
-1ô ô(
-
-12270100*
-1ô ô(
-
-122133100*
-1õ õ()
-
-12213591*
-1õ8 õ(I
-
-12213388*
-1õ õ()
-
-122133100*
-1õ õ()
-
-12213791*
-1õ* õ(5
-
-12213322*
-1õ õ()
-
-12270100*
-1ö ö(
-
-1227322*
-1ö ö(
-
-12270100*
-1ö ö(
-
-1398999*
-1û% û(+
-
-1398933*
-1û, û(4
-
-1398922*
-1û% û(+
-
-13923100*
-1ü ü(,
-
-13970100*
-1ü. ü(<
-
-1397322*
-1ü. ü(<
-
-13970100*
-1ü. ü(<
-
-1396100*
-1ý	 ý(
-
-13910122*
-1ý	 ý(
-
-1396100*
-1ý	 ý(
-
-14214588*
-1 (
-
-14214522*
-1 (
-
-14214588*
-1‚ ‚(!
-
-142147100*
-1‚ ‚(!
-
-14214991*
-1‚" ‚(.
-
-14214722*
-1‚ ‚(!
-
-15170100*
-1‡ ‡(
-
-1517322*
-1‡ ‡(
-
-15170100*
-1‡ ‡(
-
-1516100*
-1‹ ‹(
-
-15110122*
-1‹ ‹(
-
-1516100*
-1‹ ‹(
-
-15415722*
-1 (
-
-15970100*
-1– –(
-
-1597322*
-1– –(
-
-15970100*
-1– –(
-
-15970100*
-1–O –(]
-
-1597322*
-1–O –(]
-
-15970100*
-1–O –(]
-
-15915722*
-1š š(

@@ -1,228 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261947982*java2.Bå
-
-W
-Rapp/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkLoadingView.java2
-
-package4
--
-(com.simplecity.amp_library.ui.modelviews5
-@
-;com.simplecity.amp_library.ui.modelviews.ArtworkLoadingView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ArtworkLoadingView12
-+
-%Recovered#typeBindingLBaseViewModel;014
-
-unknown15
-
-extends16
-
-
-uses17
-L
-Fcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder19
-
-
-references20
-P
-Jcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#getViewType()I22
-
-method23
-
-getViewType24
-=
-7com.simplecity.amp_library.ui.adapters.ViewType.LOADING26
-S
-Mcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#getLayoutResId()I28
-
-getLayoutResId29
-¨
-¡com.simplecity.amp_library.ui.modelviews.ArtworkLoadingView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/ArtworkLoadingView$ViewHolder;31
-
-createViewHolder32
-
-returns33
-'
-!Recovered#typeBindingLViewGroup;035
-
-	has param36
-
-is type37
-
-calls38
-
-
-ViewHolder39
-,
-&Recovered#typeBindingLBaseViewHolder;041
-\
-Vcom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder#<init>(LView;)V43
-"
-Recovered#typeBindingLView;045
-i
-ccom.simplecity.amp_library.ui.modelviews.ArtworkLoadingView$ViewHolder#toString()Ljava/lang/String;47
-
-toString48J
-
-1
-12Z
-
-3	
-354j¬
-A
-46;
-464723 *
-1"	 "(
-218:3B
-	
-9
-10
-
-
-11
-48
-9
-64
-678 *
-1 ( :3B
-	
-9
-10
-
-
-11
-12
-@
-30:
-303123 *
-1 (26:3B
-	
-9
-10
-
-
-11
-32
-
-44
-444515
-
-40
-404115
-A
-42;
-424323 *
-1	 (218:3B
-	
-9
-10
-
-
-11
-39
-
-13
-131415
-?
-189
-18198 *
-1 (#26:3B
-	
-9
-10
-
-
-11
-39
-@
-21:
-212223 *
-1 (26:3B
-	
-9
-10
-
-
-11
-24
-@
-27:
-272823 *
-1 (26:3B
-	
-9
-10
-
-
-11
-29
-
-25
-252615
-
-34
-343515râ
-
-61316*
-1) (6
-
-61317*
-1) (6
-
-61817*
-1J (T
-
-61820*
-1J (T
-
-212520*
-1 (
-
-301833*
-1 (
-
-303436*
-1( (1
-
-301817*
-1 (
-
-301820*
-1 (
-
-303437*
-12 (8
-
-303417*
-1( (1
-
-301838*
-1 (
-
-184016*
-1, (:
-
-184017*
-1, (:
-
-424436*
-1 (
-
-421838*
-1 (
-
-424437*
-1  ((
-
-424417*
-1 (

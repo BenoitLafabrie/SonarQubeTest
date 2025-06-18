@@ -1,161 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962783*java2.Bú
-L
-Gapp/src/main/java/com/simplecity/amp_library/utils/ComparisonUtils.java2
-
-package4
-%
- com.simplecity.amp_library.utils5
-5
-0com.simplecity.amp_library.utils.ComparisonUtils7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ComparisonUtils12
-?
-9com.simplecity.amp_library.utils.ComparisonUtils.collator14
-
-field15
-
-private16
-
-collator17
-@
-:com.simplecity.amp_library.utils.ComparisonUtils#<init>()V19
-
-method20
-
-calls21
-G
-Acom.simplecity.amp_library.utils.ComparisonUtils#compareLong(JJ)I23
-
-compareLong24
-F
-@com.simplecity.amp_library.utils.ComparisonUtils#compareInt(II)I26
-
-
-compareInt27
-e
-_com.simplecity.amp_library.utils.ComparisonUtils#compare(Ljava/lang/String;Ljava/lang/String;)I29
-
-compare30
-
-Nullable32
-
-unknown33
-
-annotated by34
-&
- Recovered#typeBindingLNullable;036
-
-
-uses37
-
-
-references38J
-
-1
-12Z
-
-3	
-354j­
-@
-22:
-222320 *
-1 (26:3B
-	
-9
-10
-
-
-11
-24
-@
-28:
-282920 *
-1& &(26:3B
-	
-9
-10
-
-
-11
-30
-
-35
-353633
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-16
-
-
-11
-12
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-25:
-252620 *
-1 (26:3B
-	
-9
-10
-
-
-11
-27
-@
-13:
-131415 *
-1	 	(26:3B
-	
-9
-16
-
-
-11
-17
-
-31
-313233r¼
-
-18621*
-1 (
-
-283134*
-1& &( 
-
-283537*
-1&  &((
-
-283134*
-1&6 &(7
-
-283537*
-1&7 &(?
-
-281338*
-1/ /(
-
-281338*
-1/ /(

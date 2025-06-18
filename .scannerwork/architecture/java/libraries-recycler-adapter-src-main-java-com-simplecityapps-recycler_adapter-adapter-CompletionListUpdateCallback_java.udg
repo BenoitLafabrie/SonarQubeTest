@@ -1,74 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261965961*java2.BË
-{
-vlibraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/CompletionListUpdateCallback.java2
-
-package4
-0
-+com.simplecityapps.recycler_adapter.adapter5
-M
-Hcom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallback7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-"
-CompletionListUpdateCallback12
-0
-*Recovered#typeBindingLListUpdateCallback;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-\
-Vcom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallback#onComplete()V19
-
-method20
-
-
-onComplete21J
-
-1
-12Z
-
-3	
-354j‘
-@
-18:
-181920 *
-1 (	26:3B
-	
-9
-10
-
-
-11
-21
-9
-64
-678 *
-1	 	(.:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415r4
-
-61316*
-1	7 	(I
-
-61317*
-1	7 	(I

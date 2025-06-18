@@ -1,1032 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962299*java2.BÏ 
-M
-Happ/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.java2
-
-package4
-)
-$com.simplecity.amp_library.ui.common5
-6
-1com.simplecity.amp_library.ui.common.BaseActivity7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BaseActivity12
-/
-)Recovered#typeBindingLAestheticActivity;014
-
-unknown15
-
-extends16
-8
-2Recovered#typeBindingLHasSupportFragmentInjector;018
-
-
-implements19
-/
-)Recovered#typeBindingLServiceConnection;021
-,
-&Recovered#typeBindingLBillingManager;023
-
-
-uses24
-D
->com.simplecity.amp_library.ui.common.BaseActivity.bindInFlight26
-
-field27
-
-private28
-
-bindInFlight29
-=
-7com.simplecity.amp_library.ui.common.BaseActivity.token31
-
-token32
-.
-(MusicServiceConnectionUtils.ServiceToken34
-
-is type35
-
-Nullable37
-
-annotated by38
-&
- Recovered#typeBindingLNullable;040
-9
-3Recovered#typeBindingLMusicServiceConnectionUtils;042
-H
-Bcom.simplecity.amp_library.ui.common.BaseActivity.fragmentInjector44
-
-	protected45
-
-fragmentInjector46
- 
-DispatchingAndroidInjector48
-
-Inject50
-$
-Recovered#typeBindingLInject;052
-&
- Recovered#typeBindingLFragment;054
-F
-@com.simplecity.amp_library.ui.common.BaseActivity.billingManager56
-
-billingManager57
-
-BillingManager59
-G
-Acom.simplecity.amp_library.ui.common.BaseActivity.settingsManager61
-
-settingsManager62
-
-SettingsManager64
-H
-Bcom.simplecity.amp_library.ui.common.BaseActivity.analyticsManager66
-
-analyticsManager67
-
-AnalyticsManager69
-K
-Ecom.simplecity.amp_library.ui.common.BaseActivity#onCreate(LBundle;)V71
-
-method72
-
-onCreate73
-$
-Recovered#typeBindingLBundle;075
-
-	has param76
-
-	CallSuper78
-'
-!Recovered#typeBindingLCallSuper;080
-
-
-references81
-
-AestheticActivity83
-%
-Recovered#typeBindingLPermiso;085
-9
-3com.simplecity.amp_library.ui.common.BaseActivity$187
-b
-\com.simplecity.amp_library.ui.common.BaseActivity$1#onPermissionResult(LPermiso/ResultSet;)V89
-
-onPermissionResult90
-F
-@com.simplecity.amp_library.ui.common.BaseActivity#bindService()V92
-
-calls93
-Ç
-|com.simplecity.amp_library.ui.common.BaseActivity$1#onRationaleRequested(LPermiso/IOnRationaleProvided;[Ljava/lang/String;)V95
-
-onRationaleRequested96
-C
-=com.simplecity.amp_library.ui.common.BaseActivity#onResume()V98
-
-onResume99
-I
-Bcom.simplecity.amp_library.ui.common.BaseActivity#keepScreenOn(Z)V101
-l
-ecom.simplecity.amp_library.ui.common.BaseActivity#onRequestPermissionsResult(I[Ljava/lang/String;[I)V103
-!
-onRequestPermissionsResult104
-
-NonNull106
-&
-Recovered#typeBindingLNonNull;0108
-E
->com.simplecity.amp_library.ui.common.BaseActivity#onDestroy()V110
-
-	onDestroy111
-I
-Bcom.simplecity.amp_library.ui.common.BaseActivity#unbindService()V113
-c
-\com.simplecity.amp_library.ui.common.BaseActivity#supportFragmentInjector()LAndroidInjector;115
-
-supportFragmentInjector116
-
-AndroidInjector118
-
-returns119
-^
-Wcom.simplecity.amp_library.ui.common.BaseActivity#onPurchasesUpdated(Ljava/util/List;)V121
-
-onPurchasesUpdated122
-'
- Recovered#typeBindingLPurchase;0124
-1
-*Recovered#typeBindingLShuttleApplication;0126
-V
-Ocom.simplecity.amp_library.ui.common.BaseActivity#onPremiumPurchaseCompleted()V128
-!
-onPremiumPurchaseCompleted129
-U
-Ncom.simplecity.amp_library.ui.common.BaseActivity#onPremiumPurchaseRestored()V131
- 
-onPremiumPurchaseRestored132
-
-bindService133
-
-unbindService134
-f
-_com.simplecity.amp_library.ui.common.BaseActivity#onServiceConnected(LComponentName;LIBinder;)V136
-
-onServiceConnected137
-,
-%Recovered#typeBindingLComponentName;0139
-&
-Recovered#typeBindingLIBinder;0141
-`
-Ycom.simplecity.amp_library.ui.common.BaseActivity#onServiceDisconnected(LComponentName;)V143
-
-onServiceDisconnected144
-P
-Icom.simplecity.amp_library.ui.common.BaseActivity#onKeyDown(ILKeyEvent;)Z146
-
-	onKeyDown147
-'
- Recovered#typeBindingLKeyEvent;0149
-N
-Gcom.simplecity.amp_library.ui.common.BaseActivity#onKeyUp(ILKeyEvent;)Z151
-
-onKeyUp152
-
-keepScreenOn153
-%
-Recovered#typeBindingLWindow;0155
-W
-Pcom.simplecity.amp_library.ui.common.BaseActivity#screenName()Ljava/lang/String;157
-
-
-screenName158J
-
-1
-12Z
-
-3	
-354jÀ
-9
-64
-678 *
-1( ((#:3B
-	
-9
-10
-
-
-11
-12
-
-20
-202115
-
-138
-13813915
-F
-127?
-12712872 *
-1Ü Ü(26:3B
-	
-9
-10
-
-11
-129
-D
-109=
-10911072 *
-1o o(26:3B
-	
-9
-45
-
-11
-111
-C
-91=
-919272 *
-1í í(	26:3B
-	
-9
-45
-
-11
-133
-A
-94;
-949572 *
-1P P(286:3B
-	
-9
-10
-
-
-11
-96
-@
-43:
-434427 *
-12 2(26:3B
-	
-9
-45
-
-
-11
-46
-
-105
-10510615
-@
-55:
-555627 *
-15 5(26:3B
-	
-9
-45
-
-
-11
-57
-D
-102=
-10210372 *
-1i i(26:3B
-	
-9
-10
-
-11
-104
-
-68
-686915
-
-53
-535415
-F
-145?
-14514672 *
-1≥ ≥(26:3B
-	
-9
-10
-
-11
-147
-D
-114=
-11411572 *
-1x x(26:3B
-	
-9
-10
-
-11
-116
-
-51
-515215
-
-58
-585915
-F
-130?
-13013172 *
-1å å(26:3B
-	
-9
-10
-
-11
-132
-A
-88;
-888972 *
-1F F(286:3B
-	
-9
-10
-
-
-11
-90
-
-22
-222315
-
-74
-747515
-
-117
-11711815
-
-125
-12512615
-
-36
-363715
-
-17
-171815
-F
-135?
-13513672 *
-1® ®(26:3B
-	
-9
-10
-
-11
-137
-@
-30:
-303127 *
-1/ /(26:3B
-	
-9
-28
-
-
-11
-32
-F
-100?
-10010172 *
-1∆ ∆(26:3B
-	
-9
-28
-
-11
-153
-@
-65:
-656627 *
-1; ;(26:3B
-	
-9
-45
-
-
-11
-67
-F
-112?
-11211372 *
-1° °(	26:3B
-	
-9
-45
-
-11
-134
-
-148
-14814915
-
-47
-474815
-
-33
-333415
-
-39
-394015
-
-41
-414215
-F
-150?
-15015172 *
-1º º(26:3B
-	
-9
-10
-
-11
-152
-
-154
-15415515
-@
-97:
-979872 *
-1Y Y(26:3B
-	
-9
-45
-
-
-11
-99
-
-123
-12312415
-
-49
-495015
-
-13
-131415
-D
-120=
-12012172 *
-1} }(26:3B
-	
-9
-10
-
-11
-122
-
-63
-636415
-
-84
-848515
-4
-86.
-86878 *
-1ET E(U270:3B
-	
-9
-45
-F
-142?
-14214372 *
-1Æ Æ(26:3B
-	
-9
-10
-
-11
-144
-
-79
-798015
-
-77
-777815
-@
-60:
-606127 *
-18 8(26:3B
-	
-9
-45
-
-
-11
-62
-
-140
-14014115
-
-82
-828315
-F
-156?
-15615772 *
-1œ œ(26:3B
-	
-9
-45
-
-11
-158
-@
-25:
-252627 *
-1- -(26:3B
-	
-9
-28
-
-
-11
-29
-
-107
-10710815
-@
-70:
-707172 *
-1> >(26:3B
-	
-9
-45
-
-
-11
-73r”!
-
-61316*
-1(, ((=
-
-61719*
-1)	 )(#
-
-62019*
-1*	 *(
-
-62219*
-1+	 +(
-
-61324*
-1(, ((=
-
-61724*
-1)	 )(#
-
-62024*
-1*	 *(
-
-62224*
-1+	 +(
-
-62224*
-1+ +(.
-
-303335*
-10 0((
-
-303638*
-1/ /(
-
-303924*
-1/ /(
-
-304124*
-10 0((
-
-303324*
-10) 0(5
-
-303324*
-106 0(;
-
-434735*
-13 3(
-
-434938*
-12 2(
-
-435124*
-12 2(
-
-434724*
-13 3(
-
-435324*
-13  3((
-
-434724*
-13* 3(:
-
-555835*
-16 6(
-
-554938*
-15 5(
-
-555124*
-15 5(
-
-555824*
-16 6(
-
-555824*
-16 6("
-
-606335*
-19 9(
-
-604938*
-18 8(
-
-605124*
-18 8(
-
-606324*
-19 9(
-
-606324*
-19 9($
-
-656835*
-1< <(
-
-654938*
-1; ;(
-
-655124*
-1; ;(
-
-656824*
-1< <(
-
-656824*
-1< <(&
-
-707476*
-1?# ?()
-
-707738*
-1> >(
-
-707924*
-1> >(
-
-707435*
-1?* ?(<
-
-707424*
-1?# ?()
-
-70624*
-1@! @(%
-
-70681*
-1@! @(%
-
-70681*
-1A	 A(
-
-708224*
-1A	 A(
-
-70681*
-1A	 A(
-
-70624*
-1C+ C(/
-
-70681*
-1C+ C(/
-
-708424*
-1E6 E(=
-
-888476*
-1G, G(3
-
-888435*
-1G> G(G
-
-888424*
-1G, G(3
-
-888424*
-1G4 G(=
-
-88681*
-1I I( 
-
-889193*
-1I I( 
-
-88624*
-1K$ K(0
-
-88624*
-1K1 K(5
-
-88681*
-1K1 K(5
-
-948476*
-1Q. Q(5
-
-948435*
-1QK Q(S
-
-948424*
-1Q. Q(5
-
-948424*
-1Q6 Q(J
-
-97681*
-1[	 [(
-
-9710093*
-1[	 [(
-
-976081*
-1[ [(%
-
-976324*
-1[ [(%
-
-976081*
-1[ [(%
-
-97681*
-1\	 \(
-
-978224*
-1\	 \(
-
-97681*
-1\	 \(
-
-973324*
-1^ ^(
-
-973081*
-1^ ^(
-
-97681*
-1_ _(
-
-979193*
-1_ _(
-
-97624*
-1b+ b(/
-
-97681*
-1b+ b(/
-
-975581*
-1d d(
-
-975824*
-1d d(
-
-975581*
-1d d(
-
-975581*
-1e e(
-
-975824*
-1e e(
-
-975581*
-1e e(
-
-10210538*
-1j= j(>
-
-10210724*
-1j> j(E
-
-10210538*
-1j\ j(]
-
-10210724*
-1j] j(d
-
-102681*
-1k	 k(
-
-1028224*
-1k	 k(
-
-102681*
-1k	 k(
-
-109681*
-1q	 q(
-
-10911293*
-1q	 q(
-
-1095581*
-1s	 s(
-
-1095824*
-1s	 s(
-
-1095581*
-1s	 s(
-
-109681*
-1u	 u(
-
-1098224*
-1u	 u(
-
-109681*
-1u	 u(
-
-114117119*
-1y y(!
-
-11411724*
-1y y(!
-
-1145324*
-1y" y(*
-
-1144724*
-1z z( 
-
-1144381*
-1z z( 
-
-12012324*
-1~) ~(1
-
-12012335*
-1 (
-
-12012324*
-1 (
-
-12012524*
-1Å Å(%
-
-12712524*
-1à à(
-
-13012524*
-1é é(
-
-130624*
-1è è($
-
-130624*
-1è% è()
-
-130681*
-1è% è()
-
-912581*
-1ì ì(
-
-912581*
-1î î(
-
-91624*
-1ó ó(
-
-91681*
-1ó ó(
-
-916824*
-1ò ò(%
-
-916581*
-1ò ò(%
-
-91624*
-1ô ô(
-
-91681*
-1ô ô(
-
-91624*
-1õ õ(
-
-91681*
-1õ õ(
-
-1123324*
-1¢ ¢(
-
-1123081*
-1¢ ¢(
-
-1123324*
-1£; £(@
-
-1123081*
-1£; £(@
-
-1123324*
-1§ §(
-
-1123081*
-1§ §(
-
-13513876*
-1™$ ™(1
-
-13514076*
-1™8 ™(?
-
-1357738*
-1© ©(
-
-1357924*
-1© ©(
-
-13513835*
-1™2 ™(6
-
-13513824*
-1™$ ™(1
-
-13514035*
-1™@ ™(G
-
-13514024*
-1™8 ™(?
-
-14213876*
-1Ø' Ø(4
-
-14213835*
-1Ø5 Ø(9
-
-14213824*
-1Ø' Ø(4
-
-142681*
-1∞	 ∞(
-
-14211293*
-1∞	 ∞(
-
-14514876*
-1¥+ ¥(3
-
-14514835*
-1¥4 ¥(9
-
-14514824*
-1¥+ ¥(3
-
-145681*
-1π π(
-
-1458224*
-1π π(
-
-145681*
-1π π(
-
-15014876*
-1Ω) Ω(1
-
-15014835*
-1Ω2 Ω(7
-
-15014824*
-1Ω) Ω(1
-
-150681*
-1√ √(
-
-1508224*
-1√ √(
-
-150681*
-1√ √(
-
-10015435*
-1« «(
-
-10015424*
-1« «(

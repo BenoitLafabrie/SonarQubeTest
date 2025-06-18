@@ -1,252 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261954617*java2.Bä
-i
-dapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLargeModule.java2
-
-package4
-*
-%com.simplecity.amp_library.ui.widgets5
-R
-Mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
--
-'WidgetConfigureActivityExtraLargeModule12
-ž
-—com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#appCompatActivity(LWidgetConfigureActivityExtraLarge;)LAppCompatActivity;14
-
-method15
-
-	protected16
-
-appCompatActivity17
-
-AppCompatActivity19
-
-unknown20
-
-returns21
-?
-9Recovered#typeBindingLWidgetConfigureActivityExtraLarge;023
-
-	has param24
-
-Binds26
-
-annotated by27
-#
-Recovered#typeBindingLBinds;029
-
-
-uses30
-
-ActivityScope32
-+
-%Recovered#typeBindingLActivityScope;034
-
-is type35
-¾
-·com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#provideBillingUpdatesListener(LWidgetConfigureActivityExtraLarge;)LBillingManager/BillingUpdatesListener;37
-#
-provideBillingUpdatesListener38
-+
-%BillingManager.BillingUpdatesListener40
-
-Provides42
-&
- Recovered#typeBindingLProvides;044
-,
-&Recovered#typeBindingLBillingManager;046
-|
-vcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeModule#widgetFragmentInjector()LWidgetFragment;48
-
-widgetFragmentInjector49
-
-WidgetFragment51
-
-FragmentScope53
-+
-%Recovered#typeBindingLFragmentScope;055
- 
-ContributesAndroidInjector57
-8
-2Recovered#typeBindingLContributesAndroidInjector;059
-2
-,Recovered#typeBindingLWidgetFragmentModule;061J
-
-1
-12Z
-
-3	
-354jÁ
-
-43
-434420
-@
-47:
-474815 *
-1 (26:3B
-	
-9
-16
-
-
-11
-49
-@
-36:
-363715 *
-1 (26:3B
-	
-9
-16
-
-
-11
-38
-9
-64
-678 *
-1 (>:3B
-	
-9
-10
-
-
-11
-12
-
-25
-252620
-
-18
-181920
-
-31
-313220
-
-50
-505120
-
-28
-282920
-
-39
-394020
-
-58
-585920
-
-22
-222320
-
-41
-414220
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-16
-
-
-11
-17
-
-56
-565720
-
-45
-454620
-
-33
-333420
-
-52
-525320
-
-60
-606120
-
-54
-545520rˆ
-
-131821*
-1 (
-
-132224*
-12 (S
-
-132527*
-1 (
-
-132830*
-1 (
-
-133127*
-1 (
-
-133330*
-1 (
-
-131830*
-1 (
-
-132235*
-1T (\
-
-132230*
-12 (S
-
-363921*
-1 (
-
-362224*
-1P (q
-
-364127*
-1 (
-
-364330*
-1 (
-
-364530*
-1 (
-
-363930*
-1 (1
-
-362235*
-1r (z
-
-362230*
-1P (q
-
-475021*
-1 (
-
-475227*
-1 (
-
-475430*
-1 (
-
-475627*
-1 (
-
-475830*
-1 ( 
-
-476030*
-1+ (?
-
-475030*
-1 (

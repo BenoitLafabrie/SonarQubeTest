@@ -1,299 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261943501*java2.BÀ
-
-\
-Wapp/src/main/java/com/simplecity/amp_library/ui/modelviews/BaseSelectableViewModel.java2
-
-package4
--
-(com.simplecity.amp_library.ui.modelviews5
-E
-@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BaseSelectableViewModel12
-+
-%Recovered#typeBindingLBaseViewModel;014
-
-unknown15
-
-extends16
-1
-+Recovered#typeBindingLSelectableViewModel;018
-
-
-implements19
-
-BaseViewHolder21
-
-	has param22
-
-VH24
-
-
-uses25
-Q
-Kcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel.isSelected27
-
-field28
-
-private29
-
-
-isSelected30
-V
-Pcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#setSelected(Z)V32
-
-method33
-
-setSelected34
-
-
-references35
-T
-Ncom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#isSelected()Z37
-b
-\com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#bindView(LBaseViewHolder;)V39
-
-bindView40
-
-	CallSuper42
-
-annotated by43
-'
-!Recovered#typeBindingLCallSuper;045
-
-is type46
-
-BaseViewModel48
-s
-mcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#bindView(LBaseViewHolder;ILjava/util/List;)V50
-l
-fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqual(Ljava/lang/Object;)Z52
-
-areContentsEqual53J
-
-1
-12Z
-
-3	
-354j”
-
-20
-202115
-@
-36:
-363733 *
-1 (26:3B
-	
-9
-10
-
-
-11
-30
-@
-51:
-515233 *
-1& &(26:3B
-	
-9
-10
-
-
-11
-53
-9
-64
-678 *
-1 (.:3B
-	
-9
-10
-
-
-11
-12
-
-17
-171815
-
-44
-444515
-
-47
-474815
-@
-26:
-262728 *
-1
- 
-(26:3B
-	
-9
-29
-
-
-11
-30
-@
-31:
-313233 *
-1 (26:3B
-	
-9
-10
-
-
-11
-34
-
-23
-232415
-
-41
-414215
-
-13
-131415
-@
-38:
-383933 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40
-@
-49:
-495033 *
-1 (26:3B
-	
-9
-10
-
-
-11
-40rÿ
-
-61316*
-1R (_
-
-61719*
-1o (Ç
-
-62022*
-1: (H
-
-62325*
-1/ (1
-
-62025*
-1: (H
-
-61325*
-1R (_
-
-62325*
-1` (b
-
-61725*
-1o (Ç
-
-312635*
-1	 (
-
-362635*
-1 (
-
-382322*
-1 (
-
-384143*
-1 (
-
-384425*
-1 (
-
-382346*
-1 (#
-
-382325*
-1 (
-
-38635*
-1	 (
-
-384725*
-1	 (
-
-38635*
-1	 (
-
-382635*
-1& (0
-
-492322*
-1   (
-
-494143*
-1 (
-
-494425*
-1 (
-
-492346*
-1   (#
-
-492325*
-1   (
-
-49635*
-1!	 !(
-
-494725*
-1!	 !(
-
-49635*
-1!	 !(
-
-492635*
-1#& #(0
-
-51625*
-1( ((
-
-51635*
-1( ((
-
-51646*
-1+% +()
-
-51625*
-1+	 +( 
-
-512325*
-1+! +(#
-
-51625*
-1+- +(D
-
-512325*
-1+E +(G
-
-512635*
-1- -(
-
-512635*
-1-# -(-

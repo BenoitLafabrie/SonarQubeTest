@@ -1,75 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962392*java2.B¢
-F
-Aapp/src/main/java/com/simplecity/amp_library/rx/UnsafeAction.java2
-
-package4
-"
-com.simplecity.amp_library.rx5
-/
-*com.simplecity.amp_library.rx.UnsafeAction7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-
-UnsafeAction12
-$
-Recovered#typeBindingLAction;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-7
-1com.simplecity.amp_library.rx.UnsafeAction#run()V19
-
-method20
-	
-run21J
-
-1
-12Z
-
-3	
-354j‘
-
-13
-131415
-@
-18:
-181920 *
-1
- 
-(26:3B
-	
-9
-10
-
-
-11
-21
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12r4
-
-61316*
-1' (-
-
-61317*
-1' (-

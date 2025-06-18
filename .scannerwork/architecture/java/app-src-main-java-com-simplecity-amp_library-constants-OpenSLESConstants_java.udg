@@ -1,422 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261958867*java2.Bù
-R
-Mapp/src/main/java/com/simplecity/amp_library/constants/OpenSLESConstants.java2
-
-package4
-)
-$com.simplecity.amp_library.constants5
-;
-6com.simplecity.amp_library.constants.OpenSLESConstants7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-OpenSLESConstants12
-F
-@com.simplecity.amp_library.constants.OpenSLESConstants#<init>()V14
-
-method15
-
-private16
-
-calls17
-L
-Fcom.simplecity.amp_library.constants.OpenSLESConstants.SL_MILLIBEL_MIN19
-
-field20
-
-SL_MILLIBEL_MIN21
-S
-Mcom.simplecity.amp_library.constants.OpenSLESConstants.SL_EQUALIZER_UNDEFINED23
-
-SL_EQUALIZER_UNDEFINED24
-S
-Mcom.simplecity.amp_library.constants.OpenSLESConstants.BASSBOOST_MIN_STRENGTH26
-
-BASSBOOST_MIN_STRENGTH27
-S
-Mcom.simplecity.amp_library.constants.OpenSLESConstants.BASSBOOST_MAX_STRENGTH29
-
-BASSBOOST_MAX_STRENGTH30
-R
-Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_ROOM_LEVEL32
-
-REVERB_MIN_ROOM_LEVEL33
-
-
-references34
-R
-Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_ROOM_LEVEL36
-
-REVERB_MAX_ROOM_LEVEL37
-U
-Ocom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_ROOM_HF_LEVEL39
-
-REVERB_MIN_ROOM_HF_LEVEL40
-U
-Ocom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_ROOM_HF_LEVEL42
-
-REVERB_MAX_ROOM_HF_LEVEL43
-R
-Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DECAY_TIME45
-
-REVERB_MIN_DECAY_TIME46
-R
-Lcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DECAY_TIME48
-
-REVERB_MAX_DECAY_TIME49
-V
-Pcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DECAY_HF_RATIO51
-
-REVERB_MIN_DECAY_HF_RATIO52
-V
-Pcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DECAY_HF_RATIO54
-
-REVERB_MAX_DECAY_HF_RATIO55
-T
-Ncom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_REVERB_LEVEL57
-
-REVERB_MIN_REVERB_LEVEL58
-T
-Ncom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_REVERB_LEVEL60
-
-REVERB_MAX_REVERB_LEVEL61
-Q
-Kcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DIFFUSION63
-
-REVERB_MIN_DIFFUSION64
-Q
-Kcom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DIFFUSION66
-
-REVERB_MAX_DIFFUSION67
-O
-Icom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MIN_DENSITY69
-
-REVERB_MIN_DENSITY70
-O
-Icom.simplecity.amp_library.constants.OpenSLESConstants.REVERB_MAX_DENSITY72
-
-REVERB_MAX_DENSITY73
-U
-Ocom.simplecity.amp_library.constants.OpenSLESConstants.VIRTUALIZER_MIN_STRENGTH75
-
-VIRTUALIZER_MIN_STRENGTH76
-U
-Ocom.simplecity.amp_library.constants.OpenSLESConstants.VIRTUALIZER_MAX_STRENGTH78
-
-VIRTUALIZER_MAX_STRENGTH79
-M
-Gcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MIN_LEVEL81
-
-VOLUME_MIN_LEVEL82
-W
-Qcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MIN_STEREO_POSITION84
- 
-VOLUME_MIN_STEREO_POSITION85
-W
-Qcom.simplecity.amp_library.constants.OpenSLESConstants.VOLUME_MAX_STEREO_POSITION87
- 
-VOLUME_MAX_STEREO_POSITION88J
-
-1
-12Z
-
-3	
-354jë
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-21
-@
-47:
-474820 *
-1D D(26:3B
-	
-9
-10
-
-
-11
-49
-@
-62:
-626320 *
-1X X(26:3B
-	
-9
-10
-
-
-11
-64
-@
-41:
-414220 *
-1; ;(26:3B
-	
-9
-10
-
-
-11
-43
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-16
-
-
-11
-12
-@
-44:
-444520 *
-1? ?(26:3B
-	
-9
-10
-
-
-11
-46
-@
-28:
-282920 *
-1* *(26:3B
-	
-9
-10
-
-
-11
-30
-@
-74:
-747520 *
-1i i(26:3B
-	
-9
-10
-
-
-11
-76
-@
-22:
-222320 *
-1! !(26:3B
-	
-9
-10
-
-
-11
-24
-@
-38:
-383920 *
-17 7(26:3B
-	
-9
-10
-
-
-11
-40
-@
-65:
-656620 *
-1\ \(26:3B
-	
-9
-10
-
-
-11
-67
-@
-77:
-777820 *
-1m m(26:3B
-	
-9
-10
-
-
-11
-79
-@
-83:
-838420 *
-1v v(26:3B
-	
-9
-10
-
-
-11
-85
-9
-64
-678 *
-1 (%:3B
-	
-9
-10
-
-
-11
-12
-@
-53:
-535420 *
-1L L(26:3B
-	
-9
-10
-
-
-11
-55
-@
-25:
-252620 *
-1& &(26:3B
-	
-9
-10
-
-
-11
-27
-@
-80:
-808120 *
-1r r(26:3B
-	
-9
-10
-
-
-11
-82
-@
-56:
-565720 *
-1P P(26:3B
-	
-9
-10
-
-
-11
-58
-@
-59:
-596020 *
-1T T(26:3B
-	
-9
-10
-
-
-11
-61
-@
-50:
-505120 *
-1H H(26:3B
-	
-9
-10
-
-
-11
-52
-@
-68:
-686920 *
-1` `(26:3B
-	
-9
-10
-
-
-11
-70
-@
-71:
-717220 *
-1d d(26:3B
-	
-9
-10
-
-
-11
-73
-@
-35:
-353620 *
-13 3(26:3B
-	
-9
-10
-
-
-11
-37
-@
-31:
-313220 *
-1/ /(26:3B
-	
-9
-10
-
-
-11
-33
-@
-86:
-868720 *
-1z z(26:3B
-	
-9
-10
-
-
-11
-88r†
-
-13617*
-1 (
-
-311834*
-1/7 /(F
-
-381834*
-17: 7(I
-
-561834*
-1P9 P(H
-
-801834*
-1r2 r(A

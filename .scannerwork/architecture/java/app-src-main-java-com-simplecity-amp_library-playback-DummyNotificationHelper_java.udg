@@ -1,421 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261960130*java2.Bˆ
-W
-Rapp/src/main/java/com/simplecity/amp_library/playback/DummyNotificationHelper.java2
-
-package4
-(
-#com.simplecity.amp_library.playback5
-@
-;com.simplecity.amp_library.playback.DummyNotificationHelper7
-
-
-class8
-
-access9
-
-	protected10
-
-simple name11
-
-DummyNotificationHelper12
-W
-Qcom.simplecity.amp_library.playback.DummyNotificationHelper.NOTIFICATION_ID_DUMMY14
-
-field15
-
-private16
-
-NOTIFICATION_ID_DUMMY17
-\
-Vcom.simplecity.amp_library.playback.DummyNotificationHelper.isShowingDummyNotification19
- 
-isShowingDummyNotification20
-U
-Ocom.simplecity.amp_library.playback.DummyNotificationHelper.isForegroundedByApp22
-
-isForegroundedByApp23
-L
-Fcom.simplecity.amp_library.playback.DummyNotificationHelper.CHANNEL_ID25
-
-
-CHANNEL_ID26
-Y
-Scom.simplecity.amp_library.playback.DummyNotificationHelper.NOTIFICATION_STOP_DELAY28
-
-NOTIFICATION_STOP_DELAY29
-]
-Wcom.simplecity.amp_library.playback.DummyNotificationHelper.dummyNotificationDisposable31
-!
-dummyNotificationDisposable32
-
-
-Disposable34
-
-unknown35
-
-is type36
-
-Nullable38
-
-annotated by39
-&
- Recovered#typeBindingLNullable;041
-
-
-uses42
-Z
-Tcom.simplecity.amp_library.playback.DummyNotificationHelper#setForegroundedByApp(Z)V44
-
-method45
-
-setForegroundedByApp46
-
-
-references47
-c
-]com.simplecity.amp_library.playback.DummyNotificationHelper#showDummyNotification(LService;)V49
-
-showDummyNotification50
-%
-Recovered#typeBindingLService;052
-
-	has param53
-1
-+Recovered#typeBindingLNotificationManager;055
-1
-+Recovered#typeBindingLNotificationChannel;057
-*
-$Recovered#typeBindingLNotification;059
-V
-Pcom.simplecity.amp_library.playback.DummyNotificationHelper#teardown(LService;)V61
-
-teardown62
-e
-_com.simplecity.amp_library.playback.DummyNotificationHelper#removeDummyNotification(LService;)V64
-
-calls65
-
-removeDummyNotification66J
-
-1
-12Z
-
-3	
-354j€
-
-33
-333435
-@
-60:
-606145 *
-1I I(	26:3B
-	
-9
-10
-
-
-11
-62
-@
-30:
-303115 *
-1 (26:3B
-	
-9
-16
-
-
-11
-32
-
-51
-515235
-@
-18:
-181915 *
-1 (26:3B
-	
-9
-16
-
-
-11
-20
-@
-24:
-242515 *
-1 (26:3B
-	
-9
-16
-
-
-11
-26
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-16
-
-
-11
-17
-@
-63:
-636445 *
-1R R(26:3B
-	
-9
-16
-
-
-11
-66
-
-56
-565735
-
-54
-545535
-@
-27:
-272815 *
-1 (26:3B
-	
-9
-16
-
-
-11
-29
-
-40
-404135
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-21:
-212215 *
-1 (26:3B
-	
-9
-16
-
-
-11
-23
-@
-43:
-434445 *
-1   (	26:3B
-	
-9
-10
-
-
-11
-46
-
-58
-585935
-
-37
-373835
-@
-48:
-484945 *
-1$ $(	26:3B
-	
-9
-10
-
-
-11
-50rù
-
-303336*
-1 (
-
-303739*
-1 (
-
-304042*
-1 (
-
-303342*
-1 (
-
-303342*
-1 (3
-
-432147*
-1!	 !(
-
-485153*
-1$  $('
-
-485136*
-1$( $(/
-
-485142*
-1$  $('
-
-481847*
-1& &(,
-
-485436*
-1'% '(8
-
-485442*
-1' '($
-
-485442*
-1'T '(g
-
-485636*
-1(% ((,
-
-485642*
-1( (($
-
-482447*
-1(Z ((d
-
-482447*
-1*7 *(A
-
-485836*
-13 3(*
-
-485842*
-13 3(
-
-485842*
-131 3(=
-
-482447*
-13O 3(Y
-
-481347*
-19, 9(A
-
-482147*
-1; ;()
-
-481347*
-1<- <(B
-
-481847*
-1? ?(+
-
-483342*
-1C C((
-
-483047*
-1C C((
-
-483047*
-1D D((
-
-483342*
-1D D((
-
-483047*
-1D D((
-
-483342*
-1F	 F($
-
-483047*
-1F	 F($
-
-482747*
-1F9 F(P
-
-605153*
-1I I(
-
-605136*
-1I I("
-
-605142*
-1I I(
-
-60647*
-1K	 K( 
-
-606365*
-1K	 K( 
-
-603342*
-1M M((
-
-603047*
-1M M((
-
-603047*
-1N N((
-
-603342*
-1N N((
-
-603047*
-1N N((
-
-635153*
-1R* R(1
-
-635136*
-1R2 R(9
-
-635142*
-1R* R(1
-
-631847*
-1T T(+
-
-633342*
-1V V(0
-
-633047*
-1V V(0
-
-633047*
-1W W(0
-
-633342*
-1W W(0
-
-633047*
-1W W(0
-
-632147*
-1Z Z()
-
-635436*
-1^% ^(8
-
-635442*
-1^ ^($
-
-635442*
-1^T ^(g
-
-631347*
-1_, _(A
-
-631847*
-1a a(+

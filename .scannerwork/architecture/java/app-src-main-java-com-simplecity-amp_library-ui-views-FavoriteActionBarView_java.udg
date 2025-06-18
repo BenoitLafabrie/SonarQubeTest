@@ -1,654 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261957535*java2.Bø
-U
-Papp/src/main/java/com/simplecity/amp_library/ui/views/FavoriteActionBarView.java2
-
-package4
-(
-#com.simplecity.amp_library.ui.views5
->
-9com.simplecity.amp_library.ui.views.FavoriteActionBarView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-FavoriteActionBarView12
-)
-#Recovered#typeBindingLFrameLayout;014
-
-unknown15
-
-extends16
-
-
-uses17
-I
-Ccom.simplecity.amp_library.ui.views.FavoriteActionBarView.imageView19
-
-field20
-
-	protected21
-
-	imageView22
-
-	ImageView24
-
-is type25
-
-BindView27
-
-annotated by28
-&
- Recovered#typeBindingLBindView;030
-J
-Dcom.simplecity.amp_library.ui.views.FavoriteActionBarView.isFavorite32
-
-
-isFavorite33
-N
-Hcom.simplecity.amp_library.ui.views.FavoriteActionBarView.normalDrawable35
-
-private36
-
-normalDrawable37
-
-Drawable39
-P
-Jcom.simplecity.amp_library.ui.views.FavoriteActionBarView.selectedDrawable41
-
-selectedDrawable42
-S
-Mcom.simplecity.amp_library.ui.views.FavoriteActionBarView.aestheticDisposable44
-
-aestheticDisposable45
-
-
-Disposable47
-K
-Ecom.simplecity.amp_library.ui.views.FavoriteActionBarView.normalColor49
-
-normalColor50
-M
-Gcom.simplecity.amp_library.ui.views.FavoriteActionBarView.selectedColor52
-
-selectedColor53
-`
-Zcom.simplecity.amp_library.ui.views.FavoriteActionBarView#<init>(LContext;LAttributeSet;)V55
-
-method56
-%
-Recovered#typeBindingLContext;058
-
-	has param59
-*
-$Recovered#typeBindingLAttributeSet;061
-
-calls62
-
-NonNull64
-%
-Recovered#typeBindingLNonNull;066
-
-Nullable68
-&
- Recovered#typeBindingLNullable;070
-R
-Lcom.simplecity.amp_library.ui.views.FavoriteActionBarView#onFinishInflate()V72
-
-onFinishInflate73
-
-
-references74
-
-FrameLayout76
-Q
-Kcom.simplecity.amp_library.ui.views.FavoriteActionBarView#setIsFavorite(Z)V78
-
-setIsFavorite79
-I
-Ccom.simplecity.amp_library.ui.views.FavoriteActionBarView#toggle()V81
-
-toggle82
-U
-Ocom.simplecity.amp_library.ui.views.FavoriteActionBarView#onAttachedToWindow()V84
-
-onAttachedToWindow85
-(
-"com.afollestad.aesthetic.Aesthetic87
-
-returns88
-[
-Ucom.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;90
-W
-Qcom.simplecity.amp_library.ui.views.FavoriteActionBarView#onDetachedFromWindow()V92
-
-onDetachedFromWindow93
-e
-_com.simplecity.amp_library.ui.views.FavoriteActionBarView#invalidateColors(LBgIconColorState;)V95
-
-invalidateColors96
-.
-(Recovered#typeBindingLBgIconColorState;098J
-
-1
-12Z
-
-3	
-354jó
-
-
-57
-575815
-@
-80:
-808156 *
-1@ @(26:3B
-	
-9
-10
-
-
-11
-82
-@
-48:
-484920 *
-1$ $(26:3B
-	
-9
-36
-
-
-11
-50
-
-89
-899015
-9
-64
-678 *
-1 (#:3B
-	
-9
-10
-
-
-11
-12
-@
-31:
-313220 *
-1 (26:3B
-	
-9
-21
-
-
-11
-33
-@
-71:
-717256 *
-1+ +(26:3B
-	
-9
-21
-
-
-11
-73
-@
-94:
-949556 *
-1` `(26:3B
-	
-9
-36
-
-
-11
-96
-@
-34:
-343520 *
-1 (26:3B
-	
-9
-36
-
-
-11
-37
-
-86
-868715
-
-69
-697015
-
-63
-636415
-
-23
-232415
-
-13
-131415
-
-46
-464715
-@
-51:
-515220 *
-1% %(26:3B
-	
-9
-36
-
-
-11
-53
-@
-91:
-919256 *
-1X X(26:3B
-	
-9
-21
-
-
-11
-93
-@
-83:
-838456 *
-1D D(26:3B
-	
-9
-21
-
-
-11
-85
-@
-54:
-545556 *
-1' '(26:3B
-	
-9
-10
-
-
-11
-12
-@
-77:
-777856 *
-19 9(26:3B
-	
-9
-10
-
-
-11
-79
-
-38
-383915
-@
-43:
-434420 *
-1" "(26:3B
-	
-9
-36
-
-
-11
-45
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-
-75
-757615
-
-97
-979815
-
-26
-262715
-@
-40:
-404120 *
-1   (26:3B
-	
-9
-36
-
-
-11
-42
-
-29
-293015
-
-65
-656615
-
-67
-676815
-
-60
-606115r‹
-
-61316*
-1, (7
-
-61317*
-1, (7
-
-182325*
-1 (
-
-182628*
-1 (
-
-182917*
-1 (
-
-182317*
-1 (
-
-182317*
-1 (
-
-343825*
-1 (
-
-343817*
-1 (
-
-343817*
-1 ($
-
-403825*
-1   (
-
-403817*
-1   (
-
-403817*
-1   (&
-
-434625*
-1" "(
-
-434617*
-1" "(
-
-434617*
-1" "(+
-
-545759*
-1'+ '(2
-
-546059*
-1'F '(R
-
-54662*
-1' '(!
-
-545725*
-1'3 '(:
-
-546328*
-1'" '(#
-
-546517*
-1'# '(*
-
-545717*
-1'+ '(2
-
-546025*
-1'S '(X
-
-546728*
-1'< '(=
-
-546917*
-1'= '(E
-
-546017*
-1'F '(R
-
-71674*
-1-	 -(
-
-717517*
-1-	 -(
-
-71674*
-1-	 -(
-
-71617*
-1/ /(
-
-71674*
-1/ /(
-
-713817*
-11	 1(
-
-713474*
-11	 1(
-
-713817*
-12	 2(
-
-714074*
-12	 2(
-
-711874*
-14	 4(
-
-712317*
-14	 4(
-
-711874*
-14	 4(
-
-713174*
-14$ 4(.
-
-713817*
-141 4(A
-
-714074*
-141 4(A
-
-713817*
-14D 4(R
-
-713474*
-14D 4(R
-
-71674*
-16	 6(
-
-717762*
-16	 6(
-
-713174*
-16 6(!
-
-77617*
-1: :(
-
-77674*
-1: :(
-
-773174*
-1:  :(*
-
-77617*
-1; ;(
-
-77674*
-1; ;(
-
-773174*
-1; ;(
-
-771874*
-1< <(
-
-772317*
-1< <(
-
-771874*
-1< <(
-
-773817*
-1<5 <(E
-
-774074*
-1<5 <(E
-
-773817*
-1<H <(V
-
-773474*
-1<H <(V
-
-80674*
-1A	 A(
-
-807762*
-1A	 A(
-
-803174*
-1A A("
-
-83674*
-1F	 F(
-
-837517*
-1F	 F(
-
-83674*
-1F	 F(
-
-834617*
-1M M( 
-
-834374*
-1M M( 
-
-838688*
-1N N(
-
-838674*
-1N N(
-
-838962*
-1N N("
-
-838617*
-1N N(
-
-838688*
-1O O(
-
-838674*
-1O O(
-
-838962*
-1O O("
-
-838617*
-1O O(
-
-914617*
-1Z Z( 
-
-914374*
-1Z Z( 
-
-914374*
-1[ [( 
-
-914617*
-1[ [( 
-
-914374*
-1[ [( 
-
-91674*
-1]	 ](
-
-917517*
-1]	 ](
-
-91674*
-1]	 ](
-
-949759*
-1`# `(3
-
-949725*
-1`4 `(D
-
-949717*
-1`# `(3
-
-94617*
-1b	 b(
-
-94674*
-1b	 b(
-
-944874*
-1b b(
-
-94617*
-1c	 c(
-
-94674*
-1c	 c(
-
-945174*
-1c c(
-
-943817*
-1e  e(.
-
-943474*
-1e  e(.
-
-944874*
-1e0 e(;
-
-943817*
-1f  f(0
-
-944074*
-1f  f(0
-
-945174*
-1f2 f(?

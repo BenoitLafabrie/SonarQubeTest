@@ -1,207 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261951323*java2.BÑ
-X
-Sapp/src/main/java/com/simplecity/amp_library/playback/NotificationStateHandler.java2
-
-package4
-(
-#com.simplecity.amp_library.playback5
-A
-<com.simplecity.amp_library.playback.NotificationStateHandler7
-
-
-class8
-
-access9
-
-	protected10
-
-simple name11
-
-NotificationStateHandler12
-%
-Recovered#typeBindingLHandler;014
-
-unknown15
-
-extends16
-
-
-uses17
-R
-Lcom.simplecity.amp_library.playback.NotificationStateHandler.STOP_FOREGROUND19
-
-field20
-
-STOP_FOREGROUND21
-S
-Mcom.simplecity.amp_library.playback.NotificationStateHandler.START_FOREGROUND23
-
-START_FOREGROUND24
-K
-Ecom.simplecity.amp_library.playback.NotificationStateHandler.mService26
-
-private27
-
-mService28
-*
-$Recovered#typeBindingLMusicService;030
-Z
-Tcom.simplecity.amp_library.playback.NotificationStateHandler#<init>(LMusicService;)V32
-
-method33
-
-	has param34
-
-calls35
-
-is type36
-
-
-references37
-\
-Vcom.simplecity.amp_library.playback.NotificationStateHandler#handleMessage(LMessage;)V39
-
-public40
-
-handleMessage41
-%
-Recovered#typeBindingLMessage;043J
-
-1
-12Z
-
-3	
-354jÁ
-@
-22:
-222320 *
-1 (26:3B
-	
-9
-10
-
-
-11
-24
-@
-31:
-313233 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-38:
-383933 *
-1 (26:3B
-	
-9
-40
-
-
-11
-41
-
-42
-424315
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-21
-@
-25:
-252620 *
-1 (26:3B
-	
-9
-27
-
-
-11
-28
-
-13
-131415
-
-29
-293015rý
-
-61316*
-1( (/
-
-61317*
-1( (/
-
-252917*
-1! (-
-
-312934*
-1 (*
-
-31635*
-1 (
-
-312936*
-1+ (7
-
-312917*
-1 (*
-
-312537*
-1	 (
-
-384234*
-1 (&
-
-384236*
-1' (*
-
-384217*
-1 (&
-
-382936*
-1 (#
-
-382917*
-1 (
-
-382537*
-1& (.
-
-382537*
-1& (.
-
-382237*
-1 ("
-
-38617*
-1    (8
-
-381837*
-1 9  (H
-
-381837*
-1" "(!

@@ -1,112 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261949291*java2.Bé
-L
-Gapp/src/main/java/com/simplecity/amp_library/androidauto/CarHelper.java2
-
-package4
-+
-&com.simplecity.amp_library.androidauto5
-5
-0com.simplecity.amp_library.androidauto.CarHelper7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-	CarHelper12
-@
-:com.simplecity.amp_library.androidauto.CarHelper#<init>()V14
-
-method15
-
-private16
-
-calls17
-N
-Hcom.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z19
-
-isCarUiMode20
-%
-Recovered#typeBindingLContext;022
-
-unknown23
-
-	has param24
-
-is type25
-
-
-uses26
-+
-%Recovered#typeBindingLUiModeManager;028J
-
-1
-12Z
-
-3	
-354jç
-
-21
-212223
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12
-@
-18:
-181915 *
-1 (26:3B
-	
-9
-10
-
-
-11
-20
-
-27
-272823
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-16
-
-
-11
-12r¼
-
-13617*
-1 (
-
-182124*
-1' (.
-
-182125*
-1/ (0
-
-182126*
-1' (.
-
-182725*
-1 ($
-
-182726*
-1	 (
-
-182726*
-1( (5

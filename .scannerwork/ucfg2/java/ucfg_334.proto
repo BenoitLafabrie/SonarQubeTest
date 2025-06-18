@@ -1,15 +1,0 @@
-
-ucom.simplecity.amp_library.ui.common.BaseFragment#getMediaManager()Lcom/simplecity/amp_library/playback/MediaManager;ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseFragment.javau u('"1*†
-1v v(°
-­
-v v(6
-%00com.simplecity.amp_library.playback.MediaManager"__id*c
-
-__unknown_file (G*E3
-1com.simplecity.amp_library.ui.common.BaseFragment"
-mediaManager"D
-v v(8
-6
-%00com.simplecity.amp_library.playback.MediaManagerB53
-1com.simplecity.amp_library.ui.common.BaseFragmentH

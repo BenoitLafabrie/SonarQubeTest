@@ -1,1044 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261953931*java2.Bï
-I
-Dapp/src/main/java/com/simplecity/amp_library/ShuttleApplication.java2
-
-package4
-
-com.simplecity.amp_library5
-2
--com.simplecity.amp_library.ShuttleApplication7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ShuttleApplication12
-/
-)Recovered#typeBindingLDaggerApplication;014
-
-unknown15
-
-extends16
-
-
-uses17
-7
-1com.simplecity.amp_library.ShuttleApplication.TAG19
-
-field20
-
-private21
-	
-TAG22
->
-8com.simplecity.amp_library.ShuttleApplication.isUpgraded24
-
-
-isUpgraded25
->
-8com.simplecity.amp_library.ShuttleApplication.refWatcher27
-
-
-refWatcher28
-
-
-RefWatcher30
-
-is type31
-G
-Acom.simplecity.amp_library.ShuttleApplication.userSelectedArtwork33
-
-userSelectedArtwork34
-1
-+Recovered#typeBindingLUserSelectedArtwork;036
-[
-Ucom.simplecity.amp_library.ShuttleApplication#getUserSelectedArtwork()Ljava/util/Map;38
-
-method39
-
-getUserSelectedArtwork40
-
-
-references41
-t
-ncom.simplecity.amp_library.ShuttleApplication#putUserSelectedArtwork(Ljava/lang/String;LUserSelectedArtwork;)V43
-
-putUserSelectedArtwork44
-
-	has param45
-G
-Acom.simplecity.amp_library.ShuttleApplication.jaudioTaggerLogger147
-
-jaudioTaggerLogger148
-G
-Acom.simplecity.amp_library.ShuttleApplication.jaudioTaggerLogger250
-
-jaudioTaggerLogger251
-C
-=com.simplecity.amp_library.ShuttleApplication.songsRepository53
-
-	protected54
-
-songsRepository55
- 
-Repository.SongsRepository57
-
-Inject59
-
-annotated by60
-$
-Recovered#typeBindingLInject;062
-(
-"Recovered#typeBindingLRepository;064
-D
->com.simplecity.amp_library.ShuttleApplication.analyticsManager66
-
-analyticsManager67
-
-AnalyticsManager69
-C
-=com.simplecity.amp_library.ShuttleApplication.settingsManager71
-
-settingsManager72
-
-SettingsManager74
-?
-9com.simplecity.amp_library.ShuttleApplication#onCreate()V76
-
-onCreate77
-
-DaggerApplication79
--
-'Recovered#typeBindingLCrashlyticsCore;081
-)
-#Recovered#typeBindingLCrashlytics;083
-/
-)Recovered#typeBindingLSharedPreferences;085
-Z
-Tcom.simplecity.amp_library.ShuttleApplication#applicationInjector()LAndroidInjector;87
-
-applicationInjector88
-
-AndroidInjector90
-
-returns91
-$
-Recovered#typeBindingLdagger;093
-
-bound by94
-O
-Icom.simplecity.amp_library.ShuttleApplication#getRefWatcher()LRefWatcher;96
-
-getRefWatcher97
-B
-<com.simplecity.amp_library.ShuttleApplication#onLowMemory()V99
-
-onLowMemory100
-S
-Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;102
-
-
-getVersion103
--
-&Recovered#typeBindingLPackageManager;0105
-F
-?com.simplecity.amp_library.ShuttleApplication#setIsUpgraded(Z)V107
-
-setIsUpgraded108
-E
->com.simplecity.amp_library.ShuttleApplication#getIsUpgraded()Z110
-
-getIsUpgraded111
-f
-_com.simplecity.amp_library.ShuttleApplication#getDiskCacheDir(Ljava/lang/String;)Ljava/io/File;113
-
-getDiskCacheDir114
-[
-Tcom.simplecity.amp_library.ShuttleApplication#cleanMostPlayedPlaylist()LCompletable;116
-
-cleanMostPlayedPlaylist117
-
-Completable119
-
-NonNull121
-&
-Recovered#typeBindingLNonNull;0123
-O
-Hcom.simplecity.amp_library.ShuttleApplication#cleanGenres()LCompletable;125
-
-cleanGenres126
-`
-Ycom.simplecity.amp_library.ShuttleApplication#repairMediaStoreYearFromTags()LCompletable;128
-#
-repairMediaStoreYearFromTags129
-Ä
-ycom.simplecity.amp_library.ShuttleApplication#getYearUpdateOperation(Lcom/simplecity/amp_library/model/Song;)LObservable;131
-
-getYearUpdateOperation132
-
-
-Observable134
-?
-8Recovered#typeBindingLcom/simplecity/amp_library/model;0136
-7
-0Recovered#typeBindingLContentProviderOperation;0138
-(
-!Recovered#typeBindingLAudioFile;0140
-"
-Recovered#typeBindingLTag;0142
-,
-%Recovered#typeBindingLContentValues;0144
-2
-+Recovered#typeBindingLCannotReadException;0146
-+
-$Recovered#typeBindingLTagException;0148
-4
--Recovered#typeBindingLReadOnlyFileException;0150
-9
-2Recovered#typeBindingLInvalidAudioFrameException;0152J
-
-1
-12Z
-
-3	
-354jŒ
-
-139
-13914015
-
-118
-11811915
-@
-26:
-262720 *
-1K K(26:3B
-	
-9
-21
-
-
-11
-28
-F
-106?
-10610739 *
-1Ë Ë(26:3B
-	
-9
-10
-
-11
-108
-
-78
-787915
-
-82
-828315
-
-13
-131415
-@
-65:
-656620 *
-1] ](26:3B
-	
-9
-54
-
-
-11
-67
-
-35
-353615
-F
-124?
-12412539 *
-1∂ ∂(26:3B
-	
-9
-21
-
-11
-126
-
-145
-14514615
-
-141
-14114215
-
-120
-12012115
-
-63
-636415
-@
-46:
-464720 *
-1W W(26:3B
-	
-9
-21
-
-
-11
-48
-
-84
-848515
-@
-49:
-495020 *
-1X X(26:3B
-	
-9
-21
-
-
-11
-51
-@
-18:
-181920 *
-1G G(26:3B
-	
-9
-21
-
-
-11
-22
-
-68
-686915
-
-137
-13713815
-@
-52:
-525320 *
-1Z Z(26:3B
-	
-9
-54
-
-
-11
-55
-
-61
-616215
-F
-112?
-11211339 *
-1Ò Ò(26:3B
-	
-9
-10
-
-11
-114
-@
-23:
-232420 *
-1I I(26:3B
-	
-9
-21
-
-
-11
-25
-
-104
-10410515
-
-89
-899015
-@
-32:
-323320 *
-1M M(26:3B
-	
-9
-21
-
-
-11
-34
-
-143
-14314415
-
-149
-14915015
-@
-42:
-424339 *
-1S S(26:3B
-	
-9
-10
-
-
-11
-44
-
-135
-13513615
-B
-95<
-959639 *
-1‘ ‘(26:3B
-	
-9
-10
-
-
-11
-97
-F
-109?
-10911039 *
-1Ì Ì(26:3B
-	
-9
-10
-
-11
-111
-C
-98=
-989939 *
-1ÿ ÿ(26:3B
-	
-9
-10
-
-11
-100
-
-92
-929315
-B
-86<
-868739 *
-1œ œ(26:3B
-	
-9
-54
-
-
-11
-88
-@
-37:
-373839 *
-1O O(26:3B
-	
-9
-10
-
-
-11
-40
-
-29
-293015
-F
-127?
-12712839 *
-1” ”(26:3B
-	
-9
-21
-
-11
-129
-@
-75:
-757639 *
-1c c(26:3B
-	
-9
-10
-
-
-11
-77
-
-58
-585915
-@
-70:
-707120 *
-1` `(26:3B
-	
-9
-54
-
-
-11
-72
-
-73
-737415
-
-147
-14714815
-F
-101?
-10110239 *
-1ﬂ ﬂ(26:3B
-	
-9
-10
-
-11
-103
-F
-115?
-11511639 *
-1ä ä(26:3B
-	
-9
-21
-
-11
-117
-
-133
-13313415
-
-80
-808115
-9
-64
-678 *
-1E E( :3B
-	
-9
-10
-
-
-11
-12
-
-56
-565715
-F
-130?
-13013139 *
-1Ê Ê(26:3B
-	
-9
-21
-
-11
-132
-
-151
-15115215
-
-122
-12212315r√$
-
-61316*
-1E) E(:
-
-61317*
-1E) E(:
-
-262931*
-1K K(
-
-262917*
-1K K(
-
-262917*
-1K K("
-
-323517*
-1M) M(<
-
-373517*
-1O" O(5
-
-373241*
-1P P(#
-
-423545*
-1S4 S(G
-
-423531*
-1SH S(O
-
-423517*
-1S4 S(G
-
-423241*
-1T	 T(
-
-423241*
-1T	 T(
-
-525631*
-1[ [(
-
-525860*
-1Z Z(
-
-526117*
-1Z Z(
-
-526317*
-1[ [(
-
-525617*
-1[ [(
-
-525617*
-1[  [(/
-
-656831*
-1^ ^(
-
-655860*
-1] ](
-
-656117*
-1] ](
-
-656817*
-1^ ^(
-
-656817*
-1^ ^(&
-
-707331*
-1a a(
-
-705860*
-1` `(
-
-706117*
-1` `(
-
-707317*
-1a a(
-
-707317*
-1a a($
-
-75641*
-1e	 e(
-
-757817*
-1e	 e(
-
-75641*
-1e	 e(
-
-75617*
-1h h(
-
-75641*
-1h h(
-
-75617*
-1i i(
-
-75641*
-1i i(
-
-75617*
-1k, k(0
-
-75641*
-1k, k(0
-
-752917*
-1v	 v(
-
-752641*
-1v	 v(
-
-75617*
-1v) v(-
-
-75641*
-1v) v(-
-
-75617*
-1x4 x(8
-
-75641*
-1x4 x(8
-
-758031*
-1{ {((
-
-758017*
-1{	 {(
-
-758017*
-1{/ {(>
-
-75617*
-1 (
-
-75641*
-1 (
-
-758217*
-1Ä Ä( 
-
-75617*
-1Ü# Ü('
-
-75641*
-1Ü# Ü('
-
-75617*
-1á' á(+
-
-75641*
-1á' á(+
-
-758431*
-1â! â(&
-
-758417*
-1â â( 
-
-75617*
-1âW â([
-
-75641*
-1âW â([
-
-75617*
-1ç0 ç(4
-
-75641*
-1ç0 ç(4
-
-75617*
-1é0 é(4
-
-75641*
-1é0 é(4
-
-75617*
-1è0 è(4
-
-75641*
-1è0 è(4
-
-75617*
-1ê0 ê(4
-
-75641*
-1ê0 ê(4
-
-75617*
-1ë0 ë(4
-
-75641*
-1ë0 ë(4
-
-75617*
-1í0 í(4
-
-75641*
-1í0 í(4
-
-75617*
-1ì0 ì(4
-
-75641*
-1ì0 ì(4
-
-754641*
-1ó	 ó(
-
-754641*
-1ó	 ó(
-
-754941*
-1ò	 ò(
-
-754941*
-1ò	 ò(
-
-757041*
-1ú	 ú(
-
-757317*
-1ú	 ú(
-
-757041*
-1ú	 ú(
-
-75617*
-1§, §(>
-
-75617*
-1§? §(C
-
-75641*
-1§? §(C
-
-75617*
-1≥, ≥(0
-
-75641*
-1≥, ≥(0
-
-75617*
-1∫, ∫(0
-
-75641*
-1∫, ∫(0
-
-75617*
-1¡, ¡(0
-
-75641*
-1¡, ¡(0
-
-75617*
-1»Q »(U
-
-75641*
-1»Q »(U
-
-868991*
-1– –(
-
-868917*
-1– –(
-
-869294*
-1–) –(/
-
-869217*
-1–) –(/
-
-869217*
-1–0 –(7
-
-869217*
-1–8 –(I
-
-86617*
-1—4 —(8
-
-86641*
-1—4 —(8
-
-952991*
-1‘ ‘(
-
-952917*
-1‘ ‘(
-
-95617*
-1’ ’(
-
-95641*
-1’ ’(
-
-952917*
-1’ ’(
-
-952641*
-1’ ’(
-
-98641*
-1⁄	 ⁄(
-
-987817*
-1⁄	 ⁄(
-
-98641*
-1⁄	 ⁄(
-
-98617*
-1‹ ‹(
-
-98641*
-1‹ ‹(
-
-10110417*
-1‚ ‚( 
-
-10110417*
-1‚! ‚(6
-
-106617*
-1È	 È(
-
-106641*
-1È	 È(
-
-1062341*
-1È È(
-
-1066541*
-1Í	 Í(
-
-1066817*
-1Í	 Í(
-
-1066541*
-1Í	 Í(
-
-1092341*
-1Ó Ó(
-
-1121841*
-1Ä Ä(
-
-11511891*
-1ã ã(
-
-11512060*
-1ä ä(
-
-11512217*
-1ä ä(
-
-11511817*
-1ã ã(
-
-115617*
-1ç/ ç(3
-
-115641*
-1ç/ ç(3
-
-115617*
-1ô, ô(0
-
-115641*
-1ô, ô(0
-
-115617*
-1£, £(0
-
-115641*
-1£, £(0
-
-12411891*
-1∑ ∑(
-
-12412060*
-1∂ ∂(
-
-12412217*
-1∂ ∂(
-
-12411817*
-1∑ ∑(
-
-124617*
-1π/ π(3
-
-124641*
-1π/ π(3
-
-124617*
-1√/ √(3
-
-124641*
-1√/ √(3
-
-12711891*
-1‘ ‘(
-
-12712060*
-1” ”(
-
-12712217*
-1” ”(
-
-12711817*
-1‘ ‘(
-
-127617*
-1÷/ ÷(3
-
-127641*
-1÷/ ÷(3
-
-1275241*
-1⁄ ⁄(
-
-1275617*
-1⁄ ⁄(
-
-1275241*
-1⁄ ⁄(
-
-13013391*
-1Ê Ê(
-
-13013545*
-1ÊI Ê(L
-
-13013317*
-1Ê Ê(
-
-13013717*
-1Ê Ê(0
-
-13013531*
-1Êo Ê(s
-
-13013517*
-1Êd Ê(i
-
-13013517*
-1Êj Ê(n
-
-13013931*
-1 ( 
-
-13013917*
-1 (
-
-13014131*
-1Ò Ò(
-
-13014117*
-1Ò Ò(
-
-13014331*
-1˜# ˜(0
-
-13014317*
-1˜ ˜("
-
-13014517*
-1Ä Ä(%
-
-13014717*
-1Ä6 Ä(B
-
-13014917*
-1ÄE Ä(Z
-
-13015117*
-1Ä] Ä(w
-
-1301841*
-1Å# Å(&

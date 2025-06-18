@@ -1,303 +1,0 @@
-Ó
-Ecom.simplecity.amp_library.ui.screens.queue.QueueItem#getSong()LSong;
-__unknown_file ("0* 
-0 (ë
-é
- (
-fieldjava.lang.Object"__id*a
- (U*S7
-5com.simplecity.amp_library.ui.screens.queue.QueueItem"
-songjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHé
-Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#setSong(LSong;)V
-__unknown_file ("0*¬
-0 (ë
-é
- (S7
-5com.simplecity.amp_library.ui.screens.queue.QueueItem"
-songjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHÃ
-Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#getOccurrence()I
-__unknown_file ("0*ß
-0 (|
-z
- (
-fieldint"__id*Z
- (N*L7
-5com.simplecity.amp_library.ui.screens.queue.QueueItem"
-
-occurrenceint"
- (
-
-fieldintB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHÏ
-Gcom.simplecity.amp_library.ui.screens.queue.QueueItem#setOccurrence(I)V
-__unknown_file ("0*¨
-0 (|
-z
- (L7
-5com.simplecity.amp_library.ui.screens.queue.QueueItem"
-
-occurrenceint"__id*
- (
-
-valueint"
- (
-implicit return:
- (
-valueintB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHÅ
-Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#<init>(LSong;I)VÖ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*©
-0 (4¸
-˘
- (
-%0java.lang.Object"Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#setSong(LSong;)V*U
-
-__unknown_file (97
-5com.simplecity.amp_library.ui.screens.queue.QueueItem*6
-
-__unknown_file (
-
-songjava.lang.ObjectÈ
-Ê
-  (3	
-%1int"Gcom.simplecity.amp_library.ui.screens.queue.QueueItem#setOccurrence(I)V*U
-
-__unknown_file (97
-5com.simplecity.amp_library.ui.screens.queue.QueueItem*/
-
-__unknown_file (
-
-
-occurrenceint"/
-
-__unknown_file (
-implicit return:$
- (
-songjava.lang.Object:
-  (3
-
-occurrenceintB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemH–
-Qcom.simplecity.amp_library.ui.screens.queue.QueueItem#equals(Ljava/lang/Object;)ZÖ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt	 	("0*#
-2
- 
-('"
-
- 
-('
-true*±
-37 (x
-v
- (;
-%45com.simplecity.amp_library.ui.screens.queue.QueueItem"__id*'
- (
-
-otherjava.lang.Object≥
-∞
- (
-%5java.lang.Object"Ecom.simplecity.amp_library.ui.screens.queue.QueueItem#getSong()LSong;*E
- (97
-5com.simplecity.amp_library.ui.screens.queue.QueueItem∫
-∑
- (
-%6java.lang.Object"Ecom.simplecity.amp_library.ui.screens.queue.QueueItem#getSong()LSong;*L
- (@
->
-other5com.simplecity.amp_library.ui.screens.queue.QueueItem¨©
- (
-%7boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*$
- (
-
-%5java.lang.Object*$
- (
-
-%6java.lang.Object2equals(Ljava/lang/Object;)*
-5
-6*$
-4+ (7"
-+ (7	
-false*à
-5, (ß
-§
- (	
-%9int"Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#getOccurrence()I*E
- (97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemØ
-¨
-  (*
-
-%10int"Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#getOccurrence()I*L
- (@
->
-other5com.simplecity.amp_library.ui.screens.queue.QueueItemîë
- (*
-%11boolean"&kotlin.Int#equals(Ljava/lang/Object;)Z*
- (
-	
-%9int*
-  (*
-
-
-%10int2equals(Ljava/lang/Object;)*
-7
-8*$
-6  (,"
-  (,	
-false*#
-78 ("
- (
-true*$
-8, (8"
-, (8	
-false*ª
-0	 	(£
-†
-
- 
-(
-%0"	__compare*
-
- 
-(
-===*E
-
- 
-(97
-5com.simplecity.amp_library.ui.screens.queue.QueueItem*'
-
- 
-(
-
-otherjava.lang.Object*
-2
-1*“
-1
-' (∫∑
- ()
-%2boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*+
- (
-
-	javaClassjava.lang.Object*+
-  ()
-
-	javaClassjava.lang.Object2equals(Ljava/lang/Object;)*
-3
-4:%
-	 	(#
-otherjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHü
-Acom.simplecity.amp_library.ui.screens.queue.QueueItem#hashCode()IÖ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*ë
-0 (≥
-∞
- (
-%0java.lang.Object"Ecom.simplecity.amp_library.ui.screens.queue.QueueItem#getSong()LSong;*E
- (97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemY
-W
- ($
-resultjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>n
-l
- (
-%1"__calculate*
- (
-**
- (2*(
- (
-
-resultjava.lang.Objectß
-§
- ()	
-%2int"Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#getOccurrence()I*E
- ()97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemY
-W
- ()
-%3"__concat*"
-
-__unknown_file (
-
-%1*
- ()
-	
-%2intR
-P
- ()
-resultjava.lang.Object"__id*"
-
-__unknown_file (
-
-%3"(
- (
-
-resultjava.lang.StringB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHŸ
-Zcom.simplecity.amp_library.ui.screens.queue#toQueueItems(Ljava/util/List;)Ljava/util/List;Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*º
-0 (]
-[
- (7
-
-queueItemsjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>ü
-ú
- (!
-%0kotlin.Unit"Ocom.simplecity.amp_library.ui.screens.queue#updateOccurrence(Ljava/util/List;)V*,
- ( 
-
-
-queueItemsjava.lang.Object",
- ( 
-
-
-queueItemsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.ui.screens.queueHœ
-Ocom.simplecity.amp_library.ui.screens.queue#updateOccurrence(Ljava/util/List;)VÖ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt" "($"0*>
-0" "("/
-
-__unknown_file (
-implicit returnB/"-
-+com.simplecity.amp_library.ui.screens.queueHø
-Ucom.simplecity.amp_library.ui.screens.queue#toSongs(Ljava/util/List;)Ljava/util/List;Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt, ,("0*(
-0, ,("
-- -(.
-	<unknown>B/"-
-+com.simplecity.amp_library.ui.screens.queueHÎ
-öcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItem(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)LMediaSessionCompat.QueueItem;Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt0 0(%"0*ç
-00 0(c
-a
-1 5($
-mediaDescriptionjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"
-6 6(N
-	<unknown>B/"-
-+com.simplecity.amp_library.ui.screens.queueH–
-fcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItems(Ljava/util/List;)Ljava/util/List;Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt9 9(,"0*(
-09 9("
-: :(C
-	<unknown>B/"-
-+com.simplecity.amp_library.ui.screens.queueH

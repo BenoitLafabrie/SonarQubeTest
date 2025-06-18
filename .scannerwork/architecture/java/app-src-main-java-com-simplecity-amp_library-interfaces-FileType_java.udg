@@ -1,121 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261957979*java2.Bé
-J
-Eapp/src/main/java/com/simplecity/amp_library/interfaces/FileType.java2
-
-package4
-*
-%com.simplecity.amp_library.interfaces5
-3
-.com.simplecity.amp_library.interfaces.FileType7
-
-
-annotation8
-
-access9
-
-public10
-
-simple name11
-
-FileType12
-
-IntDef14
-
-unknown15
-
-annotated by16
-$
-Recovered#typeBindingLIntDef;018
-
-
-uses19
-;
-5com.simplecity.amp_library.interfaces.FileType.PARENT21
-
-
-references22
-;
-5com.simplecity.amp_library.interfaces.FileType.FOLDER24
-9
-3com.simplecity.amp_library.interfaces.FileType.FILE26
-
-field27
-
-PARENT28
-
-FOLDER29
-
-
-FILE30J
-
-1
-12Z
-
-3	
-354j©
-
-13
-131415
-@
-20:
-202127 *
-1 (26:3B
-	
-9
-10
-
-
-11
-28
-
-17
-171815
-@
-25:
-252627 *
-1	 	(26:3B
-	
-9
-10
-
-
-11
-30
-@
-23:
-232427 *
-1 (26:3B
-	
-9
-10
-
-
-11
-29
-9
-64
-678 *
-1 (:3B
-	
-9
-10
-
-
-11
-12r‚
-
-61316*
-1 (
-
-61719*
-1 (
-
-62022*
-1 (
-
-62322*
-1% (+
-
-62522*
-16 (:

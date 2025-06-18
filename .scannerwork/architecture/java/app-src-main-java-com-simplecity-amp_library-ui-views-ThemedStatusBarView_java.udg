@@ -1,311 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261953374*java2.Bê
-
-S
-Napp/src/main/java/com/simplecity/amp_library/ui/views/ThemedStatusBarView.java2
-
-package4
-(
-#com.simplecity.amp_library.ui.views5
-<
-7com.simplecity.amp_library.ui.views.ThemedStatusBarView7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-ThemedStatusBarView12
-+
-%Recovered#typeBindingLStatusBarView;014
-
-unknown15
-
-extends16
-
-
-uses17
-L
-Fcom.simplecity.amp_library.ui.views.ThemedStatusBarView.bgSubscription19
-
-field20
-
-private21
-
-bgSubscription22
-
-
-Disposable24
-
-is type25
-P
-Jcom.simplecity.amp_library.ui.views.ThemedStatusBarView#<init>(LContext;)V27
-
-method28
-%
-Recovered#typeBindingLContext;030
-
-	has param31
-
-calls32
-^
-Xcom.simplecity.amp_library.ui.views.ThemedStatusBarView#<init>(LContext;LAttributeSet;)V34
-*
-$Recovered#typeBindingLAttributeSet;036
-
-Nullable38
-
-annotated by39
-&
- Recovered#typeBindingLNullable;041
-_
-Ycom.simplecity.amp_library.ui.views.ThemedStatusBarView#<init>(LContext;LAttributeSet;I)V43
-S
-Mcom.simplecity.amp_library.ui.views.ThemedStatusBarView#onAttachedToWindow()V45
-
-	protected46
-
-onAttachedToWindow47
-
-
-references48
-
-StatusBarView50
-U
-Ocom.simplecity.amp_library.ui.views.ThemedStatusBarView#onDetachedFromWindow()V52
-
-onDetachedFromWindow53J
-
-1
-12Z
-
-3	
-354j”
-
-23
-232415
-
-29
-293015
-
-49
-495015
-@
-42:
-424328 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-44:
-444528 *
-1 (26:3B
-	
-9
-46
-
-
-11
-47
-9
-64
-678 *
-1 (!:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-@
-51:
-515228 *
-19 9(26:3B
-	
-9
-46
-
-
-11
-53
-
-40
-404115
-@
-33:
-333428 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-@
-26:
-262728 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-37
-373815
-
-35
-353615r·
-
-61316*
-1* (7
-
-61317*
-1* (7
-
-182325*
-1 (
-
-182317*
-1 (
-
-182317*
-1 (&
-
-262931*
-1  ('
-
-26632*
-1 (
-
-262925*
-1( (/
-
-262917*
-1  ('
-
-332931*
-1  ('
-
-333531*
-1; (G
-
-33632*
-1 (
-
-332925*
-1( (/
-
-332917*
-1  ('
-
-333525*
-1H (M
-
-333739*
-11 (2
-
-334017*
-12 (:
-
-333517*
-1; (G
-
-422931*
-1  ('
-
-423531*
-1; (G
-
-42632*
-1 (
-
-422925*
-1( (/
-
-422917*
-1  ('
-
-423525*
-1H (M
-
-423739*
-11 (2
-
-424017*
-12 (:
-
-423517*
-1; (G
-
-44648*
-1	 (
-
-444917*
-1	 (
-
-44648*
-1	 (
-
-44617*
-1/5 /(9
-
-44648*
-1/5 /(9
-
-442317*
-12	 2(
-
-441848*
-12	 2(
-
-44617*
-155 5(9
-
-44648*
-155 5(9
-
-511848*
-1;	 ;(
-
-512317*
-1;	 ;(
-
-511848*
-1;	 ;(
-
-51648*
-1<	 <(
-
-514917*
-1<	 <(
-
-51648*
-1<	 <(

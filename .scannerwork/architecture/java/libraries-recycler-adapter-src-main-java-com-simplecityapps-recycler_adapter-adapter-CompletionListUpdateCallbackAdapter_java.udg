@@ -1,138 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261957563*java2.BÚ
-‚
-}libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/CompletionListUpdateCallbackAdapter.java2
-
-package4
-0
-+com.simplecityapps.recycler_adapter.adapter5
-T
-Ocom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-)
-#CompletionListUpdateCallbackAdapter12
-:
-4Recovered#typeBindingLCompletionListUpdateCallback;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-e
-_com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onInserted(II)V19
-
-method20
-
-
-onInserted21
-d
-^com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onRemoved(II)V23
-
-	onRemoved24
-b
-\com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onMoved(II)V26
-
-onMoved27
-v
-pcom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onChanged(IILjava/lang/Object;)V29
-
-	onChanged30
-c
-]com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onComplete()V32
-
-
-onComplete33J
-
-1
-12Z
-
-3	
-354j™
-9
-64
-678 *
-1 (1:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-@
-22:
-222320 *
-1
- 
-(26:3B
-	
-9
-10
-
-
-11
-24
-@
-31:
-313220 *
-1 (26:3B
-	
-9
-10
-
-
-11
-33
-@
-25:
-252620 *
-1 (26:3B
-	
-9
-10
-
-
-11
-27
-@
-28:
-282920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-30
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-21r4
-
-61316*
-1= (Y
-
-61317*
-1= (Y

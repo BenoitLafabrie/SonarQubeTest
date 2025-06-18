@@ -1,800 +1,0 @@
-œ
-[com.simplecity.amp_library.utils.playlists.PlaylistManager#getApplicationContext()LContext;
-__unknown_file ("0*Ý
-0 (¤
-¡
- (
-fieldjava.lang.Object"__id*t
- (h*f<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"&
-applicationContextjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¼
-\com.simplecity.amp_library.utils.playlists.PlaylistManager#setApplicationContext(LContext;)V
-__unknown_file ("0*Õ
-0 (¤
-¡
- (f<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"&
-applicationContextjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHŸ
-€com.simplecity.amp_library.utils.playlists.PlaylistManager#getSongsRepository()Lcom/simplecity/amp_library/data/SongsRepository;
-__unknown_file ("0*º
-0 (â
-ß
- (8
-field/com.simplecity.amp_library.data.SongsRepository"__id*’
- (…*‚<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"B
-songsRepository/com.simplecity.amp_library.data.SongsRepository"F
- (:
-8
-field/com.simplecity.amp_library.data.SongsRepositoryB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH½
-com.simplecity.amp_library.utils.playlists.PlaylistManager#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V
-__unknown_file ("0*‘
-0 (à
-Ý
- (‚<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"B
-songsRepository/com.simplecity.amp_library.data.SongsRepository"__id*F
- (:
-8
-value/com.simplecity.amp_library.data.SongsRepository"
- (
-implicit return:D
- (8
-value/com.simplecity.amp_library.data.SongsRepositoryB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHž
-`com.simplecity.amp_library.utils.playlists.PlaylistManager#getSettingsManager()LSettingsManager;
-__unknown_file ("0*Ú
-0 (¡
-ž
- (
-fieldjava.lang.Object"__id*q
- (e*c<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"#
-settingsManagerjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¾
-acom.simplecity.amp_library.utils.playlists.PlaylistManager#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*Ò
-0 (¡
-ž
- (c<
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¶
-com.simplecity.amp_library.utils.playlists.PlaylistManager#<init>(LContext;Lcom/simplecity/amp_library/data/SongsRepository;LSettingsManager;)V‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt' '()"0*™
-0' '(¥
-¢
-( ((+
-%0java.lang.Object"\com.simplecity.amp_library.utils.playlists.PlaylistManager#setApplicationContext(LContext;)V*Z
-
-__unknown_file (><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager*D
-
-__unknown_file ((
-&
-applicationContextjava.lang.Object†
-ƒ
-) )(05
-%1/com.simplecity.amp_library.data.SongsRepository"com.simplecity.amp_library.utils.playlists.PlaylistManager#setSongsRepository(Lcom/simplecity/amp_library/data/SongsRepository;)V*Z
-
-__unknown_file (><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager*`
-
-__unknown_file (D
-B
-songsRepository/com.simplecity.amp_library.data.SongsRepository§
-¤
-* *(0
-%2java.lang.Object"acom.simplecity.amp_library.utils.playlists.PlaylistManager#setSettingsManager(LSettingsManager;)V*Z
-
-__unknown_file (><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager*A
-
-__unknown_file (%
-#
-settingsManagerjava.lang.Object"/
-
-__unknown_file (
-implicit return:2
-( ((+&
-applicationContextjava.lang.Object:N
-) )(0B
-songsRepository/com.simplecity.amp_library.data.SongsRepository:/
-* *(0#
-settingsManagerjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHñ
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds#<init>()V‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt- 4("0*>
-0- 4("/
-
-__unknown_file (
-implicit returnBJH
-Fcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIdsH½
-ncom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#getRECENTLY_ADDED_PLAYLIST()J
-__unknown_file ("0*Õ
-0 (¨
-¥
- (
-fieldlong"__id*ƒ
- (w*uR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-RECENTLY_ADDED_PLAYLISTlong"
- (
-
-fieldlongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionHÜ
-ocom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#setRECENTLY_ADDED_PLAYLIST(J)V
-__unknown_file ("0*Ø
-0 (§
-¤
- (uR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-RECENTLY_ADDED_PLAYLISTlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH·
-kcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#getMOST_PLAYED_PLAYLIST()J
-__unknown_file ("0*Ò
-0 (¥
-¢
- (
-fieldlong"__id*€
- (t*rR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-MOST_PLAYED_PLAYLISTlong"
- (
-
-fieldlongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionHÖ
-lcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#setMOST_PLAYED_PLAYLIST(J)V
-__unknown_file ("0*Õ
-0 (¤
-¡
- (rR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-MOST_PLAYED_PLAYLISTlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH°
-hcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#getPODCASTS_PLAYLIST()J
-__unknown_file ("0*Î
-0 (¡
-ž
- (
-fieldlong"__id*}
- (q*oR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-PODCASTS_PLAYLISTlong"
- (
-
-fieldlongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionHÐ
-icom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#setPODCASTS_PLAYLIST(J)V
-__unknown_file ("0*Ò
-0 (¡
-ž
- (oR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion"
-PODCASTS_PLAYLISTlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH¿
-ocom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#getRECENTLY_PLAYED_PLAYLIST()J
-__unknown_file ("0*Ö
-0 (©
-¦
- (
-fieldlong"__id*„
- (x*vR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion" 
-RECENTLY_PLAYED_PLAYLISTlong"
- (
-
-fieldlongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionHÞ
-pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion#setRECENTLY_PLAYED_PLAYLIST(J)V
-__unknown_file ("0*Ù
-0 (¨
-¥
- (vR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companion" 
-RECENTLY_PLAYED_PLAYLISTlong"__id*
- (
-
-valuelong"
- (
-implicit return:
- (
-valuelongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH´
-Mcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearMostPlayed()V‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt6 6("0*
-06 6(Î
-Ë
-7 7(
-%0java.lang.Object"[com.simplecity.amp_library.utils.playlists.PlaylistManager#getApplicationContext()LContext;*J
-7 7(><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"/
-
-__unknown_file (
-implicit returnB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHÃ
-com.simplecity.amp_library.utils.playlists.PlaylistManager#addToPlaylist(LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt: :("0*
-2; =(	"
-< <( *ˆ
-0: :(Xqo
-; ;(
-%0boolean""kotlin.collections.List#isEmpty()Z*%
-; ;(
-
-songsjava.util.List2	isEmpty()*
-2
-1*©
-1=	 ?(h
-f
-? ?(.)
-mutableSongListerror.NonExistentClass"__id*)
-
-__unknown_file (
-	<unknown>“
-
-A A(5
-%2/com.simplecity.amp_library.data.SongsRepository"€com.simplecity.amp_library.utils.playlists.PlaylistManager#getSongsRepository()Lcom/simplecity/amp_library/data/SongsRepository;*J
-A A(><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"
-	A “(
-	<unknown>:(
-: :((
-playlistjava.lang.Object:#
-:* :(;
-songsjava.util.List:6
-:= :(W*
-callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¿
-Œcom.simplecity.amp_library.utils.playlists.PlaylistManager#insertPlaylistItems(LPlaylist;Ljava/util/List;ILkotlin/jvm/functions/Function1;)V
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt– –(#"0*2
-2
-— ™(	"!
-
-˜ ˜(
-explicit return*Ô
-3
-ž ž(m
-k
-
-ž ž(
-%4"	__compare*
-
-ž ž(
-<*
-
-ž ž(
-
-
-iint*
-
-ž ž(
-
-lengthintL
-J
-
-__unknown_file (
-%3"__id*"
-
-__unknown_file (
-
-%4*
-4
-5*Þ
-4
-ž £(	Ê
-Ç
-
-Ÿ Ÿ(
-%6kotlin.Unit"&kotlin.Array#set(ILjava/lang/Object;)V*9
-
-Ÿ Ÿ(+
-)
-contentValueserror.NonExistentClass[]*
-
-Ÿ Ÿ(
-
-
-iint*)
-
-__unknown_file (
-	<unknown>©
-¦
-
-   (
-%7error.NonExistentClass"%kotlin.Array#get(I)Ljava/lang/Object;*9
-
-   (+
-)
-contentValueserror.NonExistentClass[]*
-
-   (
-
-
-iint©
-¦
-
-¡ ¡(
-%8error.NonExistentClass"%kotlin.Array#get(I)Ljava/lang/Object;*9
-
-¡ ¡(+
-)
-contentValueserror.NonExistentClass[]*
-
-¡ ¡(
-
-
-iint_
-]
-
-¢ ¢(
-iint"kotlin.Int#inc()I*
-
-¢ ¢(
-
-
-iint*
-
-¢ ¢(
-
-
-iintB
-@
-
-__unknown_file (
-%5"__id*
-
-¢ ¢(
-
-
-iint*
-3*‘
-5
-£	 ¥(X
-V
-
-¥ ¥([
-urijava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>š
-
-¦ ¦(
-%9boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*'
-
-¦ ¦(
-
-urijava.lang.Object*
-
-¦ ¦( 2equals(Ljava/lang/Object;)*
-6
-7*@
-6
-©	 ª("/
-
-__unknown_file (
-implicit return*û
-7
-¦ ©(	Ó
-Ð
-
-§ §(
-%11java.lang.Object"[com.simplecity.amp_library.utils.playlists.PlaylistManager#getApplicationContext()LContext;*L
-
-§ §(><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerg
-e
-
-¨# ¨('
-
-%12int""kotlin.collections.List#getSize()I*'
-
-¨ ¨("
-
-songsjava.util.ListÖÓ
-
-¨ ¨((
-%13kotlin.Unit"=kotlin.Function1#invoke(Ljava/lang/Object;)Ljava/lang/Object;*:
-
-¨ ¨(,
-*
-callbackkotlin.jvm.functions.Function1*
-
-¨# ¨('
-
-
-%12int2invoke(Ljava/lang/Object;)M
-K
-
-__unknown_file (
-%10"__id*"
-
-¨ ¨((
-
-%13kotlin.Unit*
-6*Ž
-0
-– –(us
-
-— —(
-%0boolean""kotlin.collections.List#isEmpty()Z*'
-
-— —(
-
-songsjava.util.List2	isEmpty()*
-2
-1*Ú
-1
-™	 ›(j
-h
-
-› ›(C)
-contentValueserror.NonExistentClass[]"__id*)
-
-__unknown_file (
-	<unknown>0
-.
-
-œ œ(
-iint"__id*
-
-œ œ(2 f
-d
-
- (	
-%2int""kotlin.collections.List#getSize()I*'
-
- (
-
-songsjava.util.List>
-<
-
- (
-lengthint"__id*
-
- (
-	
-%2int*
-3:*
-
-–$ –(6
-playlistjava.lang.Object:%
-
-–8 –(I
-songsjava.util.List:
-
-–K –(Y
-	songCountint:8
-
-–[ –(u*
-callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHþ
-rcom.simplecity.amp_library.utils.playlists.PlaylistManager#getPlaylistRemoveString(LSong;)LSpannableStringBuilder;
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt¬ ¬('"0*Š
-0
-¬ ¬(e
-c
-­ ­(­#
-spannableStringjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>]
-[
-
-® ®(@
-boldSpanjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>"3
-
-° °(%
-#
-spannableStringjava.lang.Object:&
-
-¬( ¬(2
-songjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH·
-Lcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearPlaylist(J)V
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt³ ³("0*ï
-0
-³ ³('X
-V
-
-´ ´(Z
-urijava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Ò
-Ï
-
-µ µ(
-%0java.lang.Object"[com.simplecity.amp_library.utils.playlists.PlaylistManager#getApplicationContext()LContext;*L
-
-µ µ(><
-:com.simplecity.amp_library.utils.playlists.PlaylistManager"/
-
-__unknown_file (
-implicit return: 
-
-³ ³(&
-
-playlistIdlongB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHê
-
-gcom.simplecity.amp_library.utils.playlists.PlaylistManager#createPlaylist(Ljava/lang/String;)LPlaylist;
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt¸ ¸("0*Å
-2
-¼& Ø(	Z
-X
-
-½ Á(
-queryjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>S
-Q
-
-__unknown_file (
-%0"__id*)
-
-__unknown_file (
-	<unknown>*
-1*=
-3
-Þ	 à(",
-
-à à(
-
-playlistjava.lang.Object*Ë
-4
-Ú Ü(	]
-[
-
-Û Û(d
-playlistjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>V
-T
-
-__unknown_file (
-%3"__id*,
-
-Û Û(
-
-playlistjava.lang.Object*
-3*i
-5
-Ü Þ(	S
-Q
-
-__unknown_file (
-%3"__id*)
-
-__unknown_file (
-	<unknown>*
-3*ª
-0
-¸ ¸($D
-B
-
-¹ ¹(&
-playlistjava.lang.Object"__id*
-
-¹" ¹(& K
-I
-
-º º(
-
-idlong"__id*)
-
-__unknown_file (
-	<unknown>*
-2
-1*”
-1
-Ø	 Ú(]
-[
-
-Ú Ú(
-
-%1long"kotlin.Long#unaryMinus()J*
-
-Ú Ú(2*
-
-Ú Ú(2›˜
-
-Ú Ú(
-%2boolean"'kotlin.Long#equals(Ljava/lang/Object;)Z*
-
-Ú Ú(
-
-
-idlong*
-
-Ú Ú(
-
-
-%1long2equals(Ljava/lang/Object;)*
-4
-5:&
-
-¸ ¸(#
-namejava.lang.StringB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHŸ
-‹com.simplecity.amp_library.utils.playlists.PlaylistManager#removeFromPlaylist(LPlaylist;LSong;Lkotlin/jvm/functions/Function1;)LDisposable;
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.ktã ã("0*,
-0
-ã ã(_"
-
-ä ò(
-	<unknown>:*
-
-ã ã(-
-playlistjava.lang.Object:&
-
-ã/ ã(9
-songjava.lang.Object:8
-
-ã; ã(^*
-callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¯
-¤com.simplecity.amp_library.utils.playlists.PlaylistManager#addFileObjectsToPlaylist(LContext;LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.ktõ õ( "0*i
-2
-û ý(	S
-Q
-
-__unknown_file (
-%1"__id*)
-
-__unknown_file (
-	<unknown>*
-1*Ø
-0õ  õ(‰c
-a
-
-ö ö(q"
-progressDialogjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-
-ø ù(J
-folderCountjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>w
-u
-
-û û(
-%0"	__compare*
-
-û û(
->*/
-
-û û(!
-
-folderCountjava.lang.Object*
-
-û û(2 *
-2
-1*,
-1
-ý	 ÿ("
-
-ÿ Š(
-	<unknown>:)
-
-õ! õ(1
-contextjava.lang.Object:*
-
-õ3 õ(E
-playlistjava.lang.Object:+
-
-õG õ(h
-fileObjectsjava.util.List:9
-õj õ(ˆ*
-callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH¥
-_com.simplecity.amp_library.utils.playlists.PlaylistManager$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*Ø
-0 (Ÿ
-œ
- (
-fieldjava.lang.Object"__id*o
- (c*aF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion"
-TAGjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBHF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$CompanionHÅ
-`com.simplecity.amp_library.utils.playlists.PlaylistManager$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Ð
-0 (Ÿ
-œ
- (aF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion"
-TAGjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBHF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$CompanionH·
-hcom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion#getARG_PLAYLIST()Ljava/lang/String;
-__unknown_file ("0*á
-0 (¨
-¥
- (
-fieldjava.lang.Object"__id*x
- (l*jF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion" 
-ARG_PLAYLISTjava.lang.Object"'
- (
-
-fieldjava.lang.ObjectBHF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$CompanionH×
-icom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion#setARG_PLAYLIST(Ljava/lang/String;)V
-__unknown_file ("0*Ù
-0 (¨
-¥
- (jF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$Companion" 
-ARG_PLAYLISTjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
- (
-implicit return:%
- (
-valuejava.lang.ObjectBHF
-Dcom.simplecity.amp_library.utils.playlists.PlaylistManager$CompanionH

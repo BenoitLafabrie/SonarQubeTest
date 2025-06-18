@@ -1,306 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261961961*java2.B£	
-W
-Rapp/src/main/java/com/simplecity/amp_library/ui/adapters/RobotoSpinnerAdapter.java2
-
-package4
-+
-&com.simplecity.amp_library.ui.adapters5
-@
-;com.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-RobotoSpinnerAdapter12
-*
-$Recovered#typeBindingLArrayAdapter;014
-
-unknown15
-
-extends16
-
-
-uses17
-K
-Ecom.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter.mTypeface19
-
-field20
-
-private21
-
-	mTypeface22
-
-Typeface24
-
-is type25
-h
-bcom.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter#<init>(LContext;I[Ljava/lang/Object;)V27
-
-method28
-%
-Recovered#typeBindingLContext;030
-
-	has param31
-
-T33
-
-calls34
-
-
-references35
-c
-]com.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter#getView(ILView;LViewGroup;)LView;37
-
-getView38
-
-
-View40
-
-returns41
-"
-Recovered#typeBindingLView;043
-'
-!Recovered#typeBindingLViewGroup;045
-&
- Recovered#typeBindingLTextView;047
-
-ArrayAdapter49
-o
-icom.simplecity.amp_library.ui.adapters.RobotoSpinnerAdapter#getDropDownView(ILView;LViewGroup;)LTextView;51
-
-getDropDownView52
-
-TextView54J
-
-1
-12Z
-
-3	
-354j‹
-
-29
-293015
-@
-36:
-363728 *
-1 (26:3B
-	
-9
-10
-
-
-11
-38
-@
-50:
-505128 *
-1 (26:3B
-	
-9
-10
-
-
-11
-52
-
-23
-232415
-
-46
-464715
-
-39
-394015
-
-44
-444515
-
-32
-323315
-
-42
-424315
-
-13
-131415
-@
-26:
-262728 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-53
-535415
-9
-64
-678 *
-1 (":3B
-	
-9
-10
-
-
-11
-12
-
-48
-484915
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22r¸	
-
-61316*
-1. (:
-
-61317*
-1. (:
-
-182325*
-1 (
-
-182317*
-1 (
-
-182317*
-1 (
-
-262931*
-1! ((
-
-263231*
-1J (K
-
-26634*
-1 ( 
-
-262925*
-1) (0
-
-262917*
-1! ((
-
-263225*
-1N (U
-
-262317*
-1	 (
-
-261835*
-1	 (
-
-363941*
-1 (
-
-364231*
-1' (+
-
-364431*
-19 (B
-
-363917*
-1 (
-
-364225*
-1, (7
-
-364217*
-1' (+
-
-364425*
-1C (I
-
-364417*
-19 (B
-
-364625*
-1 (
-
-364617*
-1	 (
-
-364617*
-1 ("
-
-36635*
-1$ ()
-
-364817*
-1$ ()
-
-36635*
-1$ ()
-
-362317*
-1 (#
-
-361835*
-1 (#
-
-505341*
-1 (
-
-504231*
-13 (7
-
-504431*
-1E (N
-
-505317*
-1 (
-
-504225*
-18 (C
-
-504217*
-13 (7
-
-504425*
-1O (U
-
-504417*
-1E (N
-
-504625*
-1 (
-
-504617*
-1	 (
-
-504617*
-1 ("
-
-50635*
-1$ ()
-
-504817*
-1$ ()
-
-50635*
-1$ ()
-
-502317*
-1 (#
-
-501835*
-1 (#

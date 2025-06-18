@@ -1,69 +1,0 @@
-
-Acom.simplecity.amp_library.sql.legacy.BlacklistedSong#hashCode()I‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/BlacklistedSong.java   ("1*€
-1! !(`
-^
-!" !(+
-
-%0long"__calculate*
-!% !((
->>>*
-!" !($
-""*
-!) !(+2 f
-d
-! !(,
-
-%1long"__calculate*
-! !( 
-^*
-! !(
-""*
-!! !(,
-
-
-%0long]
-[
-" "(	
-%2int"__calculate*
-" "(
-**
-" "(2*
-" "(
-""`
-^
-"0 "(=
-
-%3long"__calculate*
-"7 "(:
->>>*
-"0 "(6
-""*
-"; "(=2 f
-d
-"& "(>
-
-%4long"__calculate*
-"- "(.
-^*
-"& "(,
-""*
-"/ "(>
-
-
-%3longj
-h
-" "(?	
-%5int"__calculate*
-" "(
-+*
-" "(
-	
-%2int*
-" "(?
-
-
-%4long"
-# #(
-""B97
-5com.simplecity.amp_library.sql.legacy.BlacklistedSongHX

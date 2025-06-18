@@ -1,757 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261964854*java2.BÄ
-T
-Oapp/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java2
-
-package4
-*
-%com.jp.wasabeef.glide.transformations5
-=
-8com.jp.wasabeef.glide.transformations.CropTransformation7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-CropTransformation12
-,
-&Recovered#typeBindingLTransformation;014
-
-unknown15
-
-
-implements16
-
-
-uses17
-$
-Recovered#typeBindingLBitmap;019
-G
-Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType21
-
-
-enum22
-
-CropType23
-ï
-écom.jp.wasabeef.glide.transformations.CropTransformation$CropType#values()[Lcom/jp/wasabeef/glide/transformations/CropTransformation$CropType;25
-
-method26
-
-values27
-ß
-†com.jp.wasabeef.glide.transformations.CropTransformation$CropType#valueOf(Ljava/lang/String;)Lcom/jp/wasabeef/glide/transformations/CropTransformation$CropType;29
-
-valueOf30
-K
-Ecom.jp.wasabeef.glide.transformations.CropTransformation$CropType.TOP32
-
-field33
-	
-TOP34
-
-calls35
-N
-Hcom.jp.wasabeef.glide.transformations.CropTransformation$CropType.CENTER37
-
-CENTER38
-N
-Hcom.jp.wasabeef.glide.transformations.CropTransformation$CropType.BOTTOM40
-
-BOTTOM41
-J
-Dcom.jp.wasabeef.glide.transformations.CropTransformation.mBitmapPool43
-
-private44
-
-mBitmapPool45
-
-
-BitmapPool47
-
-is type48
-E
-?com.jp.wasabeef.glide.transformations.CropTransformation.mWidth50
-
-mWidth51
-F
-@com.jp.wasabeef.glide.transformations.CropTransformation.mHeight53
-
-mHeight54
-H
-Bcom.jp.wasabeef.glide.transformations.CropTransformation.mCropType56
-
-	mCropType57
-
-
-references58
-Q
-Kcom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LContext;)V60
-%
-Recovered#typeBindingLContext;062
-
-	has param63
-T
-Ncom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LBitmapPool;)V65
-(
-"Recovered#typeBindingLBitmapPool;067
-S
-Mcom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LContext;II)V69
-V
-Pcom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LBitmapPool;II)V71
-ó
-êcom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LContext;IILcom/jp/wasabeef/glide/transformations/CropTransformation$CropType;)V73
-ö
-ìcom.jp.wasabeef.glide.transformations.CropTransformation#<init>(LBitmapPool;IILcom/jp/wasabeef/glide/transformations/CropTransformation$CropType;)V75
-`
-Zcom.jp.wasabeef.glide.transformations.CropTransformation#transform(LResource;II)LResource;77
-
-	transform78
-
-Resource80
-
-returns81
-&
- Recovered#typeBindingLResource;083
-I
-Ccom.jp.wasabeef.glide.transformations.CropTransformation#getTop(F)F85
-#
-Recovered#typeBindingLRectF;087
-$
-Recovered#typeBindingLCanvas;089
-X
-Rcom.jp.wasabeef.glide.transformations.CropTransformation#getId()Ljava/lang/String;91
-
-getId92
-
-getTop93J
-
-1
-12Z
-
-3	
-354j£
-@
-68:
-686926 *
-14 4(26:3B
-	
-9
-10
-
-
-11
-12
-@
-74:
-747526 *
-1@ @(26:3B
-	
-9
-10
-
-
-11
-12
-
-61
-616215
-@
-55:
-555633 *
-1* *(26:3B
-	
-9
-44
-
-
-11
-57
-@
-59:
-596026 *
-1, ,(26:3B
-	
-9
-10
-
-
-11
-12
-
-13
-131415
-@
-84:
-848526 *
-1j j(26:3B
-	
-9
-44
-
-
-11
-93
-6
-280
-282926 *
-1   (220:3B
-
-
-11
-30
-6
-240
-242526 *
-1   (220:3B
-
-
-11
-27
-@
-49:
-495033 *
-1' '(26:3B
-	
-9
-44
-
-
-11
-51
-
-66
-666715
-@
-42:
-424333 *
-1& &(26:3B
-	
-9
-44
-
-
-11
-45
-
-18
-181915
-6
-310
-313233 *
-1!	 !(220:3B
-
-
-11
-34
-
-88
-888915
-6
-360
-363733 *
-1"	 "(220:3B
-
-
-11
-38
-@
-72:
-727326 *
-1< <(26:3B
-	
-9
-10
-
-
-11
-12
-
-79
-798015
-9
-64
-678 *
-1 ( :3B
-	
-9
-10
-
-
-11
-12
-
-86
-868715
-
-46
-464715
-@
-64:
-646526 *
-10 0(26:3B
-	
-9
-10
-
-
-11
-12
-@
-90:
-909126 *
-1d d(26:3B
-	
-9
-10
-
-
-11
-92
-@
-20:
-202122 *
-1   (26:3B
-	
-9
-10
-
-
-11
-23
-6
-390
-394033 *
-1#	 #(220:3B
-
-
-11
-41
-@
-52:
-525333 *
-1( ((26:3B
-	
-9
-44
-
-
-11
-54
-@
-70:
-707126 *
-18 8(26:3B
-	
-9
-10
-
-
-11
-12
-@
-76:
-767726 *
-1G G(26:3B
-	
-9
-10
-
-
-11
-78
-
-82
-828315rÇ
-
-61316*
-1, (:
-
-61317*
-1, (:
-
-61817*
-1; (A
-
-312035*
-1!	 !(
-
-312035*
-1!	 !(
-
-362035*
-1"	 "(
-
-362035*
-1"	 "(
-
-392035*
-1#	 #(
-
-392035*
-1#	 #(
-
-424648*
-1& &(
-
-424617*
-1& &(
-
-424617*
-1& &(#
-
-552048*
-1* *(
-
-552017*
-1* *(
-
-552058*
-1* *(
-
-552017*
-1* *(
-
-552017*
-1*" *(*
-
-552058*
-1*" *(*
-
-552017*
-1*+ *(1
-
-553658*
-1*+ *(1
-
-596163*
-1, ,(&
-
-59635*
-1, ,(
-
-596148*
-1,' ,(.
-
-596117*
-1, ,(&
-
-59658*
-1-	 -(
-
-59635*
-1-	 -(
-
-59635*
-1-	 -(
-
-646663*
-10 0()
-
-64635*
-10 0(
-
-646648*
-10* 0(.
-
-646617*
-10 0()
-
-64658*
-11	 1(
-
-64635*
-11	 1(
-
-64635*
-11	 1(
-
-686163*
-14 4(&
-
-68635*
-14 4(
-
-686148*
-14' 4(.
-
-686117*
-14 4(&
-
-68658*
-15	 5(
-
-68635*
-15	 5(
-
-68635*
-15	 5(
-
-706663*
-18 8()
-
-70635*
-18 8(
-
-706648*
-18* 8(.
-
-706617*
-18 8()
-
-70658*
-19	 9(
-
-70635*
-19	 9(
-
-70635*
-19	 9(
-
-702017*
-19# 9(+
-
-702058*
-19# 9(+
-
-702017*
-19, 9(2
-
-703658*
-19, 9(2
-
-726163*
-1< <(&
-
-722063*
-1<G <(O
-
-72635*
-1< <(
-
-726148*
-1<' <(.
-
-726117*
-1< <(&
-
-722048*
-1<P <(X
-
-722017*
-1<G <(O
-
-722058*
-1<G <(O
-
-72658*
-1=	 =(
-
-72635*
-1=	 =(
-
-72635*
-1=	 =(
-
-746663*
-1@ @()
-
-742063*
-1@G @(O
-
-74635*
-1@ @(
-
-746648*
-1@* @(.
-
-746617*
-1@ @()
-
-742048*
-1@P @(X
-
-742017*
-1@G @(O
-
-742058*
-1@G @(O
-
-744617*
-1A	 A(
-
-744258*
-1A	 A(
-
-744958*
-1B	 B(
-
-745258*
-1C	 C(
-
-742017*
-1D	 D(
-
-745558*
-1D	 D(
-
-767981*
-1H H(
-
-768263*
-1H' H(/
-
-767917*
-1H H(
-
-761817*
-1H H(
-
-768248*
-1H8 H(@
-
-768217*
-1H' H(/
-
-761817*
-1H0 H(6
-
-761848*
-1I I(
-
-761817*
-1I	 I(
-
-764958*
-1J	 J(
-
-764958*
-1J J(
-
-764958*
-1J4 J(:
-
-765258*
-1K	 K(
-
-765258*
-1K K(
-
-765258*
-1K7 K(>
-
-761848*
-1M M(
-
-761817*
-1M	 M(
-
-761817*
-1M M(
-
-761848*
-1O O(
-
-761817*
-1O	 O(
-
-764258*
-1O O($
-
-764617*
-1O O($
-
-764258*
-1O O($
-
-764958*
-1O) O(/
-
-765258*
-1O1 O(8
-
-764958*
-1Q* Q(0
-
-765258*
-1Q2 Q(9
-
-764958*
-1T  T(&
-
-765258*
-1U  U('
-
-764958*
-1Z Z(
-
-76658*
-1[ [(
-
-768435*
-1[ [(
-
-768648*
-1\ \(
-
-768617*
-1\	 \(
-
-768848*
-1^ ^(
-
-768817*
-1^	 ^(
-
-764617*
-1a. a(9
-
-764258*
-1a. a(9
-
-904958*
-1f. f(4
-
-905258*
-1fE f(L
-
-902017*
-1f_ f(h
-
-905558*
-1f_ f(h
-
-842017*
-1k k(
-
-845558*
-1k k(
-
-842017*
-1l l(
-
-843158*
-1l l(
-
-842017*
-1n n(
-
-843658*
-1n n(
-
-845258*
-1o o( 
-
-842017*
-1p p(
-
-843958*
-1p p(
-
-845258*
-1q q(

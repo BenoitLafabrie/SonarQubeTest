@@ -1,161 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962052*java2.B÷	
-c
-^app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java2
-
-package4
-*
-%com.simplecity.amp_library.ui.widgets5
-L
-Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-'
-!WidgetConfigureActivityExtraLarge12
-9
-3Recovered#typeBindingLBaseWidgetConfigureActivity;014
-
-unknown15
-
-extends16
-
-
-uses17
-Q
-Kcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge.TAG19
-
-field20
-
-private21
-	
-TAG22
-b
-\com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getWidgetLayouts()[I24
-
-method25
-
-	protected26
-
-getWidgetLayouts27
-s
-mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getLayoutIdString()Ljava/lang/String;29
-
-getLayoutIdString30
-x
-rcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getUpdateCommandString()Ljava/lang/String;32
-
-getUpdateCommandString33
-^
-Xcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getRootViewId()I35
-
-getRootViewId36
-l
-fcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#screenName()Ljava/lang/String;38
-
-
-screenName39
-
-
-references40J
-
-1
-12Z
-
-3	
-354jÛ
-@
-31:
-313225 *
-1 (26:3B
-	
-9
-26
-
-
-11
-33
-9
-64
-678 *
-1 (/:3B
-	
-9
-10
-
-
-11
-12
-@
-37:
-373825 *
-1 (26:3B
-	
-9
-26
-
-
-11
-39
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-21
-
-
-11
-22
-@
-34:
-343525 *
-1 (26:3B
-	
-9
-26
-
-
-11
-36
-
-13
-131415
-@
-23:
-232425 *
-1	 	(26:3B
-	
-9
-26
-
-
-11
-27
-@
-28:
-282925 *
-1 (26:3B
-	
-9
-26
-
-
-11
-30rO
-
-61316*
-18 (S
-
-61317*
-18 (S
-
-371840*
-1 (

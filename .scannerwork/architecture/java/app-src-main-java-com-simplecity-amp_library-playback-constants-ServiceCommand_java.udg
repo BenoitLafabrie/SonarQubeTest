@@ -1,246 +1,0 @@
-
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750261965067*java2.B¿
-
-X
-Sapp/src/main/java/com/simplecity/amp_library/playback/constants/ServiceCommand.java2
-
-package4
-2
--com.simplecity.amp_library.playback.constants5
-A
-<com.simplecity.amp_library.playback.constants.ServiceCommand7
-
-	interface8
-
-access9
-
-public10
-
-simple name11
-
-ServiceCommand12
-J
-Dcom.simplecity.amp_library.playback.constants.ServiceCommand.COMMAND14
-
-field15
-
-COMMAND16
-R
-Lcom.simplecity.amp_library.playback.constants.ServiceCommand.TOGGLE_PLAYBACK18
-
-TOGGLE_PLAYBACK19
-
-
-references20
-H
-Bcom.simplecity.amp_library.playback.constants.ServiceCommand.PAUSE22
-
-PAUSE23
-G
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.PLAY25
-
-
-PLAY26
-G
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.PREV28
-
-
-PREV29
-G
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.NEXT31
-
-
-NEXT32
-G
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.STOP34
-
-
-STOP35
-J
-Dcom.simplecity.amp_library.playback.constants.ServiceCommand.SHUFFLE37
-
-SHUFFLE38
-I
-Ccom.simplecity.amp_library.playback.constants.ServiceCommand.REPEAT40
-
-REPEAT41
-K
-Ecom.simplecity.amp_library.playback.constants.ServiceCommand.SHUTDOWN43
-
-SHUTDOWN44
-R
-Lcom.simplecity.amp_library.playback.constants.ServiceCommand.TOGGLE_FAVORITE46
-
-TOGGLE_FAVORITE47J
-
-1
-12Z
-
-3	
-354j‘
-@
-21:
-212215 *
-1 (26:3B
-	
-9
-10
-
-
-11
-23
-@
-24:
-242515 *
-1 (26:3B
-	
-9
-10
-
-
-11
-26
-@
-30:
-303115 *
-1	 	(26:3B
-	
-9
-10
-
-
-11
-32
-9
-64
-678 *
-1 ( :3B
-	
-9
-10
-
-
-11
-12
-@
-27:
-272815 *
-1 (26:3B
-	
-9
-10
-
-
-11
-29
-@
-33:
-333415 *
-1
- 
-(26:3B
-	
-9
-10
-
-
-11
-35
-@
-39:
-394015 *
-1 (26:3B
-	
-9
-10
-
-
-11
-41
-@
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16
-@
-17:
-171815 *
-1 (26:3B
-	
-9
-10
-
-
-11
-19
-@
-45:
-454615 *
-1 (26:3B
-	
-9
-10
-
-
-11
-47
-@
-36:
-363715 *
-1 (26:3B
-	
-9
-10
-
-
-11
-38
-@
-42:
-424315 *
-1 (26:3B
-	
-9
-10
-
-
-11
-44rŽ
-
-171320*
-1 (%
-
-211320*
-1 (
-
-241320*
-1 (
-
-271320*
-1 (
-
-301320*
-1	 	(
-
-331320*
-1
- 
-(
-
-361320*
-1 (
-
-391320*
-1 (
-
-421320*
-1 (
-
-451320*
-1 (%

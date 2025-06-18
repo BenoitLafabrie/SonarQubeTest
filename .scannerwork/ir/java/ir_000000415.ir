@@ -1,13 +1,0 @@
-
-'}'char
-!", albums="java.lang.String
-"name='"java.lang.String
-$"AlbumArtist{"java.lang.String
-'\''char@thisv v(",com.simplecity.amp_library.model.AlbumArtist" 7
-5
-x x("#get-field# name:Bjava.lang.String!
-
-y y($"#unknown-value#2
-0
-w z(	"	#binop +#2+:B	!Unknown!
-w z(	*t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java
