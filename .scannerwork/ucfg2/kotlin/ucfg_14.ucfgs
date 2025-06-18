@@ -1,6 +1,6 @@
-∆
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog#<init>()V
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt o("0*>
+Õ
+Acom.simplecity.amp_library.ui.settings.TabChooserDialog#<init>()VÖ
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt o("0*>
 0 ()"/
 
 __unknown_file (
@@ -121,9 +121,9 @@ G
 implicit return:%
  (
 valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÃ
-Lcom.simplecity.amp_library.ui.settings.TabChooserDialog#onAttach(LContext;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt% %("0*å
+7com.simplecity.amp_library.ui.settings.TabChooserDialogH“
+Lcom.simplecity.amp_library.ui.settings.TabChooserDialog#onAttach(LContext;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt% %("0*å
 0% %(L
 J
 ' '(
@@ -135,9 +135,9 @@ J
 implicit return:'
 % %(+
 contextjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÎ6
-Xcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;Å
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt* *("0*î4
+7com.simplecity.amp_library.ui.settings.TabChooserDialogHÒ6
+Xcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;á
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt* *("0*î4
 0* *(d
 b
 + +(V%
@@ -360,10 +360,10 @@ X
 	<unknown>:2
 *  *(;&
 savedInstanceStatejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHã
+7com.simplecity.amp_library.ui.settings.TabChooserDialogHë
 
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt7 C(	"0*Ø
+icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt7 C(	"0*Ø
 07  7(5ú
 ô
 
@@ -412,10 +412,10 @@ icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;
 
 __unknown_file (
 implicit returnBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0HÚ
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H¯
 
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt8 8($"0*œ
+ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt8 8($"0*œ
 08 8(º
 π
 
@@ -466,9 +466,9 @@ _com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;
 implicit return:&
 8% 8(D
 holderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Hı
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt< <(("0*ì
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H˚
+ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt< <(("0*ì
 2=s A(H
 F
 > >(9
@@ -552,9 +552,9 @@ _com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;
 <E <(h
 
 viewHolderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Hâ
-Pcom.simplecity.amp_library.ui.settings.TabChooserDialog#show(LFragmentManager;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.ktg g("0*>
+_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Hè
+Pcom.simplecity.amp_library.ui.settings.TabChooserDialog#show(LFragmentManager;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.ktg g("0*>
 0g g(."/
 
 __unknown_file (

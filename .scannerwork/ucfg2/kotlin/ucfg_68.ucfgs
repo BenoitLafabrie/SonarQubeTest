@@ -56,9 +56,9 @@ occurrenceint"__id*
 implicit return:
  (
 valueintB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemH˙
-Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#<init>(LSong;I)V
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*©
+5com.simplecity.amp_library.ui.screens.queue.QueueItemHÅ
+Fcom.simplecity.amp_library.ui.screens.queue.QueueItem#<init>(LSong;I)VÖ
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*©
 0 (4¸
 ˘
  (
@@ -89,9 +89,9 @@ occurrenceint"/
   (3
 
 occurrenceintB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemH…
-Qcom.simplecity.amp_library.ui.screens.queue.QueueItem#equals(Ljava/lang/Object;)Z
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt	 	("0*#
+5com.simplecity.amp_library.ui.screens.queue.QueueItemH–
+Qcom.simplecity.amp_library.ui.screens.queue.QueueItem#equals(Ljava/lang/Object;)ZÖ
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt	 	("0*#
 2
  
 ('"
@@ -198,9 +198,9 @@ v
 4:%
 	 	(#
 otherjava.lang.ObjectB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemHò
-Acom.simplecity.amp_library.ui.screens.queue.QueueItem#hashCode()I
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*ë
+5com.simplecity.amp_library.ui.screens.queue.QueueItemHü
+Acom.simplecity.amp_library.ui.screens.queue.QueueItem#hashCode()IÖ
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*ë
 0 (≥
 ∞
  (
@@ -247,9 +247,9 @@ P
  (
 
 resultjava.lang.StringB97
-5com.simplecity.amp_library.ui.screens.queue.QueueItemH“
-Zcom.simplecity.amp_library.ui.screens.queue#toQueueItems(Ljava/util/List;)Ljava/util/List;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*º
+5com.simplecity.amp_library.ui.screens.queue.QueueItemHŸ
+Zcom.simplecity.amp_library.ui.screens.queue#toQueueItems(Ljava/util/List;)Ljava/util/List;Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt ("0*º
 0 (]
 [
  (7
@@ -269,22 +269,22 @@ queueItemsjava.lang.Object",
 
 
 queueItemsjava.lang.ObjectB/"-
-+com.simplecity.amp_library.ui.screens.queueH»
-Ocom.simplecity.amp_library.ui.screens.queue#updateOccurrence(Ljava/util/List;)V
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt" "($"0*>
++com.simplecity.amp_library.ui.screens.queueHœ
+Ocom.simplecity.amp_library.ui.screens.queue#updateOccurrence(Ljava/util/List;)VÖ
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt" "($"0*>
 0" "("/
 
 __unknown_file (
 implicit returnB/"-
-+com.simplecity.amp_library.ui.screens.queueH∏
-Ucom.simplecity.amp_library.ui.screens.queue#toSongs(Ljava/util/List;)Ljava/util/List;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt, ,("0*(
++com.simplecity.amp_library.ui.screens.queueHø
+Ucom.simplecity.amp_library.ui.screens.queue#toSongs(Ljava/util/List;)Ljava/util/List;Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt, ,("0*(
 0, ,("
 - -(.
 	<unknown>B/"-
-+com.simplecity.amp_library.ui.screens.queueH‰
-öcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItem(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)LMediaSessionCompat.QueueItem;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt0 0(%"0*ç
++com.simplecity.amp_library.ui.screens.queueHÎ
+öcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItem(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)LMediaSessionCompat.QueueItem;Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt0 0(%"0*ç
 00 0(c
 a
 1 5($
@@ -294,9 +294,9 @@ a
 	<unknown>"
 6 6(N
 	<unknown>B/"-
-+com.simplecity.amp_library.ui.screens.queueH…
-fcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItems(Ljava/util/List;)Ljava/util/List;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt9 9(,"0*(
++com.simplecity.amp_library.ui.screens.queueH–
+fcom.simplecity.amp_library.ui.screens.queue#toMediaSessionQueueItems(Ljava/util/List;)Ljava/util/List;Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueueItem.kt9 9(,"0*(
 09 9("
 : :(C
 	<unknown>B/"-

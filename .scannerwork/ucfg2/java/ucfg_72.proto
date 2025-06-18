@@ -1,109 +1,109 @@
 
 >com.simplecity.amp_library.model.Suggestion#%field_initializer
-__unknown_file ("1*¸
-1 (¬©
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
+__unknown_file ("1*˜
+1 (²¯
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
 3 
 (>
-%0java.util.ArrayList"java.util.ArrayListÝ
-Ú
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
+%0java.util.ArrayList"java.util.ArrayListã
+à
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
 / 
 (A
 %1"java.util.ArrayList#<init>(I)V*'
  (
 
 %0java.util.ArrayList*
- (2ñ
-î
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
+ (2÷
+ô
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java
  
 (BD-
 +com.simplecity.amp_library.model.Suggestion"
 favouriteSongsOne"__id*'
  (
 
-%0java.util.ArrayList¬©
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java3 (>
-%2java.util.ArrayList"java.util.ArrayListÝ
-Ú
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java/ (A
+%0java.util.ArrayList²¯
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java3 (>
+%2java.util.ArrayList"java.util.ArrayListã
+à
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java/ (A
 %3"java.util.ArrayList#<init>(I)V*'
  (
 
 %2java.util.ArrayList*
- (2ñ
-î
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (BD-
+ (2÷
+ô
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (BD-
 +com.simplecity.amp_library.model.Suggestion"
 favouriteSongsTwo"__id*'
  (
 
-%2java.util.ArrayList¬©
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java7 (B
-%4java.util.ArrayList"java.util.ArrayListÝ
-Ú
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java3 (E
+%2java.util.ArrayList²¯
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java7 (B
+%4java.util.ArrayList"java.util.ArrayListã
+à
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java3 (E
 %5"java.util.ArrayList#<init>(I)V*'
  (
 
 %4java.util.ArrayList*
- (2ô
-ñ
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (FG-
+ (2ú
+÷
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (FG-
 +com.simplecity.amp_library.model.Suggestion"
 recentlyPlayedAlbums"__id*'
  (
 
-%4java.util.ArrayList¬©
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java9 (D
-%6java.util.ArrayList"java.util.ArrayListÝ
-Ú
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java5 (G
+%4java.util.ArrayList²¯
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java9 (D
+%6java.util.ArrayList"java.util.ArrayListã
+à
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java5 (G
 %7"java.util.ArrayList#<init>(I)V*'
  (
 
 %6java.util.ArrayList*
- (2ö
-ó
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (HI-
+ (2ü
+ù
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (HI-
 +com.simplecity.amp_library.model.Suggestion"
 recentlyAddedAlbumsOne"__id*'
  (
 
-%6java.util.ArrayList¬©
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java9 (D
-%8java.util.ArrayList"java.util.ArrayListÝ
-Ú
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java5 (G
+%6java.util.ArrayList²¯
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java9 (D
+%8java.util.ArrayList"java.util.ArrayListã
+à
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java5 (G
 %9"java.util.ArrayList#<init>(I)V*'
  (
 
 %8java.util.ArrayList*
- (2ö
-ó
-w
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (HI-
+ (2ü
+ù
+}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java (HI-
 +com.simplecity.amp_library.model.Suggestion"
 recentlyAddedAlbumsTwo"__id*'
  (
 
-%8java.util.ArrayList"Œ
-u
-m/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java 0(
+%8java.util.ArrayList"’
+{
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Suggestion.java 0(
 implicit returnB/-
 +com.simplecity.amp_library.model.Suggestion

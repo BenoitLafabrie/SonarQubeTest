@@ -1,44 +1,44 @@
 
 Bcom.github.florent37.glidepalette.BitmapPalette#%field_initializer
-__unknown_file ("1*ß
-1 («ƒ
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
-%0java.util.LinkedList"java.util.LinkedListÂ
-‚
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
+__unknown_file ("1*—
+1 (Õ 
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
+%0java.util.LinkedList"java.util.LinkedListÎ
+Ë
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
 %1"java.util.LinkedList#<init>()V*(
  (
 
-%0java.util.LinkedListÖ
-Ç
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
+%0java.util.LinkedListã
+à
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
 /com.github.florent37.glidepalette.BitmapPalette"	
 targets"__id*(
  (
 
-%0java.util.LinkedList≈¬
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
-%2java.util.ArrayList"java.util.ArrayList„
-‡
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
+%0java.util.LinkedListÀ»
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
+%2java.util.ArrayList"java.util.ArrayListÈ
+Ê
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
 %3"java.util.ArrayList#<init>()V*'
  (
 
-%2java.util.ArrayListÜ
-É
-è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
+%2java.util.ArrayListå
+â
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
 /com.github.florent37.glidepalette.BitmapPalette"
 	callbacks"__id*'
  (
 
-%2java.util.ArrayList"¶
-é
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java Ô(
+%2java.util.ArrayList"¨
+î
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java Ô(
 implicit returnB31
 /com.github.florent37.glidepalette.BitmapPalette

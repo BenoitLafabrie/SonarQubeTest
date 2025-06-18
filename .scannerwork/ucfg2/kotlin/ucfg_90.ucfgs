@@ -26,9 +26,9 @@ _com.simplecity.amp_library.utils.BaseSettingsManager#setSharedPreferences(LShar
 implicit return:%
  (
 valuejava.lang.ObjectB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHª
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#<init>(LSharedPreferences;)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*â
+4com.simplecity.amp_library.utils.BaseSettingsManagerH±
+Qcom.simplecity.amp_library.utils.BaseSettingsManager#<init>(LSharedPreferences;)V„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*â
 0 (P¡
 ž
  (O
@@ -45,9 +45,9 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 implicit return:1
  (O%
 sharedPreferencesjava.lang.ObjectB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHƒ
-vcom.simplecity.amp_library.utils.BaseSettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
+4com.simplecity.amp_library.utils.BaseSettingsManagerHŠ
+vcom.simplecity.amp_library.utils.BaseSettingsManager#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
 0 (Ë
 È
 	 	( 
@@ -60,9 +60,9 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 keyjava.lang.String:,
  (; 
 defaultValuejava.lang.StringB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÜ
-ecom.simplecity.amp_library.utils.BaseSettingsManager#setString(Ljava/lang/String;Ljava/lang/String;)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ç
+4com.simplecity.amp_library.utils.BaseSettingsManagerHã
+ecom.simplecity.amp_library.utils.BaseSettingsManager#setString(Ljava/lang/String;Ljava/lang/String;)V„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ç
 0 (.Ë
 È
  (&
@@ -82,9 +82,9 @@ W
 keyjava.lang.String:%
  (-
 valuejava.lang.StringB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÖ
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#getBool(Ljava/lang/String;Z)Z~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
+4com.simplecity.amp_library.utils.BaseSettingsManagerHÝ
+Rcom.simplecity.amp_library.utils.BaseSettingsManager#getBool(Ljava/lang/String;Z)Z„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
 0 (3Ë
 È
  ( 
@@ -97,9 +97,9 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 keyjava.lang.String:#
  (2
 defaultValuebooleanB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÀ
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#setBool(Ljava/lang/String;Z)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ç
+4com.simplecity.amp_library.utils.BaseSettingsManagerHÇ
+Rcom.simplecity.amp_library.utils.BaseSettingsManager#setBool(Ljava/lang/String;Z)V„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ç
 0 (,Ë
 È
  (&
@@ -119,9 +119,9 @@ W
 keyjava.lang.String:
  (+
 valuebooleanB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÑ
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#getInt(Ljava/lang/String;I)I~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
+4com.simplecity.amp_library.utils.BaseSettingsManagerHØ
+Qcom.simplecity.amp_library.utils.BaseSettingsManager#getInt(Ljava/lang/String;I)I„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt ("0*ö
 0 (.Ë
 È
  ( 
@@ -134,9 +134,9 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 keyjava.lang.String:
  (-
 defaultValueintB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH»
-Qcom.simplecity.amp_library.utils.BaseSettingsManager#setInt(Ljava/lang/String;I)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt   ("0*ç
+4com.simplecity.amp_library.utils.BaseSettingsManagerHÂ
+Qcom.simplecity.amp_library.utils.BaseSettingsManager#setInt(Ljava/lang/String;I)V„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt   ("0*ç
 0   ('Ë
 È
 ! !(&
@@ -156,9 +156,9 @@ W
 keyjava.lang.String:
    (&
 valueintB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerHÓ
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#getLong(Ljava/lang/String;J)J~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt& &("0*ö
+4com.simplecity.amp_library.utils.BaseSettingsManagerHÚ
+Rcom.simplecity.amp_library.utils.BaseSettingsManager#getLong(Ljava/lang/String;J)J„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt& &("0*ö
 0& &(0Ë
 È
 ' '( 
@@ -171,9 +171,9 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 keyjava.lang.String: 
 & &(/
 defaultValuelongB86
-4com.simplecity.amp_library.utils.BaseSettingsManagerH½
-Rcom.simplecity.amp_library.utils.BaseSettingsManager#setLong(Ljava/lang/String;J)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt* *("0*ç
+4com.simplecity.amp_library.utils.BaseSettingsManagerHÄ
+Rcom.simplecity.amp_library.utils.BaseSettingsManager#setLong(Ljava/lang/String;J)V„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/BaseSettingsManager.kt* *("0*ç
 0* *()Ë
 È
 + +(&

@@ -1,45 +1,45 @@
 
 9com.simplecity.amp_library.model.Album#%field_initializer
-__unknown_file ("1*º
+__unknown_file ("1*ä
 
-1 (§¤
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java& (1
-%0java.util.ArrayList"java.util.ArrayListÅ
-Â
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java" (3
+1 (­ª
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java& (1
+%0java.util.ArrayList"java.util.ArrayListË
+È
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java" (3
 %1"java.util.ArrayList#<init>()V*'
  (
 
-%0java.util.ArrayListÝ
-Ú
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java (45(
+%0java.util.ArrayListã
+à
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java (45(
 &com.simplecity.amp_library.model.Album"	
 artists"__id*'
  (
 
-%0java.util.ArrayList§¤
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java&$ &(/
-%2java.util.ArrayList"java.util.ArrayListÅ
-Â
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java&  &(1
+%0java.util.ArrayList­ª
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java&$ &(/
+%2java.util.ArrayList"java.util.ArrayListË
+È
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java&  &(1
 %3"java.util.ArrayList#<init>()V*'
  (
 
-%2java.util.ArrayListÛ
-Ø
-r
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java& &(23(
+%2java.util.ArrayListá
+Þ
+x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java& &(23(
 &com.simplecity.amp_library.model.Album"
 paths"__id*'
  (
 
-%2java.util.ArrayList"ˆ
-q
-h/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java €(
+%2java.util.ArrayList"Ž
+w
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.java €(
 implicit returnB*(
 &com.simplecity.amp_library.model.Album

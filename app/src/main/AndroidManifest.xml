@@ -181,7 +181,7 @@
             android:label="@string/download_service"/>
 
         <receiver android:name="com.simplecity.amp_library.utils.MediaButtonIntentReceiver"
-                android:exported="true">
+                android:exported="false">
             <intent-filter>
                 <action
                     android:name="android.intent.action.MEDIA_BUTTON"

@@ -166,9 +166,9 @@ Kcom.simplecity.amp_library.glide.palette.ColorSet#setSecondaryTextColor(I)V
 implicit return:
  (
 valueintB53
-1com.simplecity.amp_library.glide.palette.ColorSetH–
-Acom.simplecity.amp_library.glide.palette.ColorSet#<init>(IIIIII)V{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt
+1com.simplecity.amp_library.glide.palette.ColorSetH◊
+Acom.simplecity.amp_library.glide.palette.ColorSet#<init>(IIIIII)VÅ
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt
  
 ("0*Ï
 0
@@ -304,9 +304,9 @@ ecom.simplecity.amp_library.glide.palette.ColorSet$Companion#setColorHelper(Lerr
 implicit return:%
  (
 valuejava.lang.ObjectB?=
-;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH¯
-åcom.simplecity.amp_library.glide.palette.ColorSet$Companion#fromBitmap(LContext;LBitmap;)Lcom/simplecity/amp_library/glide/palette/ColorSet;{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt ("0*“
+;com.simplecity.amp_library.glide.palette.ColorSet$CompanionHˇ
+åcom.simplecity.amp_library.glide.palette.ColorSet$Companion#fromBitmap(LContext;LBitmap;)Lcom/simplecity/amp_library/glide/palette/ColorSet;Å
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt ("0*“
 0 („
 ‡
  (/
@@ -376,9 +376,9 @@ $
 contextjava.lang.Object:&
 ) (7
 bitmapjava.lang.ObjectB?"=
-;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH∆
-ìcom.simplecity.amp_library.glide.palette.ColorSet$Companion#fromPrimaryAccentColors(LContext;II)Lcom/simplecity/amp_library/glide/palette/ColorSet;{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt$ $(#"0*Ä	
+;com.simplecity.amp_library.glide.palette.ColorSet$CompanionHÕ
+ìcom.simplecity.amp_library.glide.palette.ColorSet$Companion#fromPrimaryAccentColors(LContext;II)Lcom/simplecity/amp_library/glide/palette/ColorSet;Å
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt$ $(#"0*Ä	
 0$# $(Zÿ
 ’
 &" &(-
@@ -438,9 +438,9 @@ $
 primaryColorint:
 $I $(Y
 accentColorintB?"=
-;com.simplecity.amp_library.glide.palette.ColorSet$CompanionHÃ
-vcom.simplecity.amp_library.glide.palette.ColorSet$Companion#empty()Lcom/simplecity/amp_library/glide/palette/ColorSet;{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt. .("0*é
+;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH”
+vcom.simplecity.amp_library.glide.palette.ColorSet$Companion#empty()Lcom/simplecity/amp_library/glide/palette/ColorSet;Å
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt. .("0*é
 0. .(yw
 	/ /(ç7
 %01com.simplecity.amp_library.glide.palette.ColorSet"1com.simplecity.amp_library.glide.palette.ColorSetª
@@ -472,9 +472,9 @@ q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 	/ /(ç9
 7
 %01com.simplecity.amp_library.glide.palette.ColorSetB?"=
-;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH˜
-Lcom.simplecity.amp_library.glide.palette.ColorSet$Companion#estimatedSize()I{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt5 5("0*„
+;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH˛
+Lcom.simplecity.amp_library.glide.palette.ColorSet$Companion#estimatedSize()IÅ
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt5 5("0*„
 02 4(V
 T
 6 6(
@@ -496,9 +496,9 @@ f
 6 6(
 
 %1B?"=
-;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH”!
-Mcom.simplecity.amp_library.glide.palette.ColorSet#equals(Ljava/lang/Object;)Z{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt: :("0*ç
+;com.simplecity.amp_library.glide.palette.ColorSet$CompanionH⁄!
+Mcom.simplecity.amp_library.glide.palette.ColorSet#equals(Ljava/lang/Object;)ZÅ
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.kt: :("0*ç
 13DD E(®
 •
 E E(
@@ -708,9 +708,9 @@ r
 false:%
 : :(#
 otherjava.lang.ObjectB53
-1com.simplecity.amp_library.glide.palette.ColorSetH˝
-=com.simplecity.amp_library.glide.palette.ColorSet#hashCode()I{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.ktJ J("0*Ç
+1com.simplecity.amp_library.glide.palette.ColorSetHÑ
+=com.simplecity.amp_library.glide.palette.ColorSet#hashCode()IÅ
+w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/palette/ColorSet.ktJ J("0*Ç
 0J J(°
 û
 K K(!	

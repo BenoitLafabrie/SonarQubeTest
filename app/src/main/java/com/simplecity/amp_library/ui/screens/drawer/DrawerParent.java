@@ -29,7 +29,6 @@ import java.util.List;
 
 public class DrawerParent implements Parent<DrawerChild> {
 
-    private static final String TAG = "DrawerParent";
 
     static DrawerParent getLibraryParent(SettingsManager settingsManager) {
         return new DrawerParent(
@@ -225,24 +224,32 @@ public class DrawerParent implements Parent<DrawerChild> {
             holder.lineOne.setTypeface(TypefaceManager.getInstance().getTypeface(holder.itemView.getContext(), TypefaceManager.SANS_SERIF_MEDIUM));
         }
 
+        setSelectionState(holder);
+        setAlphaAndEnabledState(holder);
+        bindSleepTimer(holder);
+    }
+
+    private void setSelectionState(ParentHolder holder) {
         if (isSelected) {
             holder.itemView.setActivated(true);
         } else {
             holder.itemView.setActivated(false);
             holder.icon.setAlpha(0.6f);
         }
+    }
 
+    private void setAlphaAndEnabledState(ParentHolder holder) {
         if (type == DrawerParent.Type.FOLDERS && !ShuttleUtils.isUpgraded((ShuttleApplication) holder.itemView.getContext().getApplicationContext(), settingsManager)) {
             holder.itemView.setAlpha(0.4f);
+        } else if (type == DrawerParent.Type.PLAYLISTS) {
+            holder.itemView.setAlpha(getChildList().isEmpty() ? 0.4f : 1.0f);
+            holder.itemView.setEnabled(!getChildList().isEmpty());
         } else {
             holder.itemView.setAlpha(1.0f);
         }
+    }
 
-        if (type == DrawerParent.Type.PLAYLISTS) {
-            holder.itemView.setAlpha(getChildList().isEmpty() ? 0.4f : 1.0f);
-            holder.itemView.setEnabled(!getChildList().isEmpty());
-        }
-
+    private void bindSleepTimer(ParentHolder holder) {
         if (type == Type.SLEEP_TIMER) {
             holder.timeRemaining.setVisibility(timerActive ? View.VISIBLE : View.GONE);
             holder.timeRemaining.setText(StringUtils.makeTimeString(holder.itemView.getContext(), timeRemaining));
@@ -288,7 +295,7 @@ public class DrawerParent implements Parent<DrawerChild> {
             }
 
             objectAnimator = ObjectAnimator.ofFloat(expandableIcon, View.ROTATION,
-                    expanded ? expandableIcon.getRotation() : expandableIcon.getRotation(),
+                    expandableIcon.getRotation(),
                     expanded ? 0f : -180f);
             objectAnimator.setDuration(250);
             objectAnimator.setStartDelay(expanded ? 100 : 0);

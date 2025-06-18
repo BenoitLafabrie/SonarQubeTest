@@ -1,6 +1,6 @@
-Í
-Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#<init>()V
-y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt \("0*>
+Ó
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#<init>()V‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt \("0*>
 0 (-"/
 
 __unknown_file (
@@ -33,9 +33,9 @@ Lcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#setAlbum(LAlbum;)V
 implicit return:%
  (
 valuejava.lang.ObjectB=;
-9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH¾
-Ncom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onAttach(LContext;)Vƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt ("0*ø
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHÄ
+Ncom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onAttach(LContext;)V‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt ("0*ø
 0 (L
 J
  (
@@ -55,9 +55,9 @@ J
 implicit return:'
  (+
 contextjava.lang.ObjectB=;
-9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogHü
-Zcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onCreateDialog(LBundle;)LDialog;ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt# #("0*Ÿ
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH‚
+Zcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#onCreateDialog(LBundle;)LDialog;‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.kt# #("0*Ÿ
 0# #(]
 [
 % &(e
@@ -88,9 +88,9 @@ X
 	<unknown>:2
 #  #(;&
 savedInstanceStatejava.lang.ObjectB=;
-9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH
-Rcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#show(LFragmentManager;)Vƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktJ J("0*>
+9com.simplecity.amp_library.ui.dialog.AlbumBiographyDialogH•
+Rcom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog#show(LFragmentManager;)V‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktJ J("0*>
 0J J(."/
 
 __unknown_file (
@@ -153,9 +153,9 @@ Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion"
 implicit return:%
  (
 valuejava.lang.ObjectBGE
-Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionHŒ	
-“com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#newInstance(LAlbum;)Lcom/simplecity/amp_library/ui/dialog/AlbumBiographyDialog;ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktT T("0*ø
+Ccom.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$CompanionH’	
+“com.simplecity.amp_library.ui.dialog.AlbumBiographyDialog$Companion#newInstance(LAlbum;)Lcom/simplecity/amp_library/ui/dialog/AlbumBiographyDialog;‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/AlbumBiographyDialog.ktT T("0*ø
 0T T(%W
 U
 U U(

@@ -82,9 +82,9 @@ R
 implicit return:^
  (R
 valueIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenterBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH¯
-Ôcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;LSortManager;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt' (2"0*ë
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH˛
+Ôcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;LSortManager;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt' (2"0*ë
 0 (&‡
 ›
  (9G
@@ -161,9 +161,9 @@ Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"
 implicit return:%
  (
 valuejava.lang.ObjectBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÔ
-¶com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHı
+¶com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
 0 (>
 <
  (
@@ -180,9 +180,9 @@ Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"/
 implicit return:b
  ($V
 viewNcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListContract$ViewBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÒ
-®com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH˜
+®com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListContract$View;)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt ("0*Ú
 0 (>
 <
    (
@@ -199,18 +199,18 @@ Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter"/
 implicit return:b
  (&V
 viewNcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListContract$ViewBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH≤
-_com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#loadAlbumArtists(Z)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt% %(!"0*>
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterH∏
+_com.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#loadAlbumArtists(Z)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt% %(!"0*>
 0$ %("/
 
 __unknown_file (
 implicit return:"
 %" %(6
 scrollToTopbooleanBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÄ
-gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsSortOrder(I)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt; ;()"0*ç
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHÜ
+gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsSortOrder(I)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.kt; ;()"0*ç
 0; ;(Î
 Ë
 < <(
@@ -234,9 +234,9 @@ Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter*
 implicit return:
 ;* ;(4
 orderintBNL
-Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHê
-gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsAscending(Z)Vï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.ktA A()"0*ï
+Jcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenterHñ
+gcom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListPresenter#setAlbumArtistsAscending(Z)Võ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/list/AlbumArtistListPresenter.ktA A()"0*ï
 0A A(Î
 Ë
 B B(

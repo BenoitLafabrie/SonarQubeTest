@@ -224,9 +224,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"
 implicit return:%
  (
 valuejava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH∞$
-ãcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#<init>(LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LSortManager;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;LAlbumArtist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt, (7"0*î
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH∂$
+ãcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#<init>(LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LSortManager;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;LAlbumArtist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt, (7"0*î
 0 (+ê
 ç
 ! !(2
@@ -341,9 +341,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter*)
 songsMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter:+
 ! !(2
 albumArtistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHê
-[com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter$Factory#<init>()Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt' *("0*>
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHñ
+[com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter$Factory#<init>()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt' *("0*>
 0' '("/
 
 __unknown_file (
@@ -376,9 +376,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"
 implicit return:#
  (
 valuejava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHé
-õcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailView;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt. .("0*®	
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHî
+õcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailView;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt. .("0*®	
 0. .(>
 <
 / /(
@@ -405,9 +405,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"/
 implicit return:X
 . .(0L
 viewDcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailViewBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHê
-ùcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailView;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt6 6("0*®	
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHñ
+ùcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailView;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt6 6("0*®	
 06 6(>
 <
 7 7(
@@ -434,23 +434,23 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"/
 implicit return:X
 6 6(2L
 viewDcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailViewBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÇ
-Ucom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#loadData()Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt> >("0*>
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHà
+Ucom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#loadData()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt> >("0*>
 0> >("/
 
 __unknown_file (
 implicit returnBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHê
-ccom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#closeContextualToolbar()Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktS S("0*>
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHñ
+ccom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#closeContextualToolbar()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktS S("0*>
 0S S( "/
 
 __unknown_file (
 implicit returnBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÛ
-Wcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#shuffleAll()Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktW W("0*¨
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH˘
+Wcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#shuffleAll()Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktW W("0*¨
 0W W(Î
 Ë
 X X(
@@ -460,9 +460,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"/
 
 __unknown_file (
 implicit returnBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH†
-^com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#songClicked(LSong;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt] ]("0*¨
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH¶
+^com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#songClicked(LSong;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kt] ]("0*¨
 0] ](Î
 Ë
 ^ ^(
@@ -474,9 +474,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter"/
 implicit return:$
 ] ](
 songjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterH„
-fcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#sortSongs(Ljava/util/List;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktc c("0*g
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÈ
+fcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#sortSongs(Ljava/util/List;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktc c("0*g
 2i k(	S
 Q
 
@@ -522,9 +522,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter*
 implicit return:#
 c c(2
 songsjava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÈ
-gcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#sortAlbums(Ljava/util/List;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktn n("0*g
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÔ
+gcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#sortAlbums(Ljava/util/List;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.ktn n("0*g
 2t v(	S
 Q
 
@@ -570,9 +570,9 @@ Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter*
 implicit return:$
 n n(5
 albumsjava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHÉ
-~com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kty y("0*>
+Icom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenterHâ
+~com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/artist/detail/ArtistDetailPresenter.kty y("0*>
 0y y("/
 
 __unknown_file (

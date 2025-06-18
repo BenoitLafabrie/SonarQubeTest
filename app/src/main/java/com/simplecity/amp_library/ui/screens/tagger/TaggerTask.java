@@ -169,7 +169,11 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 if (tempFiles != null && tempFiles.size() != 0) {
                     for (int j = tempFiles.size() - 1; j >= 0; j--) {
                         File file = tempFiles.get(j);
-                        file.delete();
+                        try {
+                            java.nio.file.Files.delete(file.toPath());
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
                         tempFiles.remove(j);
                     }
                 }

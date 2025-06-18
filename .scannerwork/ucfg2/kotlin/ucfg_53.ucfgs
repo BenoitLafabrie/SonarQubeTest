@@ -110,9 +110,9 @@ Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"B
 implicit return:D
  (8
 value/com.simplecity.amp_library.data.SongsRepositoryBGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerH’
-øcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#<init>(LContext;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/data/PlaylistsRepository;Lcom/simplecity/amp_library/data/SongsRepository;)VŽ
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt' (2"0*þ
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerH˜
+øcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#<init>(LContext;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/data/PlaylistsRepository;Lcom/simplecity/amp_library/data/SongsRepository;)V”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt' (2"0*þ
 0 (&·
 ´
  (+
@@ -165,9 +165,9 @@ B
 playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository:N
  (0B
 songsRepository/com.simplecity.amp_library.data.SongsRepositoryBGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHó
-bcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#getFavoritesPlaylist()LSingle;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt! !("0*­
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHù
+bcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#getFavoritesPlaylist()LSingle;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt! !("0*­
 0! !(±
 ®
 " "("9
@@ -181,9 +181,9 @@ Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerÎË
 %03com.simplecity.amp_library.data.PlaylistsRepository2getPlaylists()"
 " ((l
 	<unknown>BGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHó
-bcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#isFavorite(LSong;)LObservable;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt+ +("0*g
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHù
+bcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#isFavorite(LSong;)LObservable;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt+ +("0*g
 2,! .(	S
 Q
 
@@ -222,9 +222,9 @@ Q
 %1:$
 + +(
 songjava.lang.ObjectBGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerH”
-fcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#createFavoritePlaylist()LPlaylist;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt3 3("0*Ó
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHš
+fcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#createFavoritePlaylist()LPlaylist;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt3 3("0*Ó
 25 9(	H
 F
 6 6(&
@@ -288,9 +288,9 @@ T
 : :(
 
 playlistjava.lang.ObjectBGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÍ
-`com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#clearFavorites()LDisposable;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt= =("0*‰
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÓ
+`com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#clearFavorites()LDisposable;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt= =("0*‰
 0= =(Þ
 Û
 > >(%
@@ -299,9 +299,9 @@ Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÍ
 Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"
 > I(
 	<unknown>BGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÕ
-†com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#toggleFavorite(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.ktL L("0*Š
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÛ
+†com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#toggleFavorite(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.ktL L("0*Š
 0L L(AßÜ
 M M(
 %0kotlin.Unit"=kotlin.Function1#invoke(Ljava/lang/Object;)Ljava/lang/Object;*:
@@ -319,9 +319,9 @@ isFavoritekotlin.jvm.functions.Function1*&
 L# L(@,
 
 isFavoritekotlin.jvm.functions.Function1BGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHï
-†com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#addToFavorites(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.ktd d("0*(
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHõ
+†com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#addToFavorites(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.ktd d("0*(
 0d d(>"
 e z(
 	<unknown>:$
@@ -329,9 +329,9 @@ Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHï
 songjava.lang.Object:5
 d# d(=)
 successkotlin.jvm.functions.Function1BGE
-Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHØ
-‹com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#removeFromFavorites(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;Ž
-ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt} }("0*Š
+Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerHÞ
+‹com.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#removeFromFavorites(LSong;Lkotlin/jvm/functions/Function1;)LDisposable;”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager.kt} }("0*Š
 0} }(DÞ
 Û
 ~ ~(%

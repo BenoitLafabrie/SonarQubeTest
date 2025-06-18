@@ -110,9 +110,9 @@ L
 implicit return:X
  (L
 valueCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH‚
-ûcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LMediaManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt$ (/"0*Ç
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHË
+ûcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LMediaManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt$ (/"0*Ç
 0 (#≈
 ¬
  (0@
@@ -165,9 +165,9 @@ _
 playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManager:k
  (B_
 favoritesPlaylistManagerCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHı
-_com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#playNext(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt ("0*¸	
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH˚
+_com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#playNext(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt ("0*¸	
 0 (¿
 Ω
 
@@ -216,9 +216,9 @@ Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter**
 implicit return:(
  (,
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH±
-gcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#playNext(LPlaylist;)V$lambda0î
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt (	"0*µ
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH∑
+gcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#playNext(LPlaylist;)V$lambda0ö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt (	"0*µ
 0 (	Ñ
 Å
 
@@ -247,9 +247,9 @@ Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter")
 	<unknown>:#
  ("
 songsjava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH›
-[com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#play(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt! !("0*Ë	
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH„
+[com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#play(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt! !("0*Ë	
 0! !(º
 π
 
@@ -298,9 +298,9 @@ Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter**
 implicit return:(
 ! !((
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH©
-ccom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#play(LPlaylist;)V$lambda0î
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt" $(	"0*±
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHØ
+ccom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#play(LPlaylist;)V$lambda0ö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt" $(	"0*±
 0" $(	Ä
 ˝
 
@@ -329,9 +329,9 @@ Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter")
 	<unknown>:#
 " "("
 songsjava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHÈ
-]com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#delete(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt' '("0*Ú	
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHÔ
+]com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#delete(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt' '("0*Ú	
 0' '(æ
 ª
 
@@ -380,9 +380,9 @@ Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter**
 implicit return:(
 ' '(*
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHø
-ecom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#delete(LPlaylist;)V$lambda0î
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt( *(	"0*≈
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH≈
+ecom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#delete(LPlaylist;)V$lambda0ö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt( *(	"0*≈
 0( *(	Ç
 ˇ
 
@@ -406,45 +406,45 @@ ecom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#delet
 	<unknown>:#
 ( (("
 songsjava.util.ListBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH≤
-[com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#edit(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt- -("0*>
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH∏
+[com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#edit(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt- -("0*>
 0- -("/
 
 __unknown_file (
 implicit return:(
 - -((
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH¥
-]com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#rename(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt1 1("0*>
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH∫
+]com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#rename(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt1 1("0*>
 01 1("/
 
 __unknown_file (
 implicit return:(
 1 1(*
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHø
-hcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#createM3uPlaylist(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt5 5(""0*>
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH≈
+hcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#createM3uPlaylist(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt5 5(""0*>
 05 5("/
 
 __unknown_file (
 implicit return:(
 5# 5(5
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterH≥
-\com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#clear(LPlaylist;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt9 9("0*>
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHπ
+\com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#clear(LPlaylist;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt9 9("0*>
 09 9("/
 
 __unknown_file (
 implicit return:(
 9 9()
 playlistjava.lang.ObjectBMK
-Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHè
-com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#getSongs(LPlaylist;Lkotlin/jvm/functions/Function1;)Vî
-â/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt= =("0*>
+Icom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterHï
+com.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenter#getSongs(LPlaylist;Lkotlin/jvm/functions/Function1;)Vö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter.kt= =("0*>
 0= =("/
 
 __unknown_file (

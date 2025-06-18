@@ -82,9 +82,9 @@ acom.simplecity.amp_library.utils.playlists.PlaylistManager#setSettingsManager(L
 implicit return:%
  (
 valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHØ
-ècom.simplecity.amp_library.utils.playlists.PlaylistManager#<init>(LContext;Lcom/simplecity/amp_library/data/SongsRepository;LSettingsManager;)VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt& &()"0*ô
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerH∂
+ècom.simplecity.amp_library.utils.playlists.PlaylistManager#<init>(LContext;Lcom/simplecity/amp_library/data/SongsRepository;LSettingsManager;)Vã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt& &()"0*ô
 0& &(•
 ¢
 ' '(+
@@ -125,9 +125,9 @@ B
 songsRepository/com.simplecity.amp_library.data.SongsRepository:/
 ) )(0#
 settingsManagerjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHÍ
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds#<init>()VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt, 3("0*>
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerHÒ
+Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds#<init>()Vã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt, 3("0*>
 0, 3("/
 
 __unknown_file (
@@ -244,9 +244,9 @@ Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companio
 implicit return:
  (
 valuelongBTR
-Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH≠
-Mcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearMostPlayed()VÑ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt5 5("0*è
+Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$CompanionH¥
+Mcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearMostPlayed()Vã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt5 5("0*è
 05 5(Œ
 À
 6 6(
@@ -256,9 +256,9 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 
 __unknown_file (
 implicit returnB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHº
-êcom.simplecity.amp_library.utils.playlists.PlaylistManager#addToPlaylist(LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt9 9("0*
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerH√
+êcom.simplecity.amp_library.utils.playlists.PlaylistManager#addToPlaylist(LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;ã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt9 9("0*
 2: <(	"
 ; ;( *à
 09 9(Xqo
@@ -289,9 +289,9 @@ f
 songsjava.util.List:6
 9= 9(W*
 callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH∏
-åcom.simplecity.amp_library.utils.playlists.PlaylistManager#insertPlaylistItems(LPlaylist;Ljava/util/List;ILkotlin/jvm/functions/Function1;)VÜ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kté é(#"0*2
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerHø
+åcom.simplecity.amp_library.utils.playlists.PlaylistManager#insertPlaylistItems(LPlaylist;Ljava/util/List;ILkotlin/jvm/functions/Function1;)Vç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kté é(#"0*2
 2
 è ë(	"!
 
@@ -512,9 +512,9 @@ d
 
 é[ é(u*
 callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH˜
-rcom.simplecity.amp_library.utils.playlists.PlaylistManager#getPlaylistRemoveString(LSong;)LSpannableStringBuilder;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt§ §('"0*ä
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerH˛
+rcom.simplecity.amp_library.utils.playlists.PlaylistManager#getPlaylistRemoveString(LSong;)LSpannableStringBuilder;ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt§ §('"0*ä
 0
 § §(e
 c
@@ -537,9 +537,9 @@ c
 
 §( §(2
 songjava.lang.ObjectB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH∞
-Lcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearPlaylist(J)VÜ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt´ ´("0*Ô
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerH∑
+Lcom.simplecity.amp_library.utils.playlists.PlaylistManager#clearPlaylist(J)Vç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt´ ´("0*Ô
 0
 ´ ´('X
 V
@@ -563,10 +563,10 @@ V
 ´ ´(&
 
 playlistIdlongB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH„
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerHÍ
 
-gcom.simplecity.amp_library.utils.playlists.PlaylistManager#createPlaylist(Ljava/lang/String;)LPlaylist;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt∞ ∞("0*≈
+gcom.simplecity.amp_library.utils.playlists.PlaylistManager#createPlaylist(Ljava/lang/String;)LPlaylist;ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt∞ ∞("0*≈
 2
 ¥& –(	Z
 X
@@ -665,9 +665,9 @@ I
 
 ∞ ∞(#
 namejava.lang.StringB><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerHò
-ãcom.simplecity.amp_library.utils.playlists.PlaylistManager#removeFromPlaylist(LPlaylist;LSong;Lkotlin/jvm/functions/Function1;)LDisposable;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt€ €("0*,
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerHü
+ãcom.simplecity.amp_library.utils.playlists.PlaylistManager#removeFromPlaylist(LPlaylist;LSong;Lkotlin/jvm/functions/Function1;)LDisposable;ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.kt€ €("0*,
 0
 € €(_"
 
@@ -682,9 +682,9 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 
 €; €(^*
 callbackkotlin.jvm.functions.Function1B><
-:com.simplecity.amp_library.utils.playlists.PlaylistManagerH®
-§com.simplecity.amp_library.utils.playlists.PlaylistManager#addFileObjectsToPlaylist(LContext;LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.ktÌ Ì( "0*i
+:com.simplecity.amp_library.utils.playlists.PlaylistManagerHØ
+§com.simplecity.amp_library.utils.playlists.PlaylistManager#addFileObjectsToPlaylist(LContext;LPlaylist;Ljava/util/List;Lkotlin/jvm/functions/Function1;)LDisposable;ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistManager.ktÌ Ì( "0*i
 2
 Û ı(	S
 Q

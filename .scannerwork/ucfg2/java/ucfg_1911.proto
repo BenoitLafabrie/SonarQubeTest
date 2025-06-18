@@ -1,56 +1,56 @@
 
 Lcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#%field_initializer
-__unknown_file ("1*‚
-1 (ª∏
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?) ?(4
-%0java.util.ArrayList"java.util.ArrayListŸ
-÷
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?% ?(6
+__unknown_file ("1*°
+1 (¬ø
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?) ?(4
+%0java.util.ArrayList"java.util.ArrayList‡
+›
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?% ?(6
 %1"java.util.ArrayList#<init>()V*'
  (
 
-%0java.util.ArrayListé
-ã
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java? ?(7R;
+%0java.util.ArrayListï
+í
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java? ?(7R;
 9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
 originalSongPaths"__id*'
  (
 
-%0java.util.ArrayListª∏
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@3 @(>
-%2java.util.ArrayList"java.util.ArrayListŸ
-÷
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@/ @(@
+%0java.util.ArrayList¬ø
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@3 @(>
+%2java.util.ArrayList"java.util.ArrayList‡
+›
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@/ @(@
 %3"java.util.ArrayList#<init>()V*'
  (
 
-%2java.util.ArrayListä
-á
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@ @(AN;
+%2java.util.ArrayListë
+é
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@ @(AN;
 9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
 documentFiles"__id*'
  (
 
-%2java.util.ArrayListÔ
-Ï
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaB B(%J;
+%2java.util.ArrayListˆ
+Û
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaB B(%J;
 9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
 	showAlbum"__id*
- (2Ô
-Ï
-Ö
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaC C(%J;
+ (2ˆ
+Û
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaC C(%J;
 9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
 	showTrack"__id*
- (2"ú
-Ñ
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java/ ¥(
+ (2"£
+ã
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java/ ¥(
 implicit returnB=;
 9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog

@@ -1,6 +1,6 @@
 
-[com.simplecity.amp_library.ui.adapters.PagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/adapters/PagerAdapter.java+ +($"1*Ù
+[com.simplecity.amp_library.ui.adapters.PagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;…
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/PagerAdapter.java+ +($"1*Ù
 1, ,(âß
 , ,( 
 %0"Hcom.simplecity.amp_library.ui.adapters.PagerAdapter#getItem(I)LFragment;*S

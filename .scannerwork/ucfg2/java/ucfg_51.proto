@@ -1,26 +1,26 @@
 
 Gcom.simplecity.amp_library.model.AlbumArtist$Builder#%field_initializer
-__unknown_file ("1*ê
-1 (≠™
-x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB) B(4
-%0java.util.ArrayList"java.util.ArrayListÀ
-»
-x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB% B(6
+__unknown_file ("1*®
+1 (≥∞
+~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB) B(4
+%0java.util.ArrayList"java.util.ArrayList—
+Œ
+~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB% B(6
 %1"java.util.ArrayList#<init>()V*'
  (
 
-%0java.util.ArrayList
-Ì
-x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB B(7B6
+%0java.util.ArrayListˆ
+Û
+~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaB B(7B6
 4com.simplecity.amp_library.model.AlbumArtist$Builder"
 albums"__id*'
  (
 
-%0java.util.ArrayList"è
-x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java@ V(
+%0java.util.ArrayList"ï
+~
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java@ V(
 implicit returnB86
 4com.simplecity.amp_library.model.AlbumArtist$Builder

@@ -1,6 +1,6 @@
-Á
-Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()Vã
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt
+Ì
+Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()Vë
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt
  ("0*<
 0
  
@@ -8,9 +8,9 @@ Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()Vã
 
 __unknown_file (
 implicit returnBFD
-Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHñ
-tcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#provideRequestManager(LFragment;)LRequestManager;ç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*ñ
+Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHú
+tcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#provideRequestManager(LFragment;)LRequestManager;ì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*ñ
 0 (ç
 ä
  (A

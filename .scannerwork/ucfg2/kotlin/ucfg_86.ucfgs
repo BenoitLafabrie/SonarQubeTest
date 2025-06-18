@@ -26,10 +26,10 @@ Vcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setTAG(Ljava/lang/St
 implicit return:%
  (
 valuejava.lang.ObjectB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH¦
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH­
 
-—com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setupAlbumMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;Z)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt ("0*³
+—com.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#setupAlbumMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;Z)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt ("0*³
 2 (	H
 F
  (<
@@ -81,9 +81,9 @@ S
 playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper:%
 P (n
 showGoToArtistbooleanB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHÃ
-Àcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LToolbar.OnMenuItemClickListener;„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt (!"0*(
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHÊ
+Àcom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LToolbar.OnMenuItemClickListener;‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt (!"0*(
 0! (f"
  6(	
 	<unknown>:.
@@ -91,9 +91,9 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 selectedAlbumsjava.lang.Object:X
 G (eL
 	callbacks?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksB><
-:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsH»
-Ácom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LAlbum;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt9 9(!"0*(
+:com.simplecity.amp_library.utils.menu.album.AlbumMenuUtilsHÂ
+Ácom.simplecity.amp_library.utils.menu.album.AlbumMenuUtils#getAlbumMenuClickListener(LAlbum;Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumMenuUtils.kt9 9(!"0*(
 09! 9(O"
 : j(	
 	<unknown>:%

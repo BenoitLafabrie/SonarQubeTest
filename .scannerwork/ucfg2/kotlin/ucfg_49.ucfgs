@@ -26,16 +26,16 @@ Xcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#setTAG(Ljava/lang/
 implicit return:%
  (
 valuejava.lang.ObjectB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÏ
-Pcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$Callbacks#<init>()VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt& G("0*>
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÛ
+Pcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$Callbacks#<init>()Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt& G("0*>
 0& G("/
 
 __unknown_file (
 implicit returnBJH
-Fcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksH°
-ùcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getSongForFile(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFileObject;)LSingle;Ü
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktI I("0*(
+Fcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksH®
+ùcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getSongForFile(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFileObject;)LSingle;ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktI I("0*(
 0I I("
 J K(6
 	<unknown>:Y
@@ -44,9 +44,9 @@ Fcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksH°
 IA I(W
 
 fileObjectjava.lang.ObjectB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÆ
-®com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getSongsForFolderObject(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderObject;)LSingle;Ü
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktN N('"0*(
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHµ
+®com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getSongsForFolderObject(Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderObject;)LSingle;ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktN N('"0*(
 0N N("
 O O(\
 	<unknown>:Y
@@ -54,9 +54,9 @@ fileObjectjava.lang.ObjectB@>
 songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository:,
 NJ N(d 
 folderObjectjava.lang.ObjectB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÓ
-•com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFile(LContext;LFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktR R("0*>
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHı
+•com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFile(LContext;LFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktR R("0*>
 0R R("/
 
 __unknown_file (
@@ -68,9 +68,9 @@ fileObjectjava.lang.ObjectB@>
 fileObjectjava.lang.Object:_
 RC R(WS
 	callbacksFcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH 
-acom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFolder(LContext;LFolderObject;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktW W("0*>
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH—
+acom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFolder(LContext;LFolderObject;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktW W("0*>
 0W W("/
 
 __unknown_file (
@@ -79,10 +79,10 @@ acom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFolder(LContex
 contextjava.lang.Object:,
 W- W(G 
 folderObjectjava.lang.ObjectB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÂ
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÏ
 
-∑com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#renameFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt\ \("0*g
+∑com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#renameFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt\ \("0*g
 2e2 g(	S
 Q
 
@@ -145,9 +145,9 @@ folderViewjava.lang.Object:*
 fileObjectjava.lang.Object:_
 \a \(uS
 	callbacksFcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÆ	
-∑com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#deleteFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt{ {("0*h
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHµ	
+∑com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#deleteFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt{ {("0*h
 2	2 á(	S
 Q
 
@@ -199,9 +199,9 @@ folderViewjava.lang.Object:*
 fileObjectjava.lang.Object:_
 {a {(uS
 	callbacksFcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH≥
-©com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#setupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt° °("0*¡
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH∫
+©com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#setupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt° °("0*¡
 2
 ©( ´(	L
 J
@@ -330,9 +330,9 @@ fileObjectjava.lang.Object:a
 
 °E °(kS
 playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHÜ
-‡com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFolderMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt∫ ∫(""3"4*é
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHç
+‡com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFolderMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt∫ ∫(""3"4*é
 3√ √(∂“
 œ
 √$ √(∂
@@ -422,9 +422,9 @@ folderViewjava.lang.Object:[
 
 ¿ ¿(S
 	callbacksFcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH»
-Ócom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFolderMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;LFolderObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt… …(*"0*,
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsHœ
+Ócom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFolderMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;LFolderObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.kt… …(*"0*,
 0
 … …("
 
@@ -452,9 +452,9 @@ folderViewjava.lang.Object:.
 
 – –(S
 	callbacksFcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$CallbacksB@>
-<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH¬
-Ícom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFileMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;LFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktã ã(("0*,
+<com.simplecity.amp_library.utils.menu.folder.FolderMenuUtilsH…
+Ícom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#getFileMenuClickListener(LFragment;LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;LFolderView;LFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)LPopupMenu.OnMenuItemClickListener;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/folder/FolderMenuUtils.ktã ã(("0*,
 0
 ã ã("
 

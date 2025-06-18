@@ -1,6 +1,6 @@
 
-dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;v
-l/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpClient.java* (5"3*½
+dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/HttpClient.java* (5"3*½
 2 ((jh
  (&0
 %2*com.simplecity.amp_library.http.HttpClient"*com.simplecity.amp_library.http.HttpClient™

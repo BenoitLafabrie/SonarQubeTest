@@ -54,9 +54,9 @@ _com.simplecity.amp_library.utils.ResumingServiceManager#getAnalyticsManager()LA
 implicit return:%
  (
 valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.utils.ResumingServiceManagerHº
-^com.simplecity.amp_library.utils.ResumingServiceManager#<init>(LLifecycle;LAnalyticsManager;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt ("0*∂
+7com.simplecity.amp_library.utils.ResumingServiceManagerH¬
+^com.simplecity.amp_library.utils.ResumingServiceManager#<init>(LLifecycle;LAnalyticsManager;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt ("0*∂
 0 (^è
 å
  (5
@@ -128,9 +128,9 @@ disposablejava.lang.Object"__id*'
 implicit return:%
  (
 valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.utils.ResumingServiceManagerHÖ
-xcom.simplecity.amp_library.utils.ResumingServiceManager#startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt ("0*Û
+7com.simplecity.amp_library.utils.ResumingServiceManagerHã
+xcom.simplecity.amp_library.utils.ResumingServiceManager#startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt ("0*Û
 2; (	ìê
  ( 
 %2kotlin.Unit"+kotlin.Function0#invoke()Ljava/lang/Object;*:
@@ -180,9 +180,9 @@ Q
 7 (W,
 
 completionkotlin.jvm.functions.Function0B;9
-7com.simplecity.amp_library.utils.ResumingServiceManagerHö
-Bcom.simplecity.amp_library.utils.ResumingServiceManager#stopped()VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt- -("0*ç
+7com.simplecity.amp_library.utils.ResumingServiceManagerH†
+Bcom.simplecity.amp_library.utils.ResumingServiceManager#stopped()Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt- -("0*ç
 0, ,(.Ã
 …
 . .(
@@ -192,9 +192,9 @@ w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 
 __unknown_file (
 implicit returnB;9
-7com.simplecity.amp_library.utils.ResumingServiceManagerHè
-Bcom.simplecity.amp_library.utils.ResumingServiceManager#destroy()VÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt2 2("0*Ç
+7com.simplecity.amp_library.utils.ResumingServiceManagerHï
+Bcom.simplecity.amp_library.utils.ResumingServiceManager#destroy()Vá
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ResumingServiceManager.kt2 2("0*Ç
 01 1(1¡
 æ
 3 3(

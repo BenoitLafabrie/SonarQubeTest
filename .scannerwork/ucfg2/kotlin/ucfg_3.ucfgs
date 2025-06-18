@@ -138,9 +138,9 @@ L
 implicit return:X
  (L
 valueCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBFD
-Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÀ
-ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt! (,"0*‹
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH—
+ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt! (,"0*‹
 0 ( ∑
 ¥
  (0@
@@ -205,9 +205,9 @@ Y
 songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter:e
  (6Y
 albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBFD
-Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÚ	
-ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt& &("0*ù
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH¯	
+ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt& &("0*ù
 0& &(>
 <
 ' '(
@@ -229,9 +229,9 @@ Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"/
 implicit return:Z
 & &($N
 viewFcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$ViewBFD
-Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÙ	
-òcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt- -("0*ù
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH˙	
+òcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt- -("0*ù
 0- -(>
 <
 . .(
@@ -477,9 +477,9 @@ Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDat
 implicit return:#
  (
 valuejava.util.ListBTR
-Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH⁄
-¬com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#<init>(LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;)Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt4 4("0*Ñ
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH‡
+¬com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#<init>(LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt4 4("0*Ñ
 04 9(“
 œ
 5 5((
@@ -580,9 +580,9 @@ Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDat
 recentlyAddedAlbumsPlaylistjava.lang.Object:1
 83 8(W%
 recentlyAddedAlbumsjava.util.ListBTR
-Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÒ!
-Ncom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#loadData()Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt; ;("0*¡
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH˜!
+Ncom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#loadData()Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt; ;("0*¡
 0; ;(ƒ
 ¡
 =! =(3D
@@ -685,9 +685,9 @@ d
 
 __unknown_file (
 implicit returnBFD
-Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÓ
-wcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kty y("0*>
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÙ
+wcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kty y("0*>
 0y y("/
 
 __unknown_file (

@@ -15,4 +15,4 @@
 ’ ’(6"k
 -com.simplecity.amp_library.utils.ArtworkUtils:getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;2getMediaStoreArtwork:B	!Unknown!
 
-’ ’(7*o/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java
+’ ’(7*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java

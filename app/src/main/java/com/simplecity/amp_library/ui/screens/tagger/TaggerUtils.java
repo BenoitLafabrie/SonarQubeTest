@@ -173,23 +173,15 @@ public class TaggerUtils {
         }
 
         if (!destFile.exists()) {
-            destFile.createNewFile();
+            boolean created = destFile.createNewFile();
+            if (!created) {
+                throw new IOException("Failed to create destination file: " + destFile.getAbsolutePath());
+            }
         }
 
-        FileChannel source = null;
-        FileChannel destination = null;
-
-        try {
-            source = new FileInputStream(sourceFile).getChannel();
-            destination = new FileOutputStream(destFile).getChannel();
+        try (FileChannel source = new FileInputStream(sourceFile).getChannel();
+             FileChannel destination = new FileOutputStream(destFile).getChannel()) {
             destination.transferFrom(source, 0, source.size());
-        } finally {
-            if (source != null) {
-                source.close();
-            }
-            if (destination != null) {
-                destination.close();
-            }
         }
     }
 
@@ -206,20 +198,9 @@ public class TaggerUtils {
             if (source != null) {
                 source.close();
             }
-            if (destination != null) {
-                destination.close();
-            }
-        }
-    }
-
-    static void showChooseDocumentDialog(Context context, MaterialDialog.SingleButtonCallback listener, boolean hasChecked) {
-        MaterialDialog.Builder builder = new MaterialDialog.Builder(context)
-                .title(R.string.edit_tags)
-                .content(hasChecked ? R.string.tag_editor_document_tree_permission_failed : R.string.tag_editor_document_tree_message)
-                .positiveText(R.string.button_ok)
-                .onPositive(listener);
-        if (hasChecked) {
-            builder.negativeText(R.string.cancel);
+        try (FileChannel source = new FileInputStream(sourceFile).getChannel();
+             FileChannel destination = outputStream.getChannel()) {
+            destination.transferFrom(source, 0, source.size());
         }
         builder.show();
     }

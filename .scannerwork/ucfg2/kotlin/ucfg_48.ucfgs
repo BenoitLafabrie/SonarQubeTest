@@ -138,9 +138,9 @@ L
 implicit return:X
  (L
 valueCcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH»
-øcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#<init>(LShuttleApplication;LMediaManager;LSettingsManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/ui/screens/queue/menu/QueueMenuPresenter;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt (("0*£
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÂ
+øcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#<init>(LShuttleApplication;LMediaManager;LSettingsManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/ui/screens/queue/menu/QueueMenuPresenter;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt (("0*£
 0 (¢
 Ÿ
  (/
@@ -205,9 +205,9 @@ Y
 playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManager:e
  (6Y
 queueMenuPresenterCcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH¡
-†com.simplecity.amp_library.ui.screens.queue.QueuePresenter#bindView(Lcom/simplecity/amp_library/ui/screens/queue/QueueContract$View;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt! !("0*õ
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH¨
+†com.simplecity.amp_library.ui.screens.queue.QueuePresenter#bindView(Lcom/simplecity/amp_library/ui/screens/queue/QueueContract$View;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt! !("0*õ
 0! !(>
 <
 " "(
@@ -236,9 +236,9 @@ W
 implicit return:R
 ! !($F
 view>com.simplecity.amp_library.ui.screens.queue.QueueContract$ViewB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHí
-ˆcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/queue/QueueContract$View;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktA A("0*¿
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHô
+ˆcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/queue/QueueContract$View;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktA A("0*¿
 0A A(>
 <
 B B(
@@ -255,17 +255,17 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 implicit return:R
 A A(&F
 view>com.simplecity.amp_library.ui.screens.queue.QueueContract$ViewB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÔ
-Fcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#loadData()V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktG G("0*>
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÛ
+Fcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#loadData()V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktG G("0*>
 0G G("/
 
 __unknown_file (
 implicit returnB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHŸ
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH¦
 
-ycom.simplecity.amp_library.ui.screens.queue.QueuePresenter#play(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktK K("0*—
+ycom.simplecity.amp_library.ui.screens.queue.QueuePresenter#play(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktK K("0*—
 2M P(	Í
 Ê
 N N(
@@ -315,18 +315,18 @@ h
 implicit return:N
 K K(*B
 	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItemB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH‡
-Pcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#saveQueue(LContext;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktS S("0*>
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHŽ
+Pcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#saveQueue(LContext;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktS S("0*>
 0S S("/
 
 __unknown_file (
 implicit return:'
 S S(+
 contextjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH¢
-Zcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#saveQueue(LContext;LMenuItem;)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktW W("0*¨	
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH©
+Zcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#saveQueue(LContext;LMenuItem;)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktW W("0*¨	
 0W W([
 Y
 X X(a
@@ -370,9 +370,9 @@ Y
 contextjava.lang.Object:$
 W- W(;
 itemjava.lang.ObjectB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH§
-Hcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#clearQueue()V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt\ \("0*Ž
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterH®
+Hcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#clearQueue()V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt\ \("0*Ž
 0\ \(Í
 Ê
 ] ](
@@ -382,9 +382,9 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 
 __unknown_file (
 implicit returnB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÜ
-Mcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#moveQueueItem(II)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt` `("0*Ž
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHã
+Mcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#moveQueueItem(II)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.kt` `("0*Ž
 0` `(Í
 Ê
 a a(
@@ -398,9 +398,9 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp
 fromint:
 `* `(1	
 tointB><
-:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÖ
-Rcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#setQueueSwipeLocked(Z)V„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktd d($"0*”
+:com.simplecity.amp_library.ui.screens.queue.QueuePresenterHÝ
+Rcom.simplecity.amp_library.ui.screens.queue.QueuePresenter#setQueueSwipeLocked(Z)V‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/QueuePresenter.ktd d($"0*”
 0d d(Ó
 Ð
 e e(

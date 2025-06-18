@@ -519,6 +519,7 @@ public class ColorHelper {
                 result = new double[3];
                 TEMP_ARRAY.set(result);
             }
+            TEMP_ARRAY.remove();
             return result;
         }
 

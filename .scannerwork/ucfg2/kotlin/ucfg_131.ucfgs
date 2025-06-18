@@ -1,6 +1,6 @@
-Ω
->com.simplecity.amp_library.ui.dialog.ChangelogDialog#<init>()V|
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt U("0*>
+ƒ
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog#<init>()VÇ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt U("0*>
 0 (("/
 
 __unknown_file (
@@ -63,9 +63,9 @@ G
 implicit return:%
  (
 valuejava.lang.ObjectB86
-4com.simplecity.amp_library.ui.dialog.ChangelogDialogH¬
-Icom.simplecity.amp_library.ui.dialog.ChangelogDialog#onAttach(LContext;)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt ("0*å
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH…
+Icom.simplecity.amp_library.ui.dialog.ChangelogDialog#onAttach(LContext;)VÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt ("0*å
 0 (L
 J
  (
@@ -77,9 +77,9 @@ J
 implicit return:'
  (+
 contextjava.lang.ObjectB86
-4com.simplecity.amp_library.ui.dialog.ChangelogDialogH≥:
-Ucom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt" "("0*Ê7
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogH∫:
+Ucom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt" "("0*Ê7
 0" "(]
 [
 # $(^
@@ -327,10 +327,10 @@ b
 	<unknown>:2
 "  "(;&
 savedInstanceStatejava.lang.ObjectB86
-4com.simplecity.amp_library.ui.dialog.ChangelogDialogHÌ
+4com.simplecity.amp_library.ui.dialog.ChangelogDialogHÙ
 
-fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt/  >(	"0*õ
+fcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt/  >(	"0*õ
 0/) /(8ñ
 ì
 
@@ -390,9 +390,9 @@ customViewjava.lang.ObjectÉ
 
 __unknown_file (
 implicit returnB`^
-\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0Hœ
-âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt0 0('"0*é	
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0H÷
+âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)VÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt0 0('"0*é	
 00 0(ª
 ∏
 
@@ -461,9 +461,9 @@ J
 viewjava.lang.Object:#
 07 0(B
 urljava.lang.StringB`^
-\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0H∞
-ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt6 6(1"0*#
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0H∑
+ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)ZÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.kt6 6(1"0*#
 28N ;("
 : :(
 true*ö
@@ -545,9 +545,9 @@ W
 viewjava.lang.Object:#
 6A 6(L
 urljava.lang.StringB`^
-\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0Hˇ
-Mcom.simplecity.amp_library.ui.dialog.ChangelogDialog#show(LFragmentManager;)V~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktL L("0*>
+\com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0HÜ
+Mcom.simplecity.amp_library.ui.dialog.ChangelogDialog#show(LFragmentManager;)VÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktL L("0*>
 0L L(."/
 
 __unknown_file (
@@ -582,9 +582,9 @@ Zcom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#setTAG(Ljava/lan
 implicit return:%
  (
 valuejava.lang.ObjectBB@
->com.simplecity.amp_library.ui.dialog.ChangelogDialog$CompanionH»
-Çcom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#newInstance()Lcom/simplecity/amp_library/ui/dialog/ChangelogDialog;~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktS S("0*˜
+>com.simplecity.amp_library.ui.dialog.ChangelogDialog$CompanionHœ
+Çcom.simplecity.amp_library.ui.dialog.ChangelogDialog$Companion#newInstance()Lcom/simplecity/amp_library/ui/dialog/ChangelogDialog;Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ChangelogDialog.ktS S("0*˜
 0S S(~|
 S S(-:
 %04com.simplecity.amp_library.ui.dialog.ChangelogDialog"4com.simplecity.amp_library.ui.dialog.ChangelogDialogù

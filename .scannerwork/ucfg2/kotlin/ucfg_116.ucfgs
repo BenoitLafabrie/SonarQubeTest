@@ -166,9 +166,9 @@ K
 implicit return:W
  (K
 valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÜ!
-åcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#<init>(LContext;LMediaManager;LPlaybackMonitor;LSettingsManager;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt ()"0*ê
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHå!
+åcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#<init>(LContext;LMediaManager;LPlaybackMonitor;LSettingsManager;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)Vë
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt ()"0*ê
 0 (õ
 ò
  ( 
@@ -419,9 +419,9 @@ ecom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#setFavoriteDis
 implicit return:%
  (
 valuejava.lang.ObjectBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHá
-âcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/nowplaying/PlayerView;)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt, ,("0*Œ
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHç
+âcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/nowplaying/PlayerView;)Vë
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt, ,("0*Œ
 
 0, ,(>
 <
@@ -465,9 +465,9 @@ W
 implicit return:O
 , ,(*C
 view;com.simplecity.amp_library.ui.screens.nowplaying.PlayerViewBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÉ
-ãcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/nowplaying/PlayerView;)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktx x("0*»
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHâ
+ãcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/nowplaying/PlayerView;)Vë
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktx x("0*»
 0x x(>
 <
 y y(
@@ -484,9 +484,9 @@ W
 implicit return:O
 x x(,C
 view;com.simplecity.amp_library.ui.screens.nowplaying.PlayerViewBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH‚
-Tcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#refreshTimeText(J)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt~ ~("0*¸
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHË
+Tcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#refreshTimeText(J)Vë
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt~ ~("0*¸
 2	1 Ñ(	„
 ‡
 
@@ -554,9 +554,9 @@ Q
 implicit return: 
 ~  ~(2
 playbackTimelongBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH•	
-]com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#setCurrentTimeVisibility(Z)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktà à(("0*i
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH´	
+]com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#setCurrentTimeVisibility(Z)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktà à(("0*i
 2
 â3 ã(	S
 Q
@@ -608,9 +608,9 @@ Q
 
 à) à(9
 visiblebooleanBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHó
-Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateFavorite(Z)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktè è("0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHù
+Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateFavorite(Z)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktè è("0*@
 0
 è è("/
 
@@ -620,9 +620,9 @@ Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateFavorite
 è è(2
 
 isFavoritebooleanBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÇ
-Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateTrackInfo()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktì ì("0*œ
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHà
+Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateTrackInfo()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktì ì("0*œ
 0
 ì ì(œ
 Ã
@@ -678,33 +678,33 @@ I
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÚ
-Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updatePlaystate()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt• •("0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH¯
+Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updatePlaystate()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt• •("0*@
 0
 • •("/
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÙ
-Ucom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateShuffleMode()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt© ©(!"0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH˙
+Ucom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateShuffleMode()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt© ©(!"0*@
 0
 © ©("/
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÛ
-Tcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRepeatMode()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÆ Æ( "0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH˘
+Tcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRepeatMode()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÆ Æ( "0*@
 0
 Æ Æ("/
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH“
-Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#togglePlayback()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt≤ ≤("0*†
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÿ
+Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#togglePlayback()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt≤ ≤("0*†
 0
 ≤ ≤(›
 ⁄
@@ -717,9 +717,9 @@ Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#togglePlayback
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH“
-Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleFavorite()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt∂ ∂("0*†
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÿ
+Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleFavorite()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt∂ ∂("0*†
 0
 ∂ ∂(›
 ⁄
@@ -732,9 +732,9 @@ Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleFavorite
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH»
-Hcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#skip()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt∫ ∫("0*†
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHŒ
+Hcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#skip()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt∫ ∫("0*†
 0
 ∫ ∫(›
 ⁄
@@ -747,9 +747,9 @@ Hcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#skip()Vç
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÈ
-Icom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#prev(Z)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktæ æ("0*†
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÔ
+Icom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#prev(Z)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktæ æ("0*†
 0
 æ æ(›
 ⁄
@@ -765,9 +765,9 @@ Icom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#prev(Z)Vç
 
 æ æ(
 forcebooleanBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH°
-Qcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleShuffle()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt¬ ¬("0*
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHß
+Qcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleShuffle()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt¬ ¬("0*
 0
 ¬ ¬(›
 ⁄
@@ -787,9 +787,9 @@ Qcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleShuffle(
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHü
-Pcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleRepeat()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt« «("0*Ô
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH•
+Pcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleRepeat()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt« «("0*Ô
 0
 « «(›
 ⁄
@@ -809,9 +809,9 @@ Pcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#toggleRepeat()
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÍ
-Kcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#seekTo(I)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÃ Ã("0*†
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH
+Kcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#seekTo(I)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÃ Ã("0*†
 0
 Ã Ã(›
 ⁄
@@ -827,9 +827,9 @@ Kcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#seekTo(I)Vç
 
 Ã Ã(
 progressintBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH“'
-Qcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#scanForward(IJ)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt– –("0*è
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÿ'
+Qcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#scanForward(IJ)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt– –("0*è
 2
 “ ’(	›
 ⁄
@@ -1194,9 +1194,9 @@ D
 
 –& –(1
 deltalongBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH¥'
-Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#scanBackward(IJ)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÏ Ï("0*è
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH∫'
+Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#scanBackward(IJ)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktÏ Ï("0*è
 2
 Ó Ò(	›
 ⁄
@@ -1559,17 +1559,17 @@ D
 
 Ï' Ï(2
 deltalongBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÌ
-Ncom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#showLyrics()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktà à("0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÛ
+Ncom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#showLyrics()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktà à("0*@
 0
 à à("/
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÅ
-]com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#editTagsClicked(LActivity;)Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktå å("2"3*i
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHá
+]com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#editTagsClicked(LActivity;)Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktå å("2"3*i
 2
 çj è(	S
 Q
@@ -1598,9 +1598,9 @@ Q
 
 å å(*
 activityjava.lang.ObjectBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH“
-Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#songInfoClicked()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktî î("0*i
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÿ
+Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#songInfoClicked()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktî î("0*i
 2
 ñ ò(	S
 Q
@@ -1644,9 +1644,9 @@ V
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÃ
-Wcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRemainingTime()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktõ õ("0*i
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterH“
+Wcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRemainingTime()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.ktõ õ("0*i
 2
 ú4 û(	S
 Q
@@ -1683,9 +1683,9 @@ Q
 
 __unknown_file (
 implicit returnBDB
-@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHÔ
-Pcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#shareClicked()Vç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt£ £("0*@
+@com.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenterHı
+Pcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#shareClicked()Vì
+Ü/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerPresenter.kt£ £("0*@
 0
 £ £("/
 

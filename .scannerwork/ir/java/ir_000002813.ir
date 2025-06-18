@@ -5,4 +5,4 @@
 < <("#get-field# layout:B	!Unknown!?
 =
 < <(+"!#get-field# list_item_two_lines:B	!Unknown!
-< <(,*t/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java
+< <(,*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java

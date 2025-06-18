@@ -222,9 +222,9 @@ R
 implicit return:^
  (R
 valueIcom.simplecity.amp_library.ui.screens.album.menu.AlbumArtistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHß)
-ıcom.simplecity.amp_library.ui.screens.search.SearchPresenter#<init>(LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)VÑ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt   ("0*û
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterHÆ)
+ıcom.simplecity.amp_library.ui.screens.search.SearchPresenter#<init>(LMediaManager;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumArtistMenuPresenter;)Vã
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt   ("0*û
 0 (¢
 ü
 ! !(.
@@ -393,9 +393,9 @@ Zcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setQuery(Ljava/lan
 implicit return:%
  (
 valuejava.lang.StringB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterH¬
-Åcom.simplecity.amp_library.ui.screens.search.SearchPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/search/SearchView;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt3 3("0*û
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH…
+Åcom.simplecity.amp_library.ui.screens.search.SearchPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/search/SearchView;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt3 3("0*û
 03 3(>
 <
 4 4(
@@ -461,9 +461,9 @@ Zcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setQuery(Ljava/lan
 implicit return:K
 3 3(*?
 view7com.simplecity.amp_library.ui.screens.search.SearchViewB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHÉ
-Écom.simplecity.amp_library.ui.screens.search.SearchPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/search/SearchView;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt? ?("0*›
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterHä
+Écom.simplecity.amp_library.ui.screens.search.SearchPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/search/SearchView;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt? ?("0*›
 0? ?(>
 <
 @ @(
@@ -490,9 +490,9 @@ Zcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setQuery(Ljava/lan
 implicit return:K
 ? ?(,?
 view7com.simplecity.amp_library.ui.screens.search.SearchViewB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterH˝
-^com.simplecity.amp_library.ui.screens.search.SearchPresenter#queryChanged(Ljava/lang/String;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktF F("0*¥
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterHÑ
+^com.simplecity.amp_library.ui.screens.search.SearchPresenter#queryChanged(Ljava/lang/String;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktF F("0*¥
 2I& K(	M
 K
 J J(
@@ -557,9 +557,9 @@ T
 4:%
 F F(#
 queryjava.lang.StringB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterH≥"
-Zcom.simplecity.amp_library.ui.screens.search.SearchPresenter#loadData(Ljava/lang/String;)VÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktV V("0*ç
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH∫"
+Zcom.simplecity.amp_library.ui.screens.search.SearchPresenter#loadData(Ljava/lang/String;)Vç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktV V("0*ç
 2Z  }(	‹
 Ÿ
 _ _()
@@ -725,9 +725,9 @@ searchViewjava.lang.Object*
 implicit return:%
 V V(&
 queryjava.lang.StringB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHó	
-Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchFuzzy(Z)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÄ Ä("0*À
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterHû	
+Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchFuzzy(Z)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÄ Ä("0*À
 0
 Ä Ä(,€
 ÿ
@@ -769,9 +769,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchFuzzy(Z)V
 
 Ä Ä(+
 searchFuzzybooleanB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHü	
-Qcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchArtists(Z)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÖ Ö("0*œ
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH¶	
+Qcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchArtists(Z)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÖ Ö("0*œ
 0
 Ö Ö(0€
 ÿ
@@ -813,9 +813,9 @@ _
 
 Ö Ö(/
 searchArtistsbooleanB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHõ	
-Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchAlbums(Z)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktä ä("0*Õ
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH¢	
+Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchAlbums(Z)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktä ä("0*Õ
 0
 ä ä(.€
 ÿ
@@ -857,9 +857,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter#setSearchAlbums(Z)
 
 ä ä(-
 searchAlbumsbooleanB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterH˘
-acom.simplecity.amp_library.ui.screens.search.SearchPresenter#onSongClick(Ljava/util/List;LSong;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktè è("0*Ú
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterHÄ
+acom.simplecity.amp_library.ui.screens.search.SearchPresenter#onSongClick(Ljava/util/List;LSong;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktè è("0*Ú
 0
 è è(2X
 V
@@ -886,9 +886,9 @@ V
 
 è' è(1
 songjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHŒ
-|com.simplecity.amp_library.ui.screens.search.SearchPresenter#onArtistClicked(LAlbumArtistView;LAlbumArtistView.ViewHolder;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktò ò("0*ö
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH’
+|com.simplecity.amp_library.ui.screens.search.SearchPresenter#onArtistClicked(LAlbumArtistView;LAlbumArtistView.ViewHolder;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktò ò("0*ö
 0
 ò ò(aX
 V
@@ -909,9 +909,9 @@ V
 ò: ò(`
 
 viewholderjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.search.SearchPresenterHπ
-mcom.simplecity.amp_library.ui.screens.search.SearchPresenter#onAlbumClick(LAlbumView;LAlbumView.ViewHolder;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktù ù("0*ö
+<com.simplecity.amp_library.ui.screens.search.SearchPresenterH¿
+mcom.simplecity.amp_library.ui.screens.search.SearchPresenter#onAlbumClick(LAlbumView;LAlbumView.ViewHolder;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktù ù("0*ö
 0
 ù ù(LX
 V
@@ -960,9 +960,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator
 implicit return:%
  (
 valuejava.lang.StringBSQ
-Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorHñ
-kcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#<init>(Ljava/lang/String;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt¢4 ¢(?"0*ë
+Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorHù
+kcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#<init>(Ljava/lang/String;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt¢4 ¢(?"0*ë
 0
 ¢+ ¢(3Œ
 À
@@ -982,9 +982,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator
 
 ¢@ ¢(a 
 filterStringjava.lang.StringBSQ
-Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorHé'
-wcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt§ §("0*Å$
+Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorHï'
+wcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt§ §("0*Å$
 0
 § §(ñì
 
@@ -1093,9 +1093,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator
 
 § §(B
 observerjava.lang.ObjectBSQ
-Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorHÃ
-àcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt• ¥("0*®
+Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorH”
+àcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt• ¥("0*®
 0
 • •(6›
 ⁄
@@ -1118,9 +1118,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator
 
 __unknown_file (
 implicit returnBÉÄ
-~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hì
-ôcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt¶ ¶(("0*π
+~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hö
+ôcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt¶ ¶(("0*π
 0
 ¶ ¶(Ó
 Î
@@ -1146,9 +1146,9 @@ Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator
 
 ¶) ¶(6
 djava.lang.ObjectBÉÄ
-~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0HÚ
-õcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt™ ™(&"0*®
+~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H˘
+õcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt™ ™(&"0*®
 2
 ≠> ≠(^¡
 æ
@@ -1250,9 +1250,9 @@ W
 
 ™' ™(8
 songsjava.util.ListBÉÄ
-~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H†
-ûcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt± ±($"0*æ
+~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hß
+ûcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt± ±($"0*æ
 0
 ± ±(Û
 
@@ -1278,9 +1278,9 @@ W
 
 ±% ±(1
 ejava.lang.ThrowableBÉÄ
-~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H»
-àcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#applyJaroWinklerFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt∑ ∑(+"0*,
+~com.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hœ
+àcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#applyJaroWinklerFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt∑ ∑(+"0*,
 0
 ∑ ∑("
 
@@ -1289,9 +1289,9 @@ W
 
 ∑, ∑(@
 songListjava.util.ListBSQ
-Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorH√
-Åcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#applySongFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktø ø($"0*,
+Ocom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperatorH 
+Åcom.simplecity.amp_library.ui.screens.search.SearchPresenter$SongFilterOperator#applySongFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktø ø($"0*,
 0
 ø ø("
 
@@ -1329,9 +1329,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperato
 implicit return:%
  (
 valuejava.lang.StringBTR
-Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorHö
-lcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#<init>(Ljava/lang/String;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktƒ5 ƒ(@"0*ì
+Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH°
+lcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#<init>(Ljava/lang/String;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktƒ5 ƒ(@"0*ì
 0
 ƒ, ƒ(4–
 Õ
@@ -1351,9 +1351,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperato
 
 ƒA ƒ(b 
 filterStringjava.lang.StringBTR
-Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH©'
-xcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt∆ ∆("0*ö$
+Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH∞'
+xcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt∆ ∆("0*ö$
 0
 ∆ ∆(òï
 
@@ -1462,9 +1462,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperato
 
 ∆ ∆(C
 observerjava.lang.ObjectBTR
-Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH–
-âcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt« ÷("0*™
+Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH◊
+âcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt« ÷("0*™
 0
 « «(7ﬂ
 ‹
@@ -1487,9 +1487,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperato
 
 __unknown_file (
 implicit returnBÑÅ
-com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hó
-öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt» »(("0*ª
+com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hû
+öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt» »(("0*ª
 0
 » »(
 Ì
@@ -1515,9 +1515,9 @@ Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperato
 
 ») »(6
 djava.lang.ObjectBÑÅ
-com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hª
-úcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÃ Ã(&"0*≤
+com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H¬
+úcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÃ Ã(&"0*≤
 2
 œJ œ(rÀ
 »
@@ -1606,9 +1606,9 @@ Y
 
 Ã' Ã(:
 albumsjava.util.ListBÑÅ
-com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H§
-ücom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt” ”($"0*¿
+com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H´
+ücom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt” ”($"0*¿
 0
 ” ”(ı
 Ú
@@ -1634,9 +1634,9 @@ Y
 
 ”% ”(1
 ejava.lang.ThrowableBÑÅ
-com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0HÕ
-écom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#applyJaroWinklerAlbumFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktŸ Ÿ(0"0*,
+com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H‘
+écom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#applyJaroWinklerAlbumFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktŸ Ÿ(0"0*,
 0
 Ÿ Ÿ("
 
@@ -1645,9 +1645,9 @@ Y
 
 Ÿ1 Ÿ(D
 albumsjava.util.ListBTR
-Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH¬
-Écom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#applyAlbumFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt· ·(%"0*,
+Pcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperatorH…
+Écom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumFilterOperator#applyAlbumFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt· ·(%"0*,
 0
 · ·("
 
@@ -1684,9 +1684,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 implicit return:%
  (
 valuejava.lang.StringBZX
-Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorH≤
-rcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#<init>(Ljava/lang/String;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÊ; Ê(F"0*ü
+Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorHπ
+rcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#<init>(Ljava/lang/String;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÊ; Ê(F"0*ü
 0
 Ê2 Ê(:‹
 Ÿ
@@ -1706,9 +1706,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 
 ÊG Ê(h 
 filterStringjava.lang.StringBZX
-Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorHœ(
-~com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktË Ë("0*¥%
+Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorH÷(
+~com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktË Ë("0*¥%
 0
 Ë Ë(¶£
 
@@ -1817,9 +1817,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 
 Ë Ë(I
 observerjava.lang.ObjectBZX
-Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorHÍ
-ècom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÈ ¯("0*∑
+Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorHÒ
+ècom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#<init>()Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÈ ¯("0*∑
 0
 È È(=Ï
 È
@@ -1842,9 +1842,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 
 __unknown_file (
 implicit returnBãà
-Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H±
-†com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÍ Í(("0*»
+Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H∏
+†com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSubscribe(LDisposable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÍ Í(("0*»
 0
 Í Í(˝
 ˙
@@ -1870,9 +1870,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 
 Í) Í(6
 djava.lang.ObjectBãà
-Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hé
-¢com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÓ Ó(&"0*»
+Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hï
+¢com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onSuccess(Ljava/util/List;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÓ Ó(&"0*»
 2
 ÒH Ò(z·
 ﬁ
@@ -1961,9 +1961,9 @@ W
 
 Ó' Ó(F
 albumArtistsjava.util.ListBãà
-Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hæ
-•com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktı ı($"0*Õ
+Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0H≈
+•com.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0#onError(Ljava/lang/Throwable;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktı ı($"0*Õ
 0
 ı ı(Ç
 ˇ
@@ -1989,9 +1989,9 @@ W
 
 ı% ı(1
 ejava.lang.ThrowableBãà
-Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0Hﬂ
-öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#applyJaroWinklerAlbumArtistFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt˚ ˚(6"0*,
+Öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#apply(LSingleObserver;)LSingleObserver;$class0HÊ
+öcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#applyJaroWinklerAlbumArtistFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.kt˚ ˚(6"0*,
 0
 ˚ ˚("
 
@@ -2000,9 +2000,9 @@ W
 
 ˚7 ˚(P
 streamjava.util.ListBZX
-Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorH‘
-ècom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#applyAlbumArtistFilter(Ljava/util/List;)Ljava/util/List;à
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÉ É(+"0*,
+Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorH€
+ècom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperator#applyAlbumArtistFilter(Ljava/util/List;)Ljava/util/List;è
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktÉ É(+"0*,
 0
 É É("
 
@@ -2011,9 +2011,9 @@ Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterO
 
 É, É(E
 streamjava.util.ListBZX
-Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorH„
-qcom.simplecity.amp_library.ui.screens.search.SearchPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Và
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktà à("0*@
+Vcom.simplecity.amp_library.ui.screens.search.SearchPresenter$AlbumArtistFilterOperatorHÍ
+qcom.simplecity.amp_library.ui.screens.search.SearchPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vè
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/SearchPresenter.ktà à("0*@
 0
 à à("/
 

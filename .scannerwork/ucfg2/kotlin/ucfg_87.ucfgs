@@ -110,9 +110,9 @@ tcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderEx
 implicit return:%
  (
 valuejava.lang.ObjectB?=
-;com.simplecity.amp_library.playback.constants.WidgetManagerHý
-Ÿcom.simplecity.amp_library.playback.constants.WidgetManager#<init>(LWidgetProviderMedium;LWidgetProviderSmall;LWidgetProviderLarge;LWidgetProviderExtraLarge;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ('"0*°
+;com.simplecity.amp_library.playback.constants.WidgetManagerH„
+Ÿcom.simplecity.amp_library.playback.constants.WidgetManager#<init>(LWidgetProviderMedium;LWidgetProviderSmall;LWidgetProviderLarge;LWidgetProviderExtraLarge;)VŒ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ('"0*°
 
 0 (¸
 µ
@@ -166,9 +166,9 @@ tcom.simplecity.amp_library.playback.constants.WidgetManager#setWidgetProviderEx
 widgetProviderLargejava.lang.Object:8
  (B,
 widgetProviderExtraLargejava.lang.ObjectB?=
-;com.simplecity.amp_library.playback.constants.WidgetManagerHÀ
-ucom.simplecity.amp_library.playback.constants.WidgetManager#processCommand(LMusicService;LIntent;Ljava/lang/String;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ("0*¨
+;com.simplecity.amp_library.playback.constants.WidgetManagerHÇ
+ucom.simplecity.amp_library.playback.constants.WidgetManager#processCommand(LMusicService;LIntent;Ljava/lang/String;)VŒ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt ("0*¨
 36 (_
 ]
  (` 
@@ -270,10 +270,10 @@ b
 intentjava.lang.Object:'
 C (R
 commandjava.lang.StringB?=
-;com.simplecity.amp_library.playback.constants.WidgetManagerHÜ
+;com.simplecity.amp_library.playback.constants.WidgetManagerHã
 
-kcom.simplecity.amp_library.playback.constants.WidgetManager#notifyChange(LMusicService;Ljava/lang/String;)V…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt. .("0*Ê
+kcom.simplecity.amp_library.playback.constants.WidgetManager#notifyChange(LMusicService;Ljava/lang/String;)VŒ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/constants/WidgetManager.kt. .("0*Ê
 0. .(>Ý
 Ú
 / /(

@@ -166,9 +166,9 @@ R
 implicit return:^
  (R
 valueIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHˆ
-Ècom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#<init>(LShuttleApplication;LNavigationEventRelay;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V„
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*ª
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH
+Ècom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#<init>(LShuttleApplication;LNavigationEventRelay;Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;LSettingsManager;Lcom/simplecity/amp_library/ui/screens/playlist/menu/PlaylistMenuPresenter;)V‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*ª
 0 (¦
 £
  (/
@@ -245,9 +245,9 @@ b
 settingsManagerjava.lang.Object:n
  (<b
 playlistMenuPresenterIcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuPresenterB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÊ	
-com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*¦
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÑ	
+com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt ("0*¦
 0 (N
 L
  (
@@ -272,9 +272,9 @@ L
 implicit return:K
  (*?
 view7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHˆ
-ƒcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt5 5("0*â
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterH
+ƒcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt5 5("0*â
 05 5(N
 L
 6 6(
@@ -291,9 +291,9 @@ L
 implicit return:K
 5 5(,?
 view7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHç
-com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#loadData(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt; ;("0*>
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHî
+com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#loadData(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerView;)V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt; ;("0*>
 0; ;("/
 
 __unknown_file (
@@ -301,9 +301,9 @@ L
 ; ;(/E
 
 drawerView7com.simplecity.amp_library.ui.screens.drawer.DrawerViewB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHé
-acom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onDrawerItemClicked(LDrawerParent;)V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktK K($"0*g
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHð
+acom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onDrawerItemClicked(LDrawerParent;)V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktK K($"0*g
 2M= O(	S
 Q
 
@@ -364,9 +364,9 @@ drawerViewjava.lang.Object*
 4:,
 K% K(? 
 drawerParentjava.lang.ObjectB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHº
-Kcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#closeDrawer()V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktX X("0*š
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÁ
+Kcom.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#closeDrawer()V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.ktX X("0*š
 0X X(Z
 X
 Y Y(
@@ -378,9 +378,9 @@ drawerViewjava.lang.Object"__id*&
 
 __unknown_file (
 implicit returnB@>
-<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHº
-[com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onPlaylistClicked(LPlaylist;)V†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt] ]("0*à
+<com.simplecity.amp_library.ui.screens.drawer.DrawerPresenterHÁ
+[com.simplecity.amp_library.ui.screens.drawer.DrawerPresenter#onPlaylistClicked(LPlaylist;)V
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerPresenter.kt] ]("0*à
 0] ](-»
 ¸
 ^ ^(
