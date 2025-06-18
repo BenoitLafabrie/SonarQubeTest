@@ -1,9 +1,20 @@
 
-Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaﬂ ﬂ("3*%
-3
-· ·(V"
-
-· ·(W
-""B1/
--com.simplecity.amp_library.ShuttleApplicationH
+Dcom.simplecity.amp_library.ui.modelviews.SongView#%field_initializer
+__unknown_file ("1*É
+1 (Í
+Á
+É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java@ @(*G3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showArtistName"__id*
+ (2È
+Ê
+É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaB B()F3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+showAlbumName"__id*
+ (2"ö
+Ç
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java Ú(
+implicit returnB53
+1com.simplecity.amp_library.ui.modelviews.SongView

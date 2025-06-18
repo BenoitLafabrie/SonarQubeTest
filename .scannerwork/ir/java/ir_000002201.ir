@@ -1,10 +1,7 @@
-Pthis, ,("<com.simplecity.amp_library.glide.utils.BitmapAndSizeResource"Ç:
-8
-- -(."#new-object#2ConstructorBBitmapAndSize!
+_this (+"Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListenerAscrollListener, (W"#Recovered#typeBindingLAbsListView;0"c!
 
--! -('"#unknown-value#!
-
--) -(-"#unknown-value#3
-1
-- -(."#unknown-value#2Constructor:
-- -(/*„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/BitmapAndSizeResource.java
+ (,"#unknown-value#0
+.
+ (,"#set-field# scrollListener:
+
+ (*“/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java

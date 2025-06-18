@@ -1,11 +1,11 @@
 
 8com.simplecity.amp_library.model.AlbumArtist#hashCode()I€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaˆ ˆ("7*Z
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java‰ ‰("7*Z
 2
-ŠE Š(FD
+‹E ‹(FD
 B
 
-ŠE Š(F
+‹E ‹(F
 %8"__id*(
 
 __unknown_file (
@@ -14,10 +14,10 @@ B
 %10int*
 1*T
 3
-Š1 Š(7>
+‹1 ‹(7>
 <
 
-Š1 Š(B
+‹1 ‹(B
 %8"__id*"
 
 __unknown_file (
@@ -25,39 +25,39 @@ B
 %9*
 1*á
 4
-‰ ‰(8e
+Š Š(8e
 c
 
-Š Š(	
+‹ ‹(	
 %6int"__calculate*
 
-Š Š(
+‹ ‹(
 **
 
-Š Š(2*
+‹ ‹(2*
 
-Š Š(
+‹ ‹(
 ""a
 _
 
-Š  Š(.
+‹  ‹(.
 %7"	__compare*
 
-Š' Š()
+‹' ‹()
 !=*
 
-Š  Š(&
+‹  ‹(&
 ""*
 
-Š* Š(.
+‹* ‹(.
 ""*
 2
 3*^
 5
-‰6 ‰(7H
+Š6 Š(7H
 F
 
-‰6 ‰(7	
+Š6 Š(7	
 %2int"__id*'
 
 __unknown_file (
@@ -65,17 +65,17 @@ F
 %4int*
 4*á
 6
-‰$ ‰((…
+Š$ Š((…
 ‚
 
-‰$ ‰((
+Š$ Š((
 %5java.lang.String"__id*V
 
 __unknown_file (:*8.
 ,com.simplecity.amp_library.model.AlbumArtist"
 nameyw
 
-‰$ ‰(3	
+Š$ Š(3	
 %3int"java.lang.String#hashCode()I*4
 
 __unknown_file (
@@ -84,7 +84,7 @@ F
 hashCode()H
 F
 
-‰$ ‰(3	
+Š$ Š(3	
 %2int"__id*'
 
 __unknown_file (
@@ -92,10 +92,10 @@ F
 %3int*
 4*
 7
-‰ ‰(…
+Š Š(…
 ‚
 
-‰ ‰(
+Š Š(
 %0java.lang.String"__id*V
 
 __unknown_file (:*8.
@@ -103,38 +103,38 @@ F
 name|
 z
 
-‰ ‰(!
+Š Š(!
 %1boolean"	__compare*
 
-‰ ‰(
+Š Š(
 !=*&
 
-‰ ‰(
+Š Š(
 
 %0java.lang.String*
 
-‰ ‰(!
+Š Š(!
 ""*
 5
 6*
 1
-Š Š(Gh
+‹ ‹(Gh
 f
 
-Š Š(G
+‹ ‹(G
 %11"__calculate*
 
-Š Š(
+‹ ‹(
 +*
 
-Š Š(
+‹ ‹(
 	
 %6int*
 
-Š Š(G
+‹ ‹(G
 
 %8"
 
-‹ ‹(
+Œ Œ(
 ""B0.
 ,com.simplecity.amp_library.model.AlbumArtistHX

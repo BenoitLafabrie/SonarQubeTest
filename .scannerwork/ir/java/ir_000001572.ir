@@ -1,3 +1,22 @@
-cthis ("Ocom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapterposition (&"intcount( (1"int"
+Tthis# #( "@com.simplecity.amp_library.glide.preloader.RecyclerViewPreloaderPpreloadModelProvider#! #(M",Recovered#typeBindingLPreloadModelProvider;0SpreloadDimensionProvider$ $(;"+Recovered#typeBindingLPreloadSizeProvider;0
+maxPreload$= $(K"int"ÍI
+G
+&) '(5listPreloader"#new-object#2ConstructorBListPreloader!
+
+&= &(Q"#unknown-value#!
+
+' '(("#unknown-value#4
+2
+&) '(5"#unknown-value#2Constructor:e
+c
+(! ((T	recyclerScrollListener"#new-object#2ConstructorB RecyclerToListViewScrollListener!
+
+(F ((S
+"#unknown-value#2
+0
+(! ((T"#unknown-value#2Constructor:	
+8
+6
+( ((T"$"#set-field# recyclerScrollListener:	
 
- (*®/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/CompletionListUpdateCallbackAdapter.java
+) )(*ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerViewPreloader.java

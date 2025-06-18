@@ -1,148 +1,94 @@
 
-Ncom.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)Z„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java{ {("startingBlock*·
-2
-? (Ha
-_
-
-? (V
-%8"	__compare*
-
-O (Q
-==*
-
-? (N
-""*
-
-R (V
-"">
-<
-
-? (V
-%6"__id*"
+Ncom.simplecity.amp_library.glide.fetcher.TypeFetcher#getId()Ljava/lang/String;†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/TypeFetcher.javaO O("3*Ç
+2R R(‡
+„
+R R(
+%4java.io.File"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+fileom
+R R('	
+%5int"java.io.File#hashCode()I*0
+
+__unknown_file (
+
+%4java.io.File2
+hashCode()Z
+X
+R R('
+%6java.lang.String"__concat*
+R R(
+_*
+R R('
+	
+%5intz
+x
+R R('
+%7java.lang.String"__concat*$
+R R('
+
+idjava.lang.String*$
+R R('
+
+%6java.lang.String`
+^
+R R('
+idjava.lang.String"__id*4
+
+__unknown_file (
+
+%7java.lang.String*
+1*˜
+3P P(#Y
+W
+P P(9
+%0"__calculate*
+P4 P(5
++*
+P P(3
+""*
+P6 P(9
+_Z
+X
+P P(@
+%1"__calculate*
+P: P(;
++*
+P P(9
+
+%0*
+P< P(@
+""N
+L
+P P(A
+idjava.lang.String"__id*"
 
 __unknown_file (
 
-%8*
-1*T
-3
- ($>
-<
-
- (<
-%6"__id*"
+%1‡
+„
+Q Q(
+%2java.io.File"__id*^
 
-__unknown_file (
-
-%7*
-1*€
-startingBlock{ {(#ˆ
-…
-z z(
-%9"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectU
-S
-{! {("
-ojava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%9*
-9*„
-4* (+‰
-†
- (,?
-	genreView2com.simplecity.amp_library.ui.modelviews.GenreView"__id*3
-
-__unknown_file (
-
-ojava.lang.Objecta
-_
-
- (
-%5"	__compare*
-
- (
-!=*
-
- (
-""*
-
- (
+__unknown_file (B*@6
+4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+filep
+n
+Q Q(
+%3boolean"	__compare*
+Q Q(
+!=* 
+Q Q(
+
+%2java.io.File*
+Q Q(
 ""*
 2
-3*!
-5}< }(A"
-}5 }(B
-""*è
-6} }(!²¯
-} }(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
-
-__unknown_file (64
-2com.simplecity.amp_library.ui.modelviews.GenreView2
-getClass()“
-}' }(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()…
-‚
-} }(3
-%4boolean"	__compare*
-}$ }(&
-!=*#
-} }(#
-
-%2java.lang.Class*#
-}' }(3
-
-%3java.lang.Class*
-4
-5*Š
-7} }(s
-q
-} }(
-%1boolean"	__compare*
-} }(
-==*#
-} }(
-
-ojava.lang.Object*
-} }(
-""*
-5
-6*!
-8| |(""
-| |(#
-""*¼
-9| |(¤
-¡
-| |(
-%0boolean"	__compare*
-| |(
-==*B
-| |(64
-2com.simplecity.amp_library.ui.modelviews.GenreView*#
-| |(
-
-ojava.lang.Object*
-7
-8*%
-1
- (W"
-
- (W
-"":!
-{ {("
-ojava.lang.ObjectB64
-2com.simplecity.amp_library.ui.modelviews.GenreViewHX
+1*3
+1T T("$
+T T(
+
+idjava.lang.StringB86
+4com.simplecity.amp_library.glide.fetcher.TypeFetcherH

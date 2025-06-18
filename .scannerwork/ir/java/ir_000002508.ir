@@ -1,7 +1,15 @@
-Gthis
-­ ­(+"1com.simplecity.amp_library.billing.BillingManager"UA
-?
+a
+± ±(%"floatb
+±' ±(."floatt
+±0 ±(7"float"£0
+.
 
-® ®(("'%#get-field# billingClientResponseCode:Bint
+² ²("#dependent-value#:Bfloat0
+.
 
-® ®()*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/billing/BillingManager.java
+² ²("#dependent-value#:Bfloat+
+)
+
+² ²("	#binop +#2+:Bfloat
+
+² ²(*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java

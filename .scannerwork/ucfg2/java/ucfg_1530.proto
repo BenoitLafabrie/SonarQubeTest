@@ -1,29 +1,79 @@
 
-gcom.afollestad.aesthetic.ActiveInactiveColors#create(II)Lcom/afollestad/aesthetic/ActiveInactiveColors;ê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java% (+"1*Æ
-1$ (/pn
- (#3
-%0-com.afollestad.aesthetic.ActiveInactiveColors"-com.afollestad.aesthetic.ActiveInactiveColorsÈ
-Ê
- (?
-%1"9com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V*Q
-
-__unknown_file (5
-3
-%0-com.afollestad.aesthetic.ActiveInactiveColors*"
+Ccom.simplecity.amp_library.model.CategoryItem#isEnabledByDefault()Z
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javai i(%"2*¸
+2j j(A
+?
+k k(	
+%0int"__id*"
 
 __unknown_file (
-""*"
+""A
+?
+m m(	
+%1int"__id*"
 
 __unknown_file (
-"""A
- (@5
-3
-%0-com.afollestad.aesthetic.ActiveInactiveColors: 
+""A
+?
+o o(	
+%2int"__id*"
 
-__unknown_file (
-"": 
+__unknown_file (
+""A
+?
+q q(	
+%3int"__id*"
 
-__unknown_file (
-""B1"/
--com.afollestad.aesthetic.ActiveInactiveColorsH
+__unknown_file (
+""A
+?
+s s(	
+%4int"__id*"
+
+__unknown_file (
+""A
+?
+u u(	
+%5int"__id*"
+
+__unknown_file (
+""A
+?
+w w(	
+%6int"__id*"
+
+__unknown_file (
+""*
+3
+4
+5
+6
+7
+8
+9
+1*!
+3w x("
+x x(
+""*!
+4u v("
+v v(
+""*!
+5s t("
+t t(
+""*!
+6q r("
+r r(
+""*!
+7o p("
+p p(
+""*!
+8m n("
+n n(
+""*!
+9k l("
+l l(
+""*!
+1z z("
+z z(
+""B1/
+-com.simplecity.amp_library.model.CategoryItemHX

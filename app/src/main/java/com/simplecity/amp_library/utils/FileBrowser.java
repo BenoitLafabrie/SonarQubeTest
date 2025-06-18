@@ -299,32 +299,29 @@ public class FileBrowser {
         return title;
     }
 
-    private Comparator sizeComparator() {
-        return (Comparator<BaseFileObject>) (lhs, rhs) -> (int) (rhs.size - lhs.size);
+    private Comparator<BaseFileObject> sizeComparator() {
+        return (lhs, rhs) -> (int) (rhs.size - lhs.size);
     }
 
     private Comparator<BaseFileObject> filenameComparator() {
         return (lhs, rhs) -> lhs.name.compareToIgnoreCase(rhs.name);
     }
 
-    //    private Comparator durationComparator() {
-    //        return (Comparator<FileObject>) (lhs, rhs) -> (int) (rhs.duration - lhs.duration);
-    //    }
 
-    private Comparator trackNumberComparator() {
-        return (Comparator<FileObject>) (lhs, rhs) -> lhs.tagInfo.trackNumber - rhs.tagInfo.trackNumber;
+    private Comparator<FileObject> trackNumberComparator() {
+        return (lhs, rhs) -> lhs.tagInfo.trackNumber - rhs.tagInfo.trackNumber;
     }
 
-    private Comparator folderCountComparator() {
-        return (Comparator<FolderObject>) (lhs, rhs) -> rhs.folderCount - lhs.folderCount;
+    private Comparator<FolderObject> folderCountComparator() {
+        return (lhs, rhs) -> rhs.folderCount - lhs.folderCount;
     }
 
-    private Comparator fileCountComparator() {
-        return (Comparator<FolderObject>) (lhs, rhs) -> rhs.fileCount - lhs.fileCount;
+    private Comparator<FolderObject> fileCountComparator() {
+        return (lhs, rhs) -> rhs.fileCount - lhs.fileCount;
     }
 
-    private Comparator artistNameComparator() {
-        return (Comparator<FileObject>) (lhs, rhs) -> {
+    private Comparator<FileObject> artistNameComparator() {
+        return (lhs, rhs) -> {
             if (lhs.tagInfo.artistName == null || rhs.tagInfo.artistName == null) {
                 return nullCompare(lhs.tagInfo.artistName, rhs.tagInfo.artistName);
             }
@@ -332,8 +329,8 @@ public class FileBrowser {
         };
     }
 
-    private Comparator albumNameComparator() {
-        return (Comparator<FileObject>) (lhs, rhs) -> {
+    private Comparator<FileObject> albumNameComparator() {
+        return (lhs, rhs) -> {
             if (lhs.tagInfo.albumName == null || rhs.tagInfo.albumName == null) {
                 return nullCompare(lhs.tagInfo.albumName, rhs.tagInfo.albumName);
             }
@@ -341,8 +338,8 @@ public class FileBrowser {
         };
     }
 
-    private Comparator trackNameComparator() {
-        return (Comparator<FileObject>) (lhs, rhs) -> {
+    private Comparator<FileObject> trackNameComparator() {
+        return (lhs, rhs) -> {
             if (lhs.tagInfo.trackName == null || rhs.tagInfo.trackName == null) {
                 return nullCompare(lhs.tagInfo.trackName, rhs.tagInfo.trackName);
             }
@@ -351,6 +348,18 @@ public class FileBrowser {
     }
 
     <T extends Comparable<T>> int nullCompare(T a, T b) {
-        return a == null ? (b == null ? 0 : Integer.MIN_VALUE) : (b == null ? Integer.MAX_VALUE : a.compareTo(b));
+        if (a == null) {
+            if (b == null) {
+                return 0;
+            } else {
+                return Integer.MIN_VALUE;
+            }
+        } else {
+            if (b == null) {
+                return Integer.MAX_VALUE;
+            } else {
+                return a.compareTo(b);
+            }
+        }
     }
 }

@@ -1,8 +1,8 @@
 Mthis
-Û Û("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
-Û  Û(1"boolean"A-
-+
+å å("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*yearText
+å å(*"java.lang.String"@,
+*
 
-Ù Ù(""#set-field# showTrack:
+ç ç( "#set-field# yearText:
 
-ı ı(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+é é(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

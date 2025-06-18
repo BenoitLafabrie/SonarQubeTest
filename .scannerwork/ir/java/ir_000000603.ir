@@ -1,7 +1,4 @@
-?this ("+com.simplecity.amp_library.glide.utils.Sizewidth (%"intheight' (1"int"a'
-%
- ("#set-field# width:(
-&
- ("#set-field# height:
-
- (*s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java
+?this ("+com.simplecity.amp_library.glide.utils.Size"=+
+)
+ ("#get-field# width:Bint
+ (*s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java

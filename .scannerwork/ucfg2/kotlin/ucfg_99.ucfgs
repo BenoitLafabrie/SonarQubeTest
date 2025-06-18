@@ -1,26 +1,165 @@
-—
-Ccom.simplecity.amp_library.di.app.activity.ActivityModule#<init>()Vá
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*<
-0 ("/
+‡
+Gcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#<init>()Vå
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt $("0*>
+0 $("/
 
 __unknown_file (
-implicit returnB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleHò
-acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;â
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
-0 ("*
- (
+implicit returnBA?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacksH—
+Åcom.simplecity.amp_library.utils.menu.song#createPlaylist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt' '(%"0*ﬁ
+0' '(ùö
+( (( 
+%0kotlin.Unit"_com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#createPlaylist(Ljava/util/List;)V*M
+( (( A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2 createPlaylist(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:$
+'& '(0
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH¬
+äcom.simplecity.amp_library.utils.menu.song#addToPlaylist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LPlaylist;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt+ +($"0*ú
+0+ +(€ÿ
+, ,()
+%0kotlin.Unit"hcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#addToPlaylist(LPlaylist;Ljava/util/List;)V*M
+, ,()A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks**
+, ,(
 
-activityjava.lang.Object:(
- (,
-activityjava.lang.ObjectB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleH¥
-ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;â
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
-0 ("8
- (.,
-*
-supportFragmentManagerjava.lang.Object:(
- (3
-activityjava.lang.ObjectB=;
-9com.simplecity.amp_library.di.app.activity.ActivityModuleH
+playlistjava.lang.Object*)
+
+__unknown_file (
+	<unknown>2)addToPlaylist(LPlaylist;Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:(
++% +(7
+playlistjava.lang.Object:$
++9 +(C
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songHƒ
+}com.simplecity.amp_library.utils.menu.song#addToQueue(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt/ /(!"0*÷
+0/ /(ïí
+0 0(
+%0kotlin.Unit"[com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#addToQueue(Ljava/util/List;)V*M
+0 0(A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2addToQueue(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:$
+/" /(,
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songHæ
+{com.simplecity.amp_library.utils.menu.song#playNext(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt3 3("0*“
+03 3(ëé
+4 4(
+%0kotlin.Unit"Ycom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#playNext(Ljava/util/List;)V*M
+4 4(A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2playNext(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:$
+3  3(*
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH¡
+|com.simplecity.amp_library.utils.menu.song#blacklist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt7 7( "0*‘
+07 7(ìê
+8 8(
+%0kotlin.Unit"Zcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#blacklist(Ljava/util/List;)V*M
+8 8(A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2blacklist(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:$
+7! 7(+
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH∏
+ycom.simplecity.amp_library.utils.menu.song#delete(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSong;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt; ;("0*Œ
+0; ;(çä
+< <(
+%0kotlin.Unit"Wcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#delete(Ljava/util/List;)V*M
+< <(A?
+=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2delete(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:$
+; ;((
+songjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH≥
+Écom.simplecity.amp_library.utils.menu.song#createPlaylist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.kt@ @(%"0*>
+0@ @("/
+
+__unknown_file (
+implicit return:%
+@& @(?
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songHÊ
+åcom.simplecity.amp_library.utils.menu.song#addToPlaylist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LPlaylist;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.ktD D($"0*>
+0D D("/
+
+__unknown_file (
+implicit return:(
+D% D(7
+playlistjava.lang.Object:%
+D9 D(R
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songHÆ
+com.simplecity.amp_library.utils.menu.song#addToQueue(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.ktH H(!"0*>
+0H H("/
+
+__unknown_file (
+implicit return:%
+H" H(;
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH¨
+}com.simplecity.amp_library.utils.menu.song#playNext(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.ktL L("0*>
+0L L("/
+
+__unknown_file (
+implicit return:%
+L  L(9
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH≠
+~com.simplecity.amp_library.utils.menu.song#blacklist(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.ktP P( "0*>
+0P P("/
+
+__unknown_file (
+implicit return:%
+P! P(:
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH™
+{com.simplecity.amp_library.utils.menu.song#delete(Lcom/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks;LSingle;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/song/SongsMenuCallbacks.ktT T("0*>
+0T T("/
+
+__unknown_file (
+implicit return:%
+T T(7
+songsjava.lang.ObjectB.",
+*com.simplecity.amp_library.utils.menu.songH

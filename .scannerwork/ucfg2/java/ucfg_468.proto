@@ -1,15 +1,30 @@
 
-@com.simplecity.multisheetview.ui.view.MultiSheetView$1#<init>()V
-__unknown_file ("startingBlock*ã
-startingBlockú
-ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c£
-†
-ú
-ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
-%0"1BottomSheetBehavior.BottomSheetCallback#<init>()V*F
- (:8
-6com.simplecity.multisheetview.ui.view.MultiSheetView$1"¥
-ú
-ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
-implicit returnB:8
-6com.simplecity.multisheetview.ui.view.MultiSheetView$1
+@com.simplecity.multisheetview.ui.view.MultiSheetView#isHidden()Zû
+ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.javaå å("1*⁄
+1
+ç ç(#–
+Õ
+
+é é(#I
+%0Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior"__id*n
+
+__unknown_file (R*P6
+4com.simplecity.multisheetview.ui.view.MultiSheetView"
+bottomSheetBehavior1`
+^
+
+é é(@
+%1"	__compare*
+
+é4 é(5
+<*
+
+é é(3
+""*
+
+é6 é(@
+"""
+
+é é(A
+""B86
+4com.simplecity.multisheetview.ui.view.MultiSheetViewHX

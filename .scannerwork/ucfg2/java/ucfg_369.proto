@@ -1,13 +1,13 @@
 
-Icom.simplecity.amp_library.utils.SettingsManager#showLockscreenArtwork()Z‚
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaD D(("1*‹
-1E E(h
-f
-E E(2
-%0java.lang.String"__id*<
+Hcom.simplecity.amp_library.utils.SettingsManager#getArtistDisplayType()I‚
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javad d(#"1*†
+1e e(c
+a
+e e(-
+%0java.lang.String"__id*7
 
-__unknown_file ( 
-pref_show_lockscreen_artwork"
-E E(:
+__unknown_file (
+artist_display_type_new"
+e e(H
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

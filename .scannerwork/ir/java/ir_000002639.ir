@@ -1,10 +1,14 @@
+Wthis% %("Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"¯@
+>
+=. =(G"#new-object#2ConstructorBCompositeDisposable1
+/
+=. =(G"#unknown-value#2Constructor:-
++
+= =(H"#set-field# disposables:E
+C
 
-falsebooleanGthisX X( "3com.simplecity.amp_library.ui.modelviews.FolderView$showBlacklistX! X(6"boolean"O/
--
-Y Y(*"#set-field# showBlacklist:"
-Z Z( *Z Z(
-"9/
--
-[ [(&"#set-field# showWhitelist:"
+Ð* ù("31?create:Recovered#typeBindingLPlayerViewAdapter;05
+3
 
-] ](*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java
+Ð ù("#set-field# playerViewAdapter:	
+% ú(*‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java

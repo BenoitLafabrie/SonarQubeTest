@@ -1,52 +1,91 @@
 
-4.5ffloat
-nullnull
-truebooleanHthis
-È# È(7"2com.simplecity.amp_library.utils.color.ColorHelper(backgroundLight
-È8 È(O"boolean$foregroundColor
-ÈQ È(d"int$backgroundColor
-Èf È(y"int62com.simplecity.amp_library.utils.color.ColorHelper".,"*
+4.5ffloat
+truebooleanHthis
+ß# ß(8"2com.simplecity.amp_library.utils.color.ColorHelper(backgroundLight
+ß9 ß(P"boolean$foregroundColor
+ßR ß(e"int$backgroundColor
+ßg ß(z"int62com.simplecity.amp_library.utils.color.ColorHelper"b2
+0
 
-Ë Ë( *
-Ë Ë(
-2
-Ó
- Ó("©“
-
+à à(.primaryTextColor"#id#:Bint,"*
 
-Ì! Ð(secondaryTextColor"N
-2com.simplecity.amp_library.utils.color.ColorHelperfindContrastColor(IIZD)I2findContrastColor:BintG
+â" â(1 *
+â2 â(32
+ã ã("]G
 E
 
-Ò) Ò(H	"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint*
-(
+â4 â(S"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint
 
-Ò( Ò(H
-"#unaryop -#2-:	Bint“
-
-
-Ñ Ò(IprimaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:
-Bint"¾©
-¦
-
-Ô! Ø(secondaryTextColor"Y
-2com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I2findContrastColorAgainstDark:BintF
+â4 â(S"\F
 D
 
-Ú) Ú(G",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint*
-(
+ã ã(8",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint
 
-Ú( Ú(G"#unaryop -#2-:Bint“
-
+ã ã(8"*	•
+’
 
-Ù Ú(HprimaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:Bint"Ê$*"secondaryTextColor"* primaryTextColor3
+á! ã(9
+secondaryTextColor"O
+2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:	Bint}
+{
+
+ä ä(N"L
+2com.simplecity.amp_library.utils.color.ColorHelpercalculateContrast(II)D2calculateContrast:
+Bdouble2
+0
+
+ä ä(U"#dependent-value#:Bboolean "
+
+ä ä(U *
+ä ä(
+"0,"*
+
+å å( *
+å å(2
+ë ë("Ê$*"secondaryTextColor
+"* primaryTextColor3
 1
 
-Ü Ü(?"#new-object#2ConstructorBPair5
+÷ ÷(?"#new-object#2ConstructorBPair5
 3
 
-Ü Ü(?"#unknown-value#2Constructor:
+÷ ÷(?"#unknown-value#2Constructor:
 
-Ü Ü(@*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+÷ ÷(@"ž“
+
+
+æ% ê(secondaryTextColor"N
+2com.simplecity.amp_library.utils.color.ColorHelperfindContrastColor(IIZD)I2findContrastColor:
+Bint"´©
+¦
+
+ì% ð(secondaryTextColor"Y
+2com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I2findContrastColorAgainstDark:
+Bint"V$*"secondaryTextColor,"*
+
+ó( ó(7	 
+*
+ô ô(2
+õ õ("‰	G
+E
+
+ô ô(>"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint*
+(
+
+ô ô(>"#unaryop -#2-:Bint
+
+ô ô(>"ˆ
+F
+D
+
+õ õ(=",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint*
+(
+
+õ õ(="#unaryop -#2-:Bint
+
+õ õ(="°*	
+“
+
+
+ò õ(>primaryTextColor"O
+2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:Bint*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

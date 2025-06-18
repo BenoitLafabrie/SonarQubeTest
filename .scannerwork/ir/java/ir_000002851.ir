@@ -1,4 +1,11 @@
-Mthis   (("9com.simplecity.amp_library.ui.widgets.WidgetProviderSmall=9com.simplecity.amp_library.ui.widgets.WidgetProviderSmall"WE
-C
-! !(!" #get-field# CMDAPPWIDGETUPDATE:Bjava.lang.String
-! !("*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java
+cthis
+ 
+()"Ocom.simplecityapps.recycler_adapter.recyclerview.ChildAttachStateChangeListener@recyclerView
+* 
+(C"$Recovered#typeBindingLRecyclerView;0"a!
+
+ (("#unknown-value#.
+,
+ (("#set-field# recyclerView:
+
+ (*Æ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/ChildAttachStateChangeListener.java

@@ -1,26 +1,45 @@
 
-Vcom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum#%field_initializer
-__unknown_file ("1*Ó
-1 (º·
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java2 (=
-%0java.util.ArrayList"java.util.ArrayListØ
-Õ
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java. (?
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListŒ
-‰
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java (@QE
-Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum"
-images"__id*'
- (
-
-%0java.util.ArrayList"œ
-„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmTrack.java (	
-implicit returnBGE
-Ccom.simplecity.amp_library.http.lastfm.LastFmTrack$Track$TrackAlbum
+5com.simplecity.amp_library.utils.AnimUtils#lerp(DDD)D|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java ("1*Ý
+1 (b
+`
+ (
+%0double"__calculate*
+ (
+-*
+ (
+""*
+ (
+""j
+h
+ (
+%1double"__calculate*
+ (
+**
+ (
+
+%0double*
+ (
+""j
+h
+ (
+%2double"__calculate*
+ (
++*
+ (
+""*
+ (
+
+%1double"
+ (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B.",
+*com.simplecity.amp_library.utils.AnimUtilsHX

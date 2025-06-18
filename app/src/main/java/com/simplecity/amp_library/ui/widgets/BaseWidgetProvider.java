@@ -139,7 +139,7 @@ public abstract class BaseWidgetProvider extends AppWidgetProvider {
                         //If this one doesn't work, load a placeholder.
                         loadArtwork(service, views, bitmapSize / 3, e2
                                         -> views.setImageViewResource(R.id.album_art, R.drawable.ic_placeholder_light_medium),
-                                appWidgetIds), appWidgetIds), appWidgetIds);
+                                appWidgetIds), appWidgetIds);
     }
 
     void loadArtwork(MusicService service, RemoteViews views, int size, CustomAppWidgetTarget.CustomErrorListener errorListener, int... appWidgetIds) {
@@ -185,6 +185,53 @@ public abstract class BaseWidgetProvider extends AppWidgetProvider {
                 views.setImageViewBitmap(R.id.shuffle_button, DrawableUtils.getColoredBitmap(service, R.drawable.ic_shuffle_24dp_scaled));
                 views.setContentDescription(R.id.shuffle_button, service.getString(R.string.btn_shuffle_off));
                 break;
+        }
+    }
+
+    protected CharSequence getErrorState(Resources res, CharSequence titleName) {
+        String status = android.os.Environment.getExternalStorageState();
+        if (status.equals(android.os.Environment.MEDIA_SHARED) || status.equals(android.os.Environment.MEDIA_UNMOUNTED)) {
+            if (android.os.Environment.isExternalStorageRemovable()) {
+                return res.getText(R.string.sdcard_busy_title);
+            } else {
+                return res.getText(R.string.sdcard_busy_title_nosdcard);
+            }
+        } else if (status.equals(android.os.Environment.MEDIA_REMOVED)) {
+            if (android.os.Environment.isExternalStorageRemovable()) {
+                return res.getText(R.string.sdcard_missing_title);
+            } else {
+                return res.getText(R.string.sdcard_missing_title_nosdcard);
+            }
+        } else if (titleName == null) {
+            return res.getText(R.string.emptyplaylist);
+        }
+        return null;
+    }
+
+    protected void setPlayPauseButton(MusicService service, RemoteViews views, boolean invertIcons, int playButtonId) {
+        final boolean isPlaying = service.isPlaying();
+        if (isPlaying) {
+            if (invertIcons) {
+                views.setImageViewBitmap(playButtonId, DrawableUtils.getBlackBitmap(service, R.drawable.ic_pause_24dp));
+            } else {
+                views.setImageViewResource(playButtonId, R.drawable.ic_pause_24dp);
+            }
+        } else {
+            if (invertIcons) {
+                views.setImageViewBitmap(playButtonId, DrawableUtils.getBlackBitmap(service, R.drawable.ic_play_24dp));
+            } else {
+                views.setImageViewResource(playButtonId, R.drawable.ic_play_24dp);
+            }
+        }
+    }
+
+    protected void setNavigationButtons(MusicService service, RemoteViews views, boolean invertIcons, int nextButtonId, int prevButtonId) {
+        if (invertIcons) {
+            views.setImageViewBitmap(nextButtonId, DrawableUtils.getBlackBitmap(service, R.drawable.ic_skip_next_24dp));
+            views.setImageViewBitmap(prevButtonId, DrawableUtils.getBlackBitmap(service, R.drawable.ic_skip_previous_24dp));
+        } else {
+            views.setImageViewResource(nextButtonId, R.drawable.ic_skip_next_24dp);
+            views.setImageViewResource(prevButtonId, R.drawable.ic_skip_previous_24dp);
         }
     }
 }

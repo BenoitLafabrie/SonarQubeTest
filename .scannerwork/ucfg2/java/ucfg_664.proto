@@ -1,19 +1,18 @@
 
-Pcom.afollestad.aesthetic.Aesthetic#isDark(Z)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java´ ´("1*­
+Ucom.afollestad.aesthetic.Aesthetic#colorAccent(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaé é("1*²
 1
-µ µ(X
-V
+ê ê(]
+[
 
-µ µ(*
-%0java.lang.String"__id**
+ê ê(/
+%0java.lang.String"__id*/
 
-__unknown_file (
-
-is_dark_%sÂ
+__unknown_file (
+accent_color_%sÂ
 ¿
 
-µ, µ(8
+ê1 ê(=
 %1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
 
 __unknown_file (&"$
@@ -23,7 +22,7 @@ is_dark_%sÂ
 ""ó
 ð
 
-µ µ(9
+ê ê(>
 %2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
 
 __unknown_file ("
@@ -38,14 +37,14 @@ is_dark_%sÂ
 %1Q
 O
 
-µ µ(:
+ê ê(?
 keyjava.lang.String"__id*"
 
 __unknown_file (
 
 %2"4
 
-· ·(&$
+ì ì(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

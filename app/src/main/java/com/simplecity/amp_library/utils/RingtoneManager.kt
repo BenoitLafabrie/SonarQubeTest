@@ -75,7 +75,9 @@ class RingtoneManager @Inject constructor(val applicationContext: Context) {
         private const val TAG = "RingtoneManager"
 
         fun requiresDialog(context: Context): Boolean {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M && !Settings.System.canWrite(context)) {
+                return true
+            }
                 if (!Settings.System.canWrite(context)) {
                     return true
                 }

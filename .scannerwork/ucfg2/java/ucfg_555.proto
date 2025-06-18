@@ -1,12 +1,9 @@
 
-?__sonar_lambda_31$com.simplecity.amp_library.ShuttleApplication
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaÂ Â(l"1*%
-1
-Â( Â(0"
+Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaß ß("3*%
+3
+á á(V"
 
-Â( Â(l
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+á á(W
+""B1/
+-com.simplecity.amp_library.ShuttleApplicationH

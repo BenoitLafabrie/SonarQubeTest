@@ -1,17 +1,17 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java® ®(%"1*Æ
+?com.simplecity.amp_library.utils.SettingsManager#getNumWeeks()I„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÎ Î("1*}
 1
-¯ ¯(ž
-›
+Ï Ï(V
+T
 
-¯ ¯(0
-%0java.lang.String"__id*o
+Ï Ï(#
+%0java.lang.String"__id*(
 
-__unknown_file (S*Q2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_REMEMBER_SHUFFLE"
+__unknown_file (
 
-¯ ¯(9
+numweeks"
+
+Ï Ï((
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

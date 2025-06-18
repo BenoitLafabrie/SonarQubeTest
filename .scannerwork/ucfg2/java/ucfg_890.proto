@@ -1,12 +1,21 @@
 
-}com.simplecity.amp_library.ui.screens.tagger.TaggerTask#showAlbum(Z)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÓ Ó("1*Z
+êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaá á(!"1*Ö
 1
-Ô Ô(""I
+à à(.®
+•
 
- (;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask: 
+à à(.N9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+albumArtistText"__id*A
 
-__unknown_file (
-""B;9
+__unknown_file (%
+#
+albumArtistTextjava.lang.String"I
+
+â â(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:1
+
+á" á(8#
+albumArtistTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

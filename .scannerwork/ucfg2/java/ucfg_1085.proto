@@ -1,59 +1,15 @@
 
-Kcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#hashCode()Ií
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.javaU U("4*Z
-2VH V(IF
-D
-VH V(I	
-%2int"__id*'
-
-__unknown_file (
-	
-%4int*
-1*“
-3V* V(:Œ
-À
-V* V(:B
-%5<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"__id*u
-
-__unknown_file (Y*WA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"
-viewModelAdapter§°
-V* V(E	
-%3int"java.lang.Object#hashCode()I*`
-
-__unknown_file (D
-B
-%5<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter2
-hashCode()F
-D
-V* V(E	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-1*ä
-4V V(Œ
-À
-V V(B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"__id*u
-
-__unknown_file (Y*WA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"
-viewModelAdapter°
-û
-V V('
-%1boolean"	__compare*
-V  V("
-!=*P
-V V(D
-B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter*
-V# V('
-""*
-2
-3*!
-1V V(J"
-V V(J
-""BCA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX
+Dcom.simplecity.amp_library.utils.InputMethodManagerLeaks$1#<init>()V
+__unknown_file ("startingBlock*·
+startingBlockç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.javaÆd Æ(eó
+î
+ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.javaÆd Æ(e
+%0"0Application.ActivityLifecycleCallbacks#<init>()V*J
+ (><
+:com.simplecity.amp_library.utils.InputMethodManagerLeaks$1"•
+ç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.javaÆd Æ(e
+implicit returnB><
+:com.simplecity.amp_library.utils.InputMethodManagerLeaks$1

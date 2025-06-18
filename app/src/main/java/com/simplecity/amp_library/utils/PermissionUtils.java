@@ -29,7 +29,7 @@ public class PermissionUtils {
         }, permissions);
     }
 
-    public static void RequestStoragePermissions(final PermissionCallback callback) {
+    public static void requestStoragePermissions(final PermissionCallback callback) {
         simplePermissionRequest(callback, Manifest.permission.WRITE_EXTERNAL_STORAGE);
     }
 }

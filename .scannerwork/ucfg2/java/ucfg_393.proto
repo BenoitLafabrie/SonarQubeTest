@@ -1,16 +1,17 @@
 
-Ecom.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÄ Ä($"1*Ö
+Acom.simplecity.amp_library.utils.SettingsManager#getUsePalette()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaõ õ( "1*Ω
 1
-Å Å(^
-\
+ú ú(ï
+í
 
-Å Å(+
-%0java.lang.String"__id*0
+ú ú('
+%0java.lang.String"__id*f
 
-__unknown_file (
-nag_message_read"
+__unknown_file (J*H2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_PALETTE"
 
-Å Å(4
+ú ú(/
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

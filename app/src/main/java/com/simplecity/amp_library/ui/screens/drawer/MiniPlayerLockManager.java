@@ -9,23 +9,22 @@ public class MiniPlayerLockManager {
         String getTag();
     }
 
-    private static MiniPlayerLockManager instance;
-
     private List<MiniPlayerLock> miniPlayerLocks = new ArrayList<>();
-
+    
     private MiniPlayerLockManager() {
-
+    
     }
-
+    
     public boolean canShowMiniPlayer() {
         return miniPlayerLocks.isEmpty();
     }
-
+    
+    private static class Holder {
+        private static final MiniPlayerLockManager INSTANCE = new MiniPlayerLockManager();
+    }
+    
     public static MiniPlayerLockManager getInstance() {
-        if (instance == null) {
-            instance = new MiniPlayerLockManager();
-        }
-        return instance;
+        return Holder.INSTANCE;
     }
 
     public void addMiniPlayerLock(MiniPlayerLock miniPlayerLock) {

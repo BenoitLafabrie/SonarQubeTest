@@ -1,22 +1,727 @@
-Ï
-Kcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract#<init>()Vê
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedContract.kt ("0*>
-0 ("/
+„
+ìcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;
+__unknown_file ("0*„
+0 (Ä
+˝
+ (C
+field:com.simplecity.amp_library.data.Repository$SongsRepository"__id*•
+ (ò*ïD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"Q
+ (E
+C
+field:com.simplecity.amp_library.data.Repository$SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÅ
+îcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V
+__unknown_file ("0*Ø
+0 (˛
+˚
+ (ïD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository"__id*Q
+ (E
+C
+value:com.simplecity.amp_library.data.Repository$SongsRepository"
+ (
+implicit return:O
+ (C
+value:com.simplecity.amp_library.data.Repository$SongsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH˘
+öcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getPlaylistRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;
+__unknown_file ("0*Ú
+0 (ã
+à
+ (G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*¨
+ (ü*úD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"T
+playlistRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"U
+ (I
+G
+field>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHó
+õcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setPlaylistRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V
+__unknown_file ("0*∫
+0 (â
+Ü
+ (úD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"T
+playlistRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository"__id*U
+ (I
+G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepository"
+ (
+implicit return:S
+ (G
+value>com.simplecity.amp_library.data.Repository$PlaylistsRepositoryBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHô
+•com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getFavoritesPlaylistManager()Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;
+__unknown_file ("0*á
+0 (õ
+ò
+ (L
+fieldCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"__id*∑
+ (™*ßD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"_
+favoritesPlaylistManagerCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"Z
+ (N
+L
+fieldCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH∑
+¶com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setFavoritesPlaylistManager(Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;)V
+__unknown_file ("0* 
+0 (ô
+ñ
+ (ßD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"_
+favoritesPlaylistManagerCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"__id*Z
+ (N
+L
+valueCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"
+ (
+implicit return:X
+ (L
+valueCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManagerBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHá
+ùcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;
+__unknown_file ("0*˝
+0 (í
+è
+ (K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Ø
+ (¢*üD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"Y
+ (M
+K
+fieldBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH•
+ûcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V
+__unknown_file ("0*¡
+0 (ê
+ç
+ (üD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"__id*Y
+ (M
+K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"
+ (
+implicit return:W
+ (K
+valueBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHç
+ücom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;
+__unknown_file ("0*Å
+0 (ï
+í
+ (L
+fieldCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"__id*±
+ (§*°D
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"Z
+ (N
+L
+fieldCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH´
+†com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setAlbumMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)V
+__unknown_file ("0*ƒ
+0 (ì
+ê
+ (°D
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"__id*Z
+ (N
+L
+valueCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"
+ (
+implicit return:X
+ (L
+valueCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH—
+ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#<init>(Lcom/simplecity/amp_library/data/Repository$SongsRepository;Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt! (,"0*‹
+0 ( ∑
+¥
+ (0@
+%0:com.simplecity.amp_library.data.Repository$SongsRepository"îcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setSongsRepository(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter*k
+
+__unknown_file (O
+M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository…
+∆
+ (7D
+%1>com.simplecity.amp_library.data.Repository$PlaylistsRepository"õcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setPlaylistRepository(Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter*r
+
+__unknown_file (V
+T
+playlistRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository‰
+·
+ (BI
+%2Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"¶com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setFavoritesPlaylistManager(Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter*}
+
+__unknown_file (a
+_
+favoritesPlaylistManagerCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager”
+–
+ (4H
+%3Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ûcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setSongMenuPresenter(Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter*u
+
+__unknown_file (Y
+W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenterÿ
+’
+ (6I
+%4Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"†com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#setAlbumMenuPresenter(Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;)V*b
+
+__unknown_file (FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter*w
+
+__unknown_file ([
+Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"/
 
 __unknown_file (
-implicit returnBEC
-Acom.simplecity.amp_library.ui.screens.suggested.SuggestedContractHÇ
-Ucom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$Presenter#<init>()Ví
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedContract.kt	 ("0*>
-0	 ("/
+implicit return:Y
+ (0M
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepository:`
+ (7T
+playlistRepository>com.simplecity.amp_library.data.Repository$PlaylistsRepository:k
+ (B_
+favoritesPlaylistManagerCcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager:c
+ (4W
+songMenuPresenterBcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter:e
+ (6Y
+albumMenuPresenterCcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenterBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH¯	
+ñcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt& &("0*ù
+0& &(>
+<
+' '(
+%0	Presenter"__id*
+' '(
+	PresenterÀ
+»
+) )(H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+) )(FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterŒ
+À
+* *(I
+%2Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"ücom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;*R
+* *(FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"/
 
 __unknown_file (
-implicit returnBOM
-Kcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$PresenterH¯
-Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$View#<init>()Ví
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedContract.kt ("0*>
-0 (B"/
+implicit return:Z
+& &($N
+viewFcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH˙	
+òcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/suggested/SuggestedContract$View;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt- -("0*ù
+0- -(>
+<
+. .(
+%0	Presenter"__id*
+. .(
+	PresenterÀ
+»
+0 0(H
+%1Bcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter"ùcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongMenuPresenter()Lcom/simplecity/amp_library/ui/screens/songs/menu/SongMenuPresenter;*R
+0 0(FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterŒ
+À
+1 1(I
+%2Ccom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuPresenter"ücom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getAlbumMenuPresenter()Lcom/simplecity/amp_library/ui/screens/album/menu/AlbumMenuPresenter;*R
+1 1(FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter"/
 
 __unknown_file (
-implicit returnBJH
-Fcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$ViewH
+implicit return:Z
+- -(&N
+viewFcom.simplecity.amp_library.ui.screens.suggested.SuggestedContract$ViewBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterH‡
+rcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getMostPlayedPlaylist()LPlaylist;
+__unknown_file ("0*Ù
+0 (ª
+∏
+ (
+fieldjava.lang.Object"__id*ä
+ (~*|R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"&
+mostPlayedPlaylistjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHˇ
+scom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setMostPlayedPlaylist(LPlaylist;)V
+__unknown_file ("0*Î
+0 (∫
+∑
+ (|R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"&
+mostPlayedPlaylistjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH⁄
+ucom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getMostPlayedSongs()Ljava/util/List;
+__unknown_file ("0*Î
+0 (¥
+±
+ (
+fieldjava.util.List"__id*Ö
+ (y*wR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"!
+mostPlayedSongsjava.util.List"%
+ (
+
+fieldjava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH˘
+vcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setMostPlayedSongs(Ljava/util/List;)V
+__unknown_file ("0*‰
+0 (≥
+∞
+ (wR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"!
+mostPlayedSongsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÍ
+vcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getRecentlyPlayedPlaylist()LPlaylist;
+__unknown_file ("0*˙
+0 (¡
+æ
+ (
+fieldjava.lang.Object"__id*ê
+ (É*ÄR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"*
+recentlyPlayedPlaylistjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHà
+wcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyPlayedPlaylist(LPlaylist;)V
+__unknown_file ("0*
+0 (ø
+º
+ (ÄR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"*
+recentlyPlayedPlaylistjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH‰
+zcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getRecentlyPlayedAlbums()Ljava/util/List;
+__unknown_file ("0*
+0 (π
+∂
+ (
+fieldjava.util.List"__id*ä
+ (~*|R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"&
+recentlyPlayedAlbumsjava.util.List"%
+ (
+
+fieldjava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÉ
+{com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyPlayedAlbums(Ljava/util/List;)V
+__unknown_file ("0*È
+0 (∏
+µ
+ (|R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"&
+recentlyPlayedAlbumsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÁ
+ucom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getFavoriteSongsPlaylist()LPlaylist;
+__unknown_file ("0*¯
+0 (ø
+º
+ (
+fieldjava.lang.Object"__id*é
+ (Å*R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData")
+favoriteSongsPlaylistjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÖ
+vcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setFavoriteSongsPlaylist(LPlaylist;)V
+__unknown_file ("0*Ó
+0 (Ω
+∫
+ (R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData")
+favoriteSongsPlaylistjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH÷
+scom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getFavoriteSongs()Ljava/util/List;
+__unknown_file ("0*È
+0 (≤
+Ø
+ (
+fieldjava.util.List"__id*É
+ (w*uR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"
+favoriteSongsjava.util.List"%
+ (
+
+fieldjava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHı
+tcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setFavoriteSongs(Ljava/util/List;)V
+__unknown_file ("0*‚
+0 (±
+Æ
+ (uR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"
+favoriteSongsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÙ
+{com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getRecentlyAddedAlbumsPlaylist()LPlaylist;
+__unknown_file ("0*ˇ
+0 (∆
+√
+ (
+fieldjava.lang.Object"__id*ï
+ (à*ÖR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"/
+recentlyAddedAlbumsPlaylistjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHí
+|com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyAddedAlbumsPlaylist(LPlaylist;)V
+__unknown_file ("0*ı
+0 (ƒ
+¡
+ (ÖR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"/
+recentlyAddedAlbumsPlaylistjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH‚
+ycom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#getRecentlyAddedAlbums()Ljava/util/List;
+__unknown_file ("0*Ô
+0 (∏
+µ
+ (
+fieldjava.util.List"__id*â
+ (}*{R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"%
+recentlyAddedAlbumsjava.util.List"%
+ (
+
+fieldjava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataHÅ
+zcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyAddedAlbums(Ljava/util/List;)V
+__unknown_file ("0*Ë
+0 (∑
+¥
+ ({R
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData"%
+recentlyAddedAlbumsjava.util.List"__id*%
+ (
+
+valuejava.util.List"
+ (
+implicit return:#
+ (
+valuejava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH‡
+¬com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#<init>(LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;LPlaylist;Ljava/util/List;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt4 4("0*Ñ
+04 9(“
+œ
+5 5((
+%0java.lang.Object"scom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setMostPlayedPlaylist(LPlaylist;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*D
+
+__unknown_file ((
+&
+mostPlayedPlaylistjava.lang.ObjectŒ
+À
+5* 5(I
+%1java.util.List"vcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setMostPlayedSongs(Ljava/util/List;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*?
+
+__unknown_file (#
+!
+mostPlayedSongsjava.util.List⁄
+◊
+6 6(,
+%2java.lang.Object"wcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyPlayedPlaylist(LPlaylist;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*H
+
+__unknown_file (,
+*
+recentlyPlayedPlaylistjava.lang.Objectÿ
+’
+6. 6(S
+%3java.util.List"{com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyPlayedAlbums(Ljava/util/List;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*D
+
+__unknown_file ((
+&
+recentlyPlayedAlbumsjava.util.Listÿ
+’
+7 7(+
+%4java.lang.Object"vcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setFavoriteSongsPlaylist(LPlaylist;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*G
+
+__unknown_file (+
+)
+favoriteSongsPlaylistjava.lang.Object 
+«
+7- 7(J
+%5java.util.List"tcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setFavoriteSongs(Ljava/util/List;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*=
+
+__unknown_file (!
+
+favoriteSongsjava.util.List‰
+·
+8 8(1
+%6java.lang.Object"|com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyAddedAlbumsPlaylist(LPlaylist;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*M
+
+__unknown_file (1
+/
+recentlyAddedAlbumsPlaylistjava.lang.Object÷
+”
+83 8(W
+%7java.util.List"zcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData#setRecentlyAddedAlbums(Ljava/util/List;)V*p
+
+__unknown_file (TR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedData*C
+
+__unknown_file ('
+%
+recentlyAddedAlbumsjava.util.List"/
+
+__unknown_file (
+implicit return:2
+5 5((&
+mostPlayedPlaylistjava.lang.Object:-
+5* 5(I!
+mostPlayedSongsjava.util.List:6
+6 6(,*
+recentlyPlayedPlaylistjava.lang.Object:2
+6. 6(S&
+recentlyPlayedAlbumsjava.util.List:5
+7 7(+)
+favoriteSongsPlaylistjava.lang.Object:+
+7- 7(J
+favoriteSongsjava.util.List:;
+8 8(1/
+recentlyAddedAlbumsPlaylistjava.lang.Object:1
+83 8(W%
+recentlyAddedAlbumsjava.util.ListBTR
+Pcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$SuggestedDataH˜!
+Ncom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#loadData()Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kt; ;("0*¡
+0; ;(ƒ
+¡
+=! =(3D
+%0>com.simplecity.amp_library.data.Repository$PlaylistsRepository"öcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getPlaylistRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;*R
+=! =(3FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterÙÒ
+=4 =(K
+%1java.lang.Object"`com.simplecity.amp_library.data.Repository$PlaylistsRepository#getMostPlayedPlaylist()LPlaylist;*R
+=! =(3F
+D
+%0>com.simplecity.amp_library.data.Repository$PlaylistsRepository2getMostPlayedPlaylist()`
+^
+= =(K&
+mostPlayedPlaylistjava.lang.Object"__id*$
+=4 =(K
+
+%1java.lang.Objectƒ
+¡
+>% >(7D
+%2>com.simplecity.amp_library.data.Repository$PlaylistsRepository"öcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getPlaylistRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;*R
+>% >(7FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter¸˘
+>8 >(S
+%3java.lang.Object"dcom.simplecity.amp_library.data.Repository$PlaylistsRepository#getRecentlyPlayedPlaylist()LPlaylist;*R
+>% >(7F
+D
+%2>com.simplecity.amp_library.data.Repository$PlaylistsRepository2getRecentlyPlayedPlaylist()d
+b
+> >(S*
+recentlyPlayedPlaylistjava.lang.Object"__id*$
+>8 >(S
+
+%3java.lang.Objectƒ
+¡
+?* ?(<D
+%4>com.simplecity.amp_library.data.Repository$PlaylistsRepository"öcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getPlaylistRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;*R
+?* ?(<FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter˙˜
+?= ?(W
+%5java.lang.Object"ccom.simplecity.amp_library.data.Repository$PlaylistsRepository#getRecentlyAddedPlaylist()LPlaylist;*R
+?* ?(<F
+D
+%4>com.simplecity.amp_library.data.Repository$PlaylistsRepository2getRecentlyAddedPlaylist()i
+g
+? ?(W/
+recentlyAddedAlbumsPlaylistjava.lang.Object"__id*$
+?= ?(W
+
+%5java.lang.Objectπ
+∂
+B B(-@
+%6:com.simplecity.amp_library.data.Repository$SongsRepository"ìcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;*R
+B B(-FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterb
+`
+B C(#
+mostPlayedSongsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>π
+∂
+E# E(2@
+%7:com.simplecity.amp_library.data.Repository$SongsRepository"ìcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;*R
+E# E(2FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterg
+e
+E V((
+recentlyPlayedAlbumsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>‘
+—
+X X(4I
+%8Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager"•com.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getFavoritesPlaylistManager()Lcom/simplecity/amp_library/utils/playlists/FavoritesPlaylistManager;*R
+X X(4FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter‚
+ﬂ
+X5 X(K
+%9java.lang.Object"bcom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager#getFavoritesPlaylist()LSingle;*W
+X X(4K
+I
+%8Ccom.simplecity.amp_library.utils.playlists.FavoritesPlaylistManager`
+^
+X ](!
+favoriteSongsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>∫
+∑
+_" _(1A
+%10:com.simplecity.amp_library.data.Repository$SongsRepository"ìcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;*R
+_" _(1FD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterf
+d
+_ f('
+recentlyAddedAlbumsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHÙ
+wcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)Vì
+à/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/suggested/SuggestedPresenter.kty y("0*>
+0y y("/
+
+__unknown_file (
+implicit return:#
+y y(3
+srcjava.lang.Object:1
+y5 y(K%
+dstkotlin.jvm.functions.Function1BFD
+Bcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenterHΩ
+gcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*‡
+0 (ß
+§
+ (
+fieldjava.lang.Object"__id*w
+ (k*iN
+Lcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$CompanionH›
+hcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*ÿ
+0 (ß
+§
+ (iN
+Lcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBPN
+Lcom.simplecity.amp_library.ui.screens.suggested.SuggestedPresenter$CompanionH

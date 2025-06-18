@@ -1,118 +1,24 @@
 
-Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)Z}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java ("startingBlock*v
-2 &  (,b
-`
- &  (;
-%6boolean"	__compare*
- -  (/
-==*
- &  (,
-""*
- 0  (;
-""*
-1*÷
-3 (|
-z
- (3
-size+com.simplecity.amp_library.glide.utils.Size"__id*3
+Hcom.simplecity.amp_library.glide.utils.Size#toString()Ljava/lang/String;}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java+ +("1*Ï
+1, ,(™
+–
+, ,(5
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
 
-__unknown_file (
-
-ojava.lang.Objectb
-`
-   ("
-%5boolean"	__compare*
-   (
-==*
-   (
-""*
-   ("
-""*
-2
-1*€
-startingBlock (#ˆ
-…
- (
-%7"
-__annotate*2
+__unknown_file ("
+java.lang.String*&
 
-__unknown_file (
-java.lang.Override*3
+__unknown_file (
+
+%s, %s*"
 
-__unknown_file (
-
-ojava.lang.ObjectU
-S
-! ("
-ojava.lang.Object"__annotation*"
+__unknown_file (
+""*"
 
-__unknown_file (
-
-%7*
-8*!
-4< (A"
-5 (B
-""*á
-5 (!«¨
- (#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*K
-
-__unknown_file (/-
-+com.simplecity.amp_library.glide.utils.Size2
-getClass()“
-' (3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()…
-‚
- (3
-%4boolean"	__compare*
-$ (&
-!=*#
- (#
-
-%2java.lang.Class*#
-' (3
-
-%3java.lang.Class*
-3
-4*Š
-6 (s
-q
- (
-%1boolean"	__compare*
- (
-==*#
- (
-
-ojava.lang.Object*
- (
-""*
-4
-5*!
-7 (""
- (#
-""*µ
-8 (
-š
- (
-%0boolean"	__compare*
- (
-==*;
- (/-
-+com.simplecity.amp_library.glide.utils.Size*#
- (
-
-ojava.lang.Object*
-6
-7*!
-1   (<"
-   (<
-"":!
- ("
-ojava.lang.ObjectB/-
-+com.simplecity.amp_library.glide.utils.SizeHX
+__unknown_file (
+"""$
+, ,(6
+
+%0java.lang.StringB/-
++com.simplecity.amp_library.glide.utils.SizeH

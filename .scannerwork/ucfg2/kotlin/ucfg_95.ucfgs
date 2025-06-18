@@ -1,31 +1,9 @@
-Ó
-‡com.simplecity.amp_library.utils.extensions#getSongs(LAlbumArtist;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumArtistExt.kt
- 
-("0*(
-0
- 
-("
- (	
-	<unknown>:Y
-
- 
-(9M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
-+com.simplecity.amp_library.utils.extensionsHÖ
-Šcom.simplecity.amp_library.utils.extensions#getSongs(Ljava/util/List;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumArtistExt.kt ("0*(
-0 ("
- (.
-	<unknown>:Y
- (?M
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
-+com.simplecity.amp_library.utils.extensionsHÎ
-‚com.simplecity.amp_library.utils.extensions#getSongs(LSingle;Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LSingle;‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/extensions/AlbumArtistExt.kt (&"0*(
-0 ("
- (K
-	<unknown>:Y
-' (GM
-songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB/"-
-+com.simplecity.amp_library.utils.extensionsH
+í
+_com.simplecity.amp_library.utils#withArgs(LFragment;Lkotlin/jvm/functions/Function1;)LFragment;|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FragmentExt.kt ($"0*&
+0 ("
+ (=
+	<unknown>:9
+ ("-
+argsBuilderkotlin.jvm.functions.Function1B$""
+ com.simplecity.amp_library.utilsH

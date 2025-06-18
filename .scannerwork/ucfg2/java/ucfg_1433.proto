@@ -1,36 +1,15 @@
 
-…com.simplecity.amp_library.ui.views.PlayPauseDrawable$1#get(Lcom/simplecity/amp_library/ui/views/PlayPauseDrawable;)Ljava/lang/Float;‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java ( "startingBlock*Ê
-startingBlock  (5­
-ª
- (
-%1"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*X
-
-__unknown_file (<
-:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawablez
-x
-3 (4:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawable"__annotation*"
-
-__unknown_file (
-
-%1*
-1*ô
-1 (ÉÆ
- (*
-%0float"Dcom.simplecity.amp_library.ui.views.PlayPauseDrawable#getProgress()F*X
-
-__unknown_file (<
-:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawable2getProgress()"
- (+
-
-%0float:F
-! (4:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawableB;9
-7com.simplecity.amp_library.ui.views.PlayPauseDrawable$1H
+>com.afollestad.aesthetic.AestheticNestedScrollView$1#<init>()V
+__unknown_file ("startingBlock*Õ
+startingBlock•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()û
+ø
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()
+%0"Consumer#<init>()V*D
+ (86
+4com.afollestad.aesthetic.AestheticNestedScrollView$1"­
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNestedScrollView.java)( )()
+implicit returnB86
+4com.afollestad.aesthetic.AestheticNestedScrollView$1

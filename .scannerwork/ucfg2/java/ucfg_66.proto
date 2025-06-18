@@ -1,11 +1,11 @@
 
 gcom.simplecity.amp_library.model.AlbumArtist#compareTo(Lcom/simplecity/amp_library/model/AlbumArtist;)I€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java± ±("startingBlock* 
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java² ²("startingBlock* 
 startingBlock
-± ±(:°
+² ²(:°
 ­
 
-° °(
+± ±(
 %2"
 __annotate*2
 
@@ -17,7 +17,7 @@ __annotate*2
 albumArtist,com.simplecity.amp_library.model.AlbumArtist¥
 ¢
 
-± ±(!
+² ²(!
 %3"
 __annotate*'
 
@@ -29,7 +29,7 @@ __annotate*'
 albumArtist,com.simplecity.amp_library.model.AlbumArtist¢
 Ÿ
 
-±. ±(9;
+². ²(9;
 albumArtist,com.simplecity.amp_library.model.AlbumArtist"__annotation*"
 
 __unknown_file (
@@ -41,24 +41,24 @@ __annotate*'
 %3*
 1*Ø
 1
-² ²(ÐÍ
+³ ³(ÐÍ
 
-²' ²(3
+³' ³(3
 %0java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*L
 
 __unknown_file (0.
 ,com.simplecity.amp_library.model.AlbumArtist2getSortKey()ÝÚ
 
-²5 ²(M
+³5 ³(M
 %1java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*Y
 
 __unknown_file (=
 ;
 albumArtist,com.simplecity.amp_library.model.AlbumArtist2getSortKey()"
 
-² ²(O
+³ ³(O
 "":I
 
-± ±(9;
+² ²(9;
 albumArtist,com.simplecity.amp_library.model.AlbumArtistB0.
 ,com.simplecity.amp_library.model.AlbumArtistHX

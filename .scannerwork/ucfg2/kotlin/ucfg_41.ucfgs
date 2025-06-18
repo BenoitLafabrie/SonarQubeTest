@@ -1,128 +1,97 @@
-¿
-ãcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/PlaylistsRepository;
-__unknown_file ("0*Õ
-0 (Ò
-Ó
- (<
-field3com.simplecity.amp_library.data.PlaylistsRepository"__id*ù
- (ê*ç?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper"J
-playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"J
- (>
-<
-field3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHﬁ
-åcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#setPlaylistsRepository(Lcom/simplecity/amp_library/data/PlaylistsRepository;)V
-__unknown_file ("0*†
-0 (Ô
-Ï
- (ç?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper"J
-playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"__id*J
- (>
-<
-value3com.simplecity.amp_library.data.PlaylistsRepository"
- (
-implicit return:H
- (<
-value3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHì
-|com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#<init>(Lcom/simplecity/amp_library/data/PlaylistsRepository;)Vé
-É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt! (,"0*·
-0 ( †
-ù
- (89
-%03com.simplecity.amp_library.data.PlaylistsRepository"åcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#setPlaylistsRepository(Lcom/simplecity/amp_library/data/PlaylistsRepository;)V*]
-
-__unknown_file (A?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*h
-
-__unknown_file (L
-J
-playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"/
+∑
+:com.simplecity.amp_library.ui.dialog.ShareDialog#<init>()V~
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt g("0*>
+0 ($"/
 
 __unknown_file (
-implicit return:V
- (8J
-playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperH∫
-gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;é
-É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt ("0*Ã
-0 (,°
-û
- (1
-%0java.lang.Object"icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;*M
- (1A?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
-" ()
-
-subMenujava.lang.Object*
-+ (0	
-false"
- (
-	<unknown>:'
- (+
-subMenujava.lang.ObjectBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHÕ
-pcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createUpdatingPlaylistMenu(LSubMenu;)LCompletable;é
-É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt (""0*÷
-0" (4†
-ù
- (0
-%0java.lang.Object"icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;*M
- (0A?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
-" ()
-
-subMenujava.lang.Object*
-+ (/
-true"$
- (0
-
-%0java.lang.Object:'
-# (3
-subMenujava.lang.ObjectBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperH¥
-icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;é
-É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt ("0*°
-0 (A•
-¢
-   ("9
-%03com.simplecity.amp_library.data.PlaylistsRepository"ãcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/PlaylistsRepository;*M
-   ("A?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperŒÀ
- #  (1
-%1java.lang.Object"Ncom.simplecity.amp_library.data.PlaylistsRepository#getPlaylists()LObservable;*G
-   (";
-9
-%03com.simplecity.amp_library.data.PlaylistsRepository2getPlaylists()"
-  .(6
-	<unknown>:'
- (+
-subMenujava.lang.Object:!
-- (@
-
-autoUpdatebooleanBA?
-=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHÆ
-bcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*€
-0 (¢
-ü
+implicit returnB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogHﬂ
+@com.simplecity.amp_library.ui.dialog.ShareDialog#getSong()LSong;
+__unknown_file ("0*≈
+0 (å
+â
  (
-fieldjava.lang.Object"__id*r
- (f*dI
-Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion"
+fieldjava.lang.Object"__id*\
+ (P*N2
+0com.simplecity.amp_library.ui.dialog.ShareDialog"
+songjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogHˇ
+Acom.simplecity.amp_library.ui.dialog.ShareDialog#setSong(LSong;)V
+__unknown_file ("0*Ω
+0 (å
+â
+ (N2
+0com.simplecity.amp_library.ui.dialog.ShareDialog"
+songjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogHï
+Ecom.simplecity.amp_library.ui.dialog.ShareDialog#onAttach(LContext;)VÄ
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt ("0*‰
+0 (L
+J
+ (
+%0java.lang.Object"__id* 
+ (
+java.lang.Object’
+“
+   (<
+%1java.lang.Object"Acom.simplecity.amp_library.ui.dialog.ShareDialog#setSong(LSong;)V*@
+   (<42
+0com.simplecity.amp_library.ui.dialog.ShareDialog*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit return:'
+ (+
+contextjava.lang.ObjectB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogHÔ
+Qcom.simplecity.amp_library.ui.dialog.ShareDialog#onCreateDialog(LBundle;)LDialog;Ä
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt# #("0*(
+0# #("
+$ R(
+	<unknown>:2
+#  #(;&
+savedInstanceStatejava.lang.ObjectB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogH˙
+Icom.simplecity.amp_library.ui.dialog.ShareDialog#show(LFragmentManager;)VÄ
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.ktU U("0*>
+0U U(."/
+
+__unknown_file (
+implicit return:/
+U U(-#
+fragmentManagerjava.lang.ObjectB42
+0com.simplecity.amp_library.ui.dialog.ShareDialogHá
+Ucom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*Œ
+0 (ï
+í
+ (
+fieldjava.lang.Object"__id*e
+ (Y*W<
+:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
 TAGjava.lang.Object"'
  (
 
-fieldjava.lang.ObjectBKI
-Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$CompanionHŒ
-ccom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*”
-0 (¢
-ü
- (dI
-Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion"
+fieldjava.lang.ObjectB><
+:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionHß
+Vcom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*∆
+0 (ï
+í
+ (W<
+:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
 TAGjava.lang.Object"__id*'
  (
 
@@ -130,5 +99,68 @@ Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion"
  (
 implicit return:%
  (
-valuejava.lang.ObjectBKI
-Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$CompanionH
+valuejava.lang.ObjectB><
+:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionHë
+Zcom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#getARG_SONG()Ljava/lang/String;
+__unknown_file ("0*”
+0 (ö
+ó
+ (
+fieldjava.lang.Object"__id*j
+ (^*\<
+:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
+ARG_SONGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB><
+:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH±
+[com.simplecity.amp_library.ui.dialog.ShareDialog$Companion#setARG_SONG(Ljava/lang/String;)V
+__unknown_file ("0*À
+0 (ö
+ó
+ (\<
+:com.simplecity.amp_library.ui.dialog.ShareDialog$Companion"
+ARG_SONGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB><
+:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH´
+Äcom.simplecity.amp_library.ui.dialog.ShareDialog$Companion#newInstance(LSong;)Lcom/simplecity/amp_library/ui/dialog/ShareDialog;Ä
+v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/ShareDialog.kt_ _("0*∑
+0_ _(#W
+U
+` `(
+argsjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>vt
+b b((6
+%00com.simplecity.amp_library.ui.dialog.ShareDialog"0com.simplecity.amp_library.ui.dialog.ShareDialogï
+í
+b b((
+%1":com.simplecity.amp_library.ui.dialog.ShareDialog#<init>()V*D
+b b((8
+6
+%00com.simplecity.amp_library.ui.dialog.ShareDialogó
+î
+b b((<
+fragment0com.simplecity.amp_library.ui.dialog.ShareDialog"__id*D
+b b((8
+6
+%00com.simplecity.amp_library.ui.dialog.ShareDialogY
+W
+c c(%
+	argumentsjava.lang.Object"__id*&
+c! c(%
+
+argsjava.lang.Object"J
+d d(>
+<
+fragment0com.simplecity.amp_library.ui.dialog.ShareDialog:$
+_ _("
+songjava.lang.ObjectB>"<
+:com.simplecity.amp_library.ui.dialog.ShareDialog$CompanionH

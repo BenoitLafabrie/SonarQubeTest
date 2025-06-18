@@ -1,15 +1,12 @@
 
-Hcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#<init>()V
-__unknown_file ("startingBlock*œ
-startingBlock¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(? 
-
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(?
-%0"ListUpdateCallback#<init>()V*N
- (B@
->com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1"¾
-¦
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(?
-implicit returnBB@
->com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1
+icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;¨
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaü ü("1*%
+1
+ý ý("
+
+ý ý(0
+"": 
+
+__unknown_file (
+""BMK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback

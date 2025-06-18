@@ -1,1062 +1,7 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255145104*java2.Bà(
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962770*java2.BV
 T
-Oapp/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java2
-
-package4
-*
-%com.simplecity.amp_library.ui.widgets5
-=
-8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-BaseWidgetProvider12
-/
-)Recovered#typeBindingLAppWidgetProvider;014
-
-unknown15
-
-extends16
-
-
-uses17
-i
-ccom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getUpdateCommandString()Ljava/lang/String;19
-
-method20
-
-getUpdateCommandString21
-d
-^com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getLayoutIdString()Ljava/lang/String;23
-
-getLayoutIdString24
-S
-Mcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getWidgetLayoutId()I26
-
-getWidgetLayoutId27
-O
-Icom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getRootViewId()I29
-
-getRootViewId30
-|
-vcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#doOnMainThread(Lcom/simplecity/amp_library/rx/UnsafeAction;)V32
-
-	protected33
-
-doOnMainThread34
-0
-*com.simplecity.amp_library.rx.UnsafeAction36
-
-	has param37
-
-is type38
-Z
-Tcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_BACKGROUND_COLOR40
-
-field41
-!
-ARG_WIDGET_BACKGROUND_COLOR42
-T
-Ncom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_TEXT_COLOR44
-
-ARG_WIDGET_TEXT_COLOR45
-V
-Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_INVERT_ICONS47
-
-ARG_WIDGET_INVERT_ICONS48
-V
-Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_SHOW_ARTWORK50
-
-ARG_WIDGET_SHOW_ARTWORK51
-V
-Pcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.ARG_WIDGET_COLOR_FILTER53
-
-ARG_WIDGET_COLOR_FILTER54
-H
-Bcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider.mLayoutId56
-
-	mLayoutId57
-
-	LayoutRes59
-
-annotated by60
-'
-!Recovered#typeBindingLLayoutRes;062
-l
-fcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#update(LMusicService;LSharedPreferences;[IZ)V64
-
-update65
-*
-$Recovered#typeBindingLMusicService;067
-/
-)Recovered#typeBindingLSharedPreferences;069
-o
-icom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#initialiseWidget(LContext;LSharedPreferences;I)V71
-
-initialiseWidget72
-%
-Recovered#typeBindingLContext;074
-q
-kcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getSharedPreferences(LContext;)LSharedPreferences;76
-
-getSharedPreferences77
-
-SharedPreferences79
-
-returns80
-g
-acom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#onUpdate(LContext;LAppWidgetManager;[I)V82
-
-onUpdate83
-.
-(Recovered#typeBindingLAppWidgetManager;085
-
-
-references86
-
-calls87
-$
-Recovered#typeBindingLIntent;089
-B
-<com.simplecity.amp_library.playback.constants.ServiceCommand91
-J
-Dcom.simplecity.amp_library.playback.constants.ServiceCommand.COMMAND93
-c
-]com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#pushUpdate(LContext;ILRemoteViews;)V95
-
-
-pushUpdate96
-)
-#Recovered#typeBindingLRemoteViews;098
-Y
-Rcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getInstances(LContext;)[I100
-
-private101
-
-getInstances102
-o
-hcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#notifyChange(LMusicService;Ljava/lang/String;)V104
-
-notifyChange105
-g
-`com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupButtons(LContext;LRemoteViews;II)V107
-
-setupButtons108
-,
-%Recovered#typeBindingLPendingIntent;0110
-+
-$Recovered#typeBindingLMainActivity;0112
-
-PendingIntent114
-s
-lcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getPendingIntent(LContext;ILIntent;)LPendingIntent;116
-S
-Lcom.simplecity.amp_library.playback.constants.ServiceCommand.TOGGLE_PLAYBACK118
-H
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.NEXT120
-H
-Acom.simplecity.amp_library.playback.constants.ServiceCommand.PREV122
-K
-Dcom.simplecity.amp_library.playback.constants.ServiceCommand.SHUFFLE124
-J
-Ccom.simplecity.amp_library.playback.constants.ServiceCommand.REPEAT126
-
-getPendingIntent127
-l
-ecom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;[ILRemoteViews;I)V129
-
-loadArtwork130
-¿
-·com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;LRemoteViews;ILcom/simplecity/amp_library/glide/utils/CustomAppWidgetTarget$CustomErrorListener;[I)V132
-W
-Pcom.simplecity.amp_library.glide.utils.CustomAppWidgetTarget$CustomErrorListener134
-C
-<com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget136
-n
-gcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupRepeatView(LMusicService;LRemoteViews;Z)V138
-
-setupRepeatView139
-7
-0com.simplecity.amp_library.playback.QueueManager141
-B
-;com.simplecity.amp_library.playback.QueueManager$RepeatMode143
-F
-?com.simplecity.amp_library.playback.QueueManager$RepeatMode.ALL145
-F
-?com.simplecity.amp_library.playback.QueueManager$RepeatMode.ONE147
-o
-hcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupShuffleView(LMusicService;LRemoteViews;Z)V149
-
-setupShuffleView150
-C
-<com.simplecity.amp_library.playback.QueueManager$ShuffleMode152
-G
-@com.simplecity.amp_library.playback.QueueManager$ShuffleMode.OFF154J
+Oapp/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java2J
 
 1
-12Z
-
-3	
-354j‡
-@
-49:
-495041 *
-1. .(26:3B
-	
-9
-10
-
-
-11
-51
-@
-39:
-394041 *
-1+ +(26:3B
-	
-9
-10
-
-
-11
-42
-F
-128?
-12812920 *
-1‡ ‡(	26:3B
-	
-9
-33
-
-11
-130
-@
-28:
-282920 *
-1% %(26:3B
-	
-9
-10
-
-
-11
-30
-@
-31:
-313220 *
-1' '(26:3B
-	
-9
-33
-
-
-11
-34
-@
-43:
-434441 *
-1, ,(26:3B
-	
-9
-10
-
-
-11
-45
-@
-46:
-464741 *
-1- -(26:3B
-	
-9
-10
-
-
-11
-48
-
-146
-14614715
-D
-106=
-10610720 *
-1i i(26:3B
-	
-9
-10
-
-11
-108
-
-142
-14214315
-
-121
-12112215
-F
-131?
-13113220 *
-1‘ ‘(	26:3B
-	
-9
-33
-
-11
-130
-@
-25:
-252620 *
-1# #(26:3B
-	
-9
-10
-
-
-11
-27
-
-68
-686915
-
-35
-353615
-
-97
-979815
-@
-55:
-555641 *
-11 1(26:3B
-	
-9
-10
-
-
-11
-57
-@
-22:
-222320 *
-1! !(26:3B
-	
-9
-10
-
-
-11
-24
-F
-148?
-14814920 *
-1® ®(	26:3B
-	
-9
-33
-
-11
-150
-
-66
-666715
-
-117
-11711815
-@
-75:
-757620 *
-18 8(26:3B
-	
-9
-33
-
-
-11
-77
-
-135
-13513615
-F
-137?
-13713820 *
-1™ ™(	26:3B
-	
-9
-33
-
-11
-139
-E
-115>
-11511620 *
-1~ ~(26:3B
-
-
-9
-101
-
-11
-127
-
-113
-11311415
-
-125
-12512615
-
-140
-14014115
-@
-52:
-525341 *
-1/ /(26:3B
-	
-9
-10
-
-
-11
-54
-
-73
-737415
-
-111
-11111215
-@
-63:
-636420 *
-14 4(26:3B
-	
-9
-10
-
-
-11
-65
-
-151
-15115215
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-21
-@
-81:
-818220 *
-1< <(26:3B
-	
-9
-10
-
-
-11
-83
-
-84
-848515
-
-119
-11912015
-@
-70:
-707120 *
-16 6(26:3B
-	
-9
-33
-
-
-11
-72
-
-109
-10911015
-
-90
-909115
-
-144
-14414515
-D
-103=
-10310420 *
-1^ ^(26:3B
-	
-9
-10
-
-11
-105
-
-123
-12312415
-
-78
-787915
-
-153
-15315415
-
-13
-131415
-
-88
-888915
-9
-64
-678 *
-1 ():3B
-	
-9
-10
-
-
-11
-12
-
-92
-929315
-C
-99=
-9910020 *
-1Y Y(26:3B
-
-
-9
-101
-
-11
-102
-
-58
-585915
-
-133
-13313415
-
-61
-616215
-@
-94:
-949520 *
-1N N(26:3B
-	
-9
-33
-
-
-11
-96rÎ$
-
-61316*
-12 (C
-
-61317*
-12 (C
-
-313537*
-1'# '(/
-
-313538*
-1'0 '(6
-
-313517*
-1'# '(/
-
-555860*
-11 1(
-
-556117*
-11 1(
-
-636637*
-14! 4(-
-
-636837*
-147 4(H
-
-636638*
-14. 4(5
-
-636617*
-14! 4(-
-
-636838*
-14I 4(Z
-
-636817*
-147 4(H
-
-707337*
-16. 6(5
-
-706837*
-16? 6(P
-
-707338*
-166 6(=
-
-707317*
-16. 6(5
-
-706838*
-16Q 6(b
-
-706817*
-16? 6(P
-
-757880*
-18 8(
-
-757337*
-18, 8(3
-
-757817*
-18 8(
-
-757338*
-184 8(;
-
-757317*
-18, 8(3
-
-817337*
-1= =(!
-
-818437*
-1=+ =(;
-
-817338*
-1=" =()
-
-817317*
-1= =(!
-
-818438*
-1=< =(L
-
-818417*
-1=+ =(;
-
-816838*
-1? ?(,
-
-816817*
-1?	 ?(
-
-817880*
-1?/ ?(C
-
-81686*
-1?/ ?(C
-
-817587*
-1?/ ?(C
-
-815586*
-1B B(
-
-81686*
-1B2 B(C
-
-812287*
-1B2 B(C
-
-81686*
-1BU B(f
-
-812587*
-1BU B(f
-
-81686*
-1C C(
-
-817087*
-1C C(
-
-818838*
-1G G(
-
-818817*
-1G	 G(
-
-819017*
-1G* G(8
-
-819286*
-1G9 G(@
-
-81686*
-1H< H(R
-
-811887*
-1H< H(R
-
-947337*
-1N N(&
-
-949737*
-1NA N(L
-
-947338*
-1N' N(.
-
-947317*
-1N N(&
-
-949738*
-1NM N(R
-
-949717*
-1NA N(L
-
-948438*
-1P  P(0
-
-948417*
-1P P(
-
-94686*
-1UI U(M
-
-94617*
-1UI U(M
-
-94686*
-1UI U(M
-
-997337*
-1Y  Y('
-
-997338*
-1Y( Y(/
-
-997317*
-1Y  Y('
-
-998438*
-1Z Z(*
-
-998417*
-1Z	 Z(
-
-99686*
-1[M [(Q
-
-99617*
-1[M [(Q
-
-99686*
-1[M [(Q
-
-1036637*
-1^ ^(*
-
-1036638*
-1^+ ^(2
-
-1036617*
-1^ ^(*
-
-103686*
-1_ _(
-
-1039987*
-1_ _(
-
-103686*
-1d d(
-
-1036387*
-1d d(
-
-1037880*
-1d! d(5
-
-103686*
-1d! d(5
-
-1037587*
-1d! d(5
-
-103686*
-1d@ d(L
-
-1039987*
-1d@ d(L
-
-1067337*
-1i% i(,
-
-1069737*
-1i6 i(A
-
-1067338*
-1i- i(4
-
-1067317*
-1i% i(,
-
-1069738*
-1iB i(G
-
-1069717*
-1i6 i(A
-
-10610938*
-1k k($
-
-10610917*
-1k	 k(
-
-10611117*
-1ka k(m
-
-10611380*
-1n n()
-
-106686*
-1n n()
-
-10611587*
-1n n()
-
-1069017*
-1nK n(Y
-
-10611786*
-1nZ n(i
-
-10611380*
-1q q()
-
-106686*
-1q q()
-
-10611587*
-1q q()
-
-1069017*
-1qK q(Y
-
-10611986*
-1qZ q(^
-
-10611380*
-1t t()
-
-106686*
-1t t()
-
-10611587*
-1t t()
-
-1069017*
-1tK t(Y
-
-10612186*
-1tZ t(^
-
-10611380*
-1w w()
-
-106686*
-1w w()
-
-10611587*
-1w w()
-
-1069017*
-1wK w(Y
-
-10612386*
-1wZ w(a
-
-10611380*
-1z z()
-
-106686*
-1z z()
-
-10611587*
-1z z()
-
-1069017*
-1zK z(Y
-
-10612586*
-1zZ z(`
-
-11511380*
-1~ ~(!
-
-1157337*
-1~3 ~(:
-
-1158837*
-1~U ~([
-
-11511317*
-1~ ~(!
-
-1157338*
-1~; ~(B
-
-1157317*
-1~3 ~(:
-
-1158838*
-1~\ ~(b
-
-1158817*
-1~U ~([
-
-1156617*
-18 (D
-
-1286637*
-1‡ ‡("
-
-1289737*
-1‡@ ‡(K
-
-1286638*
-1‡# ‡(*
-
-1286617*
-1‡ ‡("
-
-1289738*
-1‡L ‡(Q
-
-1289717*
-1‡@ ‡(K
-
-128686*
-1‰	 ‰(
-
-12813187*
-1‰	 ‰(
-
-1316637*
-1‘ ‘("
-
-1319737*
-1‘, ‘(7
-
-13113337*
-1‘I ‘(^
-
-1316638*
-1‘# ‘(*
-
-1316617*
-1‘ ‘("
-
-1319738*
-1‘8 ‘(=
-
-1319717*
-1‘, ‘(7
-
-13113338*
-1‘s ‘(€
-
-13113517*
-1‘I ‘(^
-
-13113317*
-1‘_ ‘(r
-
-13113386*
-1‘_ ‘(r
-
-13113587*
-1– –(0
-
-1376637*
-1™ ™(&
-
-1379737*
-1™0 ™(;
-
-1376638*
-1™' ™(.
-
-1376617*
-1™ ™(&
-
-1379738*
-1™< ™(A
-
-1379717*
-1™0 ™(;
-
-13714017*
-1› ›(
-
-13714217*
-1› ›()
-
-13714286*
-1› ›()
-
-13714486*
-1›* ›(-
-
-13714017*
-1Ÿ Ÿ(
-
-13714217*
-1Ÿ Ÿ()
-
-13714286*
-1Ÿ Ÿ()
-
-13714686*
-1Ÿ* Ÿ(-
-
-1486637*
-1® ®('
-
-1489737*
-1®1 ®(<
-
-1486638*
-1®( ®(/
-
-1486617*
-1® ®('
-
-1489738*
-1®= ®(B
-
-1489717*
-1®1 ®(<
-
-14814017*
-1° °(
-
-14815117*
-1° °(*
-
-14815186*
-1° °(*
-
-14815386*
-1°+ °(.
+12

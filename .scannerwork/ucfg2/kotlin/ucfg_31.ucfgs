@@ -1,23 +1,149 @@
-ï
-Lcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract#<init>()V‘
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/SongsMenuContract.kt ("0*>
-0 (."/
+°
+ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#getMediaManager()LMediaManager;
+__unknown_file ("0*à
+0 (§
+¤
+ (
+fieldjava.lang.Object"__id*w
+ (k*iE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter" 
+mediaManagerjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterHÐ
+dcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#setMediaManager(LMediaManager;)V
+__unknown_file ("0*Ø
+0 (§
+¤
+ (iE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter" 
+mediaManagerjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterHý
+¨com.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#<init>(LContext;LMediaManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/data/Repository$BlacklistRepository;Lcom/simplecity/amp_library/utils/RingtoneManager;Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumsRepository;LNavigationEventRelay;)V”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/QueueMenuPresenter.kt! (,"0*ˆ
+0 ( °
+­
+ (*
+%0java.lang.Object"dcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#setMediaManager(LMediaManager;)V*c
+
+__unknown_file (GE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter*>
+
+__unknown_file ("
+ 
+mediaManagerjava.lang.Object”	
+‘	
+ !(
+%1"§com.simplecity.amp_library.ui.screens.songs.menu.SongMenuPresenter#<init>(LContext;LMediaManager;Lcom/simplecity/amp_library/utils/playlists/PlaylistManager;Lcom/simplecity/amp_library/data/Repository$BlacklistRepository;Lcom/simplecity/amp_library/utils/RingtoneManager;Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;Lcom/simplecity/amp_library/data/Repository$AlbumsRepository;LNavigationEventRelay;)V*c
+
+__unknown_file (GE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter*)
+ (
+
+contextjava.lang.Object*.
+ ("
+ 
+mediaManagerjava.lang.Object*[
+ (O
+M
+playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManager*c
+ (W
+U
+blacklistRepository>com.simplecity.amp_library.data.Repository$BlacklistRepository*Q
+ (E
+C
+ringtoneManager0com.simplecity.amp_library.utils.RingtoneManager*i
+ (]
+[
+albumArtistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository*]
+ (Q
+O
+albumsRepository;com.simplecity.amp_library.data.Repository$AlbumsRepository*6
+   (*
+(
+navigationEventRelayjava.lang.Object"/
 
 __unknown_file (
-implicit returnBFD
-Bcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContractHû
-Qcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract$View#<init>()V“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/SongsMenuContract.kt 
-("0*>
-0 (*"/
+implicit return:'
+ (
+contextjava.lang.Object:,
+ (* 
+mediaManagerjava.lang.Object:Y
+ ($M
+playlistManager:com.simplecity.amp_library.utils.playlists.PlaylistManager:a
+ (,U
+blacklistRepository>com.simplecity.amp_library.data.Repository$BlacklistRepository:O
+ ($C
+ringtoneManager0com.simplecity.amp_library.utils.RingtoneManager:g
+ (2[
+albumArtistsRepositoryAcom.simplecity.amp_library.data.Repository$AlbumArtistsRepository:[
+ (&O
+albumsRepository;com.simplecity.amp_library.data.Repository$AlbumsRepository:4
+ (.(
+navigationEventRelayjava.lang.ObjectBGE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterHã
+ˆcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#moveToNext(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)V”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/QueueMenuPresenter.kt# #("0* 
+0# #(ß
+Ü
+$ $(
+%0java.lang.Object"ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#getMediaManager()LMediaManager;*S
+$ $(GE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter"/
 
 __unknown_file (
-implicit returnBKI
-Gcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract$ViewH…
-Vcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract$Presenter#<init>()V“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/SongsMenuContract.kt ("0*>
-0 (H"/
+implicit return:N
+# #(0B
+	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItemBGE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterH›
+gcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#removeQueueItems(Ljava/util/List;)V”
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/menu/QueueMenuPresenter.kt' '(!"0* 
+0' '(ß
+Ü
+( ((
+%0java.lang.Object"ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter#getMediaManager()LMediaManager;*S
+( ((GE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter"/
 
 __unknown_file (
-implicit returnBPN
-Lcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract$PresenterH
+implicit return:(
+'" '(=
+
+queueItemsjava.util.ListBGE
+Ccom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenterHÀ
+hcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*á
+0 (¨
+¥
+ (
+fieldjava.lang.Object"__id*x
+ (l*jO
+Mcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBQO
+Mcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$CompanionHà
+icom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*Ù
+0 (¨
+¥
+ (jO
+Mcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBQO
+Mcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuPresenter$CompanionH

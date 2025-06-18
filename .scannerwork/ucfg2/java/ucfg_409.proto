@@ -1,16 +1,16 @@
 
-Dcom.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÔ Ô(#"1*„
+Icom.simplecity.amp_library.utils.SettingsManager#ignoreEmbeddedArtwork()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaè è(("1*‘
 1
-Õ Õ(]
-[
+é é(j
+h
 
-Õ Õ(-
-%0java.lang.String"__id*/
+é é(2
+%0java.lang.String"__id*<
 
-__unknown_file (
-pref_lock_queue"
+__unknown_file ( 
+pref_ignore_embedded_artwork"
 
-Õ Õ(6
+é é(;
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,17 +1,16 @@
 
-Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java« «("1*Ã
+Hcom.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÌ Ì('"1*†
 1
-¬ ¬(›
-˜
+Í Í(_
+]
 
-¬ ¬(,
-%0java.lang.String"__id*l
+Í Í(1
+%0java.lang.String"__id*1
 
-__unknown_file (P*N2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_PRIMARY_COLOR"
+__unknown_file (
+pref_placeholders"
 
-¬ ¬(2
+Í Í(:
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255138122*java2.Bª
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261955067*java2.Bª
 L
 Gapp/src/main/java/com/simplecity/amp_library/utils/PermissionUtils.java2
 
@@ -68,9 +68,9 @@ a
 
 onRationaleRequested43
 ô
-ícom.simplecity.amp_library.utils.PermissionUtils#RequestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)V45
+ícom.simplecity.amp_library.utils.PermissionUtils#requestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)V45
 
-RequestStoragePermissions46J
+requestStoragePermissions46J
 
 1
 12Z
@@ -120,17 +120,6 @@ A
 
 11
 12
-@
-44:
-444515 *
-1   (26:3B
-	
-9
-10
-
-
-11
-46
 A
 22;
 222315 *
@@ -174,7 +163,18 @@ A
 
 
 11
-40r–
+40
+@
+44:
+444515 *
+1   (26:3B
+	
+9
+10
+
+
+11
+46r–
 
 13617*
 1 (

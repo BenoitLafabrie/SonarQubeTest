@@ -1,138 +1,156 @@
- 
-çcom.simplecity.amp_library.playback.ScrobbleManager#getPlaybackSettingsManager()Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;
-__unknown_file ("0*ﬂ
-0 (˚
-¯
- (D
-field;com.simplecity.amp_library.playback.PlaybackSettingsManager"__id*ü
- (í*è5
-3com.simplecity.amp_library.playback.ScrobbleManager"V
-playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"R
- (F
-D
-field;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
-3com.simplecity.amp_library.playback.ScrobbleManagerHË
-écom.simplecity.amp_library.playback.ScrobbleManager#setPlaybackSettingsManager(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)V
-__unknown_file ("0*™
-0 (˘
-ˆ
- (è5
-3com.simplecity.amp_library.playback.ScrobbleManager"V
-playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"__id*R
- (F
-D
-value;com.simplecity.amp_library.playback.PlaybackSettingsManager"
- (
-implicit return:P
- (D
-value;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
-3com.simplecity.amp_library.playback.ScrobbleManagerHî
-zcom.simplecity.amp_library.playback.ScrobbleManager#<init>(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)VÉ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt	 	("0*Ì
-0	 	(S¨
-©
-	 	(RA
-%0;com.simplecity.amp_library.playback.PlaybackSettingsManager"écom.simplecity.amp_library.playback.ScrobbleManager#setPlaybackSettingsManager(Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;)V*S
-
-__unknown_file (75
-3com.simplecity.amp_library.playback.ScrobbleManager*t
-
-__unknown_file (X
-V
-playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManager"/
+Ê
+Icom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#<init>()Vé
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt  ("0*>
+0  ("/
 
 __unknown_file (
-implicit return:b
-	 	(RV
-playbackSettingsManager;com.simplecity.amp_library.playback.PlaybackSettingsManagerB75
-3com.simplecity.amp_library.playback.ScrobbleManagerHÎ
-Ncom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#getValue()I
-__unknown_file ("0*±
-0 (Ö
-Ç
- (
-fieldint"__id*b
- (V*TD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus"
-valueint"
- (
-
-fieldintBFD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusHã
-Ocom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#setValue(I)V
-__unknown_file ("0*∂
-0 (Ö
-Ç
- (TD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus"
-valueint"__id*
- (
-
-valueint"
- (
-implicit return:
- (
-valueintBFD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusH˘
-Mcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#<init>(I)VÉ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt ("0*∫
-0 (-˘
-ˆ
- (,	
-%0int"Ocom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus#setValue(I)V*b
-
-__unknown_file (FD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus**
-
-__unknown_file (
-
-valueint"/
+implicit returnBCA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacksHƒ
+êcom.simplecity.amp_library.utils.menu.album#createPlaylistFromAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt" "(0"0*>
+0" "("/
 
 __unknown_file (
-implicit return:
- (,
-valueintBFD
-Bcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatusHô
-
-õcom.simplecity.amp_library.playback.ScrobbleManager#scrobbleBroadcast(LContext;Lcom/simplecity/amp_library/playback/ScrobbleManager$ScrobbleStatus;LSong;)VÉ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/ScrobbleManager.kt ("0*¬
-2< (	Y
-W
- (:
-intentjava.lang.Object"__id*)
+implicit return:&
+"1 "(L
+albumsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumHÛ
+ïcom.simplecity.amp_library.utils.menu.album#addAlbumsToPlaylist(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LPlaylist;LSingle;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt& &(+"0*>
+0& &("/
+
+__unknown_file (
+implicit return:(
+&, &(>
+playlistjava.lang.Object:&
+&@ &([
+albumsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH∫
+Ücom.simplecity.amp_library.utils.menu.album#playAlbumsNext(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt* *(&"0*>
+0* *("/
+
+__unknown_file (
+implicit return:&
+*' *(B
+albumsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumHº
+àcom.simplecity.amp_library.utils.menu.album#addAlbumsToQueue(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt. .(("0*>
+0. .("/
+
+__unknown_file (
+implicit return:&
+.) .(D
+albumsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH∏
+Ñcom.simplecity.amp_library.utils.menu.album#deleteAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LSingle;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt2 2($"0*>
+02 2("/
+
+__unknown_file (
+implicit return:&
+2% 2(@
+albumsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH›
+Öcom.simplecity.amp_library.utils.menu.album#playAlbumsNext(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt6 6(&"0*‚
+06 6(°û
+7 7(!
+%0kotlin.Unit"acom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#playAlbumsNext(Ljava/util/List;)V*O
+7 7(!CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
 
 __unknown_file (
-	<unknown>S
-Q
-
-__unknown_file (
-%2"__id*)
-
-__unknown_file (
-	<unknown>*
-1*á
-0 (N•
-¢
- (#A
-%0;com.simplecity.amp_library.playback.PlaybackSettingsManager"çcom.simplecity.amp_library.playback.ScrobbleManager#getPlaybackSettingsManager()Lcom/simplecity/amp_library/playback/PlaybackSettingsManager;*C
- (#75
-3com.simplecity.amp_library.playback.ScrobbleManager«
-ƒ
-$ (:
-%1boolean"Xcom.simplecity.amp_library.playback.PlaybackSettingsManager#getEnableLastFmScrobbling()Z*O
- (#C
-A
-%0;com.simplecity.amp_library.playback.PlaybackSettingsManager*
-2
-1*>
-1	 ("/
+	<unknown>2 playAlbumsNext(Ljava/util/List;)"/
 
 __unknown_file (
-implicit return:'
- (*
-contextjava.lang.Object:W
-, (AK
-stateBcom.simplecity.amp_library.playback.ScrobbleManager$ScrobbleStatus:$
-C (M
-songjava.lang.ObjectB75
-3com.simplecity.amp_library.playback.ScrobbleManagerH
+implicit return:%
+6' 6(3
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH˚
+ècom.simplecity.amp_library.utils.menu.album#createPlaylistFromAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt: :(0"0*ˆ
+0: :(µ≤
+; ;(+
+%0kotlin.Unit"kcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#createPlaylistFromAlbums(Ljava/util/List;)V*O
+; ;(+CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2*createPlaylistFromAlbums(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:%
+:1 :(=
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH‡
+îcom.simplecity.amp_library.utils.menu.album#addAlbumsToPlaylist(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LPlaylist;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.kt> >(+"0*¨
+0> >(ÎË
+? ?(0
+%0kotlin.Unit"pcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#addAlbumsToPlaylist(LPlaylist;Ljava/util/List;)V*O
+? ?(0CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks**
+? ?( 
+
+playlistjava.lang.Object*)
+
+__unknown_file (
+	<unknown>2/addAlbumsToPlaylist(LPlaylist;Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:(
+>, >(>
+playlistjava.lang.Object:%
+>@ >(L
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH„
+ácom.simplecity.amp_library.utils.menu.album#addAlbumsToQueue(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktB B(("0*Ê
+0B B(•¢
+C C(#
+%0kotlin.Unit"ccom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#addAlbumsToQueue(Ljava/util/List;)V*O
+C C(#CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2"addAlbumsToQueue(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:%
+B) B(5
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH‡
+Ücom.simplecity.amp_library.utils.menu.album#blacklistAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktF F('"0*‰
+0F F(£†
+G G("
+%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#blacklistAlbums(Ljava/util/List;)V*O
+G G("CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2!blacklistAlbums(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:%
+F( F(4
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH◊
+Écom.simplecity.amp_library.utils.menu.album#deleteAlbums(Lcom/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks;LAlbum;)Vê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/album/AlbumsMenuCallbacks.ktJ J($"0*ﬁ
+0J J(ùö
+K K(
+%0kotlin.Unit"_com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks#deleteAlbums(Ljava/util/List;)V*O
+K K(CA
+?com.simplecity.amp_library.utils.menu.album.AlbumsMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2deleteAlbums(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:%
+J% J(1
+albumjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.albumH

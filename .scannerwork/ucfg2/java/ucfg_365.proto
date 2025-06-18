@@ -1,15 +1,13 @@
 
-5com.afollestad.aesthetic.AestheticSpinner$1#<init>()V
-__unknown_file ("startingBlock*±
-startingBlockå
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2È
-Ê
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2
-%0"Consumer#<init>()V*;
- (/-
-+com.afollestad.aesthetic.AestheticSpinner$1"§
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2
-implicit returnB/-
-+com.afollestad.aesthetic.AestheticSpinner$1
+@com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()ZÇ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaJ J("1*}
+1K K(Z
+X
+K K()
+%0java.lang.String"__id*.
+
+__unknown_file (
+pref_screen_on"
+K K(2
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,11 +1,9 @@
 Mthis
-é é(&"7com.simplecity.amp_library.ui.screens.tagger.TaggerTask-documentFiles
-é' é(G"java.util.List"j#
-!
+‚ ‚("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
+artistText
+‚ ‚(."java.lang.String"B.
+,
 
-ê ê(*"#unknown-value#1
-/
+ƒ ƒ($"#set-field# artistText:
 
-ê ê(*"#set-field# documentFiles:
-
-ë ë(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+„ „(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

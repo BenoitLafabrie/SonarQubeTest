@@ -1,5 +1,5 @@
-EthisN N( "1com.simplecity.amp_library.ui.modelviews.SongViewWlistenerN! N(A"?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener":*
-(
-O O( "#set-field# listener:
+Ethisb b("1com.simplecity.amp_library.ui.modelviews.SongView%showArtistNameb b(5"boolean"@0
+.
+c c(,"#set-field# showArtistName:
 
-P P(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+d d(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

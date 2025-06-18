@@ -1,16 +1,10 @@
 
-Ucom.simplecity.amp_library.utils.sorting.SortManager#getGenreDetailAlbumsAscending()Zˆ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaÈ È(0"1*w
-1
-É É(P
-N
-
-É! É(<
-%0java.lang.String"__id*"
+,com.afollestad.aesthetic.Util#stripAlpha(I)I
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaW W("1*!
+1X X("
+X X(N
+"": 
 
-__unknown_file (
-"""
-
-É É(D
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+__unknown_file (
+""B!"
+com.afollestad.aesthetic.UtilHX

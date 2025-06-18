@@ -1,91 +1,3 @@
-
-4.5ffloat
-truebooleanHthis
-ﬂ# ﬂ(8"2com.simplecity.amp_library.utils.color.ColorHelper(backgroundLight
-ﬂ9 ﬂ(P"boolean$foregroundColor
-ﬂR ﬂ(e"int$backgroundColor
-ﬂg ﬂ(z"int62com.simplecity.amp_library.utils.color.ColorHelper"b2
-0
-
-‡ ‡(.primaryTextColor"#id#:Bint,"*
-
-‚" ‚(1 *
-‚2 ‚(32
-„ „("]G
-E
-
-‚4 ‚(S"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint
-
-‚4 ‚(S"\F
-D
-
-„ „(8",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint
-
-„ „(8"Å*	ï
-í
-
-·! „(9
-secondaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:	Bint}
-{
-
-‰ ‰(N"L
-2com.simplecity.amp_library.utils.color.ColorHelpercalculateContrast(II)D2calculateContrast:
-Bdouble2
-0
-
-‰ ‰(U"#dependent-value#:Bboolean "
-
-‰ ‰(U *
-‰ ‰(
-"0,"*
-
-Â Â( *
-Â Â(2
-Î Î(" $*"secondaryTextColor
-"* primaryTextColor3
-1
-
-˜ ˜(?"#new-object#2ConstructorBPair5
-3
-
-˜ ˜(?"#unknown-value#2Constructor:
-
-˜ ˜(@"ûì
-ê
-
-Ê% Í(secondaryTextColor"N
-2com.simplecity.amp_library.utils.color.ColorHelperfindContrastColor(IIZD)I2findContrastColor:
-Bint"¥©
-¶
-
-Ï% (secondaryTextColor"Y
-2com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I2findContrastColorAgainstDark:
-Bint"V$*"secondaryTextColor,"*
-
-Û( Û(7	 
-*
-Ù Ù(2
-ı ı("â	G
-E
-
-Ù Ù(>"-+#get-field# LIGHTNESS_TEXT_DIFFERENCE_LIGHT:Bint*
-(
-
-Ù Ù(>"#unaryop -#2-:Bint
-
-Ù Ù(>"à
-F
-D
-
-ı ı(=",*#get-field# LIGHTNESS_TEXT_DIFFERENCE_DARK:Bint*
-(
-
-ı ı(="#unaryop -#2-:Bint
-
-ı ı(="∞*	
-ì
-ê
-
-Ú ı(>primaryTextColor"O
-2com.simplecity.amp_library.utils.color.ColorHelperchangeColorLightness(II)I2changeColorLightness:Bint*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+=this (#")com.afollestad.aesthetic.BgIconColorState"
+
+ .(*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/BgIconColorState.java

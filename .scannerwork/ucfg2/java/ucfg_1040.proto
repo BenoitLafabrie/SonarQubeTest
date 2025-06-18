@@ -1,81 +1,84 @@
 
-~com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;ú
-ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/CheckDocumentPermissionsTask.java! !($"startingBlock*Ÿ
-2"M "(X°
-û
-
-"ß "(¨
-%2java.util.List"__id*t
+Wcom.simplecity.amp_library.services.Equalizer#getZeroedBandsString(I)Ljava/lang/String;
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaD D(-"5*ñ
+3G G(Å˛
+G G(&
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*F
 
-__unknown_file (X*VK
-Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
-paths†
-ù
-	"M "(≠
-%3"ècom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z*X
-
-__unknown_file (<":
-8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder*"
 
 __unknown_file (
-""*"
+0;2append(Ljava/lang/String;)*
+4*x
+4F F(a
+_
+F F("
+%2boolean"	__compare*
+F F(
+<*
+F F(
+""*
+F F("
+""*
+3
+1*«
+5E& E(9DB
+E* E(7
+%0java.lang.StringBuilder"java.lang.StringBuilderr
+p
+E& E(9
+%1"!java.lang.StringBuilder#<init>()V*;
 
-__unknown_file (
-""*"
+__unknown_file (
+
+%0java.lang.StringBuildery
+w
+E E(:(
+stringBuilderjava.lang.StringBuilder"__id*;
 
-__unknown_file (
-""*2
+__unknown_file (
+
+%0java.lang.StringBuilder*
+4*‘
+1I I(ïí
+I# I(9	
+%4int")java.lang.AbstractStringBuilder#length()I*F
 
-__unknown_file (
-
-%2java.util.List*
-1*Ë
-3" "(ü
-ú
-"C "(H
-%0java.util.List"__id*t
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder2length()b
+`
+I# I(=	
+%5int"__calculate*
+I: I(;
+-*
+I# I(9
+	
+%4int*
+I< I(=2Ì
+I I(>
+%6java.lang.StringBuilder"@java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;*F
 
-__unknown_file (X*VK
-Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
-pathsÆ
-´
-" "(I
-%1"gcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z*X
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder*'
 
-__unknown_file (<":
-8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+__unknown_file (
+	
+%5int2deleteCharAt(I)Ø¨
+J J('
+%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*F
 
-__unknown_file (
-""*2
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder2
+toString()"$
+J J((
+
+%7java.lang.String: 
 
-__unknown_file (
-
-%0java.util.List*
-2
-1*é
-startingBlock!$ !(4è
-å
-   (
-%4"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*:
-
-__unknown_file (
-
-paramsjava.lang.Void[]\
-Z
-!- !(3
-paramsjava.lang.Void[]"__annotation*"
-
-__unknown_file (
-
-%4*
-3*#
-1	" "(Æ"
-	" "(Æ
-"":(
-!% !(3
-paramsjava.lang.Void[]BMK
-Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask
+__unknown_file (
+""B1"/
+-com.simplecity.amp_library.services.EqualizerH

@@ -1,17 +1,16 @@
 
-Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java³ ³("1*Â
+Dcom.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÔ Ô(#"1*„
 1
-´ ´(š
-—
+Õ Õ(]
+[
 
-´ ´(+
-%0java.lang.String"__id*k
+Õ Õ(-
+%0java.lang.String"__id*/
 
-__unknown_file (O*M2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_ACCENT_COLOR"
+__unknown_file (
+pref_lock_queue"
 
-´ ´(1
+Õ Õ(6
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

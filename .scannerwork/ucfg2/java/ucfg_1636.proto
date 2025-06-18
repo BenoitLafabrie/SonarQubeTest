@@ -1,18 +1,7 @@
 
-Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaó ó(+"1*«
-1
-ô ı(	p
-n
-
-ô ı(	
-%0java.io.FileFilter"__declareFunction*3
-
-__unknown_file (
-__sonar_lambda_100$"(
-
-ô ı(
-
-
-%0java.io.FileFilterB/"-
-+com.simplecity.amp_library.utils.FileHelperH
+Jcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()IŒ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java+ +("1*!
+1, ,("
+, ,((
+""B=;
+9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallHX

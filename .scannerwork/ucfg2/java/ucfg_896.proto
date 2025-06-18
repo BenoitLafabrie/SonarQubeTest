@@ -1,22 +1,24 @@
 
-‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#year(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaŒ Œ("1*÷
+‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#lyrics(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¥ ¥("1*û
 1
- ( š
-—
+¦ ¦($
+›
 
- ( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+¦ ¦($I9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
-yearText"__id*:
+lyricsText"__id*<
 
-__unknown_file (
-
-yearTextjava.lang.String"I
+__unknown_file ( 
+
 
- (;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
+lyricsTextjava.lang.String"I
 
-Œ Œ(*
-yearTextjava.lang.StringB;9
+§ §(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:,
+
+¥ ¥(.
+
+lyricsTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

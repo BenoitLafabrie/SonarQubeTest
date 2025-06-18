@@ -1,7 +1,24 @@
 
-]com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolder#toString()Ljava/lang/String;‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/TabViewModel.javan n("1*6
-1o o(,"'
-o o(-
-TabViewModel.ViewHolderBDB
-@com.simplecity.amp_library.ui.modelviews.TabViewModel$ViewHolderH
+Wcom.simplecity.amp_library.utils.FileHelper#getSupportedExtensions()[Ljava/lang/String;
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaì ì(1"1*§
+1
+í í(R
+P
+
+í í(
+%0java.lang.String[]"__id*"
+
+__unknown_file (
+""—”
+
+í í("
+%1java.lang.String[]"+java.lang.Object#clone()[Ljava/lang/String;*6
+
+__unknown_file (
+
+%0java.lang.String[]2clone()"(
+
+í í(#
+
+%1java.lang.String[]B/"-
++com.simplecity.amp_library.utils.FileHelperH

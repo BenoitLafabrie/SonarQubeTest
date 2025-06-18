@@ -1,66 +1,59 @@
 
-Scom.simplecity.amp_library.http.lastfm.LastFmArtist#getImageUrl()Ljava/lang/String;…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java ("5*!
-2 ("
- (
-""*Î
-37 (=¶
-³
-7 (=@
-%4:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
+@com.simplecity.amp_library.ui.views.PlayPauseDrawable#lerp(FFF)F‰
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java± ±("1*ô
+1
+² ²(i
+g
+
+² ²(
+%0float"__calculate*
+
+² ²(
+-*
+
+² ²(
+""*
+
+² ²(
+""p
+n
+
+² ²(
+%1float"__calculate*
+
+² ²(
+**
+
+² ²(
+
+%0float*
+
+² ²(
+""p
+n
+
+² ²(
+%2float"__calculate*
+
+² ²(
++*
+
+² ²(
+""*
+
+² ²(
+
+%1float"
+
+² ²(
+"": 
 
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artist*
-2
-1*©
-4 ($¶
-³
- ($@
-%2:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
+__unknown_file (
+"": 
 
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artistY
-W
- (3
-%3"	__compare*
-, (.
-==*
- (+
-""*
-/ (3
-""*
-2
-3*ð
-5 (¶
-³
- (@
-%0:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
+__unknown_file (
+"": 
 
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artistŸ
-œ
- (
-%1boolean"	__compare*
- (
-==*N
- (B
-@
-%0:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist*
- (
-""*
-2
-4*Ú
-1 (¶
-³
-+ (1@
-%5:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"__id*_
-
-__unknown_file (C*A5
-3com.simplecity.amp_library.http.lastfm.LastFmArtist"
-artist"
- (:
-""B75
-3com.simplecity.amp_library.http.lastfm.LastFmArtistH
+__unknown_file (
+""B9"7
+5com.simplecity.amp_library.ui.views.PlayPauseDrawableX

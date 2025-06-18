@@ -1,50 +1,134 @@
-≥
-öcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#setupQueueSongMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)Vã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt ("0*π
-0 (SZ
-X
- (D
-subMenujava.lang.Object"__id*)
-= (D
-
-subMenujava.lang.Objectú
-ô
- (6
-%0java.lang.Object"gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;*a
- (U
-S
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
-. (5
-
-subMenujava.lang.Object"/
+¿
+ãcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/PlaylistsRepository;
+__unknown_file ("0*Õ
+0 (Ò
+Ó
+ (<
+field3com.simplecity.amp_library.data.PlaylistsRepository"__id*ù
+ (ê*ç?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper"J
+playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"J
+ (>
+<
+field3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHﬁ
+åcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#setPlaylistsRepository(Lcom/simplecity/amp_library/data/PlaylistsRepository;)V
+__unknown_file ("0*†
+0 (Ô
+Ï
+ (ç?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper"J
+playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"__id*J
+ (>
+<
+value3com.simplecity.amp_library.data.PlaylistsRepository"
+ (
+implicit return:H
+ (<
+value3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHì
+|com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#<init>(Lcom/simplecity/amp_library/data/PlaylistsRepository;)Vé
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt! (,"0*·
+0 ( †
+ù
+ (89
+%03com.simplecity.amp_library.data.PlaylistsRepository"åcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#setPlaylistsRepository(Lcom/simplecity/amp_library/data/PlaylistsRepository;)V*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*h
+
+__unknown_file (L
+J
+playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepository"/
 
 __unknown_file (
-implicit return:$
- (*
-menujava.lang.Object:_
-, (RS
-playlistMenuHelper=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperB><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsHú
-ﬂcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lkotlin/jvm/functions/Function0;)LToolbar.OnMenuItemClickListener;ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt (!"0*(
-0! ({"
- %(	
-	<unknown>:*
-" (E
+implicit return:V
+ (8J
+playlistsRepository3com.simplecity.amp_library.data.PlaylistsRepositoryBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperH∫
+gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;)LDisposable;é
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt ("0*Ã
+0 (,°
+û
+ (1
+%0java.lang.Object"icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;*M
+ (1A?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
+" ()
+
+subMenujava.lang.Object*
++ (0	
+false"
+ (
+	<unknown>:'
+ (+
+subMenujava.lang.ObjectBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHÕ
+pcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createUpdatingPlaylistMenu(LSubMenu;)LCompletable;é
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt (""0*÷
+0" (4†
+ù
+ (0
+%0java.lang.Object"icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;*M
+ (0A?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelper*)
+" ()
+
+subMenujava.lang.Object*
++ (/
+true"$
+ (0
+
+%0java.lang.Object:'
+# (3
+subMenujava.lang.ObjectBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperH¥
+icom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#createPlaylistMenu(LSubMenu;Z)LCompletable;é
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/playlists/PlaylistMenuHelper.kt ("0*°
+0 (A•
+¢
+   ("9
+%03com.simplecity.amp_library.data.PlaylistsRepository"ãcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/PlaylistsRepository;*M
+   ("A?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperŒÀ
+ #  (1
+%1java.lang.Object"Ncom.simplecity.amp_library.data.PlaylistsRepository#getPlaylists()LObservable;*G
+   (";
+9
+%03com.simplecity.amp_library.data.PlaylistsRepository2getPlaylists()"
+  .(6
+	<unknown>:'
+ (+
+subMenujava.lang.Object:!
+- (@
 
-queueItemsjava.lang.Object:W
-G (dK
-	callbacks>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks:6
-f (z*
-closeCabkotlin.jvm.functions.Function0B><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsHô
-com.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuUtils.kt( ((!"0*(
-0(! ((V"
-) 7(	
-	<unknown>:N
-(" ((6B
-	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItem:W
-(8 ((UK
-	callbacks>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacksB><
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsH
+autoUpdatebooleanBA?
+=com.simplecity.amp_library.utils.playlists.PlaylistMenuHelperHÆ
+bcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion#getTAG()Ljava/lang/String;
+__unknown_file ("0*€
+0 (¢
+ü
+ (
+fieldjava.lang.Object"__id*r
+ (f*dI
+Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion"
+TAGjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectBKI
+Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$CompanionHŒ
+ccom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion#setTAG(Ljava/lang/String;)V
+__unknown_file ("0*”
+0 (¢
+ü
+ (dI
+Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$Companion"
+TAGjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectBKI
+Gcom.simplecity.amp_library.utils.playlists.PlaylistMenuHelper$CompanionH

@@ -27,6 +27,7 @@ import com.simplecity.amp_library.sql.providers.PlayCountTable
 import com.simplecity.amp_library.utils.LogUtils
 import com.simplecity.amp_library.utils.SettingsManager
 import com.simplecity.amp_library.utils.ShuttleUtils
+import com.simplecity.amp_library.utils.LogUtils
 import io.reactivex.Single
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.Disposable
@@ -87,46 +88,53 @@ class PlaylistManager @Inject constructor(
 
                             messageText.text = getPlaylistRemoveString(duplicates[0])
                             applyToAll.text = String.format(applicationContext.getString(R.string.dialog_checkbox_playlist_duplicate_apply_all), duplicates.size)
-
-                            // Fixme: Should not use application context to present dialog.
-                            MaterialDialog.Builder(applicationContext)
-                                .title(R.string.dialog_title_playlist_duplicates)
-                                .customView(customView, false)
-                                .positiveText(R.string.dialog_button_playlist_duplicate_add)
-                                .autoDismiss(false)
-                                .onPositive { dialog, which ->
-                                    //If we've only got one item, or we're applying it to all items
-                                    if (duplicates.size != 1 && !applyToAll.isChecked) {
-                                        //If we're 'adding' this song, we remove it from the 'duplicates' list
-                                        duplicates.removeAt(0)
-                                        messageText.text = getPlaylistRemoveString(duplicates[0])
-                                        applyToAll.text = String.format(applicationContext.getString(R.string.dialog_checkbox_playlist_duplicate_apply_all), duplicates.size)
-                                    } else {
-                                        //Add all songs to the playlist
-                                        insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)
-                                        settingsManager.setIgnoreDuplicates(alwaysAdd.isChecked)
-                                        dialog.dismiss()
+                            // Use an Activity context to present dialog instead of application context.
+                            val activityContext = ShuttleUtils.tryGetActivityContext(applicationContext)
+                            if (activityContext != null) {
+                                MaterialDialog.Builder(activityContext)
+                                    .title(R.string.dialog_title_playlist_duplicates)
+                                    .customView(customView, false)
+                                    .positiveText(R.string.dialog_button_playlist_duplicate_add)
+                                    .autoDismiss(false)
+                                    .onPositive { dialog, which ->
+                                        //If we've only got one item, or we're applying it to all items
+                                        if (duplicates.size != 1 && !applyToAll.isChecked) {
+                                            //If we're 'adding' this song, we remove it from the 'duplicates' list
+                                            duplicates.removeAt(0)
+                                            messageText.text = getPlaylistRemoveString(duplicates[0])
+                                            applyToAll.text = String.format(applicationContext.getString(R.string.dialog_checkbox_playlist_duplicate_apply_all), duplicates.size)
+                                        } else {
+                                            //Add all songs to the playlist
+                                            insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)
+                                            settingsManager.setIgnoreDuplicates(alwaysAdd.isChecked)
+                                            dialog.dismiss()
+                                        }
                                     }
-                                }
-                                .negativeText(R.string.dialog_button_playlist_duplicate_skip)
-                                .onNegative { dialog, which ->
-                                    //If we've only got one item, or we're applying it to all items
-                                    if (duplicates.size != 1 && !applyToAll.isChecked) {
-                                        //If we're 'skipping' this song, we remove it from the 'duplicates' list,
-                                        // and from the ids to be added
-                                        mutableSongList.remove(duplicates.removeAt(0))
-                                        messageText.text = getPlaylistRemoveString(duplicates[0])
-                                        applyToAll.text = String.format(applicationContext.getString(R.string.dialog_checkbox_playlist_duplicate_apply_all), duplicates.size)
-                                    } else {
-                                        //Remove duplicates from our set of ids
-                                        duplicates
-                                            .filter { mutableSongList.contains(it) }
-                                            .forEach { mutableSongList.remove(it) }
-                                        insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)
-                                        settingsManager.setIgnoreDuplicates(alwaysAdd.isChecked)
-                                        dialog.dismiss()
+                                    .negativeText(R.string.dialog_button_playlist_duplicate_skip)
+                                    .onNegative { dialog, which ->
+                                        //If we've only got one item, or we're applying it to all items
+                                        if (duplicates.size != 1 && !applyToAll.isChecked) {
+                                            //If we're 'skipping' this song, we remove it from the 'duplicates' list,
+                                            // and from the ids to be added
+                                            mutableSongList.remove(duplicates.removeAt(0))
+                                            messageText.text = getPlaylistRemoveString(duplicates[0])
+                                            applyToAll.text = String.format(applicationContext.getString(R.string.dialog_checkbox_playlist_duplicate_apply_all), duplicates.size)
+                                        } else {
+                                            //Remove duplicates from our set of ids
+                                            duplicates
+                                                .filter { mutableSongList.contains(it) }
+                                                .forEach { mutableSongList.remove(it) }
+                                            insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)
+                                            settingsManager.setIgnoreDuplicates(alwaysAdd.isChecked)
+                                            dialog.dismiss()
+                                        }
                                     }
-                                }
+                                    .show()
+                            } else {
+                                LogUtils.logException(TAG, "PlaylistManager: Could not get Activity context to show dialog", null)
+                                // Fallback: proceed without showing dialog
+                                insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)
+                            }
                                 .show()
                         } else {
                             insertPlaylistItems(playlist, mutableSongList, existingSongs.size, callback)

@@ -1,27 +1,36 @@
 
-£android.support.design.widget.CustomCollapsingToolbarLayout#generateDefaultLayoutParams()Landroid/support/design/widget/CustomCollapsingToolbarLayout$LayoutParams;ê
-É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.java∑ ∑(6"1*‘
-1
-∏  ∏(,©¶
-
-∏ ∏(N
-%0Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams"Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams∂
-≥
-
-∏ ∏(U
-%1"iandroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams#<init>(LContext;LAttributeSet;)V*l
-
-__unknown_file (P
-N
-%0Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-"""^
-
-∏ ∏(VP
-N
-%0Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParamsB?=
-;android.support.design.widget.CustomCollapsingToolbarLayout
+[android.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams#%field_initializer
+__unknown_file ("1*Ê
+1 (ª
+∏
+ê
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.javaË Ë(-	
+%0int"__id*
+ (
+""î
+ë
+ê
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.javaË Ë(.]J
+Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams"
+mCollapseMode"__id*
+ (
+	
+%0intΩ
+∫
+ê
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.javaÈ È(9
+%1float"__id*
+ (
+""ñ
+ì
+ê
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.javaÈ È(:]J
+Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams"
+mParallaxMult"__id*
+ (
+
+%1float"®
+ê
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.java◊ ¿	(
+implicit returnBLJ
+Handroid.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams

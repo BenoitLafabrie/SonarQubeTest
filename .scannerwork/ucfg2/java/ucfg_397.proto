@@ -1,16 +1,17 @@
 
-Mcom.simplecity.amp_library.utils.SettingsManager#getBluetoothResumeConnect()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java• •(,"1*‹
+Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()I„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java« «("1*Ã
 1
-– –(d
-b
+¬ ¬(›
+˜
 
-– –(3
-%0java.lang.String"__id*6
+¬ ¬(,
+%0java.lang.String"__id*l
 
-__unknown_file (
-pref_bluetooth_connect"
+__unknown_file (P*N2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_PRIMARY_COLOR"
 
-– –(<
+¬ ¬(2
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

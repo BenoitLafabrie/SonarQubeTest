@@ -1,35 +1,24 @@
 
-tcom.simplecity.amp_library.ui.modelviews.FolderView$DurationTask#doInBackground([Ljava/lang/Void;)Ljava/lang/String;á
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java± ±('"startingBlock*î
-startingBlock
-±' ±(7ë
-é
-
-∞ ∞(
-%0"
-__annotate*2
+ñcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment;ñ
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaE% E(0"1*™
+1F& F(>ùö
+F* F(<I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÀ
+»
+F& F(>
+%1"Mcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#<init>()V*g
 
-__unknown_file (
-java.lang.Override*:
+__unknown_file (K
+I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÕ
+ 
+F F(?O
+fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"__id*g
 
-__unknown_file (
-
-paramsjava.lang.Void[]^
-\
-
-±0 ±(6
-paramsjava.lang.Void[]"__annotation*"
-
-__unknown_file (
-
-%0*
-1*%
-1
-≤ ≤("
-
-≤ ≤(@
-"":*
-
-±( ±(6
-paramsjava.lang.Void[]BDB
-@com.simplecity.amp_library.ui.modelviews.FolderView$DurationTask
+__unknown_file (K
+I
+%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"]
+I I(Q
+O
+fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentBG"E
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentH

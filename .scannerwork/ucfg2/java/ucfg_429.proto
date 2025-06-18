@@ -1,16 +1,16 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#getDefaultPageType()IÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaª ª(!"1*Å
+Icom.simplecity.amp_library.utils.SettingsManager#showArtworkInSongList()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÿ ÿ(("1*ã
 1
-º º(Z
-X
+Ÿ Ÿ(d
+b
 
-º º(&
-%0java.lang.String"__id*,
+Ÿ Ÿ(,
+%0java.lang.String"__id*6
 
-__unknown_file (
-default_page"
+__unknown_file (
+pref_artwork_song_list"
 
-º º(C
+Ÿ Ÿ(4
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

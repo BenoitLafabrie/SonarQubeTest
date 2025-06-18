@@ -330,7 +330,12 @@ class QueueFragment :
         MultiSheetView.getParentMultiSheetView(view)?.let { multiSheetView ->
 
             // If we're not currently displaying the queue, then scroll to keep the position up to date
-            if (multiSheetView.currentSheet != Sheet.SECOND) {
+            if (multiSheetView.currentSheet != Sheet.SECOND && !queueViewBinders.isEmpty() && queuePosition < queueViewBinders.size) {
+                val index = adapter.items.indexOf(queueViewBinders[queuePosition])
+                if (index >= 0) {
+                    recyclerView.scrollToPosition(index)
+                }
+            }
                 if (!queueViewBinders.isEmpty() && queuePosition < queueViewBinders.size) {
                     val index = adapter.items.indexOf(queueViewBinders[queuePosition])
                     if (index >= 0) {

@@ -1,9 +1,13 @@
-$foregroundColor
-ª, ª(?"int$backgroundColor
-ªA ª(T"int"®ì
-ê
 
-º º(W"a
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:Bdouble
+4.5double$backgroundColor
+ø1 ø(D"int$foregroundColor
+øF ø(Y"int"≈}
+{
 
-º º(X*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+¿ ¿(N"L
+2com.simplecity.amp_library.utils.color.ColorHelpercalculateContrast(II)D2calculateContrast:Bdouble2
+0
+
+¿ ¿(U"#dependent-value#:Bboolean
+
+¿ ¿(V*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

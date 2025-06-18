@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255144987*java2.BÐ
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261962641*java2.B
 P
 Kapp/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java2
 
@@ -29,72 +29,29 @@ implements16
 
 
 uses17
-D
->com.simplecity.amp_library.utils.color.ArgbEvaluator.sInstance19
-
-field20
-
-private21
-
-	sInstance22
-
-is type23
-
-calls24
-~
-xcom.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;26
-
-method27
-
-getInstance28
-
-returns29
-
-
-references30
 |
-vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;32
+vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;19
+
+method20
 
-evaluate33J
+evaluate21J
 
 1
 12Z
 
 3	
-354j•
+354j‘
 @
 18:
 181920 *
-1	 (26:3B
+1	 (26:3B
 	
 9
+10
+
+
+11
 21
-
-
-11
-22
-@
-25:
-252627 *
-1	 (26:3B
-	
-9
-10
-
-
-11
-28
-@
-31:
-313227 *
-1$	 $(26:3B
-	
-9
-10
-
-
-11
-33
 
 13
 131415
@@ -108,34 +65,10 @@ vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Objec
 
 
 11
-12r…
+12r4
 
 61316*
 1' (4
 
 61317*
 1' (4
-
-18623*
-1 (+
-
-18617*
-1 (+
-
-18617*
-1, (5
-
-18624*
-1< (I
-
-25629*
-1 ($
-
-25617*
-1 ($
-
-25617*
-1 (
-
-251830*
-1 (

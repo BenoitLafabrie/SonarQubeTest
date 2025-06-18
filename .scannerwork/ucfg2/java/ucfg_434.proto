@@ -1,16 +1,7 @@
 
-Icom.simplecity.amp_library.utils.SettingsManager#showArtworkInSongList()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaØ Ø(("1*‹
-1
-Ù Ù(d
-b
-
-Ù Ù(,
-%0java.lang.String"__id*6
-
-__unknown_file (
-pref_artwork_song_list"
-
-Ù Ù(4
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+Ncom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#getLayoutResId()I
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java. .("1*!
+1/ /("
+/ /()
+""B@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

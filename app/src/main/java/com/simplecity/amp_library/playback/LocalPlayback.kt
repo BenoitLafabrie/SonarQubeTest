@@ -45,6 +45,8 @@ abstract class LocalPlayback(context: Context) : Playback {
 
     private var playOnFocusGain: Boolean = false
 
+    private var pausedManually: Boolean = false
+
     private var audioNoisyReceiverRegistered: Boolean = false
 
     private var currentAudioFocusState = AudioFocus.NO_FOCUS_NO_DUCK
@@ -90,12 +92,13 @@ abstract class LocalPlayback(context: Context) : Playback {
     }
 
     override fun willResumePlayback(): Boolean {
-        // Fixme: This returns true even after manually pausing playback. This should not be the case.
-        return playOnFocusGain
+        // Only resume playback if it was not paused manually
+        return playOnFocusGain && !pausedManually
     }
 
     @CallSuper
     override fun pause(fade: Boolean) {
+        pausedManually = true
         unregisterAudioNoisyReceiver()
     }
 
@@ -103,12 +106,13 @@ abstract class LocalPlayback(context: Context) : Playback {
     override fun stop() {
         playOnFocusGain = false
         giveUpAudioFocus()
-        unregisterAudioNoisyReceiver()
-    }
-
     @CallSuper
     override fun start() {
         playOnFocusGain = true
+        pausedManually = false
+        tryToGetAudioFocus()
+        registerAudioNoisyReceiver()
+    }
         tryToGetAudioFocus()
         registerAudioNoisyReceiver()
     }

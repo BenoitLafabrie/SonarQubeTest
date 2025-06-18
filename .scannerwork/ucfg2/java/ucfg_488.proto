@@ -1,64 +1,60 @@
 
-„com.afollestad.aesthetic.ColorIsDarkState$1#apply(Ljava/lang/Integer;Ljava/lang/Boolean;)Lcom/afollestad/aesthetic/ColorIsDarkState;Œ
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ColorIsDarkState.java (#"startingBlock*€
-startingBlock# (F
-Œ
- (
-%1"
-__annotate*2
+mcom.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;…
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/format/PrefixHighlighter.java> >("5*‚
+2D? D(C_
+]
+E4 E(I	
+%3int"__calculate*
+E: E(;
++*
+E4 E(9
+""*
+E< E(I
+"""
+F F(
+""*m
+4A A( Y
+W
+A A((
+%2"	__compare*
+A! A(#
+==*
+A A( 
+""*
+A$ A((
+""*
+2*¹
+5? ?(+¿
+¼
+? ?(9	
+%0int"bcom.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I*S
 
-__unknown_file (
-java.lang.Override*:
+__unknown_file (7"5
+3com.simplecity.amp_library.format.PrefixHighlighter*<
 
-__unknown_file (
-
-integerjava.lang.Integer\
-Z
-, (3
-integerjava.lang.Integer"__annotation*"
+__unknown_file ( 
+
+textjava.lang.CharSequence*.
 
-__unknown_file (
-
-%1
-
- (
-%2"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*;
-
-__unknown_file (
-
-aBooleanjava.lang.Boolean]
-[
-= (E
-aBooleanjava.lang.Boolean"__annotation*"
-
-__unknown_file (
-
-%2*
-1*²
-1 (ã
-à
- (9/
-%0)com.afollestad.aesthetic.ColorIsDarkState"_com.afollestad.aesthetic.ColorIsDarkState#create(IZ)Lcom/afollestad/aesthetic/ColorIsDarkState;*I
-
-__unknown_file (-"+
-)com.afollestad.aesthetic.ColorIsDarkState*:
-
-__unknown_file (
-
-integerjava.lang.Integer*;
-
-__unknown_file (
-
-aBooleanjava.lang.Boolean"=
- (:1
-/
-%0)com.afollestad.aesthetic.ColorIsDarkState:(
-$ (4
-integerjava.lang.Integer:)
-5 (E
-aBooleanjava.lang.BooleanB/-
-+com.afollestad.aesthetic.ColorIsDarkState$1H
+__unknown_file (
+
+prefixchar[]`
+^
+@ @(
+%1boolean"	__compare*
+@ @(
+!=*
+@ @(
+""*
+@ @(2*
+4
+1*;
+1H H(",
+H H( 
+
+textjava.lang.CharSequence:*
+> >(1
+textjava.lang.CharSequence:
+>2 >(?
+prefixchar[]B75
+3com.simplecity.amp_library.format.PrefixHighlighter

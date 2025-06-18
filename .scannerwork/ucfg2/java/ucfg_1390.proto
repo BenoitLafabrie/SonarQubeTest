@@ -1,7 +1,15 @@
 
-Icom.simplecity.amp_library.ui.modelviews.DiscNumberView#getLayoutResId()I‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/DiscNumberView.java ("1*!
-1 ($"
- (%
-""B;9
-7com.simplecity.amp_library.ui.modelviews.DiscNumberViewHX
+Ycom.simplecity.amp_library.utils.ThemeUtils$Theme#getPrimaryColorName()Ljava/lang/String;}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ThemeUtils.java? ?()"1*Ê
+1@ @(#”
+‘
+@ @(#
+%0java.lang.String"__id*g
+
+__unknown_file (K*I3
+1com.simplecity.amp_library.utils.ThemeUtils$Theme"
+primaryColorName"$
+@ @($
+
+%0java.lang.StringB53
+1com.simplecity.amp_library.utils.ThemeUtils$ThemeH

@@ -167,21 +167,52 @@ public class MusicNotificationHelper extends NotificationHelper {
                 }));
     }
 
-    public boolean startForeground(
-            Service service,
-            @NonNull Repository.PlaylistsRepository playlistsRepository,
-            @NonNull Repository.SongsRepository songsRepository,
-            @NonNull Song song,
-            boolean isPlaying,
-            @NonNull MediaSessionCompat.Token mediaSessionToken,
-            SettingsManager settingsManager,
-            FavoritesPlaylistManager favoritesPlaylistManager
-    ) {
-        notify(service, playlistsRepository, songsRepository, song, isPlaying, mediaSessionToken, settingsManager, favoritesPlaylistManager);
+    // Helper class to group parameters for startForeground
+    public static class PlaybackContext {
+        public final Repository.PlaylistsRepository playlistsRepository;
+        public final Repository.SongsRepository songsRepository;
+        public final Song song;
+        public final boolean isPlaying;
+        public final MediaSessionCompat.Token mediaSessionToken;
+        public final SettingsManager settingsManager;
+        public final FavoritesPlaylistManager favoritesPlaylistManager;
+
+        public PlaybackContext(
+                Repository.PlaylistsRepository playlistsRepository,
+                Repository.SongsRepository songsRepository,
+                Song song,
+                boolean isPlaying,
+                MediaSessionCompat.Token mediaSessionToken,
+                SettingsManager settingsManager,
+                FavoritesPlaylistManager favoritesPlaylistManager
+        ) {
+            this.playlistsRepository = playlistsRepository;
+            this.songsRepository = songsRepository;
+            this.song = song;
+            this.isPlaying = isPlaying;
+            this.mediaSessionToken = mediaSessionToken;
+            this.settingsManager = settingsManager;
+            this.favoritesPlaylistManager = favoritesPlaylistManager;
+        }
+    }
+
+    public static class ForegroundParams {
+        public final Service service;
+        public final PlaybackContext playbackContext;
+    public boolean startForeground(ForegroundParams params) {
+        PlaybackContext ctx = params.playbackContext;
+        notify(params.service, ctx.playlistsRepository, ctx.songsRepository, ctx.song, ctx.isPlaying, ctx.mediaSessionToken, ctx.settingsManager, ctx.favoritesPlaylistManager);
         try {
             analyticsManager.dropBreadcrumb(TAG, "startForeground() called");
             Log.w(TAG, "service.startForeground called");
-            service.startForeground(NOTIFICATION_ID, notification);
+            params.service.startForeground(NOTIFICATION_ID, notification);
+            return true;
+        } catch (RuntimeException e) {
+            Log.e(TAG, "startForeground not called, error: " + e);
+            LogUtils.logException(TAG, "Error starting foreground notification", e);
+            return false;
+        }
+    }
             return true;
         } catch (RuntimeException e) {
             Log.e(TAG, "startForeground not called, error: " + e);

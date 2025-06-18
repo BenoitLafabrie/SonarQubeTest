@@ -1,4 +1,7 @@
-@thisL L(",com.simplecity.amp_library.model.AlbumArtist"I7
+
+-"album_artist_artwork_"java.lang.String@thisL L(",com.simplecity.amp_library.model.AlbumArtist"7
 5
-M M("#get-field# name:Bjava.lang.String
-M M(*t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java
+N) N(-"#get-field# name:Bjava.lang.String4
+2
+N N(-"	#binop +#2+:Bjava.lang.String
+N N(.*t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java

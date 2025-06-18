@@ -1,176 +1,7 @@
 
-Ucom.simplecity.amp_library.ui.modelviews.SearchHeaderView#equals(Ljava/lang/Object;)Zå
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.java= =("startingBlock*•
-2C= C(A∞
-≠
-C= C(H.
-%12'com.simplecity.amp_library.model.Header"__id*k
-
-__unknown_file (O*M
-A
-that9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"
-headerç
-ä
-C= C(P
-%9boolean"	__compare*
-CI C(K
-==*<
-C= C(H0
-.
-%12'com.simplecity.amp_library.model.Header*
-CL C(P
-""N
-L
-C= C(P
-%7boolean"__id*+
-
-__unknown_file (
-
-%9boolean*
-1*ﬁ
-3C  C(&™
-ß
-C  C(&.
-%10'com.simplecity.amp_library.model.Header"__id*e
-
-__unknown_file (I*G;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"
-header∞
-≠
-C. C(9.
-%11'com.simplecity.amp_library.model.Header"__id*k
-
-__unknown_file (O*M
-A
-that9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"
-headerôñ
-C  C(:
-%8boolean"Ccom.simplecity.amp_library.model.Header#equals(Ljava/lang/Object;)Z*L
-
-__unknown_file (0
-.
-%10'com.simplecity.amp_library.model.Header*L
-
-__unknown_file (0
-.
-%11'com.simplecity.amp_library.model.Header2equals(Ljava/lang/Object;)N
-L
-C  C(:
-%7boolean"__id*+
-
-__unknown_file (
-
-%8boolean*
-1*Ç
-startingBlock= =(#â
-Ü
-< <(
-%13"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectV
-T
-=! =("
-ojava.lang.Object"__annotation*#
-
-__unknown_file (
-
-%13*
-9*ﬁ
-4A3 A(4ã
-à
-A A(5A
-that9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"__id*3
-
-__unknown_file (
-
-ojava.lang.Object©
-¶
-C C(-
-%5'com.simplecity.amp_library.model.Header"__id*e
-
-__unknown_file (I*G;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"
-headerå
-â
-C C(
-%6boolean"	__compare*
-C C(
-!=*;
-C C(/
--
-%5'com.simplecity.amp_library.model.Header*
-C C(
-""*
-2
-3*!
-5?< ?(A"
-?5 ?(B
-""*Ô
-6? ?(!π∂
-? ?(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
-
-__unknown_file (=;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderView2
-getClass()ìê
-?' ?(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()Ö
-Ç
-? ?(3
-%4boolean"	__compare*
-?$ ?(&
-!=*#
-? ?(#
-
-%2java.lang.Class*#
-?' ?(3
-
-%3java.lang.Class*
-4
-5*ä
-7? ?(s
-q
-? ?(
-%1boolean"	__compare*
-? ?(
-==*#
-? ?(
-
-ojava.lang.Object*
-? ?(
-""*
-5
-6*!
-8> >(""
-> >(#
-""*√
-9> >(´
-®
-> >(
-%0boolean"	__compare*
-> >(
-==*I
-> >(=;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderView*#
-> >(
-
-ojava.lang.Object*
-7
-8*!
-1C C(Q"
-C C(Q
-"":!
-= =("
-ojava.lang.ObjectB=;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderViewHX
+Gcom.simplecity.amp_library.glide.utils.BitmapAndSizeResource#getSize()Iè
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/BitmapAndSizeResource.java1 1("1*!
+12 2("
+2 2(.
+""B@>
+<com.simplecity.amp_library.glide.utils.BitmapAndSizeResourceHX

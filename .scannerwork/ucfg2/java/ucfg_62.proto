@@ -1,22 +1,22 @@
 
 Tcom.simplecity.amp_library.model.AlbumArtist#getRemoteArtworkUrl()Ljava/lang/String;Ä
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaê ê(%"4*Ë
-2í í(ú¨
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaë ë(%"4*Ë
+2ì ì(ú¨
 ©
-í í(ú
+ì ì(ú
 %4java.lang.String"__concat*O
 
-í í(RA?
+ì ì(RA?
 =https://artwork.shuttlemusicplayer.app/api/v1/artwork?artist=*'
-íU í(ú
+ìU ì(ú
 
 %3java.lang.String"'
-í í(ù
+ì ì(ù
 
 %4java.lang.String*µ
-3íU í(úù
+3ìU ì(úù
 ö
-íU í(ú
+ìU ì(ú
 %3java.lang.String"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*3
 
 __unknown_file ("
@@ -31,22 +31,22 @@ t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simpleci
 %2java.lang.String*
 2*õ
 4
-í í(RÖ
+ì ì(RÖ
 Ç
 
-íg í(k
+ìg ì(k
 %0java.lang.String"__id*V
 
 __unknown_file (:*8.
 ,com.simplecity.amp_library.model.AlbumArtist"
 nameY
 W
-ím í(î
+ìm ì(î
 %1java.nio.charset.Charset"__id*"
 
 __unknown_file (
 ""°û
-ím í(õ
+ìm ì(õ
 %2java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;*<
 
 __unknown_file ( 

@@ -837,10 +837,7 @@ $reverseOrder(Ljava/util/Comparator;)Pjava.util.Collections#reverseOrder(Ljava/
 AppCompatImageViewjava.lang.Object˚
 +com.afollestad.aesthetic.AestheticImageViewAppCompatImageViewY
 onAttachedToWindow()Acom.afollestad.aesthetic.AestheticImageView#onAttachedToWindow()V]
-onDetachedFromWindow()Ccom.afollestad.aesthetic.AestheticImageView#onDetachedFromWindow()Vó
-+com.simplecity.amp_library.model.Suggestionjava.lang.ObjectV
-
-toString()Hcom.simplecity.amp_library.model.Suggestion#toString()Ljava/lang/String;£	
+onDetachedFromWindow()Ccom.afollestad.aesthetic.AestheticImageView#onDetachedFromWindow()V£	
 :com.simplecity.amp_library.ui.modelviews.SuggestedSongViewMultiItemView„
 QbindView(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)çcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)Vt
 equals(Ljava/lang/Object;)Vcom.simplecity.amp_library.ui.modelviews.SuggestedSongView#equals(Ljava/lang/Object;)Z`
@@ -1681,13 +1678,7 @@ create(IZ)_com.afollestad.aesthetic.ColorIsDarkState#create(IZ)Lcom/afollestad/
 0com.afollestad.aesthetic.AestheticSwitchCompat$1Consumerú
 3accept(Lcom/afollestad/aesthetic/ColorIsDarkState;)ecom.afollestad.aesthetic.AestheticSwitchCompat$1#accept(Lcom/afollestad/aesthetic/ColorIsDarkState;)Vƒ
 Lcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailFragmentModulejava.lang.Objectb
-<init>()Vcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailFragmentModule#<init>()V§
-;com.simplecity.amp_library.notifications.NotificationHelperjava.lang.ObjectS
-	cancel(I)Fcom.simplecity.amp_library.notifications.NotificationHelper#cancel(I)V≥
-@com.simplecity.amp_library.notifications.MusicNotificationHelper;com.simplecity.amp_library.notifications.NotificationHelperV
-cancel()Jcom.simplecity.amp_library.notifications.MusicNotificationHelper#cancel()VZ
-
-tearDown()Lcom.simplecity.amp_library.notifications.MusicNotificationHelper#tearDown()V$
+<init>()Vcom.simplecity.amp_library.ui.screens.genre.detail.GenreDetailFragmentModule#<init>()V$
 AestheticSeekBarjava.lang.Object˘
 2com.simplecity.amp_library.ui.views.SizableSeekBarAestheticSeekBarU
 
@@ -1702,7 +1693,9 @@ $ValueAnimator.AnimatorUpdateListenerjava.lang.Object\
 <init>()4com.simplecity.amp_library.utils.ViewUtils#<init>()V+
 AnimatorListenerAdapterjava.lang.ObjectG
 ,com.simplecity.amp_library.utils.ViewUtils$1AnimatorListenerAdapterG
-,com.simplecity.amp_library.utils.ViewUtils$2AnimatorListenerAdapterJ
+,com.simplecity.amp_library.utils.ViewUtils$2AnimatorListenerAdapter§
+;com.simplecity.amp_library.notifications.NotificationHelperjava.lang.ObjectS
+	cancel(I)Fcom.simplecity.amp_library.notifications.NotificationHelper#cancel(I)VJ
 6com.simplecity.amp_library.ui.modelviews.SectionedViewjava.lang.Object»
 1com.simplecity.amp_library.ui.common.BaseFragment2test.com.androidnavigation.fragment.BaseControllerG
 <init>();com.simplecity.amp_library.ui.common.BaseFragment#<init>()Vä
@@ -2731,7 +2724,7 @@ Ocom.simplecity.amp_library.ui.screens.artist.list.AlbumArtistListFragmentModule
 ,com.simplecity.amp_library.rx.UnsafeCallablejava.lang.Objectjava.util.concurrent.Callable¢
 0com.simplecity.amp_library.utils.PermissionUtilsjava.lang.ObjectF
 <init>():com.simplecity.amp_library.utils.PermissionUtils#<init>()V˜
-`RequestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)ícom.simplecity.amp_library.utils.PermissionUtils#RequestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)Vô
+`requestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)ícom.simplecity.amp_library.utils.PermissionUtils#requestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)Vô
 qsimplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)£com.simplecity.amp_library.utils.PermissionUtils#simplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)VW
 Ccom.simplecity.amp_library.utils.PermissionUtils$PermissionCallbackjava.lang.Object/
 Permiso.IOnPermissionResultjava.lang.ObjectQ
@@ -3620,7 +3613,9 @@ EpublishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;){com.simp
 3com.simplecity.amp_library.playback.PlaybackMonitorjava.lang.Objectv
 getCurrentTimeObservable()Xcom.simplecity.amp_library.playback.PlaybackMonitor#getCurrentTimeObservable()LFlowable;p
 getProgressObservable()Ucom.simplecity.amp_library.playback.PlaybackMonitor#getProgressObservable()LFlowable;e
-Qcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$MiniPlayerLockjava.lang.Objectˆ	
+Qcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$MiniPlayerLockjava.lang.Objectæ
+Icom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$Holderjava.lang.Object_
+<init>()Scom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager$Holder#<init>()Vˆ	
 4com.simplecity.amp_library.ui.modelviews.ArtworkViewBaseViewModel—
 KbindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;)Åcom.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;)VÛ
 \bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;ILjava/util/List;)ícom.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;ILjava/util/List;)VY
@@ -4161,13 +4156,7 @@ Gcom.simplecity.amp_library.ui.screens.suggested.SuggestedFragmentModulejava.l
 <init>()7com.afollestad.aesthetic.InflationInterceptor#<init>()Vè
 2com.afollestad.aesthetic.AestheticSnackBarTextViewAppCompatTextView`
 onAttachedToWindow()Hcom.afollestad.aesthetic.AestheticSnackBarTextView#onAttachedToWindow()Vd
-onDetachedFromWindow()Jcom.afollestad.aesthetic.AestheticSnackBarTextView#onDetachedFromWindow()V«
->com.simplecity.amp_library.ui.screens.drawer.DrawerLockManagerjava.lang.ObjectT
-<init>()Hcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#<init>()V˘
-ZaddDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)öcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#addDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)Vû
-getInstance()åcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager;ˇ
-]removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)ùcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V]
-Icom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager$DrawerLockjava.lang.Objectì
+onDetachedFromWindow()Jcom.afollestad.aesthetic.AestheticSnackBarTextView#onDetachedFromWindow()Vì
 ;com.simplecity.amp_library.playback.DummyNotificationHelperjava.lang.ObjectQ
 <init>()Ecom.simplecity.amp_library.playback.DummyNotificationHelper#<init>()Vo
 setForegroundedByApp(Z)Tcom.simplecity.amp_library.playback.DummyNotificationHelper#setForegroundedByApp(Z)Vı
@@ -4548,11 +4537,10 @@ toString()acom.simplecity.amp_library.ui.modelviews.SearchHeaderView$ViewHolder
 hashCode()3com.simplecity.amp_library.model.Header#hashCode()I™
 ?com.simplecity.amp_library.ui.screens.queue.QueueFragmentModulejava.lang.ObjectU
 <init>()Icom.simplecity.amp_library.ui.screens.queue.QueueFragmentModule#<init>()V!
-TypeEvaluatorjava.lang.Object€
+TypeEvaluatorjava.lang.Objectœ
 4com.simplecity.amp_library.utils.color.ArgbEvaluatorTypeEvaluatorjava.lang.ObjectJ
 <init>()>com.simplecity.amp_library.utils.color.ArgbEvaluator#<init>()V©
-/evaluate(FLjava/lang/Object;Ljava/lang/Object;)vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;â
-getInstance()xcom.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;F
+/evaluate(FLjava/lang/Object;Ljava/lang/Object;)vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;F
 2com.simplecity.amp_library.ui.settings.SupportViewjava.lang.Object,
 AestheticTintedImageViewjava.lang.Object«
 .com.simplecity.amp_library.ui.views.DragHandleAestheticTintedImageViewg
@@ -5806,7 +5794,8 @@ Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity1com.sim
 searchAndPlaySongs()\com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()Vﬁ
 ,com.simplecity.amp_library.http.HttpServer$1java.util.HashMapö
 4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V3
-SeekBar.OnSeekBarChangeListenerjava.lang.ObjectÕ
+SeekBar.OnSeekBarChangeListenerjava.lang.Object]
+Icom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager$DrawerLockjava.lang.ObjectÕ
 Acom.simplecityapps.recycler_adapter.recyclerview.RecyclerListenerRecyclerView.RecyclerListenerjava.lang.ObjectW
 <init>()Kcom.simplecityapps.recycler_adapter.recyclerview.RecyclerListener#<init>()V
 	NanoHTTPDjava.lang.Objectf
@@ -5831,7 +5820,14 @@ Jcom.simplecity.amp_library.utils.MusicServiceConnectionUtils$ServiceBinderSer
 getMediaSessionActions()Qcom.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()Jx
 getSessionToken()ccom.simplecity.amp_library.playback.MediaSessionManager#getSessionToken()LMediaSessionCompat/Token;U
 setActive(Z)Ecom.simplecity.amp_library.playback.MediaSessionManager#setActive(Z)Vâ
-&updateMediaSession(Ljava/lang/String;)_com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)VI
+&updateMediaSession(Ljava/lang/String;)_com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)V≥
+@com.simplecity.amp_library.notifications.MusicNotificationHelper;com.simplecity.amp_library.notifications.NotificationHelperV
+cancel()Jcom.simplecity.amp_library.notifications.MusicNotificationHelper#cancel()VZ
+
+tearDown()Lcom.simplecity.amp_library.notifications.MusicNotificationHelper#tearDown()Vó
++com.simplecity.amp_library.model.Suggestionjava.lang.ObjectV
+
+toString()Hcom.simplecity.amp_library.model.Suggestion#toString()Ljava/lang/String;I
 5com.simplecity.amp_library.playback.MediaManager$Defsjava.lang.ObjectÇ
 Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapterFragmentStatePagerAdaptern
 
@@ -5997,7 +5993,12 @@ getQueue()Kcom.simplecity.amp_library.playback.MediaManager#getQueue()Ljava/uti
 	start(IZ)6com.simplecity.amp_library.utils.SleepTimer#start(IZ)V=
 stop()3com.simplecity.amp_library.utils.SleepTimer#stop()VT
 %java.nio.channels.ReadableByteChanneljava.lang.Objectjava.nio.channels.Channel:
-&CompoundButton.OnCheckedChangeListenerjava.lang.Object(
+&CompoundButton.OnCheckedChangeListenerjava.lang.Object«
+>com.simplecity.amp_library.ui.screens.drawer.DrawerLockManagerjava.lang.ObjectT
+<init>()Hcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#<init>()V˘
+ZaddDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)öcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#addDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)Vû
+getInstance()åcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager;ˇ
+]removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)ùcom.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V(
 View.OnClickListenerjava.lang.Objectõ
 Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentBaseFragment&CompoundButton.OnCheckedChangeListenerDrawerLockManager.DrawerLock$MiniPlayerLockManager.MiniPlayerLockToolbar.OnMenuItemClickListenerW
 <init>()Kcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()Vu
@@ -6052,7 +6053,9 @@ toString()Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;ﬁ
  java.lang.IllegalAccessException&java.lang.ReflectiveOperationException6
 <init>()*java.lang.IllegalAccessException#<init>()VZ
 <init>(Ljava/lang/String;)<java.lang.IllegalAccessException#<init>(Ljava/lang/String;)VN
-:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.Objectœ
+:com.simplecity.amp_library.playback.MusicService$Callbacksjava.lang.ObjectÄ
+Icom.simplecity.amp_library.ui.widgets.WidgetProviderMedium$WidgetTextInfojava.lang.Object†
+h<init>(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)≥com.simplecity.amp_library.ui.widgets.WidgetProviderMedium$WidgetTextInfo#<init>(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Vœ
 9com.simplecity.amp_library.playback.MediaSessionManager$1MediaSessionCompat.CallbackQ
 	onPause()Dcom.simplecity.amp_library.playback.MediaSessionManager$1#onPause()VO
 onPlay()Ccom.simplecity.amp_library.playback.MediaSessionManager$1#onPlay()VU

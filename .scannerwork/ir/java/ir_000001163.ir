@@ -1,7 +1,4 @@
-
-truebooleanEthis ("1com.simplecity.amp_library.ui.modelviews.SongView"p0
-.
-@ @(*"#set-field# showArtistName:/
--
-B B()"#set-field# showAlbumName:	
- ò(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+EthisZ Z(""1com.simplecity.amp_library.ui.modelviews.SongView"H6
+4
+[ [("#get-field# showAlbumArt:Bboolean
+[ [(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

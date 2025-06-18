@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255127671*java2.B§
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261944909*java2.BÒ
 Z
 Uapp/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderExtraLarge.java2
 
@@ -34,224 +34,111 @@ C
 
 
 uses22
-H
-Bcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge.TAG24
+^
+Xcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge.ARG_EXTRA_LARGE_LAYOUT_ID24
 
 field25
-
-private26
-	
-TAG27
-^
-Xcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge.ARG_EXTRA_LARGE_LAYOUT_ID29
 
-ARG_EXTRA_LARGE_LAYOUT_ID30
+ARG_EXTRA_LARGE_LAYOUT_ID26
 W
-Qcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge.CMDAPPWIDGETUPDATE32
+Qcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge.CMDAPPWIDGETUPDATE28
 
-CMDAPPWIDGETUPDATE33
+CMDAPPWIDGETUPDATE29
 N
-Hcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#<init>()V35
+Hcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#<init>()V31
 
-method36
+method32
 
-Inject38
+Inject34
 $
-Recovered#typeBindingLInject;040
+Recovered#typeBindingLInject;036
 
-calls41
+calls37
 o
-icom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getUpdateCommandString()Ljava/lang/String;43
+icom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getUpdateCommandString()Ljava/lang/String;39
 
-getUpdateCommandString44
+getUpdateCommandString40
 
 
-references45
+references41
 j
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getLayoutIdString()Ljava/lang/String;47
+dcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getLayoutIdString()Ljava/lang/String;43
 
-getLayoutIdString48
+getLayoutIdString44
 Y
-Scom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getWidgetLayoutId()I50
+Scom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getWidgetLayoutId()I46
 
-getWidgetLayoutId51
+getWidgetLayoutId47
 U
-Ocom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getRootViewId()I53
+Ocom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getRootViewId()I49
 
-getRootViewId54
+getRootViewId50
 u
-ocom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#initialiseWidget(LContext;LSharedPreferences;I)V56
+ocom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#initialiseWidget(LContext;LSharedPreferences;I)V52
 
-	protected57
+	protected53
 
-initialiseWidget58
+initialiseWidget54
 %
-Recovered#typeBindingLContext;060
+Recovered#typeBindingLContext;056
 
-	has param61
+	has param57
 /
-)Recovered#typeBindingLSharedPreferences;063
+)Recovered#typeBindingLSharedPreferences;059
 
-is type64
+is type60
 '
-!Recovered#typeBindingLResources;066
+!Recovered#typeBindingLResources;062
 )
-#Recovered#typeBindingLRemoteViews;068
+#Recovered#typeBindingLRemoteViews;064
 r
-lcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#update(LMusicService;LSharedPreferences;[IZ)V70
+lcom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#update(LMusicService;LSharedPreferences;[IZ)V66
 
-update71
+update67
 *
-$Recovered#typeBindingLMusicService;073
+$Recovered#typeBindingLMusicService;069
+
+ycom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#updateSingleWidget(LMusicService;LSharedPreferences;I[IZ)V71
+
+private72
+
+updateSingleWidget73
 "
-Recovered#typeBindingLSong;075J
+Recovered#typeBindingLSong;075
+È
+Ácom.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#setWidgetTextViews(LRemoteViews;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V77
+
+setWidgetTextViews78J
 
 1
 12Z
 
 3	
-354j«
+354jï
 
-37
-373815
+33
+333415
 
-59
-596015
+55
+555615
 
 13
 131415
 @
-28:
-282925 *
-1 (26:3B
-	
-9
-10
-
-
-11
-30
-@
-46:
-464736 *
-1$ $(26:3B
-	
-9
-10
-
-
-11
-48
-@
-52:
-525336 *
-1. .(26:3B
-	
-9
-10
-
-
-11
-54
-9
-64
-678 *
-1 (&:3B
-	
-9
-10
-
-
-11
-12
-@
-69:
-697036 *
-1P P(26:3B
-	
-9
-10
-
-
-11
-71
-
-39
-394015
-@
-49:
-495036 *
-1) )(26:3B
-	
-9
-10
-
-
-11
-51
-
-72
-727315
-
-74
-747515
-@
 23:
 232425 *
-1 (26:3B
+1 (26:3B
 	
 9
+10
+
+
+11
 26
-
-
-11
-27
-
-65
-656615
-
-17
-171815
-@
-34:
-343536 *
-1 (26:3B
-	
-9
-10
-
-
-11
-12
-
-20
-202115
-@
-55:
-555636 *
-13 3(26:3B
-	
-9
-57
-
-
-11
-58
-@
-31:
-313225 *
-1 (26:3B
-	
-9
-10
-
-
-11
-33
 @
 42:
-424336 *
-1 (26:3B
+424332 *
+1   (26:3B
 	
 9
 10
@@ -259,117 +146,285 @@ $Recovered#typeBindingLMusicService;073
 
 11
 44
+@
+48:
+484932 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+50
+9
+64
+678 *
+1 (&:3B
+	
+9
+10
+
+
+11
+12
+@
+65:
+656632 *
+1L L(26:3B
+	
+9
+10
+
+
+11
+67
 
-62
-626315
+35
+353615
+@
+45:
+454632 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+47
 
-67
-676815rÉ
+68
+686915
+
+74
+747515
+@
+70:
+707132 *
+1V V(26:3B
+	
+9
+72
+
+
+11
+73
+
+61
+616215
+
+17
+171815
+@
+30:
+303132 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+B
+76<
+767732 *
+1„ „(26:3B
+	
+9
+72
+
+
+11
+78
+
+20
+202115
+@
+51:
+515232 *
+1/ /(26:3B
+	
+9
+53
+
+
+11
+54
+@
+27:
+272825 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+@
+38:
+383932 *
+1 (26:3B
+	
+9
+10
+
+
+11
+40
+
+58
+585915
+
+63
+636415r¨
+
 
 61316*
-1/ (A
+1/ (A
 
 61719*
-1 (
+1 (
 
 62022*
-1 (
+1 (
 
 61322*
-1/ (A
+1/ (A
 
-343719*
-1 (
+303319*
+1 (
 
-343922*
-1 (
+303522*
+1 (
 
-34641*
-1 ($
+30637*
+1 ($
 
-423145*
-1! !("
+382741*
+1 ("
 
-462845*
-1& &()
+422341*
+1" "()
 
-555961*
-14% 4(,
+515557*
+10% 0(,
 
-556261*
-146 4(G
+515857*
+106 0(G
 
-555964*
-14- 4(4
+515560*
+10- 0(4
 
-555922*
-14% 4(,
+515522*
+10% 0(,
 
-556264*
-14H 4(Y
+515860*
+10H 0(Y
 
-556222*
-146 4(G
+515822*
+106 0(G
 
-556564*
-15 5(
+516160*
+11 1(
 
-556522*
-15 5(
+516122*
+11 1(
 
-556764*
-16 6( 
+516360*
+12 2( 
 
-556722*
-16 6(
+516322*
+12 2(
 
-55645*
-1L3 L(@
+51641*
+1H3 H(@
 
-555241*
-1L3 L(@
+514837*
+1H3 H(@
 
-697261*
-1Q Q($
+656857*
+1M M($
 
-696261*
-1Q. Q(?
+655857*
+1M. M(?
 
-697264*
-1Q% Q(,
+656860*
+1M% M(,
 
-697222*
-1Q Q($
+656822*
+1M M($
 
-696264*
-1Q@ Q(Q
+655860*
+1M@ M(Q
 
-696222*
-1Q. Q(?
+655822*
+1M. M(?
+
+65641*
+1R R(
 
-692845*
-1[2 [(K
+657037*
+1R R(
 
-696564*
-1] ]( 
+706857*
+1V% V(1
 
-696522*
-1] ](
+705857*
+1V; V(L
 
-696764*
-1^ ^($
+706860*
+1V2 V(9
 
-696722*
-1^ ^(
+706822*
+1V% V(1
 
-697464*
-1e e(
+705860*
+1VM V(^
 
-697422*
-1e e(
-
-69645*
-1®7 ®(D
+705822*
+1V; V(L
+
+702341*
+1X. X(G
+
+706160*
+1Z Z(
+
+706122*
+1Z Z(
+
+706360*
+1[ [( 
+
+706322*
+1[ [(
+
+707460*
+1] ](
+
+707422*
+1]	 ](
+
+70641*
+1d	 d(
+
+707637*
+1d	 d(
+
+70641*
+1v3 v(@
+
+704837*
+1v3 v(@
 
-695241*
-1®7 ®(D
+766357*
+1„% „(0
+
+766360*
+1„1 „(6
+
+766322*
+1„% „(0

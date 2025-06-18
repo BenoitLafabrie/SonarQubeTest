@@ -1,15 +1,21 @@
 
-=com.simplecity.amp_library.ui.common.BaseActivity$1#<init>()V
-__unknown_file ("startingBlock*±
-startingBlockÉ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(T˚
-¯
-É
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(T
-%0"%Permiso.IOnPermissionResult#<init>()V*C
- (75
-3com.simplecity.amp_library.ui.common.BaseActivity$1"õ
-É
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.javaES E(T
-implicit returnB75
-3com.simplecity.amp_library.ui.common.BaseActivity$1
+;com.simplecity.amp_library.ui.common.BaseActivity#<init>()V
+__unknown_file ("startingBlock*∏
+startingBlockÅ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.java( ((ñ
+ì
+Å
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.java( ((
+%0"Dcom.simplecity.amp_library.ui.common.BaseActivity#%field_initializer*A
+ (53
+1com.simplecity.amp_library.ui.common.BaseActivityÌ
+Í
+Å
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.java( ((
+%1"AestheticActivity#<init>()V*A
+ (53
+1com.simplecity.amp_library.ui.common.BaseActivity"ô
+Å
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/BaseActivity.java( ((
+implicit returnB53
+1com.simplecity.amp_library.ui.common.BaseActivity

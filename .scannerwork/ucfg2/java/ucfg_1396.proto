@@ -1,15 +1,42 @@
 
-5com.afollestad.aesthetic.AestheticSeekBar$1#<init>()V
-__unknown_file ("startingBlock*±
-startingBlockå
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSeekBar.javaA? A(@È
-Ê
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSeekBar.javaA? A(@
-%0"Consumer#<init>()V*;
- (/-
-+com.afollestad.aesthetic.AestheticSeekBar$1"§
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSeekBar.javaA? A(@
-implicit returnB/-
-+com.afollestad.aesthetic.AestheticSeekBar$1
+__sonar_lambda_86$
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java9) 9(\"startingBlock*ƒ
+startingBlock9) 9(\£
+†
+
+__unknown_file ("
+patternjava.util.regex.Pattern"__id*Z
+
+__unknown_file (>*</
+-com.simplecity.amp_library.utils.ArtworkUtils"	
+pattern*
+1*È
+192 9(9èå
+9B 9(Q
+%9java.lang.String"(java.io.File#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+file1java.io.File2	getName()úô
+92 9(R
+%10java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
+
+__unknown_file ($
+"
+patternjava.util.regex.Pattern*4
+
+__unknown_file (
+
+%9java.lang.String2!matcher(Ljava/lang/CharSequence;)äá
+92 9(\
+%11boolean""java.util.regex.Matcher#matches()Z*<
+
+__unknown_file ( 
+
+%10java.util.regex.Matcher2	matches()"
+92 9(\
+
+%11boolean:!
+9) 9(.
+file1java.io.FileB
+java.io.FileFilter

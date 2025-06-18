@@ -1,1021 +1,7 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255133390*java2.B“
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261950377*java2.B^
 \
-Wapp/src/main/java/com/simplecity/amp_library/notifications/MusicNotificationHelper.java2
-
-package4
--
-(com.simplecity.amp_library.notifications5
-E
-@com.simplecity.amp_library.notifications.MusicNotificationHelper7
-
-
-class8
-
-access9
-
-public10
-
-simple name11
-
-MusicNotificationHelper12
-A
-;com.simplecity.amp_library.notifications.NotificationHelper14
-
-unknown15
-
-extends16
-
-
-uses17
-J
-Dcom.simplecity.amp_library.notifications.MusicNotificationHelper.TAG19
-
-field20
-
-private21
-	
-TAG22
-V
-Pcom.simplecity.amp_library.notifications.MusicNotificationHelper.NOTIFICATION_ID24
-
-NOTIFICATION_ID25
-S
-Mcom.simplecity.amp_library.notifications.MusicNotificationHelper.notification27
-
-	protected28
-
-notification29
-
-Notification31
-
-is type32
-Q
-Kcom.simplecity.amp_library.notifications.MusicNotificationHelper.isFavorite34
-
-
-isFavorite35
-M
-Gcom.simplecity.amp_library.notifications.MusicNotificationHelper.bitmap37
-
-bitmap38
-
-Bitmap40
-N
-Hcom.simplecity.amp_library.notifications.MusicNotificationHelper.handler42
-
-handler43
-
-Handler45
-W
-Qcom.simplecity.amp_library.notifications.MusicNotificationHelper.analyticsManager47
-
-analyticsManager48
-
-AnalyticsManager50
-Z
-Tcom.simplecity.amp_library.notifications.MusicNotificationHelper.compositeDisposable52
-
-compositeDisposable53
-
-CompositeDisposable55
-k
-ecom.simplecity.amp_library.notifications.MusicNotificationHelper#<init>(LContext;LAnalyticsManager;)V57
-
-method58
-%
-Recovered#typeBindingLContext;060
-
-	has param61
-.
-(Recovered#typeBindingLAnalyticsManager;063
-
-calls64
-
-
-references65
-£
-úcom.simplecity.amp_library.notifications.MusicNotificationHelper#getBuilder(LContext;LSong;LMediaSessionCompat/Token;LBitmap;ZZ)LNotificationCompat/Builder;67
-
-
-getBuilder68
- 
-NotificationCompat.Builder70
-
-returns71
-"
-Recovered#typeBindingLSong;073
-0
-*Recovered#typeBindingLMediaSessionCompat;075
-$
-Recovered#typeBindingLBitmap;077
-0
-*Recovered#typeBindingLNotificationCompat;079
-
-NonNull81
-
-annotated by82
-%
-Recovered#typeBindingLNonNull;084
-
-Nullable86
-&
- Recovered#typeBindingLNullable;088
-$
-Recovered#typeBindingLIntent;090
-+
-%Recovered#typeBindingLPendingIntent;092
-Y
-Scom.simplecity.amp_library.notifications.NotificationHelper.NOTIFICATION_CHANNEL_ID94
-0
-*Recovered#typeBindingLandroid/support/v4;096
-É
-¸com.simplecity.amp_library.notifications.MusicNotificationHelper#notify(LContext;LRepository/PlaylistsRepository;LRepository/SongsRepository;LSong;ZLMediaSessionCompat/Token;Lcom/simplecity/amp_library/utils/SettingsManager;LFavoritesPlaylistManager;)V98
-
-notify99
-)
-"Recovered#typeBindingLRepository;0101
-7
-0com.simplecity.amp_library.utils.SettingsManager103
-7
-0Recovered#typeBindingLFavoritesPlaylistManager;0105
-
-SuppressLint107
-+
-$Recovered#typeBindingLSuppressLint;0109
-[
-Tcom.simplecity.amp_library.notifications.NotificationHelper#notify(ILNotification;)V111
-
-	!Unknown!113
-ç
-Öcom.simplecity.amp_library.notifications.MusicNotificationHelper#startForeground(LService;LRepository/PlaylistsRepository;LRepository/SongsRepository;LSong;ZLMediaSessionCompat/Token;Lcom/simplecity/amp_library/utils/SettingsManager;LFavoritesPlaylistManager;)Z115
-
-startForeground116
-&
-Recovered#typeBindingLService;0118
-_
-Xcom.simplecity.amp_library.notifications.MusicNotificationHelper#notify(LNotification;)V120
-+
-$Recovered#typeBindingLNotification;0122
-Q
-Jcom.simplecity.amp_library.notifications.MusicNotificationHelper#cancel()V124
-
-cancel125
-M
-Fcom.simplecity.amp_library.notifications.NotificationHelper#cancel(I)V127
-S
-Lcom.simplecity.amp_library.notifications.MusicNotificationHelper#tearDown()V129
-
-tearDown130J
+Wapp/src/main/java/com/simplecity/amp_library/notifications/MusicNotificationHelper.java2J
 
 1
-12Z
-
-3	
-354jﬁ
-
-59
-596015
-
-93
-939415
-9
-1122
-1121138 *
-1ê2 ê(3297:3B
-	
-9
-28
-@
-33:
-333420 *
-10 0(26:3B
-	
-9
-28
-
-
-11
-35
-@
-56:
-565758 *
-1: :(26:3B
-	
-9
-10
-
-
-11
-12
-
-74
-747515
-F
-114?
-11411558 *
-1™ ™(26:3B
-	
-9
-10
-
-11
-116
-@
-36:
-363720 *
-12 2(26:3B
-	
-9
-28
-
-
-11
-38
-
-95
-959615
-
-72
-727315
-
-13
-131415
-@
-66:
-666758 *
-1A A(26:3B
-	
-9
-10
-
-
-11
-68
-
-30
-303115
-@
-23:
-232420 *
-1, ,(26:3B
-	
-9
-21
-
-
-11
-25
-
-91
-919215
-
-39
-394015
-@
-51:
-515220 *
-18 8(26:3B
-	
-9
-21
-
-
-11
-53
-
-87
-878815
-
-80
-808115
-@
-46:
-464720 *
-16 6(26:3B
-	
-9
-21
-
-
-11
-48
-
-100
-10010115
-
-121
-12112215
-@
-26:
-262720 *
-1. .(26:3B
-	
-9
-28
-
-
-11
-29
-@
-41:
-414220 *
-14 4(26:3B
-	
-9
-21
-
-
-11
-43
-
-76
-767715
-E
-119>
-11912058 *
-1¡ ¡(26:3B
-	
-9
-10
-
-
-11
-99
-
-49
-495015
-@
-18:
-181920 *
-1* *(26:3B
-	
-9
-21
-
-
-11
-22
-
-89
-899015
-
-117
-11711815
-@
-97:
-979858 *
-1p p(26:3B
-	
-9
-10
-
-
-11
-99
-
-126
-12612715
-
-44
-444515
-9
-64
-678 *
-1( ((%:3B
-	
-9
-10
-
-
-11
-12
-
-62
-626315
-
-102
-10210315
-
-110
-11011115
-
-108
-10810915
-F
-123?
-12312458 *
-1≈ ≈(26:3B
-	
-9
-10
-
-11
-125
-
-69
-697015
-
-106
-10610715
-F
-128?
-12812958 *
-1… …(26:3B
-	
-9
-10
-
-11
-130
-
-78
-787915
-
-54
-545515
-
-83
-838415
-
-85
-858615
-
-104
-10410515r¨*
-
-61316*
-1(. ((@
-
-61317*
-1(. ((@
-
-263032*
-1. .(
-
-263017*
-1. .(
-
-263017*
-1. .(
-
-363932*
-12 2(
-
-363917*
-12 2(
-
-363917*
-12 2(
-
-414432*
-14 4(
-
-414417*
-14 4(
-
-414417*
-14 4(
-
-464932*
-16 6(
-
-464917*
-16 6(
-
-464917*
-16 6(.
-
-515432*
-18 8( 
-
-515417*
-18 8( 
-
-515417*
-18! 8(4
-
-565961*
-1:$ :(+
-
-566261*
-1:5 :(E
-
-56664*
-1: :(#
-
-565932*
-1:, :(3
-
-565917*
-1:$ :(+
-
-566232*
-1:F :(V
-
-566217*
-1:5 :(E
-
-561365*
-1;	 ;(
-
-561364*
-1;	 ;(
-
-561364*
-1;	 ;(
-
-564417*
-1=	 =(
-
-564165*
-1=	 =(
-
-56617*
-1>	 >(
-
-56665*
-1>	 >(
-
-564917*
-1> >(
-
-564665*
-1> >(
-
-666971*
-1A A(
-
-665961*
-1A2 A(9
-
-667261*
-1AL A(P
-
-667461*
-1A` A(r
-
-667661*
-1Añ A(ú
-
-667817*
-1A A(
-
-666917*
-1A A(&
-
-665932*
-1A: A(A
-
-665917*
-1A2 A(9
-
-667232*
-1AQ A(U
-
-668082*
-1AC A(D
-
-668317*
-1AD A(K
-
-667217*
-1AL A(P
-
-667432*
-1Ay A(ä
-
-668082*
-1AW A(X
-
-668317*
-1AX A(_
-
-667417*
-1A` A(r
-
-667417*
-1As A(x
-
-667632*
-1Aù A(£
-
-668582*
-1Aå A(ç
-
-668717*
-1Aç A(ï
-
-667617*
-1Añ A(ú
-
-668932*
-1D D(
-
-668917*
-1D	 D(
-
-669132*
-1F F($
-
-669117*
-1F	 F(
-
-667832*
-1H$ H(+
-
-667817*
-1H	 H(
-
-667817*
-1H H(#
-
-667817*
-1H2 H(D
-
-669365*
-1HV H(m
-
-669365*
-1K K(6
-
-669517*
-1O/ O(1
-
-669517*
-1O2 O(7
-
-669517*
-1O8 O(;
-
-669517*
-1O< O(N
-
-669517*
-1g0 g(2
-
-975961*
-1r r(
-
-9710061*
-1s s( 
-
-9710061*
-1t t( 
-
-977261*
-1u u(
-
-977461*
-1v v((
-
-9710261*
-1w w(%
-
-9710461*
-1x x(%
-
-9710682*
-1p p(
-
-9710817*
-1p p(
-
-975932*
-1r r(
-
-975917*
-1r r(
-
-9710032*
-1s5 s(H
-
-978082*
-1s s(
-
-978317*
-1s s(
-
-9710017*
-1s s( 
-
-9710017*
-1s! s(4
-
-9710032*
-1t1 t(@
-
-978082*
-1t t(
-
-978317*
-1t t(
-
-9710017*
-1t t( 
-
-9710017*
-1t! t(0
-
-977232*
-1u u(
-
-978082*
-1u u(
-
-978317*
-1u u(
-
-977217*
-1u u(
-
-977432*
-1v/ v(@
-
-978082*
-1v v(
-
-978317*
-1v v(
-
-977417*
-1v v((
-
-977417*
-1v) v(.
-
-9710232*
-1w& w(5
-
-978082*
-1w w(
-
-978317*
-1w w(
-
-9710217*
-1w w(%
-
-9710432*
-1x& x(>
-
-9710417*
-1x x(%
-
-973017*
-1z	 z(
-
-972665*
-1z	 z(
-
-976971*
-1z z("
-
-97665*
-1z z("
-
-976664*
-1z z("
-
-973917*
-1zE z(K
-
-973665*
-1zE z(K
-
-973365*
-1zX z(b
-
-971365*
-1{	 {(
-
-9711064*
-1{	 {(
-
-972365*
-1{ {(
-
-973017*
-1{! {(-
-
-972665*
-1{! {(-
-
-975165*
-1}	 }(
-
-975417*
-1}	 }(
-
-975165*
-1}	 }(
-
-97617*
-1Ç Ç(
-
-97665*
-1Ç Ç(
-
-97617*
-1ÉQ É(h
-
-97617*
-1Éi É(m
-
-97665*
-1Éi É(m
-
-974165*
-1â	 â(
-
-974417*
-1â	 â(
-
-974165*
-1â	 â(
-
-11411761*
-1´ ´(
-
-11410061*
-1¨ ¨( 
-
-11410061*
-1≠ ≠( 
-
-1147261*
-1Æ Æ(
-
-1147461*
-1∞ ∞((
-
-11410261*
-1± ±(
-
-11410461*
-1≤ ≤(%
-
-11411732*
-1´ ´(
-
-11411717*
-1´ ´(
-
-11410032*
-1¨5 ¨(H
-
-1148082*
-1¨ ¨(
-
-1148317*
-1¨ ¨(
-
-11410017*
-1¨ ¨( 
-
-11410017*
-1¨! ¨(4
-
-11410032*
-1≠1 ≠(@
-
-1148082*
-1≠ ≠(
-
-1148317*
-1≠ ≠(
-
-11410017*
-1≠ ≠( 
-
-11410017*
-1≠! ≠(0
-
-1147232*
-1Æ Æ(
-
-1148082*
-1Æ Æ(
-
-1148317*
-1Æ Æ(
-
-1147217*
-1Æ Æ(
-
-1147432*
-1∞/ ∞(@
-
-1148082*
-1∞ ∞(
-
-1148317*
-1∞ ∞(
-
-1147417*
-1∞ ∞((
-
-1147417*
-1∞) ∞(.
-
-11410232*
-1± ±(,
-
-11410217*
-1± ±(
-
-11410432*
-1≤& ≤(>
-
-11410417*
-1≤ ≤(%
-
-114665*
-1¥	 ¥(
-
-1149764*
-1¥	 ¥(
-
-1144665*
-1∂ ∂(
-
-1144917*
-1∂ ∂(
-
-1144665*
-1∂ ∂(
-
-1141865*
-1∂- ∂(0
-
-1141865*
-1∑ ∑(
-
-1142365*
-1∏% ∏(4
-
-1143017*
-1∏6 ∏(B
-
-1142665*
-1∏6 ∏(B
-
-1141865*
-1ª ª(
-
-1141865*
-1º# º(&
-
-11912161*
-1¡ ¡($
-
-11912132*
-1¡% ¡(1
-
-11912117*
-1¡ ¡($
-
-1191365*
-1¬	 ¬(
-
-11911064*
-1¬ ¬(
-
-119665*
-1¬	 ¬(
-
-1191317*
-1¬	 ¬(
-
-119665*
-1¬	 ¬(
-
-1192365*
-1¬ ¬(%
-
-1231365*
-1∆	 ∆(
-
-12312664*
-1∆ ∆(
-
-123665*
-1∆	 ∆(
-
-1231317*
-1∆	 ∆(
-
-123665*
-1∆	 ∆(
-
-1232365*
-1∆ ∆(%
-
-1285165*
-1 	  (
-
-1285417*
-1 	  (
-
-1285165*
-1 	  (
+12

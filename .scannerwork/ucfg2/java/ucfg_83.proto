@@ -1,40 +1,14 @@
 
-Kcom.simplecity.amp_library.ui.views.RepeatingImageButton#%field_initializer
-__unknown_file ("1*Ò
-1 (Ù
-Ò
-ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java (H:
-8com.simplecity.amp_library.ui.views.RepeatingImageButton"
-
-interval"__id*
- (2Ù¯
-ı
-ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java ("K:
-8com.simplecity.amp_library.ui.views.RepeatingImageButton"
-normalColor"__id*
- (
-""èå
-ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.javak% k(-@
-%0:com.simplecity.amp_library.ui.views.RepeatingImageButton$1":com.simplecity.amp_library.ui.views.RepeatingImageButton$1É
-Ä
-ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.javak! r(
-%1"java.lang.Object#<init>()V*N
- (B
-@
-%0:com.simplecity.amp_library.ui.views.RepeatingImageButton$1≤
-Ø
-ã
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.javak r(I:
+Lcom.simplecity.amp_library.ui.views.RepeatingImageButton#performLongClick()Zã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java; ;(#"1*∫
+1< <(ñ
+ì
+> >(
+%0java.lang.Runnable"__id*g
+
+__unknown_file (K*I:
 8com.simplecity.amp_library.ui.views.RepeatingImageButton"
-	mRepeater"__id*N
- (B
-@
-%0:com.simplecity.amp_library.ui.views.RepeatingImageButton$1"¢
-ä
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/RepeatingImageButton.java ê(
-implicit returnB<:
-8com.simplecity.amp_library.ui.views.RepeatingImageButton
+	mRepeater"
+? ?(
+""B<:
+8com.simplecity.amp_library.ui.views.RepeatingImageButtonHX

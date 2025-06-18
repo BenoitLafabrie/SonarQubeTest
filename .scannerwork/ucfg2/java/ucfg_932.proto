@@ -1,40 +1,80 @@
 
-fcom.simplecity.amp_library.utils.StringUtils#containsIgnoreCase(Ljava/lang/String;Ljava/lang/String;)ZÄ
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/StringUtils.java   (,"1*Œ
+]com.simplecity.amp_library.utils.StringUtils#buildMatchedChars(Ljava/lang/CharSequence;[II)[CÄ
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/StringUtils.java¥ ¥(+"6*¡
+3
+π π(™ß
+
+π π((
+
+%3char"!java.lang.CharSequence#charAt(I)C*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence*"
+
+__unknown_file (
+""2	charAt(I)*
+5*Å
+4
+∏ ∏(h
+f
+
+∏ ∏(%
+%2boolean"	__compare*
+
+∏  ∏("
+!=*
+
+∏ ∏(
+""*
+
+∏# ∏(%2*
+3
+5*Ç
+5
+∑ ∑(i
+g
+
+∑ ∑(/
+%1boolean"	__compare*
+
+∑ ∑(
+<*
+
+∑ ∑(
+""*
+
+∑ ∑(/
+""*
+4
+1*ä
+6
+µ µ($$"
+
+µ µ(%
+%0char[]"char[]N
+L
+
+µ µ(&
+mschar[]"__id**
+
+__unknown_file (
+
+%0char[]*
+5*-
 1
-À À(ûõ
+º º("
 
-À À(
-%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*4
+º º(
+
+mschar[]:+
+
+¥, ¥(=
+seqjava.lang.CharSequence: 
 
-__unknown_file (
-
-s1java.lang.String2toLowerCase()ûõ
-
-À) À(9
-%1java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*4
+__unknown_file (
+"": 
 
-__unknown_file (
-
-s2java.lang.String2toLowerCase()‰·
-
-À À(:
-%2boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*4
-
-__unknown_file (
-
-%0java.lang.String*4
-
-__unknown_file (
-
-%1java.lang.String2"contains(Ljava/lang/CharSequence;)"
-
-À À(;
-"":$
-
- -  (7
-s1java.lang.String:$
-
- 8  (A
-s2java.lang.StringB0".
-,com.simplecity.amp_library.utils.StringUtilsHX
+__unknown_file (
+""B0".
+,com.simplecity.amp_library.utils.StringUtils

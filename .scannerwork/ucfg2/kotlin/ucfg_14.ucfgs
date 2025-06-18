@@ -1,592 +1,651 @@
-Õ
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog#<init>()VÖ
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt o("0*>
-0 ()"/
-
-__unknown_file (
-implicit returnB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHŒ
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;
-__unknown_file ("0*é
-0 (ü
-ú
+Ü
+Wcom.simplecity.amp_library.data.InclExclRepository#getInclExclDatabase()LBriteDatabase;
+__unknown_file ("0*”
+0 (ö
+ó
  (
-fieldjava.lang.Object"__id*o
- (c*a9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
-analyticsManagerjava.lang.Objecti
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
+fieldjava.lang.Object"__id*j
+ (^*\4
+2com.simplecity.amp_library.data.InclExclRepository"$
+inclExclDatabasejava.lang.Object"'
  (
 
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
- (
-
-%0"'
- (
-
-fieldjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÓ
-`com.simplecity.amp_library.ui.settings.TabChooserDialog#setAnalyticsManager(LAnalyticsManager;)V
-__unknown_file ("0*Ü
-0 (i
-g
- (
-%0"
-__annotate* 
- (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
- (
-
-%0ü
-ú
- (a9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"$
-analyticsManagerjava.lang.Object"__id*'
+fieldjava.lang.ObjectB64
+2com.simplecity.amp_library.data.InclExclRepositoryH¶
+Xcom.simplecity.amp_library.data.InclExclRepository#setInclExclDatabase(LBriteDatabase;)V
+__unknown_file ("0*À
+0 (ö
+ó
+ (\4
+2com.simplecity.amp_library.data.InclExclRepository"$
+inclExclDatabasejava.lang.Object"__id*'
  (
 
 valuejava.lang.Object"
  (
 implicit return:%
  (
-valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÀ
-]com.simplecity.amp_library.ui.settings.TabChooserDialog#getSettingsManager()LSettingsManager;
-__unknown_file ("0*ç
-0 (û
-õ
- (
-fieldjava.lang.Object"__id*n
- (b*`9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
-settingsManagerjava.lang.Objecti
-g
+valuejava.lang.ObjectB64
+2com.simplecity.amp_library.data.InclExclRepositoryH”
+=com.simplecity.amp_library.data.InclExclRepository#getType()I
+__unknown_file ("0*∫
+0 (s
+q
+ (
+fieldint"__id*Q
+ (E*C4
+2com.simplecity.amp_library.data.InclExclRepository"
+typeint\
+Z
  (
 %0"
 __annotate* 
  (
-java.lang.Object*'
- (
-
-fieldjava.lang.ObjectI
-G
- (
-fieldjava.lang.Object"__annotation*
+java.lang.Object*
+ (
+
+fieldint<
+:
+ (
+fieldint"__annotation*
  (
 
-%0"'
- (
-
-fieldjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÎ
-^com.simplecity.amp_library.ui.settings.TabChooserDialog#setSettingsManager(LSettingsManager;)V
-__unknown_file ("0*Ö
-0 (i
-g
+%0"
+ (
+
+fieldintB64
+2com.simplecity.amp_library.data.InclExclRepositoryHÛ
+>com.simplecity.amp_library.data.InclExclRepository#setType(I)V
+__unknown_file ("0*ø
+0 (\
+Z
  (
 %0"
 __annotate* 
  (
-java.lang.Object*'
- (
-
-valuejava.lang.ObjectI
-G
- (
-valuejava.lang.Object"__annotation*
+java.lang.Object*
+ (
+
+valueint<
+:
+ (
+valueint"__annotation*
  (
 
-%0û
-õ
- (`9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"#
-settingsManagerjava.lang.Object"__id*'
- (
-
-valuejava.lang.Object"
+%0s
+q
+ (C4
+2com.simplecity.amp_library.data.InclExclRepository"
+typeint"__id*
+ (
+
+valueint"
  (
-implicit return:%
- (
-valuejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogH“
-Lcom.simplecity.amp_library.ui.settings.TabChooserDialog#onAttach(LContext;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt% %("0*å
-0% %(L
-J
-' '(
-%0java.lang.Object"__id* 
-' '(
-java.lang.Object"/
+implicit return:
+ (
+valueintB64
+2com.simplecity.amp_library.data.InclExclRepositoryH€
+Lcom.simplecity.amp_library.data.InclExclRepository#<init>(LBriteDatabase;I)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt& (1"0*¸
+0 (%{
+y
+ (,
+%0"
+__annotate*0
 
-__unknown_file (
-implicit return:'
-% %(+
-contextjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHÒ6
-Xcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;á
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt* *("0*î4
-0* *(d
-b
-+ +(V%
-sharedPreferencesjava.lang.Object"__id*)
+__unknown_file (
+java.lang.Object*)
 
-__unknown_file (
-	<unknown>Z
-X
-- -((
-adapterjava.lang.Object"__id*)
+__unknown_file (
+
+typeintK
+I
+ (,
+typeint"__annotation*"
 
-__unknown_file (
-	<unknown>b
-`
-/ 5(#
-itemTouchHelperjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>’“
-7 C(	e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0öó
-
-__unknown_file (k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__ScopeWrapperˇ
-¸
-
-__unknown_file (î
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"%
-sharedPreferencesjava.lang.Object"__id*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.ObjectÎ
-Ë
-
-__unknown_file (ä
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Object˚
-¯
-
-__unknown_file (í
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"#
-itemTouchHelperjava.lang.Object"__id*A
-
-__unknown_file (%
-#
-itemTouchHelperjava.lang.ObjectÅ
-˛
-
-__unknown_file (ï
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Object⁄
-◊
-
-__unknown_file (®9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V"__id*â
-
-__unknown_file (m
-k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()VÛ
-
-7 C(	
-%1"icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()V*s
-7 C(	g
-e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0∫∑
-
-__unknown_file (ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"__ScopeWrapperü
-ú
-
-__unknown_file (¥
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"%
-sharedPreferencesjava.lang.Object"__id*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.Objectã
-à
-
-__unknown_file (™
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Objectõ
-ò
-
-__unknown_file (≤
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"#
-itemTouchHelperjava.lang.Object"__id*A
-
-__unknown_file (%
-#
-itemTouchHelperjava.lang.Object°
-û
-
-__unknown_file (µ
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Objectõ
-ò
-
-__unknown_file (»9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)V"__id*™
-
-__unknown_file (ç
-ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)VÃ…
-
-__unknown_file (ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"__ScopeWrapper±
-Æ
-
-__unknown_file (∆
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"%
-sharedPreferencesjava.lang.Object"__id*C
-
-__unknown_file ('
-%
-sharedPreferencesjava.lang.Objectù
-ö
-
-__unknown_file (º
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"
-adapterjava.lang.Object"__id*9
-
-__unknown_file (
-
-adapterjava.lang.Object≠
-™
-
-__unknown_file (ƒ
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"#
-itemTouchHelperjava.lang.Object"__id*A
-
-__unknown_file (%
-#
-itemTouchHelperjava.lang.Object≥
-∞
-
-__unknown_file («
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"&
-savedInstanceStatejava.lang.Object"__id*D
-
-__unknown_file ((
-&
-savedInstanceStatejava.lang.Objectø
-º
-
-__unknown_file (⁄9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog"ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V"__id*º
-
-__unknown_file (ü
-ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)V¶
-£
-7 C(	
-listenerjava.lang.Object"__id*s
-7 C(	g
-e
-%0_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0X
-V
-E J(
-itemsjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>œ
-Ã
-L L(
-%2java.lang.Object"_com.simplecity.amp_library.ui.settings.TabChooserDialog#getAnalyticsManager()LAnalyticsManager;*G
-L L(;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialog_
-]
-O O(2 
-recyclerViewjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>`
-^
-P P(A!
-layoutManagerjava.lang.Object"__id*)
-
-__unknown_file (
-	<unknown>Z
-X
-Q Q(&
-adapterjava.lang.Object"__id*)
-Q Q(&
-
-adapterjava.lang.Object"
-U d(
-	<unknown>:2
-*  *(;&
-savedInstanceStatejava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHë
-
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt7 C(	"0*Ø
-07  7(5ú
-ô
-
-__unknown_file (
-%0"__id*
-
-__unknown_file (”*–a
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"k
-icom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#<init>()Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
+__unknown_file (
 
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
+%0ó
+î
+ (/
+%1java.lang.Object"Xcom.simplecity.amp_library.data.InclExclRepository#setInclExclDatabase(LBriteDatabase;)V*R
 
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
+__unknown_file (64
+2com.simplecity.amp_library.data.InclExclRepository*B
 
 __unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
+$
+inclExclDatabasejava.lang.Object◊
+‘
+ (,	
+%2int">com.simplecity.amp_library.data.InclExclRepository#setType(I)V*R
 
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
+__unknown_file (64
+2com.simplecity.amp_library.data.InclExclRepository*)
+
+__unknown_file (
+
+typeint"/
 
 __unknown_file (
-implicit returnBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H¯
+implicit return:0
+ (/$
+inclExclDatabasejava.lang.Object:
+ (,
+typeintB64
+2com.simplecity.amp_library.data.InclExclRepositoryHõ
+Gcom.simplecity.amp_library.data.InclExclRepository#add(LInclExclItem;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt ("0*ﬁ
+0 (Y
+W
+ (%
+valuesjava.lang.Object"__id*)
+
+__unknown_file (
+	<unknown>¬
+ø
+ (
+%0java.lang.Object"Wcom.simplecity.amp_library.data.InclExclRepository#getInclExclDatabase()LBriteDatabase;*B
+ (64
+2com.simplecity.amp_library.data.InclExclRepository"/
+
+__unknown_file (
+implicit return:,
+ (/ 
+inclExclItemjava.lang.ObjectB64
+2com.simplecity.amp_library.data.InclExclRepositoryHÒ
+Lcom.simplecity.amp_library.data.InclExclRepository#addAll(Ljava/util/List;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt ("0*>
+3&	 '("/
+
+__unknown_file (
+implicit return*I
+4
+__unknown_file ("*
+
+__unknown_file (
 
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt8 8($"0*œ
-08 8(º
-π
+early exit*∑
+0 (¬
+ø
+ (*
+%0java.lang.Object"Wcom.simplecity.amp_library.data.InclExclRepository#getInclExclDatabase()LBriteDatabase;*B
+ (*64
+2com.simplecity.amp_library.data.InclExclRepository^
+\
+ (;
+transactionjava.lang.Object"__id*)
 
-__unknown_file (
-%0"__id*ê
-
-__unknown_file (Û*a
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"ä
-ácom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onStartDrag(LTabViewModel.ViewHolder;)Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
-
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object"/
-
-__unknown_file (
-implicit return:&
-8% 8(D
-holderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0H˚
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.kt< <(("0*ì
-2=s A(H
-F
-> >(9
-	isCheckedjava.lang.Object"__id*
->4 >(9	
-falseH
-F
-? ?(?
-	isCheckedjava.lang.Object"__id*
-?: ?(?	
-falsezx
-@ @(#8
-%22com.simplecity.amp_library.ui.dialog.UpgradeDialog"2com.simplecity.amp_library.ui.dialog.UpgradeDialogô
-ñ
-@ @(#
-%3"<com.simplecity.amp_library.ui.dialog.UpgradeDialog#<init>()V*F
-@ @(#:
-8
-%22com.simplecity.amp_library.ui.dialog.UpgradeDialogS
+__unknown_file (
+	<unknown>*
+1*j
+1 $(	S
 Q
 
 __unknown_file (
 %1"__id*)
 
 __unknown_file (
-	<unknown>*
-1*∏
-0< <(Œ
-À
-
-__unknown_file (
-%0"__id*¢
-
-__unknown_file (Ö*Ça
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0"ú
-ôcom.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0#onFolderChecked(LTabViewModel;LTabViewModel.ViewHolder;)Vó
-î
-
-__unknown_file (%
-sharedPreferencesjava.lang.Object"__id*K
-
-__unknown_file (/*-
-
-%0"%
-sharedPreferencesjava.lang.ObjectÉ
-Ä
-
-__unknown_file (
-adapterjava.lang.Object"__id*A
-
-__unknown_file (%*#
-
-%0"
-adapterjava.lang.Objectì
-ê
-
-__unknown_file (#
-itemTouchHelperjava.lang.Object"__id*I
-
-__unknown_file (-*+
-
-%0"#
-itemTouchHelperjava.lang.Objectô
-ñ
-
-__unknown_file (&
-savedInstanceStatejava.lang.Object"__id*L
-
-__unknown_file (0*.
-
-%0"&
-savedInstanceStatejava.lang.Object*
-2
-1*>
-1A B("/
+	<unknown>*
+3
+4:+
+ (9
+inclExclItemsjava.util.ListB64
+2com.simplecity.amp_library.data.InclExclRepositoryH`√
+Jcom.simplecity.amp_library.data.InclExclRepository#delete(LInclExclItem;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt) )("0*É
+0) )(¬
+ø
+* *(
+%0java.lang.Object"Wcom.simplecity.amp_library.data.InclExclRepository#getInclExclDatabase()LBriteDatabase;*B
+* *(64
+2com.simplecity.amp_library.data.InclExclRepository"/
 
 __unknown_file (
 implicit return:,
-<) <(C 
-tabViewModeljava.lang.Object:*
-<E <(h
-
-viewHolderjava.lang.ObjectBca
-_com.simplecity.amp_library.ui.settings.TabChooserDialog#onCreateDialog(LBundle;)LDialog;$class0Hè
-Pcom.simplecity.amp_library.ui.settings.TabChooserDialog#show(LFragmentManager;)Vá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/settings/TabChooserDialog.ktg g("0*>
-0g g(."/
+) )(2 
+inclExclItemjava.lang.ObjectB64
+2com.simplecity.amp_library.data.InclExclRepositoryHﬂ
+Ccom.simplecity.amp_library.data.InclExclRepository#addSong(LSong;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt1 1("0*Æ
+01 1(ÌÍ
+2 2(*
+%0kotlin.Unit"Gcom.simplecity.amp_library.data.InclExclRepository#add(LInclExclItem;)V*B
+2 2(*64
+2com.simplecity.amp_library.data.InclExclRepository*)
+
+__unknown_file (
+	<unknown>2add(LInclExclItem;)"/
 
 __unknown_file (
-implicit return:/
-g g(-#
-fragmentManagerjava.lang.ObjectB;9
-7com.simplecity.amp_library.ui.settings.TabChooserDialogHú
-\com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#getTAG()Ljava/lang/String;
-__unknown_file ("0*’
-0 (ú
-ô
+implicit return:$
+1 1(#
+songjava.lang.ObjectB64
+2com.simplecity.amp_library.data.InclExclRepositoryH˚
+Qcom.simplecity.amp_library.data.InclExclRepository#addAllSongs(Ljava/util/List;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt5 5("0*>
+05 5("/
+
+__unknown_file (
+implicit return:#
+5 5(.
+songsjava.util.ListB64
+2com.simplecity.amp_library.data.InclExclRepositoryHä
+?com.simplecity.amp_library.data.InclExclRepository#deleteAll()VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt9 9("0*É
+09 9(¬
+ø
+: :(
+%0java.lang.Object"Wcom.simplecity.amp_library.data.InclExclRepository#getInclExclDatabase()LBriteDatabase;*B
+: :(64
+2com.simplecity.amp_library.data.InclExclRepository"/
+
+__unknown_file (
+implicit returnB64
+2com.simplecity.amp_library.data.InclExclRepositoryHâ
+Xcom.simplecity.amp_library.data.WhitelistRepository#getInclExclDatabase()LBriteDatabase;
+__unknown_file ("0*‘
+0 (õ
+ò
  (
-fieldjava.lang.Object"__id*l
- (`*^C
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
-TAGjava.lang.Object"'
+fieldjava.lang.Object"__id*k
+ (_*]5
+3com.simplecity.amp_library.data.WhitelistRepository"$
+inclExclDatabasejava.lang.Object"'
  (
 
-fieldjava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionHº
-]com.simplecity.amp_library.ui.settings.TabChooserDialog$Companion#setTAG(Ljava/lang/String;)V
-__unknown_file ("0*Õ
-0 (ú
-ô
- (^C
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$Companion"
-TAGjava.lang.Object"__id*'
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryH©
+Ycom.simplecity.amp_library.data.WhitelistRepository#setInclExclDatabase(LBriteDatabase;)V
+__unknown_file ("0*Ã
+0 (õ
+ò
+ (]5
+3com.simplecity.amp_library.data.WhitelistRepository"$
+inclExclDatabasejava.lang.Object"__id*'
  (
 
 valuejava.lang.Object"
  (
 implicit return:%
  (
-valuejava.lang.ObjectBEC
-Acom.simplecity.amp_library.ui.settings.TabChooserDialog$CompanionH
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryHá
+Lcom.simplecity.amp_library.data.WhitelistRepository#<init>(LBriteDatabase;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt?" ?(-"0*¿
+0? ?(!ô
+ñ
+?. ?(Y
+%0java.lang.Object"Ycom.simplecity.amp_library.data.WhitelistRepository#setInclExclDatabase(LBriteDatabase;)V*S
+
+__unknown_file (75
+3com.simplecity.amp_library.data.WhitelistRepository*B
+
+__unknown_file (&
+$
+inclExclDatabasejava.lang.Objectô
+ñ
+	?] ?(ú
+%1"Lcom.simplecity.amp_library.data.InclExclRepository#<init>(LBriteDatabase;I)V*S
+
+__unknown_file (75
+3com.simplecity.amp_library.data.WhitelistRepository*3
+	?p ?(Ä&
+$
+inclExclDatabasejava.lang.Object*+
+
+?î ?(õ
+
+INCLUDEjava.lang.Object“
+œ
+A A(4
+%2java.lang.Object"Vcom.simplecity.amp_library.data.WhitelistRepository#setInclSubscription(LDisposable;)V*C
+A A(475
+3com.simplecity.amp_library.data.WhitelistRepository*
+A0 A(4 Ú
+Ô
+B B(F
+%3java.lang.Object"[com.simplecity.amp_library.data.WhitelistRepository#setInclRelay(Lerror/NonExistentClass;)V*C
+B B(F75
+3com.simplecity.amp_library.data.WhitelistRepository*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit return:0
+?. ?(Y$
+inclExclDatabasejava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryHÜ
+Ucom.simplecity.amp_library.data.WhitelistRepository#getInclSubscription()LDisposable;
+__unknown_file ("0*‘
+0 (õ
+ò
+ (
+fieldjava.lang.Object"__id*k
+ (_*]5
+3com.simplecity.amp_library.data.WhitelistRepository"$
+inclSubscriptionjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryH¶
+Vcom.simplecity.amp_library.data.WhitelistRepository#setInclSubscription(LDisposable;)V
+__unknown_file ("0*Ã
+0 (õ
+ò
+ (]5
+3com.simplecity.amp_library.data.WhitelistRepository"$
+inclSubscriptionjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryHÑ
+Zcom.simplecity.amp_library.data.WhitelistRepository#getInclRelay()Lerror/NonExistentClass;
+__unknown_file ("0*Õ
+0 (î
+ë
+ (
+fieldjava.lang.Object"__id*d
+ (X*V5
+3com.simplecity.amp_library.data.WhitelistRepository"
+	inclRelayjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryH§
+[com.simplecity.amp_library.data.WhitelistRepository#setInclRelay(Lerror/NonExistentClass;)V
+__unknown_file ("0*≈
+0 (î
+ë
+ (V5
+3com.simplecity.amp_library.data.WhitelistRepository"
+	inclRelayjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.WhitelistRepositoryHâ
+Qcom.simplecity.amp_library.data.WhitelistRepository#getIncludeItems()LObservable;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.ktD D("0*Ô
+0D D(ƒ
+¡
+E E(
+%0java.lang.Object"Xcom.simplecity.amp_library.data.WhitelistRepository#getInclExclDatabase()LBriteDatabase;*C
+E E(75
+3com.simplecity.amp_library.data.WhitelistRepository"
+E H((
+	<unknown>B75
+3com.simplecity.amp_library.data.WhitelistRepositoryHö
+ècom.simplecity.amp_library.data.WhitelistRepository#getWhitelistItems(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LObservable;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.ktN N(""0*í
+2ON Q(	Ω
+∫
+P P(0
+%5java.lang.Object"Qcom.simplecity.amp_library.data.WhitelistRepository#getIncludeItems()LObservable;*C
+P P(075
+3com.simplecity.amp_library.data.WhitelistRepositoryÌ
+Í
+P P(E
+%6java.lang.Object"Vcom.simplecity.amp_library.data.WhitelistRepository#setInclSubscription(LDisposable;)V*C
+P P(E75
+3com.simplecity.amp_library.data.WhitelistRepository*)
+
+__unknown_file (
+	<unknown>N
+L
+
+__unknown_file (
+%4"__id*$
+P P(E
+
+%6java.lang.Object*
+1*›
+0K M(¡
+æ
+O O(
+%0java.lang.Object"Ucom.simplecity.amp_library.data.WhitelistRepository#getInclSubscription()LDisposable;*C
+O O(75
+3com.simplecity.amp_library.data.WhitelistRepositoryñì
+O O($
+%1boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*$
+O O(
+
+%0java.lang.Object*
+O  O($ 2equals(Ljava/lang/Object;)¡
+æ
+O( O(8
+%2java.lang.Object"Ucom.simplecity.amp_library.data.WhitelistRepository#getInclSubscription()LDisposable;*C
+O( O(875
+3com.simplecity.amp_library.data.WhitelistRepository§°
+O( O(L
+%3boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*,
+O: O(D 
+
+
+isDisposedjava.lang.Object*
+OH O(L
+true2equals(Ljava/lang/Object;)*
+2
+1*Ò
+1Q	 R(∆
+√
+R R(
+%7java.lang.Object"Zcom.simplecity.amp_library.data.WhitelistRepository#getInclRelay()Lerror/NonExistentClass;*C
+R R(75
+3com.simplecity.amp_library.data.WhitelistRepository"
+R R(5
+	<unknown>:Y
+N# N(NM
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB75
+3com.simplecity.amp_library.data.WhitelistRepositoryHâ
+Xcom.simplecity.amp_library.data.BlacklistRepository#getInclExclDatabase()LBriteDatabase;
+__unknown_file ("0*‘
+0 (õ
+ò
+ (
+fieldjava.lang.Object"__id*k
+ (_*]5
+3com.simplecity.amp_library.data.BlacklistRepository"$
+inclExclDatabasejava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryH©
+Ycom.simplecity.amp_library.data.BlacklistRepository#setInclExclDatabase(LBriteDatabase;)V
+__unknown_file ("0*Ã
+0 (õ
+ò
+ (]5
+3com.simplecity.amp_library.data.BlacklistRepository"$
+inclExclDatabasejava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryHá
+Lcom.simplecity.amp_library.data.BlacklistRepository#<init>(LBriteDatabase;)VÉ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.ktV" V(-"0*¿
+0V V(!ô
+ñ
+V. V(Y
+%0java.lang.Object"Ycom.simplecity.amp_library.data.BlacklistRepository#setInclExclDatabase(LBriteDatabase;)V*S
+
+__unknown_file (75
+3com.simplecity.amp_library.data.BlacklistRepository*B
+
+__unknown_file (&
+$
+inclExclDatabasejava.lang.Objectô
+ñ
+	V] V(ú
+%1"Lcom.simplecity.amp_library.data.InclExclRepository#<init>(LBriteDatabase;I)V*S
+
+__unknown_file (75
+3com.simplecity.amp_library.data.BlacklistRepository*3
+	Vp V(Ä&
+$
+inclExclDatabasejava.lang.Object*+
+
+Vî V(õ
+
+EXCLUDEjava.lang.Object“
+œ
+X X(4
+%2java.lang.Object"Vcom.simplecity.amp_library.data.BlacklistRepository#setExclSubscription(LDisposable;)V*C
+X X(475
+3com.simplecity.amp_library.data.BlacklistRepository*
+X0 X(4 Ú
+Ô
+Y Y(F
+%3java.lang.Object"[com.simplecity.amp_library.data.BlacklistRepository#setExclRelay(Lerror/NonExistentClass;)V*C
+Y Y(F75
+3com.simplecity.amp_library.data.BlacklistRepository*)
+
+__unknown_file (
+	<unknown>"/
+
+__unknown_file (
+implicit return:0
+V. V(Y$
+inclExclDatabasejava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryHÜ
+Ucom.simplecity.amp_library.data.BlacklistRepository#getExclSubscription()LDisposable;
+__unknown_file ("0*‘
+0 (õ
+ò
+ (
+fieldjava.lang.Object"__id*k
+ (_*]5
+3com.simplecity.amp_library.data.BlacklistRepository"$
+exclSubscriptionjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryH¶
+Vcom.simplecity.amp_library.data.BlacklistRepository#setExclSubscription(LDisposable;)V
+__unknown_file ("0*Ã
+0 (õ
+ò
+ (]5
+3com.simplecity.amp_library.data.BlacklistRepository"$
+exclSubscriptionjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryHÑ
+Zcom.simplecity.amp_library.data.BlacklistRepository#getExclRelay()Lerror/NonExistentClass;
+__unknown_file ("0*Õ
+0 (î
+ë
+ (
+fieldjava.lang.Object"__id*d
+ (X*V5
+3com.simplecity.amp_library.data.BlacklistRepository"
+	exclRelayjava.lang.Object"'
+ (
+
+fieldjava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryH§
+[com.simplecity.amp_library.data.BlacklistRepository#setExclRelay(Lerror/NonExistentClass;)V
+__unknown_file ("0*≈
+0 (î
+ë
+ (V5
+3com.simplecity.amp_library.data.BlacklistRepository"
+	exclRelayjava.lang.Object"__id*'
+ (
+
+valuejava.lang.Object"
+ (
+implicit return:%
+ (
+valuejava.lang.ObjectB75
+3com.simplecity.amp_library.data.BlacklistRepositoryHâ
+Qcom.simplecity.amp_library.data.BlacklistRepository#getExcludeItems()LObservable;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.kt[ [("0*Ô
+0[ [(ƒ
+¡
+\ \(
+%0java.lang.Object"Xcom.simplecity.amp_library.data.BlacklistRepository#getInclExclDatabase()LBriteDatabase;*C
+\ \(75
+3com.simplecity.amp_library.data.BlacklistRepository"
+\ `(+
+	<unknown>B75
+3com.simplecity.amp_library.data.BlacklistRepositoryHö
+ècom.simplecity.amp_library.data.BlacklistRepository#getBlacklistItems(Lcom/simplecity/amp_library/data/Repository$SongsRepository;)LObservable;É
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/data/BlacklistRepository.ktf f(""0*í
+2gN j(	Ω
+∫
+h h(0
+%5java.lang.Object"Qcom.simplecity.amp_library.data.BlacklistRepository#getExcludeItems()LObservable;*C
+h h(075
+3com.simplecity.amp_library.data.BlacklistRepositoryÌ
+Í
+h i(%
+%6java.lang.Object"Vcom.simplecity.amp_library.data.BlacklistRepository#setExclSubscription(LDisposable;)V*C
+h i(%75
+3com.simplecity.amp_library.data.BlacklistRepository*)
+
+__unknown_file (
+	<unknown>N
+L
+
+__unknown_file (
+%4"__id*$
+h i(%
+
+%6java.lang.Object*
+1*›
+0c e(¡
+æ
+g g(
+%0java.lang.Object"Ucom.simplecity.amp_library.data.BlacklistRepository#getExclSubscription()LDisposable;*C
+g g(75
+3com.simplecity.amp_library.data.BlacklistRepositoryñì
+g g($
+%1boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*$
+g g(
+
+%0java.lang.Object*
+g  g($ 2equals(Ljava/lang/Object;)¡
+æ
+g( g(8
+%2java.lang.Object"Ucom.simplecity.amp_library.data.BlacklistRepository#getExclSubscription()LDisposable;*C
+g( g(875
+3com.simplecity.amp_library.data.BlacklistRepository§°
+g( g(L
+%3boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*,
+g: g(D 
+
+
+isDisposedjava.lang.Object*
+gH g(L
+true2equals(Ljava/lang/Object;)*
+2
+1*Ò
+1j	 k(∆
+√
+k k(
+%7java.lang.Object"Zcom.simplecity.amp_library.data.BlacklistRepository#getExclRelay()Lerror/NonExistentClass;*C
+k k(75
+3com.simplecity.amp_library.data.BlacklistRepository"
+k k(5
+	<unknown>:Y
+f# f(NM
+songsRepository:com.simplecity.amp_library.data.Repository$SongsRepositoryB75
+3com.simplecity.amp_library.data.BlacklistRepositoryH

@@ -10,20 +10,20 @@ public class DrawerLockManager {
         String getTag();
     }
 
-    private static DrawerLockManager instance;
-
+    // Use Initialization-on-demand holder idiom for thread-safe Singleton
+    private static class Holder {
+        private static final DrawerLockManager INSTANCE = new DrawerLockManager();
+    }
+    
     private List<DrawerLock> drawerLocks = new ArrayList<>();
 
     @Nullable
     private DrawerLockController drawerLockController;
 
     private DrawerLockManager() {
-
-    }
-
     public static DrawerLockManager getInstance() {
-        if (instance == null) {
-            instance = new DrawerLockManager();
+        return Holder.INSTANCE;
+    }
         }
         return instance;
     }

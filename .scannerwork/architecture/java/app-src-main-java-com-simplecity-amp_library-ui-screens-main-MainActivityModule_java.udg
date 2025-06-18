@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750255137068*java2.BÛE
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750261954094*java2.BÛE
 Y
 Tapp/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivityModule.java2
 
@@ -295,9 +295,9 @@ dcom.simplecity.amp_library.ui.screens.main.MainActivityModule#upgradeDialogInje
 
 UpgradeDialog247
 q
-jcom.simplecity.amp_library.ui.screens.main.MainActivityModule#UpgradeNagDialogInjector()LUpgradeNagDialog;249
+jcom.simplecity.amp_library.ui.screens.main.MainActivityModule#upgradeNagDialogInjector()LUpgradeNagDialog;249
 
-UpgradeNagDialogInjector250
+upgradeNagDialogInjector250
 
 UpgradeNagDialog252
 u
@@ -783,6 +783,16 @@ D
 
 45
 454620
+F
+248?
+24824915 *
+1Ä Ä(26:3B
+	
+9
+16
+
+11
+250
 
 156
 15615720
@@ -811,16 +821,6 @@ F
 
 163
 16316420
-F
-248?
-24824915 *
-1Ä Ä(26:3B
-	
-9
-16
-
-11
-250
 
 165
 16516620

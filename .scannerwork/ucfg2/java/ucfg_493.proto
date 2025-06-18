@@ -1,60 +1,15 @@
 
-mcom.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;…
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/format/PrefixHighlighter.java> >("5*‚
-2D? D(C_
-]
-E4 E(I	
-%3int"__calculate*
-E: E(;
-+*
-E4 E(9
-""*
-E< E(I
-"""
-F F(
-""*m
-4A A( Y
-W
-A A((
-%2"	__compare*
-A! A(#
-==*
-A A( 
-""*
-A$ A((
-""*
-2*¹
-5? ?(+¿
-¼
-? ?(9	
-%0int"bcom.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I*S
-
-__unknown_file (7"5
-3com.simplecity.amp_library.format.PrefixHighlighter*<
-
-__unknown_file ( 
-
-textjava.lang.CharSequence*.
-
-__unknown_file (
-
-prefixchar[]`
-^
-@ @(
-%1boolean"	__compare*
-@ @(
-!=*
-@ @(
-""*
-@ @(2*
-4
-1*;
-1H H(",
-H H( 
-
-textjava.lang.CharSequence:*
-> >(1
-textjava.lang.CharSequence:
->2 >(?
-prefixchar[]B75
-3com.simplecity.amp_library.format.PrefixHighlighter
+Vcom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#%field_initializer
+__unknown_file ("1*÷
+1 (£
+ 
+«
+ /Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/behavior/CustomBottomSheetBehavior.java ()XE
+Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior"
+allowDragging"__id*
+ (2"Á
+©
+ /Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/behavior/CustomBottomSheetBehavior.java
+ %(
+implicit returnBGE
+Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior

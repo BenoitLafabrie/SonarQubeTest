@@ -150,12 +150,24 @@ class CreatePlaylistDialog : DialogFragment() {
 
         val dialog = builder.build()
 
+        // Query all playlist names once and cache them
+        val playlistNames = mutableSetOf<String>()
+        val query = Query.Builder()
+            .uri(MediaStore.Audio.Playlists.EXTERNAL_CONTENT_URI)
+            .projection(arrayOf(MediaStore.Audio.Playlists.NAME))
+            .sort(MediaStore.Audio.Playlists.NAME)
+            .build()
+        SqlUtils.createQuery(context, query)?.use { cursor ->
+            while (cursor.moveToNext()) {
+                playlistNames.add(cursor.getString(0).trim().lowercase())
+            }
+        }
+
         val textWatcher = object : TextWatcher {
             override fun beforeTextChanged(s: CharSequence, start: Int, count: Int, after: Int) {
                 // don't care about this one
             }
 
-            //Fixme: It's probably best to just query all playlist names first, and then check against hat list, rather than requerying for each char change.
             override fun onTextChanged(s: CharSequence, start: Int, before: Int, count: Int) {
                 val newText = editText.text.toString()
                 if (newText.trim { it <= ' ' }.isEmpty()) {
@@ -163,25 +175,11 @@ class CreatePlaylistDialog : DialogFragment() {
                 } else {
                     dialog.getActionButton(DialogAction.POSITIVE).isEnabled = true
                     // check if playlist with current name exists already, and warn the user if so.
-                    disposable.add(idForPlaylistObservable(newText)
-                        .subscribeOn(Schedulers.io())
-                        .observeOn(AndroidSchedulers.mainThread())
-                        .subscribe(
-                            { id ->
-                                if (id >= 0) {
-                                    dialog.getActionButton(DialogAction.POSITIVE).setText(R.string.create_playlist_overwrite_text)
-                                } else {
-                                    dialog.getActionButton(DialogAction.POSITIVE).setText(R.string.create_playlist_create_text)
-                                }
-                            },
-                            { error ->
-                                LogUtils.logException(
-                                    TAG,
-                                    "PlaylistManager: Error handling text change",
-                                    error
-                                )
-                            }
-                        ))
+                    if (playlistNames.contains(newText.trim().lowercase())) {
+                        dialog.getActionButton(DialogAction.POSITIVE).setText(R.string.create_playlist_overwrite_text)
+                    } else {
+                        dialog.getActionButton(DialogAction.POSITIVE).setText(R.string.create_playlist_create_text)
+                    }
                 }
             }
 

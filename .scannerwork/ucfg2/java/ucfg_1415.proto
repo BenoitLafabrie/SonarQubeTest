@@ -1,49 +1,26 @@
 
-__sonar_lambda_89$Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.javaæ) æ(\"startingBlock*∆
-startingBlock
-æ) æ(\£
-†
-
-__unknown_file ("
-patternjava.util.regex.Pattern"__id*Z
-
-__unknown_file (>*</
--com.simplecity.amp_library.utils.ArtworkUtils"	
-pattern*
-1*ı
-1
-æ2 æ(9íè
-
-æB æ(Q
-%11java.lang.String"(java.io.File#getName()Ljava/lang/String;*3
-
-__unknown_file (
-
-file1java.io.File2	getName()üú
-
-æ2 æ(R
-%12java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
-
-__unknown_file ($
-"
-patternjava.util.regex.Pattern*5
-
-__unknown_file (
-
-%11java.lang.String2!matcher(Ljava/lang/CharSequence;)åâ
-
-æ2 æ(\
-%13boolean""java.util.regex.Matcher#matches()Z*<
-
-__unknown_file ( 
-
-%12java.util.regex.Matcher2	matches()"
-
-æ2 æ(\
-
-%13boolean:#
-
-æ) æ(.
-file1java.io.FileB
-java.io.FileFilter
+Mcom.simplecity.amp_library.http.lastfm.LastFmArtist$Artist#%field_initializer
+__unknown_file ("1*Œ
+1 (ª∏
+Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java. (9
+%0java.util.ArrayList"java.util.ArrayListŸ
+÷
+Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java* (;
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayListÑ
+Å
+Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java (<H<
+:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"
+images"__id*'
+ (
+
+%0java.util.ArrayList"ù
+Ö
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java (
+implicit returnB><
+:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist

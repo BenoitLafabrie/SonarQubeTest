@@ -1,74 +1,74 @@
 
 Icom.simplecity.amp_library.model.AlbumArtist#toString()Ljava/lang/String;~
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javau u("1*ƒ
-1v v(d
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javav v("1*ƒ
+1w w(d
 b
-v w(
+w x(
 %0java.lang.String"__concat*
-v v(
+w w(
 AlbumArtist{*
-w w(
+x x(
 
 name='ƒ
 €
-w w(
+x x(
 %1java.lang.String"__id*V
 
 __unknown_file (:*8.
 ,com.simplecity.amp_library.model.AlbumArtist"
 name~
 |
-v w(
+w x(
 %2"__calculate*
-w w(
+x x(
 +*$
-v w(
+w x(
 
 %0java.lang.String*$
-w w(
+x x(
 
 %1java.lang.StringZ
 X
-v w(&
+w x(&
 %3"__calculate*
-w  w(!
+x  x(!
 +*
-v w(
+w x(
 
 %2*
-w" w(&
+x" x(&
 \'a
 _
-v x(
+w y(
 %4"__calculate*
-w' w((
+x' x((
 +*
-v w(&
+w x(&
 
 %3*
-x x(
+y y(
 	, albums=Z
 X
-v x($
+w y($
 %5"__calculate*
-x x(
+y y(
 +*
-v x(
+w y(
 
 %4*
-x x($
+y y($
 ""Y
 W
-v y(
+w z(
 %6"__calculate*
-x% x(&
+y% y(&
 +*
-v x($
+w y($
 
 %5*
-y y(
+z z(
 }"
-v y(
+w z(
 
 %6B0.
 ,com.simplecity.amp_library.model.AlbumArtistH

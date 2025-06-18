@@ -1,16 +1,16 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#showArtworkInQueue()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java– –(%"1*á
+Gcom.simplecity.amp_library.utils.SettingsManager#ignoreFolderArtwork()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java‰ ‰(&"1*è
 1
-— —(`
-^
+Â Â(h
+f
 
-— —((
-%0java.lang.String"__id*2
+Â Â(0
+%0java.lang.String"__id*:
 
-__unknown_file (
-pref_artwork_queue"
+__unknown_file (
+pref_ignore_folder_artwork"
 
-— —(0
+Â Â(9
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

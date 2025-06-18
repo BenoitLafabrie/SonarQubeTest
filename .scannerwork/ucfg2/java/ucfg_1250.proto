@@ -1,221 +1,637 @@
 
-Ccom.simplecity.amp_library.model.Artist#equals(Ljava/lang/Object;)Zy
-o/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Artist.java ("startingBlock*
-13 (s
-q
- (
-%1boolean"	__compare*
- (
-==*#
- (
-
-ojava.lang.Object*
- (
-""*
-11
-12*"
-14 (""
- (#
-""*´
-15 (™
-–
- (
-%0boolean"	__compare*
- (
-==*7
- (+)
-'com.simplecity.amp_library.model.Artist*#
- (
-
-ojava.lang.Object*
-13
-14*!
-1 (M"
- (M
-""*æ
-29 (?‡
+vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java ("1*”7
+1% (/^
+\
+ (+	
+%0int"__calculate*
+& ((
+>>*
+ (%
+""*
+) (+2c
+a
+ (3	
+%1int"__calculate*
+- (.
+&*
+ (,
+	
+%0int*
+/ (32ÿf
+d
+ (=
+%2float"__calculate*
+5 (6
+/*
+ (4
+	
+%1int*
+7 (=
+""^
+\
+ (+	
+%3int"__calculate*
+& ((
+>>*
+ (%
+""*
+) (+2c
+a
+ (3	
+%4int"__calculate*
+- (.
+&*
+ (,
+	
+%3int*
+/ (32ÿf
+d
+ (=
+%5float"__calculate*
+5 (6
+/*
+ (4
+	
+%4int*
+7 (=
+""^
+\
+ (*	
+%6int"__calculate*
+& ((
+>>*
+ (%
+""*
+) (*2c
+a
+ (2	
+%7int"__calculate*
+, (-
+&*
+ (+
+	
+%6int*
+. (22ÿf
+d
+ (<
+%8float"__calculate*
+4 (5
+/*
+ (3
+	
+%7int*
+6 (<
+""^
+\
+ (+	
+%9int"__calculate*
+% (&
+&*
+ ($
+""*
+' (+2ÿg
+e
+ (5
+%10float"__calculate*
+- (.
+/*
+ (,
+	
+%9int*
+/ (5
+""_
+]
+ ('
+
+%11int"__calculate*
+" ($
+>>*
+ (!
+""*
+% ('2e
+c
+ (/
+
+%12int"__calculate*
+) (*
+&*
+ ((
+
+
+%11int*
++ (/2ÿh
+f
+ (9
+%13float"__calculate*
+1 (2
+/*
+ (0
+
+
+%12int*
+3 (9
+""_
+]
+   ('
+
+%14int"__calculate*
+ "  ($
+>>*
+   (!
+""*
+ %  ('2e
+c
+   (/
+
+%15int"__calculate*
+ )  (*
+&*
+   ((
+
+
+%14int*
+ +  (/2ÿh
+f
+   (9
+%16float"__calculate*
+ 1  (2
+/*
+   (0
+
+
+%15int*
+ 3  (9
+""_
+]
+! !(&
+
+%17int"__calculate*
+!" !($
+>>*
+! !(!
+""*
+!% !(&2e
+c
+! !(.
+
+%18int"__calculate*
+!( !()
+&*
+! !('
+
+
+%17int*
+!* !(.2ÿh
+f
+! !(8
+%19float"__calculate*
+!0 !(1
+/*
+! !(/
+
+
+%18int*
+!2 !(8
+""_
+]
+" "('
+
+%20int"__calculate*
+"! "("
+&*
+" "( 
+""*
+"# "('2ÿh
+f
+" "(1
+%21float"__calculate*
+") "(*
+/*
+" "((
+
+
+%20int*
+"+ "(1
+""­
+ª
+% %(2
+%22double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""­
+ª
+& &(2
+%23double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""­
+ª
+' '(2
+%24double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""­
+ª
+) )(.
+%25double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""­
+ª
+* *(.
+%26double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""­
+ª
++ +(.
+%27double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""b
+`
+.+ .(8
+%28float"__calculate*
+.0 .(1
+-*
+.+ .(/
+""*
+.2 .(8
+""j
+h
+. .(9
+%29float"__calculate*
+.( .()
+**
+. .('
+""*
+.* .(9
+
+%28floatj
+h
+. .(9
+%30float"__calculate*
+. .(
++*
+. .(
+""*
+. .(9
+
+%29floatb
+`
+/+ /(8
+%31float"__calculate*
+/0 /(1
+-*
+/+ /(/
+""*
+/2 /(8
+""j
+h
+/ /(9
+%32float"__calculate*
+/( /()
+**
+/ /('
+""*
+/* /(9
+
+%31floatj
+h
+/ /(9
+%33float"__calculate*
+/ /(
++*
+/ /(
+""*
+/ /(9
+
+%32floatb
+`
+0+ 0(8
+%34float"__calculate*
+00 0(1
+-*
+0+ 0(/
+""*
+02 0(8
+""j
+h
+0 0(9
+%35float"__calculate*
+0( 0()
+**
+0 0('
+""*
+0* 0(9
+
+%34floatj
+h
+0 0(9
+%36float"__calculate*
+0 0(
++*
+0 0(
+""*
+0 0(9
+
+%35floatb
+`
+1+ 1(8
+%37float"__calculate*
+10 1(1
+-*
+1+ 1(/
+""*
+12 1(8
+""j
+h
+1 1(9
+%38float"__calculate*
+1( 1()
+**
+1 1('
+""*
+1* 1(9
+
+%37floatj
+h
+1 1(9
+%39float"__calculate*
+1 1(
++*
+1 1(
+""*
+1 1(9
+
+%38floatb
+`
+4 4(
+%40float"__calculate*
+4 4(
+**
+4 4(
+""*
+4 4(
+""c
+a
+5$ 5(-
+%41double"__calculate*
+5( 5()
+/*
+5$ 5('
+""*
+5* 5(-
+""¶
+³
+5 5(.
+%42double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*+
+
+__unknown_file (
+
+%41doublek
+i
+5 5(7
+%43float"__calculate*
+5/ 5(0
+**
+5 5(.
+
+%42double*
+51 5(7
+""c
+a
+6$ 6(-
+%44double"__calculate*
+6( 6()
+/*
+6$ 6('
+""*
+6* 6(-
+""¶
+³
+6 6(.
+%45double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*+
+
+__unknown_file (
+
+%44doublek
+i
+6 6(7
+%46float"__calculate*
+6/ 6(0
+**
+6 6(.
+
+%45double*
+61 6(7
+""c
+a
+7$ 7(-
+%47double"__calculate*
+7( 7()
+/*
+7$ 7('
+""*
+7* 7(-
+""¶
+³
+7 7(.
+%48double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*+
+
+__unknown_file (
+
+%47doublek
+i
+7 7(7
+%49float"__calculate*
+7/ 7(0
+**
+7 7(.
+
+%48double*
+71 7(7
+""‡
 „
-9 (D
-%15java.lang.String"__id*Y
+9 9( 
+
+%50int"java.lang.Math#round(F)I*.
 
-__unknown_file (=*;
-1
-artist'com.simplecity.amp_library.model.Artist"
-namev
-t
-9 (L
-%12boolean"	__compare*
-E (G
-==*%
-9 (D
-
-%15java.lang.String*
-H (L
-""P
-N
-9 (L
-%10boolean"__id*,
+__unknown_file ("
+java.lang.Math*"
 
-__unknown_file (
-
-%12boolean*
-1*Æ
-3 ("~
-|
- ("
-%13java.lang.String"__id*Q
-
-__unknown_file (5*3)
-'com.simplecity.amp_library.model.Artist"
-name‡
+__unknown_file (
+""e
+c
+9 9(&
+
+%51int"__calculate*
+9! 9(#
+<<*
+9 9( 
+
+
+%50int*
+9$ 9(&2‡
 „
-* (5
-%14java.lang.String"__id*Y
+9) 9(6
+
+%52int"java.lang.Math#round(F)I*.
 
-__unknown_file (=*;
-1
-artist'com.simplecity.amp_library.model.Artist"
-nameÕÒ
- (6
-%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+__unknown_file ("
+java.lang.Math*"
 
-__unknown_file (
-
-%13java.lang.String*5
+__unknown_file (
+""e
+c
+9) 9(<
+
+%53int"__calculate*
+97 9(9
+<<*
+9) 9(6
+
+
+%52int*
+9: 9(<2l
+j
+9 9(<
+
+%54int"__calculate*
+9' 9((
+|*
+9 9(&
+
+
+%51int*
+9) 9(<
+
+
+%53int‡
+„
+9? 9(L
+
+%55int"java.lang.Math#round(F)I*.
 
-__unknown_file (
-
-%14java.lang.String2equals(Ljava/lang/Object;)P
-N
- (6
-%10boolean"__id*,
+__unknown_file ("
+java.lang.Math*"
 
-__unknown_file (
-
-%11boolean*
-1*ƒ
-startingBlock (#‰
-†
- (
-%16"
-__annotate*2
+__unknown_file (
+""e
+c
+9? 9(Q
+
+%56int"__calculate*
+9M 9(O
+<<*
+9? 9(L
+
+
+%55int*
+9P 9(Q2l
+j
+9 9(Q
+
+%57int"__calculate*
+9= 9(>
+|*
+9 9(<
+
+
+%54int*
+9? 9(Q
+
+
+%56int‡
+„
+9T 9(a
+
+%58int"java.lang.Math#round(F)I*.
 
-__unknown_file (
-java.lang.Override*3
+__unknown_file ("
+java.lang.Math*"
 
-__unknown_file (
-
-ojava.lang.ObjectV
-T
-! ("
-ojava.lang.Object"__annotation*#
+__unknown_file (
+""l
+j
+9 9(a
+
+%59int"__calculate*
+9R 9(S
+|*
+9 9(Q
+
+
+%57int*
+9T 9(a
+
+
+%58int"
+9 9(b
+
+
+%59int: 
 
-__unknown_file (
-
-%16*
-15*Š
-4 (}
-{
- (
-%8java.lang.String"__id*Q
-
-__unknown_file (5*3)
-'com.simplecity.amp_library.model.Artist"
-namet
-r
- (
-%9boolean"	__compare*
- (
-!=*$
- (
-
-%8java.lang.String*
- (
-""*
-2
-3*!
-50 (5"
-) (6
-""*y
-6 (b
-`
- ('
-%7boolean"	__compare*
- (
-!=*
- (
-""*
- ('
-""*
-4
-5*!
-72 (7"
-+ (8
-""*y
-8 (b
-`
- ()
-%6boolean"	__compare*
- (
-!=*
- (
-""*
- ()
-""*
-6
-7*!
-9$ ()"
- (*
-""*ö
-10! ("z
-x
- (#1
-artist'com.simplecity.amp_library.model.Artist"__id*3
-
-__unknown_file (
-
-ojava.lang.Objectb
-`
- (
-%5boolean"	__compare*
- (
-!=*
- (
-""*
- (
-""*
-8
-9*"
-11< (A"
-5 (B
-""*à
-12 (!§¤
- (#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*G
-
-__unknown_file (+)
-'com.simplecity.amp_library.model.Artist2
-getClass()“
-' (3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()…
-‚
- (3
-%4boolean"	__compare*
-$ (&
-!=*#
- (#
-
-%2java.lang.Class*#
-' (3
-
-%3java.lang.Class*
-10
-11:!
- ("
-ojava.lang.ObjectB+)
-'com.simplecity.amp_library.model.ArtistHX
+__unknown_file (
+"":*
+/ (A
+
+startValuejava.lang.Object:(
+B (Q
+endValuejava.lang.ObjectB86
+4com.simplecity.amp_library.utils.color.ArgbEvaluatorH

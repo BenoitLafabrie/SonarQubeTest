@@ -1,7 +1,26 @@
 
-Qcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#isInitiallyExpanded()Z
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerDivider.java (&"1*!
-1 ("
- (
-""B><
-:com.simplecity.amp_library.ui.screens.drawer.DrawerDividerHX
+Otest.com.androidnavigation.fragment.BaseNavigationController#%field_initializer
+__unknown_file ("1*Ç
+1 (ÖÓ
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java= (H
+%0java.util.ArrayList"java.util.ArrayListô
+ñ
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java9 (J
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList­
+ª
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (KV>
+<test.com.androidnavigation.fragment.BaseNavigationController"
+backPressListeners"__id*'
+ (
+
+%0java.util.ArrayList"·
+Ÿ
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java ‹(
+implicit returnB@>
+<test.com.androidnavigation.fragment.BaseNavigationController

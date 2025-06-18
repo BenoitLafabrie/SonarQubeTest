@@ -1,80 +1,45 @@
 
-[com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#compositeAlpha(II)I†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaç ç()"1*Â
+^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)D†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaõ õ(/"1*¤
 1
-è è(f
-d
+ö$ ö(7é
+æ
 
-è è(3	
-%0int"__calculate*
-
-è" è(#
--*
-
-è è(!2ÿ*
-
-è$ è(3
-""f
-d
-
-è8 è(N	
-%1int"__calculate*
-
-è= è(>
--*
-
-è8 è(<2ÿ*
-
-è? è(N
-""q
-o
-
-è è(O	
-%2int"__calculate*
-
-è5 è(6
-**
-
-è è(4
-	
-%0int*
-
-è7 è(O
-	
-%1intk
-i
-
-è è(W	
-%3int"__calculate*
-
-èQ è(R
-/*
-
-è è(P
-	
-%2int*
-
-èS è(W2ÿk
-i
-
-è è(X	
-%4int"__calculate*
-
-è è(
--*
-
-è è(2ÿ*
-
-è è(X
-	
-%3int"
-
-è è(Y
-"": 
+ö$ ö(9
+%0double[]"_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D*g
 
-__unknown_file (
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat¦
+£
+
+÷ ÷(%
+
+%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToXYZ(I[D)V*g
+
+__unknown_file (K"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""h
+f
+
+ù ù("
+%2double"__calculate*
+
+ù ù(
+/*
+
+ù ù(
+""*
+
+ù ù("2d"
+
+ù ù(#
 "": 
 
 __unknown_file (
 ""BK"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatHX

@@ -1,26 +1,7 @@
 
-^com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#%field_initializer
-__unknown_file ("1*­
-1 (¡
-ž
-ž
-“/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java (&cM
-Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener"
-lastFirstVisible"__id*
- (2¡
-ž
-ž
-“/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java (&cM
-Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener"
-lastVisibleCount"__id*
- (2ž
-›
-ž
-“/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java (#`M
-Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener"
-lastItemCount"__id*
- (2"´
-œ
-“/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/preloader/RecyclerToListViewScrollListener.java =(
-implicit returnBOM
-Kcom.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener
+hcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#getLayoutIdString()Ljava/lang/String;•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java ("1*!
+1 (""
+ (7
+""BFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall

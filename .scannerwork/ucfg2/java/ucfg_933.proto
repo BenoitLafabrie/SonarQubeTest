@@ -1,203 +1,65 @@
 
-tcom.simplecity.amp_library.utils.StringUtils#getAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/StringUtils.javaÔ Ô(9"startingBlock*­
-2
-ä ä(Ì
-É
+]com.simplecity.amp_library.utils.StringUtils#buildMatchedChars(Ljava/lang/CharSequence;[ZI)[C€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/StringUtils.java¿ ¿(+"6*Á
+3
+Ä Ä(ª§
 
-ä ä(C
-%4double"lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D*L
-
-__unknown_file (0".
-,com.simplecity.amp_library.utils.StringUtils*7
-
-__unknown_file (
-
-firstjava.lang.String*8
-
-__unknown_file (
-
-secondjava.lang.String¶
-³
+Ä Ä((
 
-ä ä(K
-%5double"java.lang.Math#max(DD)D*.
+%2char"!java.lang.CharSequence#charAt(I)C*;
 
-__unknown_file ("
-java.lang.Math**
+__unknown_file (
+
+seqjava.lang.CharSequence*"
+
+__unknown_file (
+""2	charAt(I)*
+5*…
+5
+Â Â(i
+g
+
+Â Â(-
+%1boolean"	__compare*
+
+Â Â(
+<*
+
+Â Â(
+""*
+
+Â Â(-
+""*	
+3
+5
+1*Š
+6
+À À($$"
+
+À À(%
+%0char[]"char[]N
+L
+
+À À(&
+mschar[]"__id**
 
 __unknown_file (
 
-%4double*"
-
-__unknown_file (
-"""
-
-ä ä(L
-""*€
-3
-Ý Ý(Q
-O
-
-Ý Ý(
-strjava.lang.String"__id*"
-
-__unknown_file (
-""“
-
-
-Ý Ý(
-strjava.lang.String"
-__arrayGet*9
-
-__unknown_file (
-
-splitjava.lang.String[]*"
-
-__unknown_file (
-""*
-2
-5*í
-startingBlock
-Ô9 Ô(j„
-
-
-Ô: Ô(C
-%7"
-__annotate*(
-
-__unknown_file (
-
-Nullable*7
-
-__unknown_file (
-
-firstjava.lang.String[
-Y
-
-ÔK Ô(P
-firstjava.lang.String"__annotation*"
-
-__unknown_file (
-
-%7…
-‚
-
-ÔR Ô([
-%8"
-__annotate*(
-
-__unknown_file (
-
-Nullable*8
-
-__unknown_file (
-
-secondjava.lang.String\
-Z
-
-Ôc Ô(i
-secondjava.lang.String"__annotation*"
-
-__unknown_file (
-
-%8*
-8
-9*Ì
-5
-Þ" Þ(:Ê
-Ç
-
-Þ" Þ(G
-%2double"lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D*L
-
-__unknown_file (0".
-,com.simplecity.amp_library.utils.StringUtils*5
-
-__unknown_file (
-
-strjava.lang.String*8
-
-__unknown_file (
-
-secondjava.lang.Stringi
-g
-
-ß ß($
-%3boolean"	__compare*
-
-ß ß(
->*
-
-ß ß(
-""*
-
-ß ß($
-""*
-3*Ï
-8
-Ú Ú(áÞ
-
-Ú Ú(+
-%0java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*7
-
-__unknown_file (
-
-firstjava.lang.String*#
-
-__unknown_file (
-\\s2split(Ljava/lang/String;)i
-g
-
-Ú Ú(,
-splitjava.lang.String[]"__id*6
-
-__unknown_file (
-
-%0java.lang.String[]g
-e
-
-Û Û(
-%1boolean"	__compare*
-
-Û Û(
->*
-
-Û Û(
-""*
-
-Û Û(2*
-3
-1*%
-9
-× ×("
-
-× ×(
-""*ô
+%0char[]*
+5*-
 1
-æ æ(+Ì
-É
+Ç Ç("
 
-æ æ(:
-%6double"lcom.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D*L
+Ç Ç(
+
+mschar[]:+
+
+¿, ¿(=
+seqjava.lang.CharSequence: 
 
-__unknown_file (0".
-,com.simplecity.amp_library.utils.StringUtils*7
+__unknown_file (
+"": 
 
-__unknown_file (
-
-firstjava.lang.String*8
-
-__unknown_file (
-
-secondjava.lang.String"
-
-æ æ(;
-"":'
-
-Ô: Ô(Q
-firstjava.lang.String:(
-
-ÔR Ô(i
-secondjava.lang.StringB0".
-,com.simplecity.amp_library.utils.StringUtilsHX
+__unknown_file (
+""B0".
+,com.simplecity.amp_library.utils.StringUtils

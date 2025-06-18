@@ -1,45 +1,15 @@
 
-5com.simplecity.amp_library.utils.AnimUtils#lerp(DDD)D|
-r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java ("1*Ý
-1 (b
-`
- (
-%0double"__calculate*
- (
--*
- (
-""*
- (
-""j
-h
- (
-%1double"__calculate*
- (
-**
- (
-
-%0double*
- (
-""j
-h
- (
-%2double"__calculate*
- (
-+*
- (
-""*
- (
-
-%1double"
- (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B.",
-*com.simplecity.amp_library.utils.AnimUtilsHX
+@com.simplecity.multisheetview.ui.view.MultiSheetView$1#<init>()V
+__unknown_file ("startingBlock*‹
+startingBlockœ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c£
+ 
+œ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+%0"1BottomSheetBehavior.BottomSheetCallback#<init>()V*F
+ (:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1"´
+œ
+‘/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+implicit returnB:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1

@@ -1,70 +1,21 @@
 
-acom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areContentsTheSame(II)Z®
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaä ä()"3*%
-2
-ê- ê(4"
+=com.simplecity.amp_library.ui.views.SnowfallView#isSnowing()ZÇ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.java~ ~("1*¶
+1 (ã
+à
+ (
+%0java.util.List"__id*`
+
+__unknown_file (D*B2
+0com.simplecity.amp_library.ui.views.SnowfallView"
 
-ê ê(P
-""*œ
-3
-å å('∞≠
-
-å å(8
-%0java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;*i
+snowflakesus
+ ($
+%1boolean"java.util.List#isEmpty()Z*2
 
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getOldItem(I)g
-e
-
-å å(9
-oldItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%0java.lang.Object∞≠
-
-ç ç(8
-%1java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getNewItem(I)g
-e
-
-ç ç(9
-newItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%1java.lang.Object*
-2
-1*Ó
-1
-í í(&∆√
-
-í í(H
-%2boolean"^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Z*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""2areItemsTheSame(II)"
-
-í í(I
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+__unknown_file (
+
+%0java.util.List2	isEmpty()"
+ (%
+""B42
+0com.simplecity.amp_library.ui.views.SnowfallViewHX

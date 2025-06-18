@@ -1,74 +1,15 @@
 
-Dcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#hashCode()Iç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaƒ ƒ("4*Y
-2
-≈D ≈(EC
-A
-
-≈D ≈(E
-%1"__id*'
-
-__unknown_file (
-	
-%3int*
-1*T
-3
-≈+ ≈(6>
-<
-
-≈+ ≈(A
-%1"__id*"
-
-__unknown_file (
-
-%2*
-1*z
-4
-≈ ≈( a
-_
-
-≈ ≈((
-%0"	__compare*
-
-≈! ≈(#
-!=*
-
-≈ ≈( 
-""*
-
-≈$ ≈((
-""*
-2
-3*˙
-1
-≈ ≈(Fe
-c
-
-∆ ∆(	
-%4int"__calculate*
-
-∆ ∆(
-**
-
-∆ ∆(2*
-
-∆ ∆(
-""l
-j
-
-∆ ∆('	
-%5int"__calculate*
-
-∆ ∆(
-+*
-
-∆ ∆(
-	
-%4int*
-
-∆ ∆('
-"""
-
-« «(
-""B<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX
+8com.afollestad.aesthetic.LightDarkColorState$1#<init>()V
+__unknown_file ("startingBlock*æ
+startingBlockè
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/LightDarkColorState.javaO (P
+Ì
+è
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/LightDarkColorState.javaO (P
+%0"Function3#<init>()V*>
+ (20
+.com.afollestad.aesthetic.LightDarkColorState$1"ß
+è
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/LightDarkColorState.javaO (P
+implicit returnB20
+.com.afollestad.aesthetic.LightDarkColorState$1

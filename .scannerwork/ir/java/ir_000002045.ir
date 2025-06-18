@@ -1,2 +1,53 @@
-Athis ("-com.simplecity.amp_library.utils.ColorPalette"	
- Ó(*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ColorPalette.java
+
+falseboolean
+trueboolean8context
+Ä. Ä(="Recovered#typeBindingLContext;0keyCode
+Ä? Ä(J"int)command
+ÄL Ä(Z"java.lang.String	eventTime
+Ä\ Ä(j"long>:com.simplecity.amp_library.utils.MediaButtonIntentReceiver"…#
+!
+
+Å Å("#unknown-value#A
+?
+
+Å Å(3"!#get-field# KEYCODE_HEADSETHOOK:B	!Unknown!1
+/
+
+Å Å(3"
+#binop ==#2==:B	!Unknown!,"*
+
+Å Å(3 *
+Å Å(
+2
+É
+ É("¡#
+!
+
+Ç Ç(%"#unknown-value#ë
+é
+
+Ç Ç(1	"\
+:com.simplecity.amp_library.utils.MediaButtonIntentReceiverhandleHeadsetHook(LContext;J)V2handleHeadsetHook:B	!Unknown!"»#
+!
+
+Ñ Ñ( 
+"#unknown-value#ò
+ï
+
+Ñ Ñ(*"h
+:com.simplecity.amp_library.utils.MediaButtonIntentReceiver*startService(LContext;Ljava/lang/String;)V2startService:
+B	!Unknown!"∆.
+,
+
+Ü Ü(launched"#id#:Bboolean,
+*
+
+Ü Ü("#set-field# launched:*
+(
+
+á á(down"#id#:Bboolean(
+&
+
+á á("#set-field# down:
+
+à à(*Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/MediaButtonIntentReceiver.java

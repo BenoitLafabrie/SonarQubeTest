@@ -1,8 +1,72 @@
 ã
-Hcom.simplecity.amp_library.utils.menu.genre.GenreMenuCallbacks#<init>()V
-„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/genre/GenreMenuCallbacks.kt ("0*>
-0 ("/
+Hcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#<init>()V
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt ("0*>
+0 (1"/
 
 __unknown_file (
 implicit returnBB@
->com.simplecity.amp_library.utils.menu.genre.GenreMenuCallbacksH
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacksH·
+µcom.simplecity.amp_library.utils.menu.queue#removeQueueItem(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)V
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt (&"0*ä
+0 (£ 
+ ('
+%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#removeQueueItems(Ljava/util/List;)V*N
+ ('B@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks*)
+
+__unknown_file (
+	<unknown>2"removeQueueItems(Ljava/util/List;)"/
+
+__unknown_file (
+implicit return:N
+' (;B
+	queueItem5com.simplecity.amp_library.ui.screens.queue.QueueItemB/"-
++com.simplecity.amp_library.utils.menu.queueH›
+‡com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt ('"0*š
+0 (ë
+è
+
+__unknown_file (
+%0"__declareFunction*²
+
+__unknown_file (•’
+com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V$lambda0ëè
+ (
+%1kotlin.Unit"rcom.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks#transform(LSingle;Lkotlin/jvm/functions/Function1;)V*N
+ (B@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks*,
+ ( 
+
+
+queueItemsjava.lang.Object*"
+
+__unknown_file (
+
+%023transform(LSingle;Lkotlin/jvm/functions/Function1;)"/
+
+__unknown_file (
+implicit return:*
+( (K
+
+queueItemsjava.lang.ObjectB/"-
++com.simplecity.amp_library.utils.menu.queueHì
+com.simplecity.amp_library.utils.menu.queue#removeQueueItems(Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;LSingle;)V$lambda0
+„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks.kt (H"0*å
+0 (H¤¡
+* (F
+%0kotlin.Unit"bcom.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks#removeQueueItems(Ljava/util/List;)V*N
+* (FB@
+>com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks**
+; (E
+
+
+queueItemsjava.util.List2"removeQueueItems(Ljava/util/List;)"/
+
+__unknown_file (
+
+%0kotlin.Unit:(
+ (&
+
+queueItemsjava.util.ListB/-
++com.simplecity.amp_library.utils.menu.queueH

@@ -1,8 +1,8 @@
 Mthis
-î î("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showAlbum
-î  î(1"boolean"A-
-+
+‡ ‡(!"7com.simplecity.amp_library.ui.screens.tagger.TaggerTask1albumArtistText
+‡" ‡(8"java.lang.String"G3
+1
 
-ï ï(""#set-field# showAlbum:
+ˆ ˆ(."#set-field# albumArtistText:
 
-ð ð(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+‰ ‰(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

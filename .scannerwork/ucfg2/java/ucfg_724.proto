@@ -1,7 +1,37 @@
 
-Gcom.simplecity.amp_library.ui.modelviews.PlaylistView#getLayoutResId()I‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.java/ /("1*!
-10 0(!"
-0 0("
+Acom.simplecity.amp_library.ui.modelviews.PlaylistView#hashCode()I‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javam m("4*U
+2n8 n(9A
+?
+n8 n(9
+%1"__id*'
+
+__unknown_file (
+	
+%3int*
+1*P
+3n" n(*<
+:
+n" n(5
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*p
+4n n(Y
+W
+n n(
+%0"	__compare*
+n n(
+!=*
+n n(
+""*
+n n(
+""*
+2
+3*!
+1n n(:"
+n n(:
 ""B97
 5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX

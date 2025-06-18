@@ -1,19 +1,17 @@
-Ø
+“
+Icom.simplecity.amp_library.ui.screens.shortcut.ShortcutTrampolineActivityjava.lang.Objects
+onCreate(LBundle;)]com.simplecity.amp_library.ui.screens.shortcut.ShortcutTrampolineActivity#onCreate(LBundle;)V´
+7com.simplecity.amp_library.utils.ResumingServiceManagerjava.lang.ObjectO
+	destroy()Bcom.simplecity.amp_library.utils.ResumingServiceManager#destroy()Vª
+?startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)xcom.simplecity.amp_library.utils.ResumingServiceManager#startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)VO
+	stopped()Bcom.simplecity.amp_library.utils.ResumingServiceManager#stopped()VØ
 
 kotlin.AnyD
 equals(Ljava/lang/Object;)&kotlin.Any#equals(Ljava/lang/Object;)Z$
 
 hashCode()kotlin.Any#hashCode()I5
 
-toString()'kotlin.Any#toString()Ljava/lang/String;Ó
-0com.simplecity.amp_library.utils.RingtoneManagerjava.lang.Objectß
-3setRingtone(LSong;Lkotlin/jvm/functions/Function0;)pcom.simplecity.amp_library.utils.RingtoneManager#setRingtone(LSong;Lkotlin/jvm/functions/Function0;)LDisposable;“
-Icom.simplecity.amp_library.ui.screens.shortcut.ShortcutTrampolineActivityjava.lang.Objects
-onCreate(LBundle;)]com.simplecity.amp_library.ui.screens.shortcut.ShortcutTrampolineActivity#onCreate(LBundle;)V´
-7com.simplecity.amp_library.utils.ResumingServiceManagerjava.lang.ObjectO
-	destroy()Bcom.simplecity.amp_library.utils.ResumingServiceManager#destroy()Vª
-?startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)xcom.simplecity.amp_library.utils.ResumingServiceManager#startService(LContext;LIntent;Lkotlin/jvm/functions/Function0;)VO
-	stopped()Bcom.simplecity.amp_library.utils.ResumingServiceManager#stopped()VW
+toString()'kotlin.Any#toString()Ljava/lang/String;W
 kotlin.Unitjava.lang.Object6
 
 toString()(kotlin.Unit#toString()Ljava/lang/String;†	
@@ -103,13 +101,12 @@ Mcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuContract$View
 Hcom.simplecity.amp_library.ui.screens.playlist.detail.PlaylistDetailViewMcom.simplecity.amp_library.ui.screens.playlist.menu.PlaylistMenuContract$ViewFcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract$ViewR
 >com.simplecity.amp_library.utils.menu.genre.GenreMenuCallbacksjava.lang.Object
 >com.simplecity.amp_library.utils.menu.queue.QueueMenuCallbacks=com.simplecity.amp_library.utils.menu.song.SongsMenuCallbacks@
-,com.simplecity.amp_library.playback.Playbackjava.lang.Object†
+,com.simplecity.amp_library.playback.Playbackjava.lang.ObjectŸ
 1com.simplecity.amp_library.playback.LocalPlayback,com.simplecity.amp_library.playback.Playbackc
 configurePlayerState()Icom.simplecity.amp_library.playback.LocalPlayback#configurePlayerState()V[
 giveUpAudioFocus()Ecom.simplecity.amp_library.playback.LocalPlayback#giveUpAudioFocus()VG
 pause(Z);com.simplecity.amp_library.playback.LocalPlayback#pause(Z)Vo
-registerAudioNoisyReceiver()Ocom.simplecity.amp_library.playback.LocalPlayback#registerAudioNoisyReceiver()VE
-start():com.simplecity.amp_library.playback.LocalPlayback#start()VC
+registerAudioNoisyReceiver()Ocom.simplecity.amp_library.playback.LocalPlayback#registerAudioNoisyReceiver()VC
 stop()9com.simplecity.amp_library.playback.LocalPlayback#stop()V_
 tryToGetAudioFocus()Gcom.simplecity.amp_library.playback.LocalPlayback#tryToGetAudioFocus()Vs
 unregisterAudioNoisyReceiver()Qcom.simplecity.amp_library.playback.LocalPlayback#unregisterAudioNoisyReceiver()V_
@@ -902,69 +899,7 @@ IunbindView(Lcom/simplecity/amp_library/ui/screens/nowplaying/PlayerView;)ãcom
 updateRemainingTime()Wcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRemainingTime()Vj
 updateRepeatMode()Tcom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateRepeatMode()Vl
 updateShuffleMode()Ucom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateShuffleMode()Vh
-updateTrackInfo()Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateTrackInfo()Vÿ
-Wcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class0java.lang.ObjectÍ
-FonSharedElementStart(Ljava/util/List;Ljava/util/List;Ljava/util/List;)ücom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class0#onSharedElementStart(Ljava/util/List;Ljava/util/List;Ljava/util/List;)V€
-Wcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class1java.lang.Objectç
-onSongClick(ILSongView;)qcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class1#onSongClick(ILSongView;)Vï
-onSongLongClick(ILSongView;)ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class1#onSongLongClick(ILSongView;)Z°
-"onSongOverflowClick(ILView;LSong;){com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class1#onSongOverflowClick(ILView;LSong;)V°
-"onStartDrag(LSongView.ViewHolder;){com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#<init>()V$class1#onStartDrag(LSongView.ViewHolder;)V’
-Bcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailViewGcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$ViewFcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract$View¥!
-Fcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragmentBcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailViewjava.lang.Object|
-closeContextualToolbar()`com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#closeContextualToolbar()V`
-
-fadeInUi()Rcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#fadeInUi()Vä
-getContextualToolbar()pcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#getContextualToolbar()LContextualToolbar;v
-loadBackgroundImage()]com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#loadBackgroundImage()Vr
-onAttach(LContext;)[com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onAttach(LContext;)Vp
-onCreate(LBundle;)Zcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onCreate(LBundle;)V≥
-1onCreateView(LLayoutInflater;LViewGroup;LBundle;)~com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;j
-onDestroyView()Wcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onDestroyView()VÇ
-onMenuItemClick(LMenuItem;)ccom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onMenuItemClick(LMenuItem;)Z^
-	onPause()Qcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onPause()Vp
-onPlaybackFailed()Zcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onPlaybackFailed()V`
-
-onResume()Rcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onResume()Ví
-#onSongsAddedToPlaylist(LPlaylist;I)kcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onSongsAddedToPlaylist(LPlaylist;I)Vx
-onSongsAddedToQueue(I)^com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onSongsAddedToQueue(I)VÜ
-onViewCreated(LView;LBundle;)ecom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#onViewCreated(LView;LBundle;)Vä
-presentAlbumInfoDialog(LAlbum;)gcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentAlbumInfoDialog(LAlbum;)Ví
-#presentArtworkEditorDialog(LAlbum;)kcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentArtworkEditorDialog(LAlbum;)V¶
--presentCreatePlaylistDialog(Ljava/util/List;)ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentCreatePlaylistDialog(Ljava/util/List;)V¢
-+presentDeleteAlbumsDialog(Ljava/util/List;)scom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentDeleteAlbumsDialog(Ljava/util/List;)Vñ
-%presentDeleteDialog(Ljava/util/List;)mcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentDeleteDialog(Ljava/util/List;)Vé
-!presentRingtonePermissionDialog()icom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentRingtonePermissionDialog()VÜ
-presentSongInfoDialog(LSong;)ecom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentSongInfoDialog(LSong;)Vä
-presentTagEditorDialog(LAlbum;)gcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentTagEditorDialog(LAlbum;)Và
-presentTagEditorDialog(LSong;)fcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#presentTagEditorDialog(LSong;)Vu
-screenName()ecom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#screenName()Ljava/lang/String;~
-setData(Ljava/util/List;)acom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setData(Ljava/util/List;)V≤
-3setSharedElementEnterTransition(Ljava/lang/Object;){com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setSharedElementEnterTransition(Ljava/lang/Object;)V|
-setupContextualToolbar()`com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setupContextualToolbar()VÇ
-setupToolbarMenu(LToolbar;)ccom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setupToolbarMenu(LToolbar;)Vn
-shareSong(LSong;)Ycom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#shareSong(LSong;)V|
-showRingtoneSetMessage()`com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#showRingtoneSetMessage()V¿
-Gcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenterLcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$PresenterKcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract$Presenterjava.lang.ObjectÍ
-NbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)ócom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)V}
-closeContextualToolbar()acom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#closeContextualToolbar()Va
-
-loadData()Scom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#loadData()Ve
-play(LSong;)Ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#play(LSong;)Ve
-shuffleAll()Ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#shuffleAll()VÉ
-sortSongs(Ljava/util/List;)dcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#sortSongs(Ljava/util/List;)V≥
-3transform(LSingle;Lkotlin/jvm/functions/Function1;)|com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)VÓ
-PunbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)ôcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)Vc
-Ocom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter$Factoryjava.lang.Object¶
-7com.simplecity.amp_library.utils.sorting.SongSortHelperjava.lang.Object≥
-2handleSongDetailMenuSortOrderAscClicks(LMenuItem;)}com.simplecity.amp_library.utils.sorting.SongSortHelper#handleSongDetailMenuSortOrderAscClicks(LMenuItem;)Ljava/lang/Boolean;°
-)handleSongMenuSortOrderClicks(LMenuItem;)tcom.simplecity.amp_library.utils.sorting.SongSortHelper#handleSongMenuSortOrderClicks(LMenuItem;)Ljava/lang/Integer;
-!updateSongSortMenuItems(LMenu;IZ)Zcom.simplecity.amp_library.utils.sorting.SongSortHelper#updateSongSortMenuItems(LMenu;IZ)V˜
-gcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setupContextualToolbar()V$class0java.lang.Object}
-finish()qcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setupContextualToolbar()V$class0#finish()V{
-start()pcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#setupContextualToolbar()V$class0#start()Vã
-ôcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#getSharedElementEnterTransitionListenerAdapter()LTransitionListenerAdapter;$class0java.lang.Object⁄
-onTransitionEnd(LTransition;)∏com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment#getSharedElementEnterTransitionListenerAdapter()LTransitionListenerAdapter;$class0#onTransitionEnd(LTransition;)V#
+updateTrackInfo()Scom.simplecity.amp_library.ui.screens.nowplaying.PlayerPresenter#updateTrackInfo()V#
 kotlin.Function0kotlin.Functionì
 7com.simplecity.amp_library.ui.dialog.WeekSelectorDialogjava.lang.Objectc
 onAttach(LContext;)Lcom.simplecity.amp_library.ui.dialog.WeekSelectorDialog#onAttach(LContext;)Vt
@@ -986,7 +921,18 @@ Gcom.simplecity.amp_library.ui.screens.genre.menu.GenreMenuContract$Viewjava.l
 getPlaylists()Ncom.simplecity.amp_library.data.PlaylistsRepository#getPlaylists()LObservable;j
 getPodcastPlaylist()Rcom.simplecity.amp_library.data.PlaylistsRepository#getPodcastPlaylist()LPlaylist;v
 getRecentlyAddedPlaylist()Xcom.simplecity.amp_library.data.PlaylistsRepository#getRecentlyAddedPlaylist()LPlaylist;x
-getRecentlyPlayedPlaylist()Ycom.simplecity.amp_library.data.PlaylistsRepository#getRecentlyPlayedPlaylist()LPlaylist;˜
+getRecentlyPlayedPlaylist()Ycom.simplecity.amp_library.data.PlaylistsRepository#getRecentlyPlayedPlaylist()LPlaylist;¿
+Gcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenterLcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$PresenterKcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract$Presenterjava.lang.ObjectÍ
+NbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)ócom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#bindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)V}
+closeContextualToolbar()acom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#closeContextualToolbar()Va
+
+loadData()Scom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#loadData()Ve
+play(LSong;)Ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#play(LSong;)Ve
+shuffleAll()Ucom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#shuffleAll()VÉ
+sortSongs(Ljava/util/List;)dcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#sortSongs(Ljava/util/List;)V≥
+3transform(LSingle;Lkotlin/jvm/functions/Function1;)|com.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#transform(LSingle;Lkotlin/jvm/functions/Function1;)VÓ
+PunbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)ôcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailView;)Vc
+Ocom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailPresenter$Factoryjava.lang.Object˜
 0com.simplecity.amp_library.ui.dialog.ShareDialogjava.lang.Object\
 onAttach(LContext;)Ecom.simplecity.amp_library.ui.dialog.ShareDialog#onAttach(LContext;)Vm
 onCreateDialog(LBundle;)Qcom.simplecity.amp_library.ui.dialog.ShareDialog#onCreateDialog(LBundle;)LDialog;d
@@ -1067,9 +1013,11 @@ Fcom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils$Callbacksjava.la
 ∂com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#renameFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)∑com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#renameFile(LContext;LFolderView;LBaseFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)Vœ
 §com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFile(LContext;LFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)•com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFile(LContext;LFileObject;Lcom/simplecity/amp_library/utils/menu/folder/FolderMenuUtils$Callbacks;)Và
 #scanFolder(LContext;LFolderObject;)acom.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#scanFolder(LContext;LFolderObject;)Vô
-ksetupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)©com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#setupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)V∏
-:com.simplecity.amp_library.utils.RingtoneManager$Companionjava.lang.Objectt
-getDialog(LContext;)\com.simplecity.amp_library.utils.RingtoneManager$Companion#getDialog(LContext;)LAlertDialog;r
+ksetupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)©com.simplecity.amp_library.utils.menu.folder.FolderMenuUtils#setupFolderMenu(LPopupMenu;LBaseFileObject;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)V⁄
+0com.simplecity.amp_library.utils.RingtoneManagerjava.lang.Objectj
+getDialog(LContext;)Rcom.simplecity.amp_library.utils.RingtoneManager#getDialog(LContext;)LAlertDialog;ß
+3setRingtone(LSong;Lkotlin/jvm/functions/Function0;)pcom.simplecity.amp_library.utils.RingtoneManager#setRingtone(LSong;Lkotlin/jvm/functions/Function0;)LDisposable;¬
+:com.simplecity.amp_library.utils.RingtoneManager$Companionjava.lang.Objectr
 requiresDialog(LContext;)Ucom.simplecity.amp_library.utils.RingtoneManager$Companion#requiresDialog(LContext;)Z”
 2com.simplecity.amp_library.di.app.RepositoryModulejava.lang.Objectä
 "provideInclExclDatabase(LContext;)dcom.simplecity.amp_library.di.app.RepositoryModule#provideInclExclDatabase(LContext;)LBriteDatabase;Z
@@ -1138,9 +1086,7 @@ $pushDetailFragment(LFragment;LView;)ncom.simplecity.amp_library.ui.screens.art
 Ycom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class1java.lang.Object¿
 0onAlbumClick(ILAlbumView;LAlbumView.ViewHolder;)ãcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class1#onAlbumClick(ILAlbumView;LAlbumView.ViewHolder;)Võ
 onAlbumLongClick(ILAlbumView;)ycom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class1#onAlbumLongClick(ILAlbumView;)Z™
-%onAlbumOverflowClicked(LView;LAlbum;)Äcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class1#onAlbumOverflowClicked(LView;LAlbum;)V—
-Pcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment$Companionjava.lang.ObjectÍ
-&newInstance(LAlbum;Ljava/lang/String;)øcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailFragment$Companion#newInstance(LAlbum;Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/album/detail/AlbumDetailFragment;‹
+%onAlbumOverflowClicked(LView;LAlbum;)Äcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class1#onAlbumOverflowClicked(LView;LAlbum;)V‹
 Ycom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class2java.lang.ObjectÏ
 FonSharedElementStart(Ljava/util/List;Ljava/util/List;Ljava/util/List;)°com.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#<init>()V$class2#onSharedElementStart(Ljava/util/List;Ljava/util/List;Ljava/util/List;)Vè
 õcom.simplecity.amp_library.ui.screens.artist.detail.ArtistDetailFragment#getSharedElementEnterTransitionListenerAdapter()LTransitionListenerAdapter;$class0java.lang.Object‹
@@ -1148,7 +1094,11 @@ FonSharedElementStart(Ljava/util/List;Ljava/util/List;Ljava/util/List;)°com.si
 8com.simplecity.amp_library.utils.sorting.AlbumSortHelperjava.lang.Object∂
 3handleAlbumDetailMenuSortOrderAscClicks(LMenuItem;)com.simplecity.amp_library.utils.sorting.AlbumSortHelper#handleAlbumDetailMenuSortOrderAscClicks(LMenuItem;)Ljava/lang/Boolean;∞
 0handleAlbumDetailMenuSortOrderClicks(LMenuItem;)|com.simplecity.amp_library.utils.sorting.AlbumSortHelper#handleAlbumDetailMenuSortOrderClicks(LMenuItem;)Ljava/lang/Integer;Ç
-"updateAlbumSortMenuItems(LMenu;IZ)\com.simplecity.amp_library.utils.sorting.AlbumSortHelper#updateAlbumSortMenuItems(LMenu;IZ)Ví
+"updateAlbumSortMenuItems(LMenu;IZ)\com.simplecity.amp_library.utils.sorting.AlbumSortHelper#updateAlbumSortMenuItems(LMenu;IZ)V¶
+7com.simplecity.amp_library.utils.sorting.SongSortHelperjava.lang.Object≥
+2handleSongDetailMenuSortOrderAscClicks(LMenuItem;)}com.simplecity.amp_library.utils.sorting.SongSortHelper#handleSongDetailMenuSortOrderAscClicks(LMenuItem;)Ljava/lang/Boolean;°
+)handleSongMenuSortOrderClicks(LMenuItem;)tcom.simplecity.amp_library.utils.sorting.SongSortHelper#handleSongMenuSortOrderClicks(LMenuItem;)Ljava/lang/Integer;
+!updateSongSortMenuItems(LMenu;IZ)Zcom.simplecity.amp_library.utils.sorting.SongSortHelper#updateSongSortMenuItems(LMenu;IZ)Ví
 Fcom.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtilsjava.lang.Object€
 vgetAlbumArtistClickListener(LAlbumArtist;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)‡com.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtils#getAlbumArtistClickListener(LAlbumArtist;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;◊
 ugetAlbumArtistMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)›com.simplecity.amp_library.utils.menu.albumartist.AlbumArtistMenuUtils#getAlbumArtistMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/albumartist/AlbumArtistMenuCallbacks;)LToolbar.OnMenuItemClickListener;˝
@@ -1360,7 +1310,8 @@ Pcom.simplecity.amp_library.utils.playlists.PlaylistManager$PlaylistIds$Companio
 >com.simplecity.amp_library.ui.screens.queue.QueueContract$ViewGcom.simplecity.amp_library.ui.screens.queue.menu.QueueMenuContract$ViewV
 Bcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContractjava.lang.Object≈
 9com.simplecity.amp_library.ui.dialog.UpgradeSuccessDialogjava.lang.Objectv
-onCreateDialog(LBundle;)Zcom.simplecity.amp_library.ui.dialog.UpgradeSuccessDialog#onCreateDialog(LBundle;)LDialog;Ï
+onCreateDialog(LBundle;)Zcom.simplecity.amp_library.ui.dialog.UpgradeSuccessDialog#onCreateDialog(LBundle;)LDialog;’
+Bcom.simplecity.amp_library.ui.screens.album.detail.AlbumDetailViewGcom.simplecity.amp_library.ui.screens.album.menu.AlbumMenuContract$ViewFcom.simplecity.amp_library.ui.screens.songs.menu.SongMenuContract$ViewÏ
 9com.simplecity.amp_library.di.app.activity.ActivityModulejava.lang.ObjectÇ
 activity(LAppCompatActivity;)acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;ó
 $fragmentManager(LAppCompatActivity;)ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;u
@@ -1552,55 +1503,4 @@ ccom.simplecity.amp_library.playback.BluetoothManager#registerA2dpServiceListene
 show(LFragmentManager;)Mcom.simplecity.amp_library.ui.dialog.ChangelogDialog#show(LFragmentManager;)V¸
 \com.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0java.lang.Objectπ
 +onPageFinished(LWebView;Ljava/lang/String;)âcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#onPageFinished(LWebView;Ljava/lang/String;)VÕ
-5shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z·	
-Jcom.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0Icom.simplecity.amp_library.ui.screens.queue.QueueViewBinder$ClickListenerÒ
-PonQueueItemClick(ILcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)úcom.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0#onQueueItemClick(ILcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)V˘
-TonQueueItemLongClick(ILcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)†com.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0#onQueueItemLongClick(ILcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)Zç
-^onQueueItemOverflowClick(ILView;Lcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)™com.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0#onQueueItemOverflowClick(ILView;Lcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder;)V«
-†com.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0#onStartDrag(Lcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder$ViewHolder;)°com.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class0#onStartDrag(Lcom/simplecity/amp_library/ui/screens/queue/QueueViewBinder$ViewHolder;)V˙
-9com.simplecity.amp_library.ui.screens.queue.QueueFragment>com.simplecity.amp_library.ui.screens.queue.QueueContract$Viewjava.lang.Objecte
-onAttach(LContext;)Ncom.simplecity.amp_library.ui.screens.queue.QueueFragment#onAttach(LContext;)Vc
-onCreate(LBundle;)Mcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onCreate(LBundle;)V¶
-1onCreateView(LLayoutInflater;LViewGroup;LBundle;)qcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;]
-onDestroyView()Jcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onDestroyView()VQ
-	onPause()Dcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onPause()V÷
-KonRemovedFromQueue(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)Ücom.simplecity.amp_library.ui.screens.queue.QueueFragment#onRemovedFromQueue(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;)Vá
-$onRemovedFromQueue(Ljava/util/List;)_com.simplecity.amp_library.ui.screens.queue.QueueFragment#onRemovedFromQueue(Ljava/util/List;)VS
-
-onResume()Ecom.simplecity.amp_library.ui.screens.queue.QueueFragment#onResume()VÖ
-#onSongsAddedToPlaylist(LPlaylist;I)^com.simplecity.amp_library.ui.screens.queue.QueueFragment#onSongsAddedToPlaylist(LPlaylist;I)Vk
-onSongsAddedToQueue(I)Qcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onSongsAddedToQueue(I)Vy
-onViewCreated(LView;LBundle;)Xcom.simplecity.amp_library.ui.screens.queue.QueueFragment#onViewCreated(LView;LBundle;)Vô
--presentCreatePlaylistDialog(Ljava/util/List;)hcom.simplecity.amp_library.ui.screens.queue.QueueFragment#presentCreatePlaylistDialog(Ljava/util/List;)Vâ
-%presentDeleteDialog(Ljava/util/List;)`com.simplecity.amp_library.ui.screens.queue.QueueFragment#presentDeleteDialog(Ljava/util/List;)VÅ
-!presentRingtonePermissionDialog()\com.simplecity.amp_library.ui.screens.queue.QueueFragment#presentRingtonePermissionDialog()Vy
-presentSongInfoDialog(LSong;)Xcom.simplecity.amp_library.ui.screens.queue.QueueFragment#presentSongInfoDialog(LSong;)V{
-presentTagEditorDialog(LSong;)Ycom.simplecity.amp_library.ui.screens.queue.QueueFragment#presentTagEditorDialog(LSong;)Vh
-screenName()Xcom.simplecity.amp_library.ui.screens.queue.QueueFragment#screenName()Ljava/lang/String;s
-setData(Ljava/util/List;I)Ucom.simplecity.amp_library.ui.screens.queue.QueueFragment#setData(Ljava/util/List;I)Vk
-setQueueSwipeLocked(Z)Qcom.simplecity.amp_library.ui.screens.queue.QueueFragment#setQueueSwipeLocked(Z)Vo
-setupContextualToolbar()Scom.simplecity.amp_library.ui.screens.queue.QueueFragment#setupContextualToolbar()Va
-shareSong(LSong;)Lcom.simplecity.amp_library.ui.screens.queue.QueueFragment#shareSong(LSong;)Vì
-*showCreatePlaylistDialog(Ljava/util/List;)ecom.simplecity.amp_library.ui.screens.queue.QueueFragment#showCreatePlaylistDialog(Ljava/util/List;)V
- showDeleteDialog(LDeleteDialog;)[com.simplecity.amp_library.ui.screens.queue.QueueFragment#showDeleteDialog(LDeleteDialog;)Vo
-showRingtoneSetMessage()Scom.simplecity.amp_library.ui.screens.queue.QueueFragment#showRingtoneSetMessage()V
- showTaggerDialog(LTaggerDialog;)[com.simplecity.amp_library.ui.screens.queue.QueueFragment#showTaggerDialog(LTaggerDialog;)V{
-showToast(Ljava/lang/String;I)Ycom.simplecity.amp_library.ui.screens.queue.QueueFragment#showToast(Ljava/lang/String;I)Ve
-showUpgradeDialog()Ncom.simplecity.amp_library.ui.screens.queue.QueueFragment#showUpgradeDialog()Vk
-updateQueuePosition(I)Qcom.simplecity.amp_library.ui.screens.queue.QueueFragment#updateQueuePosition(I)Vƒ
-:com.simplecity.amp_library.utils.menu.queue.QueueMenuUtilsjava.lang.ObjectË
-ÉgetQueueMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lkotlin/jvm/functions/Function0;)ﬂcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(LSingle;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;Lkotlin/jvm/functions/Function0;)LToolbar.OnMenuItemClickListener;à
-ígetQueueMenuClickListener(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;)com.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#getQueueMenuClickListener(Lcom/simplecity/amp_library/ui/screens/queue/QueueItem;Lcom/simplecity/amp_library/utils/menu/queue/QueueMenuCallbacks;)LPopupMenu.OnMenuItemClickListener;˝
-^setupQueueSongMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)öcom.simplecity.amp_library.utils.menu.queue.QueueMenuUtils#setupQueueSongMenu(LPopupMenu;Lcom/simplecity/amp_library/utils/playlists/PlaylistMenuHelper;)V˛
-Jcom.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class15com.simplecity.amp_library.ui.views.PlayerViewAdapterv
-showUpgradeDialog()_com.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class1#showUpgradeDialog()VÄ
-trackInfoChanged(LSong;)dcom.simplecity.amp_library.ui.screens.queue.QueueFragment#<init>()V$class1#trackInfoChanged(LSong;)V–
-Qcom.simplecity.amp_library.ui.screens.queue.QueueFragment$ItemTouchHelperCallbackjava.lang.ObjectË
-HonMove(LRecyclerView;LRecyclerView.ViewHolder;LRecyclerView.ViewHolder;)õcom.simplecity.amp_library.ui.screens.queue.QueueFragment$ItemTouchHelperCallback#onMove(LRecyclerView;LRecyclerView.ViewHolder;LRecyclerView.ViewHolder;)Z¯
-Ccom.simplecity.amp_library.ui.screens.queue.QueueFragment$Companionjava.lang.Objectû
-newInstance()åcom.simplecity.amp_library.ui.screens.queue.QueueFragment$Companion#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/QueueFragment;‚
-Icom.simplecity.amp_library.ui.screens.queue.QueueFragment$QueueHeaderViewjava.lang.Objectó
-$areContentsEqual(Ljava/lang/Object;)ocom.simplecity.amp_library.ui.screens.queue.QueueFragment$QueueHeaderView#areContentsEqual(Ljava/lang/Object;)ZÉ
-equals(Ljava/lang/Object;)ecom.simplecity.amp_library.ui.screens.queue.QueueFragment$QueueHeaderView#equals(Ljava/lang/Object;)Zc
-
-hashCode()Ucom.simplecity.amp_library.ui.screens.queue.QueueFragment$QueueHeaderView#hashCode()I
+5shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)ìcom.simplecity.amp_library.ui.dialog.ChangelogDialog#onCreateDialog(LBundle;)LDialog;$class0#shouldOverrideUrlLoading(LWebView;Ljava/lang/String;)Z
