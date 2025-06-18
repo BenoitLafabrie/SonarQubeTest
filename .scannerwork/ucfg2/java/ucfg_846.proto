@@ -1,21 +1,19 @@
 
-acom.afollestad.aesthetic.Aesthetic#colorIconTitleActiveRes(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¹ ¹(*"1*ž
+acom.afollestad.aesthetic.Aesthetic#snackbarActionTextColor(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaù ù(*"1*¯
 1
-º º(öó
+ú ú(
+h
+f
 
-º º(G
-%0"^com.afollestad.aesthetic.Aesthetic#colorIconTitleActive(I)Lcom/afollestad/aesthetic/Aesthetic;*B
+ú ú(*
+%0java.lang.String"__id*:
 
-__unknown_file (&$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""2colorIconTitleActive(I)"
+__unknown_file (
+snackbar_action_text_color"4
 
-º º(H
-
-%0: 
+û û(&$
+"com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (
 ""B&$

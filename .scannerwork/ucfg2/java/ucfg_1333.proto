@@ -1,101 +1,37 @@
 
-Hcom.simplecity.amp_library.model.FileObject#toString()Ljava/lang/String;}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/FileObject.java ("1*Î
-1 (h
-f
- (
-%0java.lang.String"__concat*
- (
-FileObject{*
- (
-extension='‡
-„
-  ()
-%1java.lang.String"__id*Z
+Acom.simplecity.amp_library.ui.modelviews.InclExclView#hashCode()I‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/InclExclView.javaf f("4*U
+2g@ g(AA
+?
+g@ g(A
+%1"__id*'
 
-__unknown_file (>*<-
-+com.simplecity.amp_library.model.FileObject"
-	extension~
-|
- ()
-%2"__calculate*
- (
-+*$
- (
-
-%0java.lang.String*$
-  ()
-
-%1java.lang.StringZ
-X
- (0
-%3"__calculate*
-* (+
-+*
- ()
-
-%2*
-, (0
-\'`
-^
- (
-%4"__calculate*
-1 (2
-+*
- (0
-
-%3*
- (
-
-, size='Z
-X
- (!
-%5"__calculate*
- (
-+*
- (
-
-%4*
- (!
-""Z
-X
- ((
-%6"__calculate*
-" (#
-+*
- (!
-
-%5*
-$ ((
-\'Z
-X
-  (
-%7"__calculate*
-) (*
-+*
- ((
-
-%6*
-   (
-} w
-u
-   ('
-%8java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+__unknown_file (
+	
+%3int*
+1*P
+3g& g(2<
+:
+g& g(=
+%1"__id*"
 
-__unknown_file (
-""l
-j
-  ('
-%9"__calculate*
-   (
-+*
-  (
+__unknown_file (
 
-%7*$
-   ('
-
-%8java.lang.String"
-  ((
-
-%9B/-
-+com.simplecity.amp_library.model.FileObjectH
+%2*
+1*p
+4g g(Y
+W
+g g(#
+%0"	__compare*
+g g(
+!=*
+g g(
+""*
+g g(#
+""*
+2
+3*!
+1g g(B"
+g g(B
+""B97
+5com.simplecity.amp_library.ui.modelviews.InclExclViewHX

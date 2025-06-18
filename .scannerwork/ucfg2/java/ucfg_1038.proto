@@ -1,21 +1,21 @@
 
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java÷ ÷(!"1*…
+Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#genre(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java ("1*ù
 1
-ø ø(.¨
-¥
+ ("œ
+™
 
-ø ø(.N9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-albumArtistText"__id*A
+ ("H9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+	genreText"__id*;
 
-__unknown_file (%
-#
-albumArtistTextjava.lang.String"I
+__unknown_file (
+
+	genreTextjava.lang.String"I
 
-ù ù(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:1
+Ÿ Ÿ(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
 
-÷" ÷(8#
-albumArtistTextjava.lang.StringB;9
+ (,
+	genreTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

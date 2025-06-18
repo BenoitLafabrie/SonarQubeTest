@@ -1,2 +1,19 @@
-Kthis0 0("7com.simplecityapps.recycler_adapter.model.BaseViewModel	spanCount0 0(("int"
-1 1(*–/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java
+Ithis ("5com.simplecity.amp_library.glide.fetcher.MultiFetcher6context ('"Recovered#typeBindingLContext;0FartworkProvider) (H"'Recovered#typeBindingLArtworkProvider;0FsettingsManagerJ (i"'Recovered#typeBindingLSettingsManager;0,allowOfflineDownload	k (‡"boolean"ß5
+3
+ ($applicationContext"#unknown-value#4
+2
+ ($" #set-field# applicationContext:!
+
+ (."#unknown-value#1
+/
+ (.	"#set-field# artworkProvider:!
+
+ (.
+"#unknown-value#1
+/
+ (."#set-field# settingsManager:
+6
+4
+   (8"" #set-field# allowOfflineDownload:
+
+! !(*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/MultiFetcher.java

@@ -1,10 +1,10 @@
+Ithis
+è è("3com.simplecity.amp_library.ui.modelviews.FolderView"m#
+!
 
-falsebooleanGthisQ Q( "3com.simplecity.amp_library.ui.modelviews.FolderView$showWhitelistQ! Q(6"boolean"O/
--
-R R(*"#set-field# showWhitelist:"
-S S( *S S(
-"9/
--
-T T(&"#set-field# showBlacklist:"
+ê ê("#unknown-value#4
+2
 
-V V(*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java
+ê ê("#get-field# FOLDER:B	!Unknown!
+
+ê ê(*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java

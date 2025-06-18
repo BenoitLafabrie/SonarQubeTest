@@ -1,79 +1,14 @@
 
-9com.simplecity.amp_library.model.InclExclItem#hashCode()I
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java5 5("1*˙
-16 6(`
-^
-6" 6(+
-
-%0long"__calculate*
-6% 6((
->>>*
-6" 6($
-""*
-6) 6(+2 f
-d
-6 6(,
-
-%1long"__calculate*
-6 6( 
-^*
-6 6(
-""*
-6! 6(,
-
-
-%0long]
-[
-7 7(	
-%2int"__calculate*
-7 7(
-**
-7 7(2*
-7 7(
-""Ñ
-Å
-7 7(#
-%3java.lang.String"__id*W
-
-__unknown_file (;*9/
--com.simplecity.amp_library.model.InclExclItem"
-pathwu
-7 7(.	
-%4int"java.lang.String#hashCode()I*4
-
-__unknown_file (
-
-%3java.lang.String2
-hashCode()i
-g
-7 7(.	
-%5int"__calculate*
-7 7(
-+*
-7 7(
-	
-%2int*
-7 7(.
-	
-%4int]
-[
-8 8(	
-%6int"__calculate*
-8 8(
-**
-8 8(2*
-8 8(
-""d
+icom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;ñ
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*ô
+1 (#d
 b
-8 8(#	
-%7int"__calculate*
-8 8(
-+*
-8 8(
-	
-%6int*
-8 8(#
-"""
-9 9(
-""B1/
--com.simplecity.amp_library.model.InclExclItemHX
+ (8
+%0java.lang.String"__id*8
+
+__unknown_file (
+widget_medium_layout_id_"$
+ (9
+
+%0java.lang.StringBGE
+Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium

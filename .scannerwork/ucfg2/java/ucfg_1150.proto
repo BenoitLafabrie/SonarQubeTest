@@ -1,21 +1,54 @@
 
-Fcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#<init>()V
-__unknown_file ("startingBlock*è
-startingBlock¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (Ï
-Ì
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%0"Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapterž
-›
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%1"RecyclerView.Adapter#<init>()V*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"¼
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
+7com.simplecity.amp_library.model.Song#getElapsedTime()Jy
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
+2
+× ×("
+
+× ×(
+""*ú
+1
+Ù Ù(s
+q
+
+Ù! Ù(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.Systemn
+l
+
+Ù Ù(;
+
+%1long"__calculate*
+
+Ù Ù( 
++*
+
+Ù Ù(
+""*
+
+Ù! Ù(;
+
+
+%0longn
+l
+
+Ù Ù(G
+
+%2long"__calculate*
+
+Ù< Ù(=
+-*
+
+Ù Ù(;
+
+
+%1long*
+
+Ù> Ù(G
+"""
+
+Ù Ù(H
+""B)'
+%com.simplecity.amp_library.model.SongX

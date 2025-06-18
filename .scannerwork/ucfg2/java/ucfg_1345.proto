@@ -1,15 +1,120 @@
 
-:com.afollestad.aesthetic.AestheticRecyclerView$1#<init>()V
-__unknown_file ("startingBlock*Å
-startingBlock‘
-†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticRecyclerView.java)( )()ó
-ð
-‘
-†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticRecyclerView.java)( )()
-%0"Consumer#<init>()V*@
- (42
-0com.afollestad.aesthetic.AestheticRecyclerView$1"©
-‘
-†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticRecyclerView.java)( )()
-implicit returnB42
-0com.afollestad.aesthetic.AestheticRecyclerView$1
+2com.simplecity.amp_library.model.Genre#hashCode()Ix
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Genre.java5 5("4*Z
+27A 7(BF
+D
+7A 7(B	
+%5int"__id*'
+
+__unknown_file (
+	
+%7int*
+1*Ñ
+37/ 7(3|
+z
+7/ 7(3
+%8java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namewu
+7/ 7(>	
+%6int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%8java.lang.String2
+hashCode()F
+D
+7/ 7(>	
+%5int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*²
+46 6(`
+^
+6" 6(+
+
+%0long"__calculate*
+6% 6((
+>>>*
+6" 6($
+""*
+6) 6(+2 f
+d
+6 6(,
+
+%1long"__calculate*
+6 6( 
+^*
+6 6(
+""*
+6! 6(,
+
+
+%0long]
+[
+7 7(	
+%2int"__calculate*
+7 7(
+**
+7 7(2*
+7 7(
+""|
+z
+7  7($
+%3java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namet
+r
+7  7(,
+%4boolean"	__compare*
+7% 7('
+!=*$
+7  7($
+
+%3java.lang.String*
+7( 7(,
+""*
+2
+3*Ô
+17 7(Ci
+g
+7 7(C	
+%9int"__calculate*
+7 7(
++*
+7 7(
+	
+%2int*
+7 7(C
+	
+%5int^
+\
+8 8(
+
+%10int"__calculate*
+8 8(
+**
+8 8(2*
+8 8(
+""f
+d
+8 8('
+
+%11int"__calculate*
+8 8(
++*
+8 8(
+
+
+%10int*
+8 8('
+"""
+9 9(
+""B*(
+&com.simplecity.amp_library.model.GenreHX

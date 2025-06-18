@@ -1,26 +1,39 @@
 
-Ncom.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)IÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.javaC C("1*¸
-1F F(xv
-F F((	
-%0int"java.lang.String#hashCode()I*5
+Qcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Zí
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaﬁ ﬁ(""3*Ñ
+2
+ﬂ ﬂ(&Ì
+Í
+
+ﬂ ﬂ(+
+%1boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z*]
 
-__unknown_file (
-
-keyjava.lang.String2
-hashCode()_
-]
-F F(;
-%1"__calculate*
-F) F(*
-%*
-F F((
-	
-%0int*
-F+ F(;
-"""
-G G(4
-"":#
-C C($
-keyjava.lang.StringB31
-/com.simplecity.amp_library.utils.LetterDrawableX
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+1*á
+3
+ﬂ ﬂ(Ì
+Í
+
+ﬂ ﬂ(
+%0boolean"Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z*]
+
+__unknown_file (A?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+ﬂ ﬂ(,"
+
+ﬂ ﬂ(,
+"": 
+
+__unknown_file (
+""BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

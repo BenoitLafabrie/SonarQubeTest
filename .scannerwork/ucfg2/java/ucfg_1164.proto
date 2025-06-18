@@ -1,152 +1,17 @@
 
-1com.simplecity.amp_library.model.Song#hashCode()Iy
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaÇ Ç("1*é
+Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java‚ ‚(+"1*¤
 1
-È È(h
-f
+ƒ ƒ(}
+{
 
-È" È(+
+ƒ0 ƒ(4
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path"
 
-%0long"__calculate*
-
-È% È((
->>>*
-
-È" È($
-""*
-
-È) È(+2 n
-l
-
-È È(,
-
-%1long"__calculate*
-
-È È( 
-^*
-
-È È(
-""*
-
-È! È(,
-
-
-%0longe
-c
-
-É É(	
-%2int"__calculate*
-
-É É(
-**
-
-É É(2*
-
-É É(
-""h
-f
-
-É2 É(A
-
-%3long"__calculate*
-
-É; É(>
->>>*
-
-É2 É(:
-""*
-
-É? É(A2 n
-l
-
-É& É(B
-
-%4long"__calculate*
-
-É/ É(0
-^*
-
-É& É(.
-""*
-
-É1 É(B
-
-
-%3longr
-p
-
-É É(C	
-%5int"__calculate*
-
-É É(
-+*
-
-É É(
-	
-%2int*
-
-É É(C
-
-
-%4longe
-c
-
-Ê Ê(	
-%6int"__calculate*
-
-Ê Ê(
-**
-
-Ê Ê(2*
-
-Ê Ê(
-""h
-f
-
-Ê1 Ê(?
-
-%7long"__calculate*
-
-Ê9 Ê(<
->>>*
-
-Ê1 Ê(8
-""*
-
-Ê= Ê(?2 n
-l
-
-Ê& Ê(@
-
-%8long"__calculate*
-
-Ê. Ê(/
-^*
-
-Ê& Ê(-
-""*
-
-Ê0 Ê(@
-
-
-%7longr
-p
-
-Ê Ê(A	
-%9int"__calculate*
-
-Ê Ê(
-+*
-
-Ê Ê(
-	
-%6int*
-
-Ê Ê(A
-
-
-%8long"
-
-Ë Ë(
+ƒ ƒ(6
 ""B)'
-%com.simplecity.amp_library.model.SongHX
+%com.simplecity.amp_library.model.SongH

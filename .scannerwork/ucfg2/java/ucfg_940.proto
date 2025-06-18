@@ -1,23 +1,16 @@
 
-Ucom.simplecity.amp_library.utils.sorting.SortManager#getGenreDetailAlbumsSortOrder()Ià
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaå å(,"1*º
+Vcom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailAlbumsAscending()Zà
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java∏ ∏(1"1*w
 1
-ç ç(P
+π π(P
 N
 
-ç ç(4
+π! π(=
 %0java.lang.String"__id*"
-
-__unknown_file (
-""C
-A
-
-ç6 ç(G	
-%1int"__id*"
 
 __unknown_file (
 """
 
-ç ç(I
+π π(E
 ""B86
 4com.simplecity.amp_library.utils.sorting.SortManagerHX

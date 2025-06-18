@@ -1,15 +1,21 @@
 
-=com.simplecity.amp_library.ui.views.PlayPauseView$2#<init>()V
-__unknown_file ("startingBlock*­
-startingBlockƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseView.javap; p(<÷
-ô
-ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseView.javap; p(<
-%0"!AnimatorListenerAdapter#<init>()V*C
- (75
-3com.simplecity.amp_library.ui.views.PlayPauseView$2"›
-ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseView.javap; p(<
-implicit returnB75
-3com.simplecity.amp_library.ui.views.PlayPauseView$2
+‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÒ Ò("1*ï
+1
+Ó Ó(’
+
+
+Ó Ó(D9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+paths"__id*5
+
+__unknown_file (
+
+pathsjava.util.List"I
+
+Ô Ô(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
+
+Ò Ò(1
+pathsjava.util.ListB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

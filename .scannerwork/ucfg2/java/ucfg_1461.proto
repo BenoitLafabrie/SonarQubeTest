@@ -1,15 +1,26 @@
 
-Bcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#<init>()V
-__unknown_file ("startingBlock*¾
-startingBlock‰
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (ü
-ù
-‰
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (
-%0"AppWidgetProvider#<init>()V*H
- (<:
-8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider"¡
-‰
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (
-implicit returnB<:
-8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider
+Otest.com.androidnavigation.fragment.BaseNavigationController#%field_initializer
+__unknown_file ("1*Ç
+1 (ÖÓ
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java= (H
+%0java.util.ArrayList"java.util.ArrayListô
+ñ
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java9 (J
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList­
+ª
+ 
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (KV>
+<test.com.androidnavigation.fragment.BaseNavigationController"
+backPressListeners"__id*'
+ (
+
+%0java.util.ArrayList"·
+Ÿ
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java ‹(
+implicit returnB@>
+<test.com.androidnavigation.fragment.BaseNavigationController

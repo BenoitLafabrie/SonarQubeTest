@@ -1,17 +1,7 @@
 
-bcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#screenName()Ljava/lang/String;ò
-ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaÃ Ã("1*ô
-1
-Õ Õ(`
-^
-
-Õ Õ(
-%0java.lang.String"__id*2
-
-__unknown_file (
-MiniPlayerFragment"&
-
-Õ Õ(
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment
+>com.afollestad.aesthetic.ActiveInactiveColors#inactiveColor()Iê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java ("1*!
+1 ("
+ (
+""B1/
+-com.afollestad.aesthetic.ActiveInactiveColorsHX

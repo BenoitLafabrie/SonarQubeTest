@@ -1,15 +1,15 @@
 
-Lcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#<init>()V
-__unknown_file ("startingBlock*ð
-startingBlock“
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (š
-—
-“
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
-%0"%BaseWidgetConfigureActivity#<init>()V*R
- (FD
-Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge"«
-“
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (
-implicit returnBFD
-Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge
+Hcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1#<init>()V
+__unknown_file ("startingBlock*œ
+startingBlock¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(? 
+
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(?
+%0"ListUpdateCallback#<init>()V*N
+ (B@
+>com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1"¾
+¦
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java{> {(?
+implicit returnBB@
+>com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$1

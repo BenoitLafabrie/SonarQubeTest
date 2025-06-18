@@ -1,141 +1,99 @@
 
-/com.afollestad.aesthetic.Util#blendColors(IIF)I
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.java8 8("1*Ù	
-19 9(!a
-_
-9 9()
-%0float"__calculate*
-9" 9(#
--*
-9 9(!
-""*
-9$ 9()
-""Z
-X
-: :(1
-%1"__calculate*
-:# :($
-**
-: :("
-""*
-:% :(1
-""Z
-X
-:6 :(Q
-%2"__calculate*
-:J :(K
-**
-:6 :(I
-""*
-:L :(Q
-""Z
-X
-: :(R
-%3"__calculate*
-:3 :(4
-+*
-: :(2
-
-%1*
-:5 :(R
-
-%2Z
-X
-; ;(/
-%4"__calculate*
-;! ;("
-**
-; ;( 
-""*
-;# ;(/
-""Z
-X
-;4 ;(M
-%5"__calculate*
-;F ;(G
-**
-;4 ;(E
-""*
-;H ;(M
-""Z
-X
-; ;(N
-%6"__calculate*
-;1 ;(2
-+*
-; ;(0
-
-%4*
-;3 ;(N
-
-%5Z
-X
-< <(1
-%7"__calculate*
-<# <($
-**
-< <("
-""*
-<% <(1
-""Z
-X
-<6 <(Q
-%8"__calculate*
-<J <(K
-**
-<6 <(I
-""*
-<L <(Q
-""Z
-X
-< <(R
-%9"__calculate*
-<3 <(4
-+*
-< <(2
-
-%7*
-<5 <(R
-
-%8[
-Y
-= =(0
-%10"__calculate*
-=" =(#
-**
-= =(!
-""*
-=$ =(0
-""[
-Y
-=5 =(O
-%11"__calculate*
-=H =(I
-**
-=5 =(G
-""*
-=J =(O
-""]
+Acom.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java ("4*Z
+2E (FF
+D
+E (F	
+%5int"__id*'
+
+__unknown_file (
+	
+%7int*
+1*ä
+31 (7Ž
+‹
+1 (7
+%8java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folderwu
+1 (B	
+%6int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%8java.lang.String2
+hashCode()F
+D
+1 (B	
+%5int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*Å
+4 (`
+^
+" (+
+
+%0long"__calculate*
+% ((
+>>>*
+" ($
+""*
+) (+2 f
+d
+ (,
+
+%1long"__calculate*
+ ( 
+^*
+ (
+""*
+! (,
+
+
+%0long]
 [
-= =(P
-%12"__calculate*
-=2 =(3
-+*
-= =(1
-
-%10*
-=4 =(P
-
-%11"
-> >(:
-"": 
+ (	
+%2int"__calculate*
+ (
+**
+ (2*
+ (
+""Ž
+‹
+  (&
+%3java.lang.String"__id*a
 
-__unknown_file (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B!"
-com.afollestad.aesthetic.UtilX
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+foldert
+r
+  (.
+%4boolean"	__compare*
+' ()
+!=*$
+  (&
+
+%3java.lang.String*
+* (.
+""*
+2
+3*Œ
+1 (Gi
+g
+ (G	
+%9int"__calculate*
+ (
++*
+ (
+	
+%2int*
+ (G
+	
+%5int"
+ (
+""B97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolderHX

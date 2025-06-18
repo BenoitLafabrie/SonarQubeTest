@@ -1,6 +1,11 @@
+;this
+³ ³("%com.simplecity.amp_library.model.Song"¢a
+_
 
-
-0int9this ("%com.simplecity.amp_library.model.Song"<-
+´ ´(.	startTime"(
+java.lang.SystemcurrentTimeMillis()J*2currentTimeMillisBlong-
 +
-2 2(!"#set-field# elapsedTime:	
- ”(*m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java
+
+´ ´(."#set-field# startTime:
+
+µ µ(*m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java

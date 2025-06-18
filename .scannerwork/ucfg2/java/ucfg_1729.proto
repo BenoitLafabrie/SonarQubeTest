@@ -1,59 +1,22 @@
 
-?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()I‡
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÍ Í("1*Ï
-1
-Î Î([
-Y
-
-Î Î(%	
-%0int"java.lang.Object#hashCode()I*"
-
-__unknown_file (
-""e
-c
-
-Ï Ï(	
-%1int"__calculate*
-
-Ï Ï(
-**
-
-Ï Ï(2*
-
-Ï Ï(
-""µ
-²
-
-Ï Ï(-5
-%2/com.simplecity.amp_library.model.BaseFileObject"__id*g
-
-__unknown_file (K*I5
-3com.simplecity.amp_library.ui.modelviews.FolderView"
-baseFileObject¸µ
-
-Ï Ï(8	
-%3int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
-
-__unknown_file (7
-5
-%2/com.simplecity.amp_library.model.BaseFileObject2
-hashCode()q
-o
-
-Ï Ï(8	
-%4int"__calculate*
-
-Ï Ï(
-+*
-
-Ï Ï(
-	
-%1int*
-
-Ï Ï(8
-	
-%3int"
-
-Ð Ð(
-""B75
-3com.simplecity.amp_library.ui.modelviews.FolderViewHX
+Vcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#%field_initializer
+__unknown_file ("1*ç
+1 (Ž
+‹
+–
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java= =(HVE
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
+disposables"__id*
+ (
+""–
+“
+˜
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaÐ ù(\E
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
+playerViewAdapter"__id*
+ (
+"""­
+•
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java% ú(
+implicit returnBGE
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment

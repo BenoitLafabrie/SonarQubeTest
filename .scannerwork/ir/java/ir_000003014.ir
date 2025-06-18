@@ -1,5 +1,5 @@
-Fthis   ("2com.simplecity.amp_library.ui.modelviews.EmptyViewheight   ($"int"8(
-&
-! !("#set-field# height:
+Ithis& &("5com.simplecity.amp_library.ui.modelviews.TabViewModelVlistener& &(7">com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener":*
+(
+' '( "#set-field# listener:
 
-" "(*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/EmptyView.java
+( ((*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/TabViewModel.java

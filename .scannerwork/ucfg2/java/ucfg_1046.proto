@@ -1,21 +1,24 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#genre(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaŸ Ÿ("1*ù
-1
-   ("œ
-™
-
-   ("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	genreText"__id*;
+˜com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment;—
+Œ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaC% C(0"1*±
+1D D("Ÿœ
+E* E(<J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÍ
+Ê
+E& E(>
+%1"Ncom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#<init>()V*h
 
-__unknown_file (
-
-	genreTextjava.lang.String"I
-
-¡ ¡(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
-
-Ÿ Ÿ(,
-	genreTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+__unknown_file (L
+J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÏ
+Ì
+E E(?P
+fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"__id*h
+
+__unknown_file (L
+J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"^
+G G(R
+P
+fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentBH"F
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentH

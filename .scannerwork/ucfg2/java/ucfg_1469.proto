@@ -1,26 +1,39 @@
 
-Otest.com.androidnavigation.fragment.BaseNavigationController#%field_initializer
-__unknown_file ("1*Ç
-1 (ÖÓ
- 
-•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java= (H
-%0java.util.ArrayList"java.util.ArrayListô
-ñ
- 
-•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java9 (J
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList­
-ª
- 
-•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (KV>
-<test.com.androidnavigation.fragment.BaseNavigationController"
-backPressListeners"__id*'
- (
-
-%0java.util.ArrayList"·
-Ÿ
-•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java ‹(
-implicit returnB@>
-<test.com.androidnavigation.fragment.BaseNavigationController
+Xcom.jp.wasabeef.glide.transformations.CropSquareTransformation#getId()Ljava/lang/String;‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropSquareTransformation.java= =("1*ì
+1> >(0s
+q
+> >(9
+%0java.lang.String"__concat*/
+> >(0#!
+CropSquareTransformation(width=*
+>3 >(9
+""o
+m
+> >(G
+%1java.lang.String"__concat*$
+> >(9
+
+%0java.lang.String*
+>< >(G
+	, height=h
+f
+> >(Q
+%2java.lang.String"__concat*$
+> >(G
+
+%1java.lang.String*
+>J >(Q
+""g
+e
+> >(W
+%3java.lang.String"__concat*$
+> >(Q
+
+%2java.lang.String*
+>T >(W
+)"$
+> >(X
+
+%3java.lang.StringBB@
+>com.jp.wasabeef.glide.transformations.CropSquareTransformationH

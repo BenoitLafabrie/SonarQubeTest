@@ -55,7 +55,7 @@ public class EqualizerFragment extends BaseFragment implements
     /**
      * Max number of EQ bands supported
      */
-    private final static int EQUALIZER_MAX_BANDS = 6;
+    private static final int EQUALIZER_MAX_BANDS = 6;
 
     /**
      * Indicates if Equalizer effect is supported.
@@ -74,7 +74,9 @@ public class EqualizerFragment extends BaseFragment implements
     private int numberEqualizerBands;
     int eqCustomPresetPosition = 1;
     int eqPreset;
-    private String[] eqPresetNames;
+    // Removed eqPresetNames field as per compile error suggestion.
+
+    private static final String PREF_KEY_EQ_PRESET = "audiofx.eq.preset";
 
     private final SizableSeekBar[] mEqualizerSeekBar = new SizableSeekBar[EQUALIZER_MAX_BANDS];
 
@@ -126,13 +128,11 @@ public class EqualizerFragment extends BaseFragment implements
 
     @Override
     public boolean onMenuItemClick(MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.menu_dsp:
-                Intent openDSP = new Intent(AudioEffect.ACTION_DISPLAY_AUDIO_EFFECT_CONTROL_PANEL);
-                if (getActivity().getPackageManager().resolveActivity(openDSP, 0) != null) {
-                    startActivityForResult(openDSP, 1000);
-                }
-                break;
+        if (item.getItemId() == R.id.menu_dsp) {
+            Intent openDSP = new Intent(AudioEffect.ACTION_DISPLAY_AUDIO_EFFECT_CONTROL_PANEL);
+            if (getActivity().getPackageManager().resolveActivity(openDSP, 0) != null) {
+                startActivityForResult(openDSP, 1000);
+            }
         }
         return true;
     }
@@ -194,6 +194,23 @@ public class EqualizerFragment extends BaseFragment implements
 
         unbinder = ButterKnife.bind(this, rootView);
 
+        initToolbar();
+        initSpinner();
+
+        setupPresets();
+        if (spinnerAdapter != null && spinnerAdapter.getCount() > eqPreset) {
+            spinner.setSelection(eqPreset);
+        }
+
+        numberEqualizerBands = Integer.parseInt(prefs.getString("equalizer.number_of_bands", "5"));
+        initEqualizerBands();
+        initBassBoost();
+        initVirtualizer();
+
+        return rootView;
+    }
+
+    private void initToolbar() {
         toolbar.inflateMenu(R.menu.menu_equalizer);
         toolbar.setNavigationOnClickListener(v -> getNavigationController().popViewController());
         toolbar.setOnMenuItemClickListener(this);
@@ -213,7 +230,9 @@ public class EqualizerFragment extends BaseFragment implements
                 openDSPItem.setVisible(false);
             }
         }
+    }
 
+    private void initSpinner() {
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
             @Override
@@ -224,151 +243,143 @@ public class EqualizerFragment extends BaseFragment implements
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
+                // No action required when nothing is selected in the spinner.
             }
         });
+    }
 
-        setupPresets();
-        if (spinnerAdapter != null && spinnerAdapter.getCount() > eqPreset) {
-            spinner.setSelection(eqPreset);
-        }
-
-        //Initialize the equalizer elements
-        numberEqualizerBands = Integer.parseInt(prefs.getString("equalizer.number_of_bands", "5"));
+    private void initEqualizerBands() {
         final int[] centerFreqs = getCenterFreqs();
         final int[] bandLevelRange = getBandLevelRange();
 
         for (int band = 0; band < numberEqualizerBands; band++) {
-            //Unit conversion from mHz to Hz and use k prefix if necessary to display
-            float centerFreqHz = centerFreqs[band] / 1000f;
-            String unitPrefix = "";
-            if (centerFreqHz >= 1000) {
-                centerFreqHz = centerFreqHz / 1000;
-                unitPrefix = "k";
+            setupEqualizerBand(band, centerFreqs, bandLevelRange);
+        }
+    }
+
+    private void setupEqualizerBand(int band, int[] centerFreqs, int[] bandLevelRange) {
+        float centerFreqHz = centerFreqs[band] / 1000f;
+        String unitPrefix = "";
+        if (centerFreqHz >= 1000) {
+            centerFreqHz = centerFreqHz / 1000;
+            unitPrefix = "k";
+        }
+        (eqContainer.findViewById(eqViewElementIds[band][0])).setVisibility(View.VISIBLE);
+        (eqContainer.findViewById(eqViewTextElementIds[band][0])).setVisibility(View.VISIBLE);
+        (eqContainer.findViewById(eqViewElementIds[band][1])).setVisibility(View.VISIBLE);
+        (eqContainer.findViewById(eqViewTextElementIds[band][1])).setVisibility(View.VISIBLE);
+        ((TextView) eqContainer.findViewById(eqViewElementIds[band][0])).setText(format("%.0f ", centerFreqHz) + unitPrefix + "Hz");
+        mEqualizerSeekBar[band] = eqContainer.findViewById(eqViewElementIds[band][1]);
+        mEqualizerSeekBar[band].setMax((bandLevelRange[1] / 100) - (bandLevelRange[0] / 100));
+        mEqualizerSeekBar[band].setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+            @Override
+            public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
+                if (fromUser) {
+                    handleEqualizerBandProgressChanged(seekBar, progress);
+                }
             }
-            (eqContainer.findViewById(eqViewElementIds[band][0])).setVisibility(View.VISIBLE);
-            (eqContainer.findViewById(eqViewTextElementIds[band][0])).setVisibility(View.VISIBLE);
-            (eqContainer.findViewById(eqViewElementIds[band][1])).setVisibility(View.VISIBLE);
-            (eqContainer.findViewById(eqViewTextElementIds[band][1])).setVisibility(View.VISIBLE);
-            ((TextView) eqContainer.findViewById(eqViewElementIds[band][0])).setText(format("%.0f ", centerFreqHz) + unitPrefix + "Hz");
-            mEqualizerSeekBar[band] = eqContainer.findViewById(eqViewElementIds[band][1]);
-            mEqualizerSeekBar[band].setMax((bandLevelRange[1] / 100) - (bandLevelRange[0] / 100));
-            mEqualizerSeekBar[band].setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
-                @Override
-                public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
 
-                    if (fromUser) {
-                        //Determine which band changed
-                        int seekbarId = seekBar.getId();
-                        int band = 0;
-                        for (int i = 0; i < eqViewElementIds.length; i++) {
-                            if (eqViewElementIds[i][1] == seekbarId) {
-                                band = i;
-                            }
-                        }
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+                // This method is intentionally left empty because no action is required when the user starts tracking the SeekBar.
+            }
 
-                        if (eqPreset != eqCustomPresetPosition) {
-                            equalizerCopyToCustom();
-                            if (spinnerAdapter != null && spinnerAdapter.getCount() > eqCustomPresetPosition) {
-                                spinner.setSelection(eqCustomPresetPosition);
-                            }
-                        } else {
-                            int level = getBandLevelRange()[0] + (progress * 100);
-                            equalizerBandUpdate(band, level);
-                        }
-                    }
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+                mediaManager.updateEqualizer();
+            }
+        });
+    }
+
+    private void handleEqualizerBandProgressChanged(final SeekBar seekBar, final int progress) {
+        int seekbarId = seekBar.getId();
+        int foundBand = -1;
+        for (int i = 0; i < eqViewElementIds.length; i++) {
+            if (eqViewElementIds[i][1] == seekbarId) {
+                foundBand = i;
+                break;
+            }
+        }
+
+        if (foundBand != -1) {
+            if (eqPreset != eqCustomPresetPosition) {
+                equalizerCopyToCustom();
+                if (spinnerAdapter != null && spinnerAdapter.getCount() > eqCustomPresetPosition) {
+                    spinner.setSelection(eqCustomPresetPosition);
                 }
+            } else {
+                int level = getBandLevelRange()[0] + (progress * 100);
+                equalizerBandUpdate(foundBand, level);
+            }
+        }
+    }
 
-                @Override
-                public void onStartTrackingTouch(SeekBar seekBar) {
+    private void initBassBoost() {
+        if (!bassBoostSupported) return;
 
-                }
+        baseBoostSeekbar.setMax(OpenSLESConstants.BASSBOOST_MAX_STRENGTH - OpenSLESConstants.BASSBOOST_MIN_STRENGTH);
 
-                @Override
-                public void onStopTrackingTouch(SeekBar seekBar) {
+        baseBoostSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+
+            @Override
+            public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
+                if (fromUser) {
+                    prefs.edit().putBoolean("audiofx.bass.enable", true).apply();
+                    prefs.edit().putString("audiofx.bass.strength", String.valueOf(progress)).apply();
                     mediaManager.updateEqualizer();
                 }
-            });
-        }
+            }
 
-        // Initialize the Bass Boost elements.
-        // Set the SeekBar listener.
-        if (bassBoostSupported) {
-
-            baseBoostSeekbar.setMax(OpenSLESConstants.BASSBOOST_MAX_STRENGTH - OpenSLESConstants.BASSBOOST_MIN_STRENGTH);
-
-            baseBoostSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
-
-                @Override
-                public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
-                    // set parameter and state
-                    if (fromUser) {
-                        prefs.edit().putBoolean("audiofx.bass.enable", true).apply();
-                        prefs.edit().putString("audiofx.bass.strength", String.valueOf(progress)).apply();
-                        mediaManager.updateEqualizer();
-                    }
+            @Override
+            public void onStartTrackingTouch(final SeekBar seekBar) {
+                if (seekBar.getProgress() == 0) {
+                    prefs.edit().putBoolean("audiofx.bass.enable", true).apply();
+                    mediaManager.updateEqualizer();
                 }
+            }
 
-                // If slider pos was 0 when starting re-enable effect
-                @Override
-                public void onStartTrackingTouch(final SeekBar seekBar) {
-                    if (seekBar.getProgress() == 0) {
-                        prefs.edit().putBoolean("audiofx.bass.enable", true).apply();
-                        mediaManager.updateEqualizer();
-                    }
+            @Override
+            public void onStopTrackingTouch(final SeekBar seekBar) {
+                if (seekBar.getProgress() == 0) {
+                    prefs.edit().putBoolean("audiofx.bass.enable", false).apply();
+                    mediaManager.updateEqualizer();
                 }
+            }
+        });
+    }
 
-                // If slider pos = 0 when stopping disable effect
-                @Override
-                public void onStopTrackingTouch(final SeekBar seekBar) {
-                    if (seekBar.getProgress() == 0) {
-                        // disable
-                        prefs.edit().putBoolean("audiofx.bass.enable", false).apply();
-                        mediaManager.updateEqualizer();
-                    }
+    private void initVirtualizer() {
+        if (!virtualizerSupported) return;
+
+        virtualizerSeekbar.setMax(OpenSLESConstants.VIRTUALIZER_MAX_STRENGTH - OpenSLESConstants.VIRTUALIZER_MIN_STRENGTH);
+
+        virtualizerSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+
+            @Override
+            public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
+                if (fromUser) {
+                    prefs.edit().putBoolean("audiofx.virtualizer.enable", true).apply();
+                    prefs.edit().putString("audiofx.virtualizer.strength", String.valueOf(progress)).apply();
+                    mediaManager.updateEqualizer();
                 }
-            });
-        }
+            }
 
-        // Initialize the Virtualizer elements.
-        // Set the SeekBar listener.
-        if (virtualizerSupported) {
-
-            virtualizerSeekbar.setMax(OpenSLESConstants.VIRTUALIZER_MAX_STRENGTH - OpenSLESConstants.VIRTUALIZER_MIN_STRENGTH);
-
-            virtualizerSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
-
-                @Override
-                public void onProgressChanged(final SeekBar seekBar, final int progress, final boolean fromUser) {
-                    // set parameter and state
-                    if (fromUser) {
-                        prefs.edit().putBoolean("audiofx.virtualizer.enable", true).apply();
-                        prefs.edit().putString("audiofx.virtualizer.strength", String.valueOf(progress)).apply();
-                        mediaManager.updateEqualizer();
-                    }
+            @Override
+            public void onStartTrackingTouch(final SeekBar seekBar) {
+                if (seekBar.getProgress() == 0) {
+                    prefs.edit().putBoolean("audiofx.virtualizer.enable", true).apply();
+                    mediaManager.updateEqualizer();
                 }
+            }
 
-                // If slider pos was 0 when starting re-enable effect
-                @Override
-                public void onStartTrackingTouch(final SeekBar seekBar) {
-                    if (seekBar.getProgress() == 0) {
-                        prefs.edit().putBoolean("audiofx.virtualizer.enable", true).apply();
-                        mediaManager.updateEqualizer();
-                    }
+            @Override
+            public void onStopTrackingTouch(final SeekBar seekBar) {
+                if (seekBar.getProgress() == 0) {
+                    prefs.edit().putBoolean("audiofx.virtualizer.enable", false).apply();
+                    mediaManager.updateEqualizer();
                 }
-
-                // If slider pos = 0 when stopping disable effect
-                @Override
-                public void onStopTrackingTouch(final SeekBar seekBar) {
-                    if (seekBar.getProgress() == 0) {
-                        // disable
-                        prefs.edit().putBoolean("audiofx.virtualizer.enable", false).apply();
-                        mediaManager.updateEqualizer();
-                    }
-                }
-            });
-        }
-
-        return rootView;
+            }
+        });
     }
 
     @Override
@@ -400,7 +411,7 @@ public class EqualizerFragment extends BaseFragment implements
      *
      * @param preset EQ preset id.
      */
-    void equalizerSetPreset(final int preset) {
+        prefs.edit().putString(PREF_KEY_EQ_PRESET, String.valueOf(preset)).apply();
         eqPreset = preset;
         prefs.edit().putString("audiofx.eq.preset", String.valueOf(preset)).apply();
 
@@ -432,7 +443,7 @@ public class EqualizerFragment extends BaseFragment implements
         }
 
         // Initialize the Equalizer elements.
-        if (equalizerSupported) {
+            eqPreset = Integer.valueOf(prefs.getString(PREF_KEY_EQ_PRESET, preset));
             String preset = String.valueOf(numberEqualizerBands);
             eqPreset = Integer.valueOf(prefs.getString("audiofx.eq.preset", preset));
             if (spinnerAdapter != null && spinnerAdapter.getCount() > eqPreset) {
@@ -503,7 +514,7 @@ public class EqualizerFragment extends BaseFragment implements
             bandLevels.append(";");
         }
         // remove trailing ";"
-        bandLevels.deleteCharAt(bandLevels.length() - 1);
+        prefs.edit().putString(PREF_KEY_EQ_PRESET, String.valueOf(eqCustomPresetPosition)).apply();
         prefs.edit().putString("audiofx.eq.bandlevels.custom", bandLevels.toString()).apply();
         prefs.edit().putString("audiofx.eq.preset", String.valueOf(eqCustomPresetPosition)).apply();
     }
@@ -543,7 +554,7 @@ public class EqualizerFragment extends BaseFragment implements
     private void setupPresets() {
         // setup equalizer presets
         final int numPresets = Integer.parseInt(prefs.getString("equalizer.number_of_presets", "0"));
-        eqPresetNames = new String[numPresets + 1];
+        String[] eqPresetNames = new String[numPresets + 1];
 
         String[] presetNames = prefs.getString("equalizer.preset_names", "").split("\\|");
         System.arraycopy(presetNames, 0, eqPresetNames, 0, numPresets);

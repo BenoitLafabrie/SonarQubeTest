@@ -1,5 +1,5 @@
-EthisR R("1com.simplecity.amp_library.ui.modelviews.SongVieweditableR R(,"boolean":*
-(
-S S( "#set-field# editable:
+Ethiso o(""1com.simplecity.amp_library.ui.modelviews.SongView&showTrackNumbero# o(:"boolean"A1
+/
+p p(."#set-field# showTrackNumber:
 
-T T(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+q q(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

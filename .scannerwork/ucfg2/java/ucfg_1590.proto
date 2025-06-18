@@ -1,16 +1,21 @@
 
-Gcom.simplecity.amp_library.ui.modelviews.ShuffleView#%field_initializer
-__unknown_file ("1*
-1 (î
-ë
-†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (2F6
-4com.simplecity.amp_library.ui.modelviews.ShuffleView"
-
-titleResId"__id*
- (
-"""œ
+>com.simplecity.amp_library.ui.modelviews.ShuffleView#<init>()V
+__unknown_file ("startingBlock*ó
+startingBlock„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (Ÿ
+œ
 „
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java Q(
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
+%0"Gcom.simplecity.amp_library.ui.modelviews.ShuffleView#%field_initializer*D
+ (86
+4com.simplecity.amp_library.ui.modelviews.ShuffleView™
+–
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
+%1"Acom.simplecityapps.recycler_adapter.model.BaseViewModel#<init>()V*D
+ (86
+4com.simplecity.amp_library.ui.modelviews.ShuffleView"œ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
 implicit returnB86
 4com.simplecity.amp_library.ui.modelviews.ShuffleView

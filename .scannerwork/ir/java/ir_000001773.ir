@@ -1,8 +1,8 @@
 Mthis
-Ì Ì("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	albumText
-Ì Ì(,"java.lang.String"A-
-+
+é é("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask/discTotalText
+é  é(4"java.lang.String"E1
+/
 
-Ó Ó(""#set-field# albumText:
+è è(*"#set-field# discTotalText:
 
-Ô Ô(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+ê ê(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

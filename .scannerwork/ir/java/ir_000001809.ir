@@ -1,7 +1,32 @@
-Zthis
-Ç Ç("Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"L8
-6
 
-È È("#get-field# TAG:Bjava.lang.String
-
-È È(*Œ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.java
+"Query{"java.lang.String
+%"\nPROJECTION="java.lang.String
+ 
+"\nsort='"java.lang.String
+%"\nselection='"java.lang.String
+"\nuri="java.lang.String
+	"\nargs="java.lang.String
+
+'\''char
+'}'char:this? ?("&com.simplecity.amp_library.model.Query"Ï!
+
+A A("#unknown-value#?
+=
+B2 B(<"#get-field# projection:Bjava.lang.String[]u
+s
+B" B(="C
+java.util.Arrays/toString([Ljava/lang/Object;)Ljava/lang/String;*2toString:Bjava.lang.String<
+:
+C" C(+	"#get-field# selection:Bjava.lang.String9
+7
+D, D(0"#get-field# args:Bjava.lang.String[]u
+s
+D D(1"C
+java.util.Arrays/toString([Ljava/lang/Object;)Ljava/lang/String;*2toString:Bjava.lang.String7
+5
+E E(!"#get-field# sort:Bjava.lang.String9
+7
+@ F("	#binop +#2+:	
+
+B	!Unknown!
+@ F(*n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java

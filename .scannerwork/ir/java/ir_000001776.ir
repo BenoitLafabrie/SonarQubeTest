@@ -1,8 +1,8 @@
 Mthis
-ü ü("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask*yearText
-ü ü(*"java.lang.String"@,
-*
+ ("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask+	genreText
+ (,"java.lang.String"A-
++
 
-ı ı( "#set-field# yearText:
+ (""#set-field# genreText:
 
-ş ş(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+Ÿ Ÿ(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

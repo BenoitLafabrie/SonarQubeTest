@@ -1,174 +1,17 @@
 
-Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Zy
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java½ ½("startingBlock*€
-2
-Ã= Ã(Dj
-h
-
-Ã= Ã(T
-%7boolean"	__compare*
-
-ÃE Ã(G
-==*
-
-Ã= Ã(D
-""*
-
-ÃH Ã(T
-""*
-1*‡
-startingBlock
-½ ½(#Š
-‡
-
-¼ ¼(
-%8"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectW
-U
-
-½! ½("
-ojava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%8*
-10*ƒ
-4
-Ã  Ã((j
-h
-
-Ã  Ã(9
-%6boolean"	__compare*
-
-Ã) Ã(+
-==*
-
-Ã  Ã((
-""*
-
-Ã, Ã(9
-""*
-2
-1*€
-5
-Á Á(x
-v
-
-Á Á(-
-song%com.simplecity.amp_library.model.Song"__id*3
-
-__unknown_file (
-
-ojava.lang.Objectj
-h
-
-Ã Ã(
-%5boolean"	__compare*
-
-Ã Ã(
-==*
-
-Ã Ã(
-""*
-
-Ã Ã(
-""*	
-2
-4
-1*%
-6
-¿< ¿(A"
-
-¿5 ¿(B
-""*é
-7
-¿ ¿(!§¤
-
-¿ ¿(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song2
-getClass()•’
-
-¿' ¿(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()
-Š
-
-¿ ¿(3
-%4boolean"	__compare*
-
-¿$ ¿(&
-!=*%
-
-¿ ¿(#
-
-%2java.lang.Class*%
-
-¿' ¿(3
-
-%3java.lang.Class*
-5
-6*”
-8
-¿ ¿({
-y
-
-¿ ¿(
-%1boolean"	__compare*
-
-¿ ¿(
-==*%
-
-¿ ¿(
-
-ojava.lang.Object*
-
-¿ ¿(
-""*
-6
-7*%
-9
-¾ ¾(""
-
-¾ ¾(#
-""*º
-10
-¾ ¾(Ÿ
-œ
-
-¾ ¾(
-%0boolean"	__compare*
-
-¾ ¾(
-==*7
-
-¾ ¾()'
-%com.simplecity.amp_library.model.Song*%
-
-¾ ¾(
-
-ojava.lang.Object*
-8
-9*%
+Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaý ý($"1*¤
 1
-Ã Ã(U"
+þ þ(}
+{
 
-Ã Ã(U
-"":#
+þ* þ(.
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path"
 
-½ ½("
-ojava.lang.ObjectB)'
-%com.simplecity.amp_library.model.SongHX
+þ þ(0
+""B)'
+%com.simplecity.amp_library.model.SongH

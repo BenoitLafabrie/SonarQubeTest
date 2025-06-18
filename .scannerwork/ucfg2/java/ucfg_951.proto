@@ -1,14 +1,181 @@
 
-Qcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;à
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java ("1*é
-1 (Y
-W
- (
-%0java.lang.String"__id*-
+.com.afollestad.aesthetic.Util#isColorLight(I)ZÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaŸ Ÿ($"6*%
+2
+› ›("
+
+› ›(
+""*z
+3
+‹' ‹(,a
+_
+
+‹' ‹(A
+%2"	__compare*
+
+‹- ‹(/
+==*
+
+‹' ‹(,
+""*
+
+‹0 ‹(A
+""*
+2
+1*z
+4
+‹ ‹(a
+_
+
+‹ ‹(#
+%1"	__compare*
+
+‹ ‹(
+==*
+
+‹ ‹(
+""*
+
+‹ ‹(#
+""*
+2
+3*%
+5
+€ €("
+
+€ €(
+""*z
+6
+⁄ ⁄(a
+_
+
+⁄ ⁄(
+%0"	__compare*
+
+⁄ ⁄(
+==*
+
+⁄ ⁄(
+""*
+
+⁄ ⁄(
+""*
+4
+5* 
+1
+‡ ‡(	b
+`
+
+· ·('
+%3"__calculate*
+
+· ·(
+**
+
+· ·(
+""*
+
+· ·('
+""b
+`
+
+·* ·(D
+%4"__calculate*
+
+·0 ·(1
+**
+
+·* ·(/
+""*
+
+·2 ·(D
+""b
+`
+
+· ·(D
+%5"__calculate*
+
+·( ·()
++*
+
+· ·('
+
+%3*
+
+·* ·(D
+
+%4b
+`
+
+·G ·(`
+%6"__calculate*
+
+·M ·(N
+**
+
+·G ·(L
+""*
+
+·O ·(`
+""b
+`
+
+· ·(`
+%7"__calculate*
+
+·E ·(F
++*
+
+· ·(D
+
+%5*
+
+·G ·(`
+
+%6a
+_
+
+· ‚(
+%8"__calculate*
+
+‚ ‚(
+/*
+
+· ·(a
+
+%7*
+
+‚ ‚(2ˇ`
+^
+
+‡ ‚(
+%9"__calculate*
+
+· ·(
+-*
+
+‡ ‡(	2*
+
+· ‚(
+
+%8j
+h
+
+„ „(
+%10boolean"	__compare*
+
+„ „(
+<*
+
+„ „(
+""*
+
+„ „(
+"""
+
+„ „(
+"": 
 
-__unknown_file (
-FolderFetcher"$
- (
-
-%0java.lang.StringB:8
-6com.simplecity.amp_library.glide.fetcher.FolderFetcher
+__unknown_file (
+""B!"
+com.afollestad.aesthetic.UtilHX

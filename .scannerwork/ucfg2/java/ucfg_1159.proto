@@ -1,61 +1,57 @@
 
-Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;y
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java˛ ˛( "3*≤
+Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java› ›("3*±
 2
-Ä Ä($ß§
+ﬁ  ﬁ(-ö
+ó
 
-Ä Ä(&
-%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+ﬁ  ﬁ(/
+
+%2void"6com.simplecity.amp_library.model.Song#setArtworkKey()V*E
 
 __unknown_file ()'
-%com.simplecity.amp_library.model.Song2getTagInfo()r
-p
-
-Ä Ä(-8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"__id*"
-
-__unknown_file (
-""*
-1*ù
+%com.simplecity.amp_library.model.Song*
+1*ú
 3
-ˇ ˇ(Ö
-Ç
+ﬁ ﬁ(Ñ
+Å
 
-ˇ ˇ(
-%0java.lang.String"__id*V
+ﬁ ﬁ(
+%0java.lang.String"__id*U
 
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabel|
+__unknown_file (9*7'
+%com.simplecity.amp_library.model.Song"
+
+artworkKey|
 z
 
-ˇ ˇ(
+ﬁ ﬁ(
 %1boolean"	__compare*
 
-ˇ ˇ(
+ﬁ ﬁ(
 ==*&
 
-ˇ ˇ(
+ﬁ ﬁ(
 
 %0java.lang.String*
 
-ˇ ˇ(
+ﬁ ﬁ(
 ""*
 2
-1*ø
+1*æ
 1
-Ç Ç(Ö
-Ç
+ﬂ ﬂ(Ñ
+Å
 
-Ç Ç(
-%3java.lang.String"__id*V
+ﬂ ﬂ(
+%3java.lang.String"__id*U
 
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"&
+__unknown_file (9*7'
+%com.simplecity.amp_library.model.Song"
 
-Ç Ç(
+artworkKey"&
+
+ﬂ ﬂ(
 
 %3java.lang.StringB)'
 %com.simplecity.amp_library.model.SongH

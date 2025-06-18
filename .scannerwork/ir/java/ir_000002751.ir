@@ -1,37 +1,7 @@
 Othis
-ô ô("9com.simplecity.amp_library.ui.screens.drawer.DrawerParenttype
-ö ö('"int
-titleResId
-õ õ("int	iconResId
-ú ú("intMnavigationEvent
-ú ù(I",Recovered#typeBindingLNavigationEventRelay;0#
-selectable
-û û("booleanHsettingsManager
-ü ü(+"'Recovered#typeBindingLSettingsManager;0"˝(
-&
+√ √("9com.simplecity.amp_library.ui.screens.drawer.DrawerParent"J6
+4
 
-° °("#set-field# type:.
-,
+ƒ ƒ("#get-field# selectable:Bboolean
 
-¢ ¢($	"#set-field# titleResId:-
-+
-
-£ £("
-"#set-field# iconResId:#
-!
-
-§ §(."#unknown-value#3
-1
-
-§ §(."#set-field# navigationEvent:.
-,
-
-• •($"#set-field# selectable:#
-!
-
-¶ ¶(."#unknown-value#3
-1
-
-¶ ¶(."#set-field# settingsManager:
-
-ß ß(*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java
+ƒ ƒ(*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java

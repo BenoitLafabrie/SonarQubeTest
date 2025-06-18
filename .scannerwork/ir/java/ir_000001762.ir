@@ -1,14 +1,11 @@
+Mthis
+× ×(&"7com.simplecity.amp_library.ui.screens.tagger.TaggerTask-documentFiles
+×' ×(G"java.util.List"j#
+!
 
-'}'char
-,"UserSelectedArtwork{"java.lang.String
-"type="java.lang.String
- 
-", path='"java.lang.String
-'\''charHthis ("4com.simplecity.amp_library.model.UserSelectedArtwork"°*
-(
- ("#get-field# type:Bint7
-5
- (!"#get-field# path:Bjava.lang.String9
-7
- (	"	#binop +#2+:Bjava.lang.String
- (	*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java
+Ø Ø(*"#unknown-value#1
+/
+
+Ø Ø(*"#set-field# documentFiles:
+
+Ù Ù(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

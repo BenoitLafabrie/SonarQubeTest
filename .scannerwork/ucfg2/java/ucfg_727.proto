@@ -1,77 +1,21 @@
 
-Wcom.simplecity.amp_library.ui.modelviews.SongView#areContentsEqual(Ljava/lang/Object;)Z…
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaŽ Ž(#"startingBlock*%
-2
- ‘(H"
-
- ‘(H
-""*Ì
-3
-‘ ‘(
-
-
-‘% ‘(+
-%0char[]"__id*]
-
-__unknown_file (A*?3
-1com.simplecity.amp_library.ui.modelviews.SongView"
-prefixg
-e
-
-‘- ‘(F
-%1char[]"__id*C
-
-__unknown_file ('*%
-
-otherjava.lang.Object"
-prefixÈ
-Å
-
-‘ ‘(G
-%2boolean"java.util.Arrays#equals([C[C)Z*0
-
-__unknown_file ("
-java.util.Arrays**
-
-__unknown_file (
-
-%0char[]**
-
-__unknown_file (
-
-%1char[]*
-2*”
-startingBlock
-Ž# Ž(1Ž
-‹
-
- (
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*7
-
-__unknown_file (
-
-otherjava.lang.Object[
-Y
-
-Ž+ Ž(0
-otherjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%3*	
-2
-3
-1*%
+8com.simplecity.amp_library.utils.ShuttleUtils#hasOreo()Z
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ShuttleUtils.javaš š(!"1*†
 1
-“ “("
+› ›(_
+]
 
-“ “(
-"":'
+› ›(*
+%0"	__compare*
 
-Ž$ Ž(0
-otherjava.lang.ObjectB53
-1com.simplecity.amp_library.ui.modelviews.SongViewHX
+›% ›('
+>=*
+
+› ›($
+""*
+
+›( ›(*2"
+
+› ›(+
+""B1"/
+-com.simplecity.amp_library.utils.ShuttleUtilsHX

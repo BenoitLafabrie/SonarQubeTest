@@ -1,33 +1,33 @@
 
-âcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#newInstance(I)Lcom/simplecity/amp_library/ui/screens/widgets/WidgetFragment;è
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/widgets/WidgetFragment.java-! -(,"1*◊
-1." .(6èå
-.& .(4B
-%0<com.simplecity.amp_library.ui.screens.widgets.WidgetFragment"<com.simplecity.amp_library.ui.screens.widgets.WidgetFragmentΩ
-∫
-." .(6
-%1"Fcom.simplecity.amp_library.ui.screens.widgets.WidgetFragment#<init>()V*`
+Jcom.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Zí
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.javaÌ Ì("1*ﬂ
+1
+Ó Ó(E
+C
+
+Ó Ó(1
+%0float"__id*"
 
-__unknown_file (D
-B
-%0<com.simplecity.amp_library.ui.screens.widgets.WidgetFragmentø
-º
-. .(7H
-fragment<com.simplecity.amp_library.ui.screens.widgets.WidgetFragment"__id*`
-
-__unknown_file (D
-B
-%0<com.simplecity.amp_library.ui.screens.widgets.WidgetFragment\
-Z
-0 0((
-%2java.lang.String"__id*0
-
-__unknown_file (
-widget_layout_id"V
-2 2(J
-H
-fragment<com.simplecity.amp_library.ui.screens.widgets.WidgetFragment: 
+__unknown_file (
+""q
+o
+
+Ó Ó(1
+%1boolean"	__compare*
+
+Ó Ó(
+>=*
+
+Ó Ó(
+""*
+
+Ó Ó(1
+
+%0float"
+
+Ó Ó(2
+"": 
 
 __unknown_file (
-""B@">
-<com.simplecity.amp_library.ui.screens.widgets.WidgetFragmentH
+""BA?
+=com.simplecity.amp_library.utils.color.BitmapPaletteProcessorX

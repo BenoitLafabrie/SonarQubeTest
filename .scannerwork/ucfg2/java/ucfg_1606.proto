@@ -1,22 +1,104 @@
 
-Kcom.jp.wasabeef.glide.transformations.CropTransformation#%field_initializer
-__unknown_file ("1*ä
-1 (ô
-ñ
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java*! *(0G
-%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*
- (
-""¹
-¶
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java* *(1I:
-8com.jp.wasabeef.glide.transformations.CropTransformation"
-	mCropType"__id*U
- (I
-G
-%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"¡
-‰
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java v(
-implicit returnB<:
-8com.jp.wasabeef.glide.transformations.CropTransformation
+Scom.simplecity.amp_library.ui.modelviews.DiscNumberView#equals(Ljava/lang/Object;)Z‰
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/DiscNumberView.java7 7("startingBlock*!
+29< 9(A"
+95 9(B
+""*í
+39 9(!·´
+9 9(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*W
+
+__unknown_file (;9
+7com.simplecity.amp_library.ui.modelviews.DiscNumberView2
+getClass()“
+9' 9(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+9 9(3
+%4boolean"	__compare*
+9$ 9(&
+!=*#
+9 9(#
+
+%2java.lang.Class*#
+9' 9(3
+
+%3java.lang.Class*
+2
+1*€
+startingBlock7 7(#ˆ
+…
+6 6(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+7! 7("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*Š
+49 9(s
+q
+9 9(
+%1boolean"	__compare*
+9 9(
+==*#
+9 9(
+
+ojava.lang.Object*
+9 9(
+""*
+2
+3*!
+58 8(""
+8 8(#
+""*Á
+68 8(©
+¦
+8 8(
+%0boolean"	__compare*
+8 8(
+==*G
+8 8(;9
+7com.simplecity.amp_library.ui.modelviews.DiscNumberView*#
+8 8(
+
+ojava.lang.Object*
+4
+5*‘
+1;/ ;(0‰
+†
+; ;(1?
+that7com.simplecity.amp_library.ui.modelviews.DiscNumberView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+= =(,
+%5boolean"	__compare*
+= =(
+==*
+= =(
+""*
+= =(,
+"""
+= =(-
+"":!
+7 7("
+ojava.lang.ObjectB;9
+7com.simplecity.amp_library.ui.modelviews.DiscNumberViewHX

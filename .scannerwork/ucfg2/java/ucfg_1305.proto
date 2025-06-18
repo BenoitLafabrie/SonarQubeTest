@@ -1,15 +1,28 @@
 
-Rcom.simplecity.amp_library.ui.views.BreadcrumbItem#getItemPath()Ljava/lang/String;„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/BreadcrumbItem.java1 1("1*Ä
-12 2(Ž
-‹
-2 2(
-%0java.lang.String"__id*a
+=__sonar_lambda_88$com.simplecity.amp_library.utils.SleepTimer}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SleepTimer.java1 ;("1*¹
+11& 1(0…
+‚
+3  3(1
+%2"__declareFunction*]
 
-__unknown_file (E*C4
-2com.simplecity.amp_library.ui.views.BreadcrumbItem"
-	mItemPath"$
-2 2(
-
-%0java.lang.StringB64
-2com.simplecity.amp_library.ui.views.BreadcrumbItemH
+__unknown_file (A?
+=__sonar_lambda_89$com.simplecity.amp_library.utils.SleepTimer…
+‚
+4 4(9
+%3"__declareFunction*]
+
+__unknown_file (A?
+=__sonar_lambda_90$com.simplecity.amp_library.utils.SleepTimer…
+‚
+7" ;(
+%5"__declareFunction*]
+
+__unknown_file (A?
+=__sonar_lambda_91$com.simplecity.amp_library.utils.SleepTimer"
+1& ;(
+"": 
+
+__unknown_file (
+""B
+	!Unknown!

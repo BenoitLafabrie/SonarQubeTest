@@ -13,7 +13,7 @@ public class LoggingViewModelAdapter extends ViewModelAdapter {
 
     private static final String TAG = "LoggingVMAdapter";
 
-    String instanceTag;
+    private String instanceTag;
 
     public LoggingViewModelAdapter(String tag) {
         this.instanceTag = tag;
@@ -21,49 +21,57 @@ public class LoggingViewModelAdapter extends ViewModelAdapter {
 
     @Nullable
     @Override
-    public synchronized Disposable setItems(List<ViewModel> items, @Nullable CompletionListUpdateCallback callback) {
+    public Disposable setItems(List<ViewModel> items, @Nullable CompletionListUpdateCallback callback) {
 
         Crashlytics.log(Log.DEBUG, TAG, String.format("setItems called for: '%s'", instanceTag));
 
-        return super.setItems(items, new CompletionListUpdateCallback() {
+        return super.setItems(items, new LoggingCompletionListUpdateCallback(callback, instanceTag));
+    }
 
-            @Override
-            public void onComplete() {
+    private static class LoggingCompletionListUpdateCallback implements CompletionListUpdateCallback {
 
-                Crashlytics.log(Log.DEBUG, TAG, String.format("setItems complete for: '%s'. Dispatching updates.", instanceTag));
+        private final CompletionListUpdateCallback callback;
+        private final String instanceTag;
 
-                if (callback != null) {
-                    callback.onComplete();
-                }
+        LoggingCompletionListUpdateCallback(@Nullable CompletionListUpdateCallback callback, String instanceTag) {
+            this.callback = callback;
+            this.instanceTag = instanceTag;
+        }
+
+        @Override
+        public void onComplete() {
+            Crashlytics.log(Log.DEBUG, TAG, String.format("setItems complete for: '%s'. Dispatching updates.", instanceTag));
+            if (callback != null) {
+                callback.onComplete();
             }
+        }
 
-            @Override
-            public void onInserted(int position, int count) {
-                if (callback != null) {
-                    callback.onInserted(position, count);
-                }
+        @Override
+        public void onInserted(int position, int count) {
+            if (callback != null) {
+                callback.onInserted(position, count);
             }
+        }
 
-            @Override
-            public void onRemoved(int position, int count) {
-                if (callback != null) {
-                    callback.onRemoved(position, count);
-                }
+        @Override
+        public void onRemoved(int position, int count) {
+            if (callback != null) {
+                callback.onRemoved(position, count);
             }
+        }
 
-            @Override
-            public void onMoved(int fromPosition, int toPosition) {
-                if (callback != null) {
-                    callback.onMoved(fromPosition, toPosition);
-                }
+        @Override
+        public void onMoved(int fromPosition, int toPosition) {
+            if (callback != null) {
+                callback.onMoved(fromPosition, toPosition);
             }
+        }
 
-            @Override
-            public void onChanged(int position, int count, Object payload) {
-                if (callback != null) {
-                    callback.onChanged(position, count, payload);
-                }
+        @Override
+        public void onChanged(int position, int count, Object payload) {
+            if (callback != null) {
+                callback.onChanged(position, count, payload);
             }
-        });
+        }
     }
 }

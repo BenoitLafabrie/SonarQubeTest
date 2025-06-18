@@ -1,15 +1,41 @@
 
-Ycom.simplecity.amp_library.utils.ThemeUtils$Theme#getPrimaryColorName()Ljava/lang/String;}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ThemeUtils.java? ?()"1*Ê
-1@ @(#”
-‘
-@ @(#
-%0java.lang.String"__id*g
+__sonar_lambda_132$
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java?% ?(\"1*¹
+1?6 ?(7Z
+X
+?6 ?(G
+%17"__calculate*
+?A ?(B
+/*
+?6 ?(@
+""*
+?C ?(G2€Z
+X
+?J ?([
+%18"__calculate*
+?U ?(V
+/*
+?J ?(T
+""*
+?W ?([2€]
+[
+?6 ?([
+%19"__calculate*
+?H ?(I
+-*
+?6 ?(G
+
+%17*
+?J ?([
+
+%18"
+?/ ?(\
+
+%19: 
 
-__unknown_file (K*I3
-1com.simplecity.amp_library.utils.ThemeUtils$Theme"
-primaryColorName"$
-@ @($
-
-%0java.lang.StringB53
-1com.simplecity.amp_library.utils.ThemeUtils$ThemeH
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+	!Unknown!

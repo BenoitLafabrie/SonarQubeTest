@@ -1,20 +1,29 @@
 
-Kcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getCount()I’
-‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.java ("1*Í
-1 (Î
-Ë
- (B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"__id*u
+Mcom.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z{
+q/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/saf/SafManager.javaM M(%"1*ž
+1N N(!„
+
+N N('
+%0java.lang.String"^com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;*I
 
-__unknown_file (Y*WA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"
-viewModelAdapterØÕ
- (.	
-%1int"Lcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I*`
+__unknown_file (-+
+)com.simplecity.amp_library.saf.SafManager*2
 
-__unknown_file (D
-B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter2getItemCount()"
- (/
-""BCA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX
+__unknown_file (
+
+filejava.io.Filet
+r
+N N(/
+%1boolean"	__compare*
+N( N(*
+!=*$
+N N('
+
+%0java.lang.String*
+N+ N(/
+"""
+N N(0
+"": 
+M& M(/
+filejava.io.FileB-+
+)com.simplecity.amp_library.saf.SafManagerHX

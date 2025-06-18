@@ -1,5 +1,27 @@
-Ethisf f("1com.simplecity.amp_library.ui.modelviews.SongView$showAlbumNamef f(3"boolean"?/
--
-g g(*"#set-field# showAlbumName:
+Gthis
+ç ç("1com.simplecity.amp_library.ui.modelviews.SongView"d4
+2
 
-h h(*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+é é("#get-field# editable:Bboolean,"*
+
+é é( *
+é é(2
+é1 é(2"v#
+!
+
+é é(""#unknown-value#;
+9
+
+é é(0"#get-field# SONG_EDITABLE:B	!Unknown!
+
+é é(0"m#
+!
+
+é3 é(;"#unknown-value#2
+0
+
+é3 é(@"#get-field# SONG:B	!Unknown!
+
+é3 é(@"&*
+
+é é(A*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java

@@ -1,16 +1,23 @@
 
-Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaF F(%"1*Ê
-1G G(˜•
-G G(&
-%0java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*2
+Gcom.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaž ž($"1*•
+1
+Ÿ Ÿ(í
+ê
+
+Ÿ Ÿ($
+%0boolean"Lcom.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z*K
+
+__unknown_file (/"-
++com.simplecity.amp_library.utils.FileHelper*2
 
 __unknown_file (
 
-filejava.io.File2getCanonicalFile()" 
-G G('
-
-%0java.io.File: 
-F& F(/
+filejava.io.File"
+
+Ÿ Ÿ(%
+"":"
+
+ž% ž(.
 filejava.io.FileB/"-
-+com.simplecity.amp_library.utils.FileHelperH
++com.simplecity.amp_library.utils.FileHelperHX

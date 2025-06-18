@@ -1,22 +1,29 @@
 
-:com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()ZÄ
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java„ „("1*Å
+?__sonar_lambda_165$com.simplecity.amp_library.utils.FileBrowserÄ
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaé( é(g"1*â
 1
-‰ ‰(»≈
+é6 é(9b
+`
 
-‰" ‰(.
-%0java.io.File"Gcom.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;*L
+é6 é(g
+%1"__calculate*
+
+éN é(O
+-*
+
+é6 é(M
+""*
+
+éP é(g
+"""
+
+é6 é(g
+
+%1: 
 
-__unknown_file (0.
-,com.simplecity.amp_library.utils.FileBrowser2getHomeDir()éã
-
-‰" ‰(8
-%1java.lang.String"(java.io.File#getPath()Ljava/lang/String;*0
+__unknown_file (
+"": 
 
-__unknown_file (
-
-%0java.io.File2	getPath()"
-
-‰ ‰(:
-""B0.
-,com.simplecity.amp_library.utils.FileBrowserHX
+__unknown_file (
+""B
+java.util.Comparator

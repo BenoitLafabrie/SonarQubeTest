@@ -1,29 +1,15 @@
 
-ncom.github.florent37.glidepalette.BitmapPalette#crossfade(ZI)Lcom/github/florent37/glidepalette/BitmapPalette;•
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java\ \(%"1*Ä
-1] ](¶
-³
-] ](!
-
-%0void"Jcom.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V*O
-
-__unknown_file (31
-/com.github.florent37.glidepalette.BitmapPalette¶³
-` `((5
-%1/com.github.florent37.glidepalette.BitmapPalette"mcom.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;*O
-
-__unknown_file (31
-/com.github.florent37.glidepalette.BitmapPalette*"
-
-__unknown_file (
-""2crossfade(Z)"C
-` `()7
-5
-%1/com.github.florent37.glidepalette.BitmapPalette: 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B31
-/com.github.florent37.glidepalette.BitmapPalette
+Acom.simplecity.amp_library.ui.adapters.SectionedAdapter#<init>()V
+__unknown_file ("startingBlock*¶
+startingBlock‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(ø
+õ
+‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(
+%0"ViewModelAdapter#<init>()V*G
+ (;9
+7com.simplecity.amp_library.ui.adapters.SectionedAdapter"Ÿ
+‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(
+implicit returnB;9
+7com.simplecity.amp_library.ui.adapters.SectionedAdapter

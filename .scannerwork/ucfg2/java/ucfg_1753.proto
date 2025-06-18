@@ -1,7 +1,62 @@
 
-<com.afollestad.aesthetic.ActiveInactiveColors#activeColor()Iê
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java ("1*!
-1 ("
- (
-""B1/
--com.afollestad.aesthetic.ActiveInactiveColorsHX
+Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#%field_initializer
+__unknown_file ("1*†
+1 (ì
+ê
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaK K(#_C
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+eqCustomPresetPosition"__id*
+ (2ê
+ç
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaO O(_ZC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+mEqualizerSeekBar"__id*
+ (
+""“œ
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad. d(;
+%0java.lang.StringBuilder"java.lang.StringBuilder
+Ì
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad* d(=
+%1"!java.lang.StringBuilder#<init>()V*+
+ (
+
+%0java.lang.StringBuilder•
+¢
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javad d(>VC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+formatBuilder"__id*+
+ (
+
+%0java.lang.StringBuilder «
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae& e(/
+%2java.util.Formatter"java.util.Formatter‹
+Ÿ
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae" e(S
+%3"Ejava.util.Formatter#<init>(Ljava/lang/Appendable;Ljava/util/Locale;)V*'
+ (
+
+%2java.util.Formatter*6
+ (*
+(
+formatBuilderjava.lang.StringBuilder*
+ (
+""ù
+ö
+î
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javae e(TRC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"
+	formatter"__id*'
+ (
+
+%2java.util.Formatter"´
+ì
+â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' ¥(
+implicit returnBEC
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment

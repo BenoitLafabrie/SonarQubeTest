@@ -1,9 +1,59 @@
 
-Bcom.simplecity.amp_library.ui.modelviews.FolderView#getViewType()Iá
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaè è("1*%
+?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()Iá
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÕ Õ("1*œ
 1
-ê ê("
+Œ Œ([
+Y
 
-ê ê(
+Œ Œ(%	
+%0int"java.lang.Object#hashCode()I*"
+
+__unknown_file (
+""e
+c
+
+œ œ(	
+%1int"__calculate*
+
+œ œ(
+**
+
+œ œ(2*
+
+œ œ(
+""µ
+≤
+
+œ œ(-5
+%2/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject∏µ
+
+œ œ(8	
+%3int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
+
+__unknown_file (7
+5
+%2/com.simplecity.amp_library.model.BaseFileObject2
+hashCode()q
+o
+
+œ œ(8	
+%4int"__calculate*
+
+œ œ(
++*
+
+œ œ(
+	
+%1int*
+
+œ œ(8
+	
+%3int"
+
+– –(
 ""B75
 3com.simplecity.amp_library.ui.modelviews.FolderViewHX

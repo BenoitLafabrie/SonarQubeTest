@@ -1,18 +1,15 @@
 
-\com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#screenName()Ljava/lang/String;’
-…/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/qcircle/QCircleActivity.javaÑ Ñ("1*Ï
-1
-Ò Ò(•
-’
-
-Ò Ò(
-%0java.lang.String"__id*f
-
-__unknown_file (J*H?
-=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"
-TAG"&
-
-Ò Ò(
-
-%0java.lang.StringBA?
-=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity
+4com.afollestad.aesthetic.AestheticSwitch$1#<init>()V
+__unknown_file ("startingBlock*­
+startingBlock‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2ç
+ä
+‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2
+%0"Consumer#<init>()V*:
+ (.,
+*com.afollestad.aesthetic.AestheticSwitch$1"£
+‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2
+implicit returnB.,
+*com.afollestad.aesthetic.AestheticSwitch$1

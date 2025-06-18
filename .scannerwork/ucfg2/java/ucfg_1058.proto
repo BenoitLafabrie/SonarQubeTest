@@ -1,15 +1,18 @@
 
-Pcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$2#<init>()V
-__unknown_file ("startingBlock*ç
-startingBlockô
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaëi ë(j´
-®
-ô
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaëi ë(j
-%0",ViewTreeObserver.OnPreDrawListener#<init>()V*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$2"±
-ô
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaëi ë(j
-implicit returnBJH
-Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$2
+~com.simplecity.amp_library.model.Query$Builder#projection([Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java% %(!"1*ﬁ
+1& &(é
+ã
+& &(@0
+.com.simplecity.amp_library.model.Query$Builder"
+
+projection"__id*7
+
+__unknown_file (
+
+valjava.lang.String[]">
+' '(20
+.com.simplecity.amp_library.model.Query$Builder:%
+%" %(.
+valjava.lang.String[]B20
+.com.simplecity.amp_library.model.Query$BuilderH

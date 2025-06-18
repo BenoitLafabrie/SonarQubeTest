@@ -1,22 +1,21 @@
 
-‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#year(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaü ü("1*÷
+Êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¢ ¢("1*Á
 1
-ý ý( š
-—
+£% £(-ä
+á
 
-ý ý( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-yearText"__id*:
+£ £(-T9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+tagCompletionListener"__id*w
 
-__unknown_file (
-
-yearTextjava.lang.String"I
+__unknown_file ([
+Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
 
-þ þ(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
+¤ ¤(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
 
-ü ü(*
-yearTextjava.lang.StringB;9
+¢ ¢(=Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

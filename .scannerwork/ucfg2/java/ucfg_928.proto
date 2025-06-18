@@ -1,19 +1,19 @@
 
-Icom.simplecity.amp_library.utils.sorting.SortManager#getSongsSortOrder()I†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaF F( "1*´
-1G G(N
+Tcom.simplecity.amp_library.utils.sorting.SortManager#getGenreDetailSongsSortOrder()I†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javar r(+"1*´
+1s s(N
 L
-G G(&
+s s(3
 %0java.lang.String"__id*"
 
 __unknown_file (
 ""A
 ?
-G( G(8	
+s5 s(L	
 %1int"__id*"
 
 __unknown_file (
 """
-G G(:
+s s(N
 ""B86
 4com.simplecity.amp_library.utils.sorting.SortManagerHX

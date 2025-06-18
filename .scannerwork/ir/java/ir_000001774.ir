@@ -1,9 +1,9 @@
 Mthis
-ò ò("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
-artistText
-ò ò(."java.lang.String"B.
+“ “("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask,
+lyricsText
+“ “(."java.lang.String"B.
 ,
 
-ó ó($"#set-field# artistText:
+” ”($"#set-field# lyricsText:
 
-ô ô(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+• •(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

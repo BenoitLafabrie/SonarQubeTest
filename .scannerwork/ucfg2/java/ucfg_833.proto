@@ -1,145 +1,18 @@
 
-`com.afollestad.aesthetic.Aesthetic#colorNavigationBarAuto(Z)Lcom/afollestad/aesthetic/Aesthetic;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaè è()"7*Z
-4
-îC î(HD
-B
-
-îC î(H
-%8"__id*(
-
-__unknown_file (
-
-
-%10int*
-1*T
-5
-î5 î(:>
-<
-
-î5 î(@
-%8"__id*"
-
-__unknown_file (
-
-%9*
-1*£
-6
-ì ì(’
-“
-
-ì0 ì(Z
-%6"7com.afollestad.aesthetic.Util#resolveColor(LContext;I)I*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""±
-Æ
-
-î î(2
-%7boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-""*
-4
-5*Ö
-
-7
-ê ê(^
-\
-
-ê% ê(6
-%0java.lang.String"__id*0
-
-__unknown_file (
-nav_bar_color_%s¬
-ø
-
-ê8 ê(D
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""Û
-
-
-ê ê(E
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-
-%1W
-U
-
-ê ê(F
-	navBarKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2^
-\
-
-ë+ ë(<
-%3java.lang.String"__id*0
-
-__unknown_file (
-primary_color_%s¬
-ø
-
-ë> ë(J
-%4"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""Û
-
-
-ë ë(K
-%5"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%3java.lang.String*"
-
-__unknown_file (
-
-%4]
-[
-
-ë ë(L#
-primaryColorKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%5*
-6
-1*E
+acom.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;Ü
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaˇ ˇ(*"1*ß
 1
-ò ò("4
+Ä Ä(
+`
+^
 
-ò ò(&$
+Ä Ä((
+%0java.lang.String"__id*2
+
+__unknown_file (
+card_view_bg_color"4
+
+Å Å(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

@@ -1,18 +1,50 @@
 
-\com.afollestad.aesthetic.Aesthetic#textColorSecondary(I)Lcom/afollestad/aesthetic/Aesthetic;Ü
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaè è(%"1*£
+Xcom.afollestad.aesthetic.Aesthetic#colorStatusBar(I)Lcom/afollestad/aesthetic/Aesthetic;Ü
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaﬁ ﬁ(!"1*∂
 1
-ê ê(
-\
-Z
+ﬂ ﬂ(a
+_
 
-ê ê(*
-%0java.lang.String"__id*.
+ﬂ ﬂ(3
+%0java.lang.String"__id*3
 
-__unknown_file (
-secondary_text"4
+__unknown_file (
+status_bar_color_%s¬
+ø
 
-ë ë(&$
+ﬂ5 ﬂ(A
+%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
+
+__unknown_file (&"$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""Û
+
+
+ﬂ ﬂ(B
+%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+
+%1Q
+O
+
+ﬂ ﬂ(C
+keyjava.lang.String"__id*"
+
+__unknown_file (
+
+%2"4
+
+· ·(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

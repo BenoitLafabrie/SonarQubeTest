@@ -1,18 +1,18 @@
 
-Zcom.afollestad.aesthetic.Aesthetic#colorPrimaryDark(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÖ Ö(#"1*§
+acom.afollestad.aesthetic.Aesthetic#textColorPrimaryInverse(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¢ ¢(*"1*©
 1
-Ø Ø(
-`
-^
+£ £(
+b
+`
 
-Ø Ø((
-%0java.lang.String"__id*2
+£ £(0
+%0java.lang.String"__id*4
 
-__unknown_file (
-primary_dark_color"4
+__unknown_file (
+primary_text_inverse"4
 
-Ù Ù(&$
+¤ ¤(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

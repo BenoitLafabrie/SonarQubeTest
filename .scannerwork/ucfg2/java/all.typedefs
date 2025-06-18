@@ -2543,29 +2543,7 @@ isLocked()Acom.simplecity.amp_library.ui.views.LockActionBarView#isLocked()Zc
 getLayoutIdString()_com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getLayoutIdString()Ljava/lang/String;]
 getRootViewId()Jcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getRootViewId()IÄ
 getUpdateCommandString()dcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getUpdateCommandString()Ljava/lang/String;e
-getWidgetLayoutId()Ncom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getWidgetLayoutId()I—
-%com.afollestad.aesthetic.EdgeGlowUtiljava.lang.Object;
-<init>()/com.afollestad.aesthetic.EdgeGlowUtil#<init>()Vc
-invalidateEdgeEffectFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateEdgeEffectFields()V_
-invalidateListViewFields()Acom.afollestad.aesthetic.EdgeGlowUtil#invalidateListViewFields()Vo
-"invalidateNestedScrollViewFields()Icom.afollestad.aesthetic.EdgeGlowUtil#invalidateNestedScrollViewFields()Vg
-invalidateRecyclerViewFields()Ecom.afollestad.aesthetic.EdgeGlowUtil#invalidateRecyclerViewFields()Vc
-invalidateScrollViewFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateScrollViewFields()Va
-invalidateViewPagerFields()Bcom.afollestad.aesthetic.EdgeGlowUtil#invalidateViewPagerFields()Vq
-#setEffectColor(Ljava/lang/Object;I)Jcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)V“
-&java.lang.ReflectiveOperationExceptionjava.lang.Exception<
-<init>()0java.lang.ReflectiveOperationException#<init>()V`
-<init>(Ljava/lang/String;)Bjava.lang.ReflectiveOperationException#<init>(Ljava/lang/String;)Vä
-/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Wjava.lang.ReflectiveOperationException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)Vf
-<init>(Ljava/lang/Throwable;)Ejava.lang.ReflectiveOperationException#<init>(Ljava/lang/Throwable;)Vÿ
-java.lang.NoSuchFieldException&java.lang.ReflectiveOperationException4
-<init>()(java.lang.NoSuchFieldException#<init>()VX
-<init>(Ljava/lang/String;):java.lang.NoSuchFieldException#<init>(Ljava/lang/String;)V1
-RecyclerView.OnScrollListenerjava.lang.ObjectH
-'com.afollestad.aesthetic.EdgeGlowUtil$1RecyclerView.OnScrollListenerﬁ
- java.lang.IllegalAccessException&java.lang.ReflectiveOperationException6
-<init>()*java.lang.IllegalAccessException#<init>()VZ
-<init>(Ljava/lang/String;)<java.lang.IllegalAccessException#<init>(Ljava/lang/String;)V%
+getWidgetLayoutId()Ncom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getWidgetLayoutId()I%
 DaggerApplicationjava.lang.Objectü
 
 -com.simplecity.amp_library.ShuttleApplicationDaggerApplicationC
@@ -3162,7 +3140,15 @@ iremoveMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLo
 @com.simplecity.amp_library.utils.sorting.SortManager$SortFoldersjava.lang.Objectå
 6com.simplecity.amp_library.glide.fetcher.FolderFetcherBaseFetcherf
 getStream()Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;]
-getTag()Qcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;Ì
+getTag()Qcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;“
+&java.lang.ReflectiveOperationExceptionjava.lang.Exception<
+<init>()0java.lang.ReflectiveOperationException#<init>()V`
+<init>(Ljava/lang/String;)Bjava.lang.ReflectiveOperationException#<init>(Ljava/lang/String;)Vä
+/<init>(Ljava/lang/String;Ljava/lang/Throwable;)Wjava.lang.ReflectiveOperationException#<init>(Ljava/lang/String;Ljava/lang/Throwable;)Vf
+<init>(Ljava/lang/Throwable;)Ejava.lang.ReflectiveOperationException#<init>(Ljava/lang/Throwable;)Vÿ
+java.lang.NoSuchFieldException&java.lang.ReflectiveOperationException4
+<init>()(java.lang.NoSuchFieldException#<init>()VX
+<init>(Ljava/lang/String;):java.lang.NoSuchFieldException#<init>(Ljava/lang/String;)VÌ
 5com.simplecity.amp_library.sql.legacy.WhitelistFolderjava.lang.Objecto
 equals(Ljava/lang/Object;)Qcom.simplecity.amp_library.sql.legacy.WhitelistFolder#equals(Ljava/lang/Object;)ZO
 
@@ -3218,7 +3204,8 @@ Ocom.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter
 onComplete()]com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onComplete()Vq
 onInserted(II)_com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onInserted(II)Vk
 onMoved(II)\com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onMoved(II)Vo
-onRemoved(II)^com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onRemoved(II)Va
+onRemoved(II)^com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onRemoved(II)V1
+RecyclerView.OnScrollListenerjava.lang.Objecta
 @com.simplecity.amp_library.glide.preloader.RecyclerViewPreloaderRecyclerView.OnScrollListenerÊ
 8com.simplecity.amp_library.ui.modelviews.BreadcrumbsViewBaseViewModelr
 <init>(Ljava/lang/String;)Tcom.simplecity.amp_library.ui.modelviews.BreadcrumbsView#<init>(Ljava/lang/String;)V›
@@ -5934,7 +5921,8 @@ Ycom.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaR
 sizeComparator()Scom.simplecity.amp_library.utils.FileBrowser#sizeComparator()Ljava/util/Comparator;q
 trackNameComparator()Xcom.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Comparator;u
 trackNumberComparator()Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;@
-java.nio.channels.Channeljava.io.Closeablejava.lang.Object∞
+java.nio.channels.Channeljava.io.Closeablejava.lang.ObjectH
+'com.afollestad.aesthetic.EdgeGlowUtil$1RecyclerView.OnScrollListener∞
 *com.simplecity.amp_library.http.HttpServerjava.lang.Object@
 <init>()4com.simplecity.amp_library.http.HttpServer#<init>()VX
 cleanupAudioStream()@com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()VX
@@ -5968,9 +5956,21 @@ Qopen(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute
 4<init>(Lcom/simplecity/amp_library/http/HttpServer;)bcom.simplecity.amp_library.http.HttpServer$1#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V
 	NanoHTTPDjava.lang.ObjectË
 5com.simplecity.amp_library.http.HttpServer$NanoServer	NanoHTTPD£
-4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)VI
+4<init>(Lcom/simplecity/amp_library/http/HttpServer;)kcom.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V—
+%com.afollestad.aesthetic.EdgeGlowUtiljava.lang.Object;
+<init>()/com.afollestad.aesthetic.EdgeGlowUtil#<init>()Vc
+invalidateEdgeEffectFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateEdgeEffectFields()V_
+invalidateListViewFields()Acom.afollestad.aesthetic.EdgeGlowUtil#invalidateListViewFields()Vo
+"invalidateNestedScrollViewFields()Icom.afollestad.aesthetic.EdgeGlowUtil#invalidateNestedScrollViewFields()Vg
+invalidateRecyclerViewFields()Ecom.afollestad.aesthetic.EdgeGlowUtil#invalidateRecyclerViewFields()Vc
+invalidateScrollViewFields()Ccom.afollestad.aesthetic.EdgeGlowUtil#invalidateScrollViewFields()Va
+invalidateViewPagerFields()Bcom.afollestad.aesthetic.EdgeGlowUtil#invalidateViewPagerFields()Vq
+#setEffectColor(Ljava/lang/Object;I)Jcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)VI
 5com.simplecity.amp_library.playback.MediaManager$Defsjava.lang.Objectb
 'java.nio.channels.ScatteringByteChanneljava.lang.Object%java.nio.channels.ReadableByteChannelT
 %java.nio.channels.WritableByteChanneljava.lang.Objectjava.nio.channels.ChannelX
 %java.nio.channels.SeekableByteChanneljava.lang.Objectjava.nio.channels.ByteChannelT
-%java.nio.channels.ReadableByteChanneljava.lang.Objectjava.nio.channels.Channel
+%java.nio.channels.ReadableByteChanneljava.lang.Objectjava.nio.channels.Channelﬁ
+ java.lang.IllegalAccessException&java.lang.ReflectiveOperationException6
+<init>()*java.lang.IllegalAccessException#<init>()VZ
+<init>(Ljava/lang/String;)<java.lang.IllegalAccessException#<init>(Ljava/lang/String;)V

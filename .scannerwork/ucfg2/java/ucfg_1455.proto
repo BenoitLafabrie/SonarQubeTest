@@ -1,28 +1,71 @@
 
-Ocom.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#isParentViewType(I)Zç
-Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerAdapter.java (#"1"2*æ
-2 3  (;A
-?
- ?  (K	
-%0int"__id*"
+Acom.simplecity.amp_library.utils.ComparisonUtils#compareLong(JJ)IÇ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ComparisonUtils.java (!"6*Z
+2. (/F
+D
+. (/	
+%1int"__id*'
 
-__unknown_file (
-""g
-e
- 3  (K
-%1boolean"	__compare*
- <  (>
-==*
- 3  (;
-""*
- ?  (K
+__unknown_file (
 	
-%0int*
-1*!
-1   (L"
-   (L
+%6int*
+1*Z
+3* (+F
+D
+* (+	
+%1int"__id*'
+
+__unknown_file (
+	
+%5int*
+1*y
+4  (!b
+`
+  (&
+%4boolean"	__compare*
+" ($
+==*
+  (!
+""*
+% (&
+""*
+2
+3*¢
+5 (F
+D
+ (	
+%1int"__id*'
+
+__unknown_file (
+	
+%2intF
+D
+ (	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*x
+6 (a
+_
+ (
+%0boolean"	__compare*
+ (
+<*
+ (
+""*
+ (
+""*
+4
+5*!
+1 (1"
+ (1
 "": 
 
 __unknown_file (
-""B><
-:com.simplecity.amp_library.ui.screens.drawer.DrawerAdapterHX
+"": 
+
+__unknown_file (
+""B4"2
+0com.simplecity.amp_library.utils.ComparisonUtilsHX

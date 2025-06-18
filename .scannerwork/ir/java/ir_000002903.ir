@@ -1,3 +1,101 @@
-\this ($"Hcom.simplecity.amp_library.ui.views.recyclerview.AdaptableSpanSizeLookup"
-
- (*ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/recyclerview/AdaptableSpanSizeLookup.java
+
+'-1intAthisA A("-com.simplecity.amp_library.model.CategoryItem62com.simplecity.amp_library.model.CategoryItem$Type"<*
+(
+B B("#get-field# type:Bint
+B Q(	"á,
+*
+C C("#get-field# GENRES:Bint-
++
+C C("
+#binop ==#2==:Bboolean&"$
+C C( *C C(2E E("ä/
+-
+E E("#get-field# SUGGESTED:Bint-
++
+E E( "
+#binop ==#2==:Bboolean&"$
+E E( 	 *E E(2G G("à-
++
+G G("#get-field# ARTISTS:Bint-
++
+G G(	"
+#binop ==#2==:Bboolean&"$
+G G(	
+ *G G(2I I("á,
+*
+I I(
+"#get-field# ALBUMS:Bint-
++
+I I("
+#binop ==#2==:
+Bboolean&"$
+I I( *I I(2K K("Ü+
+)
+K K("#get-field# SONGS:Bint-
++
+K K("
+#binop ==#2==:Bboolean&"$
+K K( *K K(2M M("à-
++
+M M("#get-field# FOLDERS:Bint-
++
+M M("
+#binop ==#2==:Bboolean&"$
+M M( *M M(2O O("Ä/
+-
+O O("#get-field# PLAYLISTS:Bint-
++
+O O( "
+#binop ==#2==:Bboolean"
+O O(  *O O("£!
+
+D D("#unknown-value#2
+0
+D D("#get-field# string:B	!Unknown!8
+6
+D D(,"#get-field# genres_title:B	!Unknown!
+D D(-"¶	!
+
+F F("#unknown-value#2
+0
+F F("#get-field# string:B	!Unknown!;
+9
+F F(/"#get-field# suggested_title:B	!Unknown!
+F F(0"§
+!
+
+H H("#unknown-value#2
+0
+H H("#get-field# string:B	!Unknown!9
+7
+H H(-"#get-field# artists_title:B	!Unknown!
+H H(."£!
+
+J J("#unknown-value#2
+0
+J J("#get-field# string:B	!Unknown!8
+6
+J J(,"#get-field# albums_title:B	!Unknown!
+J J(-"£!
+
+L L("#unknown-value#2
+0
+L L("#get-field# string:B	!Unknown!8
+6
+L L(, "#get-field# tracks_title:B	!Unknown!
+L L(- "§!
+
+N N(!"#unknown-value#2
+0
+N N(""#get-field# string:!B	!Unknown!9
+7
+N N(-#"#get-field# folders_title:"B	!Unknown!
+N N(.#"¶!
+
+P P($"#unknown-value#2
+0
+P P(%"#get-field# string:$B	!Unknown!;
+9
+P P(/&"#get-field# playlists_title:%B	!Unknown!
+P P(0&"
+R R('*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.java

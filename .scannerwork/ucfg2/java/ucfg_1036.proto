@@ -1,21 +1,24 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#album(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaí í("1*ù
+‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#lyrics(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java“ “("1*û
 1
-î î("œ
-™
+” ”($ž
+›
 
-î î("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	albumText"__id*;
+” ”($I9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+
+lyricsText"__id*<
 
-__unknown_file (
-
-	albumTextjava.lang.String"I
+__unknown_file ( 
+
 
-ï ï(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
+lyricsTextjava.lang.String"I
 
-í í(,
-	albumTextjava.lang.StringB;9
+• •(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:,
+
+“ “(.
+
+lyricsTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

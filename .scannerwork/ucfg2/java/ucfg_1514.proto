@@ -1,15 +1,17 @@
 
-Y__sonar_lambda_123$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity›
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java‚< ‚(|"1*%
+ecom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#screenName()Ljava/lang/String;›
+Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java› ›("1*š
 1
-‚F ‚(U"
+œ œ(a
+_
 
-‚F ‚(|
-"": 
+œ œ(
+%0java.lang.String"__id*3
 
-__unknown_file (
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+VoiceSearchActivity"&
+
+œ œ(
+
+%0java.lang.StringBJH
+Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity
