@@ -1,54 +1,39 @@
 
-Ecom.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;z
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.javaª ª("3*æ
-2
-Ω Ω(ß§
-
-Ω Ω(
-
-%2void"4com.simplecity.amp_library.model.Album#setSortKey()V*F
-
-__unknown_file (*(
-&com.simplecity.amp_library.model.Album2setSortKey()*
-1*ô
-3
-º º(Å
-
-
-º º(
-%0java.lang.String"__id*S
-
-__unknown_file (7*5(
-&com.simplecity.amp_library.model.Album"	
-sortKey|
-z
-
-º º(
-%1boolean"	__compare*
-
-º º(
-==*&
-
-º º(
-
-%0java.lang.String*
-
-º º(
-""*
-2
-1*ª
+Ücom.afollestad.aesthetic.AestheticBottomNavigationView$State#create(IIZ)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;õ
+é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaª ª("1*®
 1
-ø ø(Å
-
+Ω Ω(ëé
 
-ø ø(
-%3java.lang.String"__id*S
+Ω Ω(B
+%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State"<com.afollestad.aesthetic.AestheticBottomNavigationView$StateÆ
+´
+
+Ω Ω(4
+%1"Icom.afollestad.aesthetic.AestheticBottomNavigationView$State#<init>(IIZ)V*`
 
-__unknown_file (7*5(
-&com.simplecity.amp_library.model.Album"	
-sortKey"&
+__unknown_file (D
+B
+%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""R
 
-ø ø(
-
-%3java.lang.StringB*(
-&com.simplecity.amp_library.model.AlbumH
+Ω Ω(5D
+B
+%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B@">
+<com.afollestad.aesthetic.AestheticBottomNavigationView$State

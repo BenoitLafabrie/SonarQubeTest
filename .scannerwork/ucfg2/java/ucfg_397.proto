@@ -1,196 +1,16 @@
 
-Jandroid.support.design.widget.CustomCollapsingTextHelper#blendColors(IIF)I
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaŒ Œ(""1*Å
-
+Tcom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersAscending()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaâ â(3"1*•
 1
-# (%i
-g
+ã ã(n
+l
 
-# (-
-%0float"__calculate*
-
-& ('
--*
-
-# (%
-""*
-
-( (-
-""b
-`
-
-Ž Ž(5
-%1"__calculate*
-
-Ž' Ž((
-**
-
-Ž Ž(&
-""*
-
-Ž) Ž(5
-""b
-`
-
-Ž: Ž(U
-%2"__calculate*
-
-ŽN Ž(O
-**
-
-Ž: Ž(M
-""*
-
-ŽP Ž(U
-""b
-`
-
-Ž Ž(V
-%3"__calculate*
-
-Ž7 Ž(8
-+*
-
-Ž Ž(6
-
-%1*
-
-Ž9 Ž(V
-
-%2b
-`
-
- (3
-%4"__calculate*
-
-% (&
-**
-
- ($
-""*
-
-' (3
-""b
-`
-
-8 (Q
-%5"__calculate*
-
-J (K
-**
-
-8 (I
-""*
-
-L (Q
-""b
-`
-
- (R
-%6"__calculate*
-
-5 (6
-+*
-
- (4
-
-%4*
-
-7 (R
-
-%5b
-`
-
- (5
-%7"__calculate*
-
-' ((
-**
-
- (&
-""*
-
-) (5
-""b
-`
-
-: (U
-%8"__calculate*
-
-N (O
-**
-
-: (M
-""*
-
-P (U
-""b
-`
-
- (V
-%9"__calculate*
-
-7 (8
-+*
-
- (6
-
-%7*
-
-9 (V
-
-%8c
-a
-
-‘ ‘(4
-%10"__calculate*
-
-‘& ‘('
-**
-
-‘ ‘(%
-""*
-
-‘( ‘(4
-""c
-a
-
-‘9 ‘(S
-%11"__calculate*
-
-‘L ‘(M
-**
-
-‘9 ‘(K
-""*
-
-‘N ‘(S
-""e
-c
-
-‘ ‘(T
-%12"__calculate*
-
-‘6 ‘(7
-+*
-
-‘ ‘(5
-
-%10*
-
-‘8 ‘(T
-
-%11"
-
-’ ’(>
-"": 
+ã ã(;
+%0java.lang.String"__id*@
 
-__unknown_file (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B<":
-8android.support.design.widget.CustomCollapsingTextHelperX
+__unknown_file ($"
+ folder_browser_folders_ascending"
+
+ã ã(C
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

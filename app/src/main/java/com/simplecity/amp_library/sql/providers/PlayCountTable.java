@@ -28,6 +28,8 @@ public class PlayCountTable extends SQLiteOpenHelper {
             + COLUMN_TIME_PLAYED + " LONG DEFAULT 0"
             + ");";
 
+    private static final String SQL_FROM = " FROM ";
+
     public static final String AUTHORITY = BuildConfig.APPLICATION_ID + ".play_count.contentprovider";
 
     public static final Uri URI = Uri.parse("content://" + AUTHORITY + "/" + "play_count");
@@ -57,8 +59,8 @@ public class PlayCountTable extends SQLiteOpenHelper {
                     + COLUMN_ID + " LONG NOT NULL UNIQUE ON CONFLICT REPLACE, "
                     + COLUMN_PLAY_COUNT + " INTEGER DEFAULT 0, "
                     + COLUMN_TIME_PLAYED + " LONG DEFAULT 0);");
-
-            //Copy backup into new
+            db.execSQL("INSERT OR REPLACE INTO " + TABLE_PLAY_COUNT + "(" + COLUMN_ID + ", " + COLUMN_PLAY_COUNT + ") "
+                    + "SELECT " + COLUMN_ID + "," + COLUMN_PLAY_COUNT + SQL_FROM + TABLE_BACKUP + "; ");
             db.execSQL("INSERT OR REPLACE INTO " + TABLE_PLAY_COUNT + "(" + COLUMN_ID + ", " + COLUMN_PLAY_COUNT + ") "
                     + "SELECT " + COLUMN_ID + "," + COLUMN_PLAY_COUNT + " FROM " + TABLE_BACKUP + "; ");
 
@@ -71,13 +73,13 @@ public class PlayCountTable extends SQLiteOpenHelper {
 
             //Add rows from count info table
             try {
-                String COUNT_INFO_DATABASE = "count_info.db";
-                String PATH_COUNT_INFO = applicationContext.getDatabasePath(COUNT_INFO_DATABASE).toString();
-                String TABLE_COUNT_INFO = "COUNT_INFO";
-                String COUNT_INFO_COLUMN_ID = "_id";
-                String COUNT_INFO_COLUMN_TIME_PLAYED = "time_played";
+                String countInfoDatabase = "count_info.db";
+                String pathCountInfo = applicationContext.getDatabasePath(countInfoDatabase).toString();
+                String tableCountInfo = "COUNT_INFO";
+                String countInfoColumnId = "_id";
+                String countInfoColumnTimePlayed = COLUMN_TIME_PLAYED;
 
-                db.execSQL("ATTACH '" + PATH_COUNT_INFO + "' AS " + TABLE_COUNT_INFO + "; ");
+                db.execSQL("ATTACH '" + pathCountInfo + "' AS " + tableCountInfo + "; ");
 
                 //Now we have to begin a new transaction
                 db.beginTransaction();
@@ -91,19 +93,19 @@ public class PlayCountTable extends SQLiteOpenHelper {
                         + COLUMN_TIME_PLAYED
                         + ") "
                         + "SELECT "
-                        + COUNT_INFO_COLUMN_ID
-                        + ","
                         + "(SELECT "
                         + COLUMN_PLAY_COUNT
-                        + " FROM "
+                        + SQL_FROM
                         + TABLE_PLAY_COUNT
                         + " WHERE _id = "
                         + COLUMN_ID
                         + ")"
                         + ","
-                        + COUNT_INFO_COLUMN_TIME_PLAYED
-                        + " FROM "
-                        + TABLE_COUNT_INFO
+                        + countInfoColumnTimePlayed
+                        + SQL_FROM
+                        + tableCountInfo
+                        + ";");
+                        + tableCountInfo
                         + ";");
             } catch (SQLiteException ignored) {
                 // The count info table probably doesn't exist (it wasn't created in the previous version of the app)

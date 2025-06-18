@@ -1,56 +1,17 @@
 
-Lcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#%field_initializer
-__unknown_file ("1*°
-1 (¬ø
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?) ?(4
-%0java.util.ArrayList"java.util.ArrayList‡
-›
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java?% ?(6
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListï
-í
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java? ?(7R;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-originalSongPaths"__id*'
- (
-
-%0java.util.ArrayList¬ø
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@3 @(>
-%2java.util.ArrayList"java.util.ArrayList‡
-›
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@/ @(@
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayListë
-é
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java@ @(AN;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-documentFiles"__id*'
- (
-
-%2java.util.ArrayListˆ
-Û
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaB B(%J;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-	showAlbum"__id*
- (2ˆ
-Û
-å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javaC C(%J;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"
-	showTrack"__id*
- (2"£
-ã
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.java/ ¥(
-implicit returnB=;
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog
+Xcom.simplecity.amp_library.utils.FileBrowser#fileCountComparator()Ljava/util/Comparator;Ä
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaï ï(*"1*±
+1
+ñ* ñ(Uâ
+Ü
+
+ñ* ñ(U
+%0"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_162$com.simplecity.amp_library.utils.FileBrowser"
+
+ñ ñ(V
+
+%0B0.
+,com.simplecity.amp_library.utils.FileBrowser

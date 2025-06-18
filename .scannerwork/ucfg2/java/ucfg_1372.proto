@@ -1,15 +1,71 @@
 
-4com.afollestad.aesthetic.AestheticSwitch$1#<init>()V
-__unknown_file ("startingBlock*­
-startingBlock‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2ç
-ä
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2
-%0"Consumer#<init>()V*:
- (.,
-*com.afollestad.aesthetic.AestheticSwitch$1"£
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSwitch.java81 8(2
-implicit returnB.,
-*com.afollestad.aesthetic.AestheticSwitch$1
+Acom.simplecity.amp_library.utils.ComparisonUtils#compareLong(JJ)I‚
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ComparisonUtils.java (!"6*Z
+2. (/F
+D
+. (/	
+%1int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*Z
+3* (+F
+D
+* (+	
+%1int"__id*'
+
+__unknown_file (
+	
+%5int*
+1*y
+4  (!b
+`
+  (&
+%4boolean"	__compare*
+" ($
+==*
+  (!
+""*
+% (&
+""*
+2
+3*¢
+5 (F
+D
+ (	
+%1int"__id*'
+
+__unknown_file (
+	
+%2intF
+D
+ (	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*x
+6 (a
+_
+ (
+%0boolean"	__compare*
+ (
+<*
+ (
+""*
+ (
+""*
+4
+5*!
+1 (1"
+ (1
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B4"2
+0com.simplecity.amp_library.utils.ComparisonUtilsHX

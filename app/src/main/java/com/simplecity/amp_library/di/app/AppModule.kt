@@ -19,7 +19,6 @@ import com.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMediumModule
 import com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall
 import com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmallModule
 import com.simplecity.amp_library.utils.MediaButtonIntentReceiver
-import dagger.Module
 import dagger.Provides
 import dagger.android.ContributesAndroidInjector
 import dagger.android.support.AndroidSupportInjectionModule
@@ -39,38 +38,38 @@ class AppModule {
 }
 
 @Module(includes = [AndroidSupportInjectionModule::class])
-abstract class AppModuleBinds {
+interface AppModuleBinds {
 
     @ActivityScope
     @ContributesAndroidInjector(modules = [MainActivityModule::class])
-    abstract fun mainActivityInjector(): MainActivity
+    fun mainActivityInjector(): MainActivity
 
     @ContributesAndroidInjector
-    abstract fun musicServiceInjector(): MusicService
+    fun musicServiceInjector(): MusicService
 
     @ContributesAndroidInjector
-    abstract fun artworkServiceInjector(): ArtworkDownloadService
+    fun artworkServiceInjector(): ArtworkDownloadService
 
     @ContributesAndroidInjector
-    abstract fun mediaButtonIntentReceiverInjector(): MediaButtonIntentReceiver
+    fun mediaButtonIntentReceiverInjector(): MediaButtonIntentReceiver
 
     @ActivityScope
     @ContributesAndroidInjector
-    abstract fun shortcutTrampolineActivityInjector(): ShortcutTrampolineActivity
+    fun shortcutTrampolineActivityInjector(): ShortcutTrampolineActivity
 
     @ActivityScope
     @ContributesAndroidInjector(modules = [WidgetConfigureActivitySmallModule::class])
-    abstract fun widgetConfigureActivitySmallInjector(): WidgetConfigureActivitySmall
+    fun widgetConfigureActivitySmallInjector(): WidgetConfigureActivitySmall
 
     @ActivityScope
     @ContributesAndroidInjector(modules = [WidgetConfigureActivityMediumModule::class])
-    abstract fun widgetConfigureActivityMediumInjector(): WidgetConfigureActivityMedium
+    fun widgetConfigureActivityMediumInjector(): WidgetConfigureActivityMedium
 
     @ActivityScope
     @ContributesAndroidInjector(modules = [WidgetConfigureActivityLargeModule::class])
-    abstract fun widgetConfigureActivityLargeInjector(): WidgetConfigureActivityLarge
+    fun widgetConfigureActivityLargeInjector(): WidgetConfigureActivityLarge
 
     @ActivityScope
     @ContributesAndroidInjector(modules = [WidgetConfigureActivityExtraLargeModule::class])
-    abstract fun widgetConfigureActivityExtraLargeInjector(): WidgetConfigureActivityExtraLarge
+    fun widgetConfigureActivityExtraLargeInjector(): WidgetConfigureActivityExtraLarge
 }

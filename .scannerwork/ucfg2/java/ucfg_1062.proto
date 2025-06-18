@@ -1,20 +1,14 @@
 
-^com.simplecity.amp_library.model.Query$Builder#build()Lcom/simplecity/amp_library/model/Query;x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java9 9("1*¡
-1: :(!b`
-: :(,
-%0&com.simplecity.amp_library.model.Query"&com.simplecity.amp_library.model.Queryë
-é
-: :("
-%1"`com.simplecity.amp_library.model.Query#<init>(Lcom/simplecity/amp_library/model/Query$Builder;)V*J
+acom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#screenName()Ljava/lang/String;ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java ("1*ù
+1 (h
+f
+ (
+%0java.lang.String"__id*<
 
-__unknown_file (.
-,
-%0&com.simplecity.amp_library.model.Query*N
-
-__unknown_file (20
-.com.simplecity.amp_library.model.Query$Builder":
-: :(#.
-,
-%0&com.simplecity.amp_library.model.QueryB20
-.com.simplecity.amp_library.model.Query$BuilderH
+__unknown_file ( 
+WidgetConfigureActivityLarge"$
+ (
+
+%0java.lang.StringBFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge

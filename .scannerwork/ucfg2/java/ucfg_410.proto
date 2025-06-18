@@ -1,42 +1,17 @@
 
-Fandroid.support.design.widget.CustomCollapsingTextHelper#isStateful()Zç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java· ·("6*w
-3
-„ „('a
-_
-
-„ „(/
-%1"	__compare*
-
-„( „(*
-!=*
-
-„ „('
-""*
-
-„+ „(/
-""*
-1*z
-6
-‚ ‚($a
-_
-
-‚ ‚(,
-%0"	__compare*
-
-‚% ‚('
-!=*
-
-‚ ‚($
-""*
-
-‚( ‚(,
-""*
-3
-1*%
+Acom.simplecity.amp_library.utils.SettingsManager#getTintNavBar()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java£ £( "1*Ω
 1
-‚ „(U"
+§ §(ï
+í
 
-‚ „(U
-""B<:
-8android.support.design.widget.CustomCollapsingTextHelperX
+§ §('
+%0java.lang.String"__id*f
+
+__unknown_file (J*H2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_NAV_BAR"
+
+§ §(0
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,5 +1,8 @@
-WthisB B('"Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetViewgmultiSheetEventRelayB( B(Q"Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay"F6
-4
-C C(8"" #set-field# multiSheetEventRelay:
+Mthis
+ó ó("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
+ó  ó(1"boolean"A-
++
 
-D D(*‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java
+ô ô(""#set-field# showTrack:
+
+õ õ(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

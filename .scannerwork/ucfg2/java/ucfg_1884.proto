@@ -1,32 +1,79 @@
 
-òcom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerDialog.javai i(*"1*∑
-1k k("Q
-O
-l l(&
-%0java.lang.String"__id*%
+?__sonar_lambda_163$com.simplecity.amp_library.utils.FileBrowserÄ
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaö( ü(	"startingBlock*â
+2
+ú ú("·ﬁ
+
+ú ú(R
+%3"gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I*^
 
-__unknown_file (	
-modelâÜ
-m$ m(0?
-%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog∑
-¥
-m  m(2
-%2"Ccom.simplecity.amp_library.ui.screens.tagger.TaggerDialog#<init>()V*]
+__unknown_file (B
+@
+FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser*"
 
-__unknown_file (A
-?
-%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialogπ
-∂
-m m(3E
-fragment9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"__id*]
+__unknown_file (
+""*"
 
-__unknown_file (A
-?
-%19com.simplecity.amp_library.ui.screens.tagger.TaggerDialog"S
-o o(G
-E
-fragment9com.simplecity.amp_library.ui.screens.tagger.TaggerDialog:)
-i+ i(=
-modeljava.io.SerializableB=";
-9com.simplecity.amp_library.ui.screens.tagger.TaggerDialogH
+__unknown_file (
+""29nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)"
+
+ú ú(S
+
+%3*z
+3
+õ2 õ(5a
+_
+
+õ2 õ(P
+%2"	__compare*
+
+õI õ(K
+==*
+
+õ2 õ(H
+""*
+
+õL õ(P
+""*
+2
+1*Ï
+startingBlock
+ö( ü(	…
+∆
+
+__unknown_file (@
+FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser"__id*b
+
+__unknown_file (F*D.
+,com.simplecity.amp_library.utils.FileBrowser"
+FileBrowser.this*
+4*z
+4
+õ õ(a
+_
+
+õ õ(.
+%1"	__compare*
+
+õ' õ()
+==*
+
+õ õ(&
+""*
+
+õ* õ(.
+""*
+2
+3*%
+1
+û û("
+
+û û(V
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+java.util.Comparator

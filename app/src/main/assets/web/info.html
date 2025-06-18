@@ -1,14 +1,46 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
     <title>Shuttle Changelog</title>
+    <link rel="stylesheet" href="styles.css" id="theme-link" />
+    <style>
+        /* Example: Add dark theme support using prefers-color-scheme */
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background: #181818;
+                color: #eee;
+            }
+
+            a {
+                color: #8ecfff;
+            }
+
+            /* Add more dark theme overrides as needed */
+        }
+
+        /* Optional: Add a toggle button for manual switching */
+
+        .theme-toggle {
+            position: fixed;
+            top: 1em;
+            right: 1em;
+            background: #444;
+            color: #fff;
+            border: none;
+            padding: 0.5em 1em;
+            cursor: pointer;
+            border-radius: 4px;
+            z-index: 1000;
+        }
+    </style>
 </head>
 
 <body>
+    <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
     <h4>2.0.13-beta1</h4>
     <ul>
         <li>Continues where 2.0.12-beta6 left off</li>

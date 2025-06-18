@@ -688,7 +688,7 @@ Zcom.simplecity.amp_library.androidauto.MediaIdHelper$Companion#setTAG(Ljava/lan
 implicit return:%
  (
 valuejava.lang.ObjectBB@
->com.simplecity.amp_library.androidauto.MediaIdHelper$CompanionH„0
+>com.simplecity.amp_library.androidauto.MediaIdHelper$CompanionHÎ-
 åcom.simplecity.amp_library.androidauto.MediaIdHelper#parseMediaId(Ljava/lang/String;)Lcom/simplecity/amp_library/androidauto/MediaIdWrapper;à
 ~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt= =("0*ß
 13Q@ Q(^ë
@@ -700,15 +700,42 @@ Zcom.simplecity.amp_library.androidauto.MediaIdHelper$Companion#setTAG(Ljava/lan
 X
 ArtistDirectoryEcom.simplecity.amp_library.androidauto.MediaIdWrapper$ArtistDirectory*
 7*j
-25[+ [(HT
+24Z+ Z(HT
 R
 
 __unknown_file (
-%16"__id*)
+%13"__id*)
 
 __unknown_file (
 	<unknown>*
-21*´
+20*Ç
+25[  [(Påâ
+[/ [(PA
+%16:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song":com.simplecity.amp_library.androidauto.MediaIdWrapper$Song‡
+›
+[/ [(P
+%17"vcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#<init>(Ljava/lang/String;Ljava/lang/Long;Ljava/lang/Long;)V*O
+[/ [(PC
+A
+%16:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song*,
+[4 [(> 
+
+
+artistHashjava.lang.String*)
+[@ [(G
+
+albumIdjava.lang.Object*(
+[I [(O
+
+songIdjava.lang.Objectz
+x
+
+__unknown_file (
+%13"__id*O
+[/ [(PC
+A
+%16:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song*
+20*´
 15RB R(bï
 í
 
@@ -717,34 +744,7 @@ R
 RQ R(b^
 \
 PlaylistDirectoryGcom.simplecity.amp_library.androidauto.MediaIdWrapper$PlaylistDirectory*
-7*Ç
-26\  \(Påâ
-\/ \(PA
-%19:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song":com.simplecity.amp_library.androidauto.MediaIdWrapper$Song‡
-›
-\/ \(P
-%20"vcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#<init>(Ljava/lang/String;Ljava/lang/Long;Ljava/lang/Long;)V*O
-\/ \(PC
-A
-%19:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song*,
-\4 \(> 
-
-
-artistHashjava.lang.String*)
-\@ \(G
-
-albumIdjava.lang.Object*(
-\I \(O
-
-songIdjava.lang.Objectz
-x
-
-__unknown_file (
-%16"__id*O
-\/ \(PC
-A
-%19:com.simplecity.amp_library.androidauto.MediaIdWrapper$Song*
-21*•
+7*•
 17S? S(\è
 å
 
@@ -753,37 +753,26 @@ A
 SN S(\X
 V
 GenreDirectoryDcom.simplecity.amp_library.androidauto.MediaIdWrapper$GenreDirectory*
-7*ë
-18T  V(Ñ
-Å
-U8 U(Y
-%13"__concat*!
-U9 U(J
-Unknown MediaId '*)
-UK U(R
-
-mediaIdjava.lang.String*
-UR U(X
-
-' pathUS
-U" U(Z&
-%14java.lang.IllegalStateException"java.lang.IllegalStateExceptionú
-ô
-U" U(Z
-%15";java.lang.IllegalStateException#<init>(Ljava/lang/String;)V*4
-U" U(Z(
-&
-%14java.lang.IllegalStateException*
-U8 U(Y
-
-%13*
-19*J
-19
-__unknown_file ("*
+7*h
+18T  U(]S
+Q
 
-__unknown_file (
+__unknown_file (
+%8"__id*)
+
+__unknown_file (
+	<unknown>*
+7*∫
+19W ](üú
+Y Y(*
+%14boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*,
+Y Y(" 
+
 
-early exit*m
+playlistIdjava.lang.Object*
+Y& Y(* 2equals(Ljava/lang/Object;)*
+21
+22*m
 0< =(V
 T
 ? ?($
@@ -793,8 +782,8 @@ T
 	<unknown>*
 3
 4*!
-1` `(	"
-A `(	
+1_ _(	"
+A _(	
 
 %0*¢
 3C E(ç
@@ -806,7 +795,7 @@ T
 T
 RootDirectoryCcom.simplecity.amp_library.androidauto.MediaIdWrapper$RootDirectory*
 1*ñ
-4F _(È
+4F ^(È
 Ê
 G2 G(K
 %1java.lang.String"ycom.simplecity.amp_library.androidauto.MediaIdHelper#getNextSegment(Ljava/util/List;Ljava/lang/String;)Ljava/lang/String;*.
@@ -891,10 +880,10 @@ X
 15
 17
 18
+19
 9
-20
 11*`
-5^ _(L
+5] ^(L
 J
 
 __unknown_file (
@@ -904,7 +893,7 @@ J
 
 %7*
 1*`
-7W X(L
+7V W(L
 J
 
 __unknown_file (
@@ -937,18 +926,8 @@ artistHashjava.lang.String*)
 OM O(oK
 I
 %9Ccom.simplecity.amp_library.androidauto.MediaIdWrapper$SongDirectory*
-7*∫
-20X ^(üú
-Z Z(*
-%17boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*,
-Z Z(" 
-
-
-playlistIdjava.lang.Object*
-Z& Z(* 2equals(Ljava/lang/Object;)*
-22
-23*b
-21] ^(M
+7*b
+20\ ](M
 K
 
 __unknown_file (
@@ -956,17 +935,26 @@ K
 
 __unknown_file (
 
-%16*
+%13*
 5*∑
-22[ [('úô
-[ [('
-%18boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*)
-[ [(
+21Z Z('úô
+Z Z('
+%15boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*)
+Z Z(
 
 genreIdjava.lang.Object*
-[# [(' 2equals(Ljava/lang/Object;)*
-25
-26*Ω
+Z# Z(' 2equals(Ljava/lang/Object;)*
+24
+25*j
+22Y. Y(QT
+R
+
+__unknown_file (
+%13"__id*)
+
+__unknown_file (
+	<unknown>*
+20*Ω
 11P? P(q†ù
 PN P(qK
 %11Dcom.simplecity.amp_library.androidauto.MediaIdWrapper$AlbumDirectory"Dcom.simplecity.amp_library.androidauto.MediaIdWrapper$AlbumDirectory˝
@@ -986,85 +974,76 @@ K
 PN P(qM
 K
 %11Dcom.simplecity.amp_library.androidauto.MediaIdWrapper$AlbumDirectory*
-7*j
-23Z. Z(QT
-R
-
-__unknown_file (
-%16"__id*)
-
-__unknown_file (
-	<unknown>*
-21:'
+7:'
 = =(,
 mediaIdjava.lang.StringB86
-4com.simplecity.amp_library.androidauto.MediaIdHelperH`í
+4com.simplecity.amp_library.androidauto.MediaIdHelperHí
 ycom.simplecity.amp_library.androidauto.MediaIdHelper#getNextSegment(Ljava/util/List;Ljava/lang/String;)Ljava/lang/String;à
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktc c(+"0*·
-2e, g(	`
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktb b(+"0*·
+2d, f(	`
 ^
-f f(!
+e e(!
 %6"__calculate*
-f f(
+e e(
 +*
-f f(
+e e(
 
 indexint*
-f  f(!2…∆
-f f("
+e  e(!2…∆
+e e("
 %7java.lang.String"0kotlin.collections.List#get(I)Ljava/lang/Object;*D
-f f(86
+e e(86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*"
 
 __unknown_file (
 
 %62get(I)"$
-f f("
+e e("
 
 %7java.lang.String*ö
-0c c(∫∑
-d d((	
+0b b(∫∑
+c c((	
 %0int"4kotlin.collections.List#indexOf(Ljava/lang/Object;)I*
-d d((
+c c((
 java.util.List*-
-d d('!
+c c('!
 
 segmentNamejava.lang.String2indexOf(Ljava/lang/Object;)9
 7
-d d((
+c c((
 indexint"__id*
-d d((
+c c((
 	
 %0int]
 [
-e e(
+d d(
 %1"	__compare*
-e e(
+d d(
 >=*
-e e(
+d d(
 
 indexint*
-e e(2 [
+d d(2 [
 Y
-e e(	
+d d(	
 %2int""kotlin.collections.List#getSize()I*
-e e(
+d d(
 java.util.List`
 ^
-e! e(*
+d! d(*
 %3"__calculate*
-e' e((
+d' d((
 +*
-e! e(&
+d! d(&
 
 indexint*
-e) e(*2m
+d) d(*2m
 k
-e e(*
+d d(*
 %4"	__compare*
-e e( 
+d d( 
 >*
-e e(
+d d(
 	
 %2int*"
 
@@ -1073,17 +1052,17 @@ k
 %3*
 2
 1*
-1g	 h("
-h h( :+
-c, c(?
+1f	 g("
+g g( :+
+b, b(?
 segmentNamejava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHó$
 ucom.simplecity.amp_library.androidauto.MediaIdHelper#getChildren(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)Và
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktk k("1*™
-2o
- r(	
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktj j("1*™
+2n
+ q(	
 }
-m r(	G
+l q(	G
 mediaIdWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapper"__id*"
 
 __unknown_file (
@@ -1097,32 +1076,32 @@ ucom.simplecity.amp_library.androidauto.MediaIdHelper#getChildren(Ljava/lang/Str
 10
 12*Â
 14
-í0 í(f˘
+ë0 ë(f˘
 ˆ
 
-íS í(]
+ëS ë(]
 %7java.lang.Integer"gcom.simplecity.amp_library.androidauto.MediaIdWrapper$AlbumDirectory#getArtistHash()Ljava/lang/Integer;*f
 
-íD í(RX
+ëD ë(RX
 V
 mediaIdWrapperDcom.simplecity.amp_library.androidauto.MediaIdWrapper$AlbumDirectoryÑ
 Å
 
-í0 í(f
+ë0 ë(f
 %8kotlin.Unit"ácom.simplecity.amp_library.androidauto.MediaIdHelper#listAlbums(Ljava/lang/String;Ljava/lang/Integer;Lkotlin/jvm/functions/Function1;)V*F
 
-í0 í(f86
+ë0 ë(f86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-í; í(B
+ë; ë(B
 
 mediaIdjava.lang.String*'
 
-íS í(]
+ëS ë(]
 
 %7java.lang.Integer*8
 
-í_ í(e*
+ë_ ë(e*
 (
 resultkotlin.jvm.functions.Function1K
 I
@@ -1130,49 +1109,49 @@ I
 __unknown_file (
 %2"__id*!
 
-í0 í(f
+ë0 ë(f
 
 %8kotlin.Unit*
 4*L
-3o+ r(	8
+3n+ q(	8
 6
 
 __unknown_file (
 %0"__id*
-q q( *
+p p( *
 2*@
 4
-ï	 ñ("/
+î	 ï("/
 
 __unknown_file (
 implicit return*’
 16
-ì/ ì(aÓ
+í/ í(aÓ
 Î
 
-ìQ ì(X
+íQ í(X
 %9java.lang.Long"`com.simplecity.amp_library.androidauto.MediaIdWrapper$SongDirectory#getAlbumId()Ljava/lang/Long;*e
 
-ìB ì(PW
+íB í(PW
 U
 mediaIdWrapperCcom.simplecity.amp_library.androidauto.MediaIdWrapper$SongDirectory˛
 ˚
 
-ì/ ì(a
+í/ í(a
 %10kotlin.Unit"Écom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V*F
 
-ì/ ì(a86
+í/ í(a86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-ì9 ì(@
+í9 í(@
 
 mediaIdjava.lang.String*$
 
-ìQ ì(X
+íQ í(X
 
 %9java.lang.Long*8
 
-ìZ ì(`*
+íZ í(`*
 (
 resultkotlin.jvm.functions.Function1L
 J
@@ -1180,17 +1159,17 @@ J
 __unknown_file (
 %2"__id*"
 
-ì/ ì(a
+í/ í(a
 
 %10kotlin.Unit*
 4*…
 17
-î î(+„‡
+ì ì(+„‡
 
-î î(+
+ì ì(+
 %11kotlin.Unit"=kotlin.Function1#invoke(Ljava/lang/Object;)Ljava/lang/Object;*8
 
-î î(*
+ì ì(*
 (
 resultkotlin.jvm.functions.Function1*)
 
@@ -1201,14 +1180,14 @@ J
 __unknown_file (
 %2"__id*"
 
-î î(+
+ì ì(+
 
 %11kotlin.Unit*
 4*¡
-6	u/ é(ﬂ‹
-	u/ é(
+6	t/ ç(ﬂ‹
+	t/ ç(
 %3kotlin.Unit"=kotlin.Function1#invoke(Ljava/lang/Object;)Ljava/lang/Object;*6
-u/ u(5*
+t/ t(5*
 (
 resultkotlin.jvm.functions.Function1*)
 
@@ -1218,25 +1197,25 @@ H
 
 __unknown_file (
 %2"__id* 
-	u/ é(
+	t/ ç(
 
 %3kotlin.Unit*
 4*´
 8
-è0 è(K«
+é0 é(K«
 ƒ
 
-è0 è(K
+é0 é(K
 %4kotlin.Unit"tcom.simplecity.amp_library.androidauto.MediaIdHelper#listGenres(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)V*F
 
-è0 è(K86
+é0 é(K86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-è; è(B
+é; é(B
 
 mediaIdjava.lang.String*8
 
-èD è(J*
+éD é(J*
 (
 resultkotlin.jvm.functions.Function1K
 I
@@ -1244,25 +1223,25 @@ I
 __unknown_file (
 %2"__id*!
 
-è0 è(K
+é0 é(K
 
 %4kotlin.Unit*
 4*Ø
 10
-ê3 ê(Q 
+è3 è(Q 
 «
 
-ê3 ê(Q
+è3 è(Q
 %5kotlin.Unit"wcom.simplecity.amp_library.androidauto.MediaIdHelper#listPlaylists(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)V*F
 
-ê3 ê(Q86
+è3 è(Q86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-êA ê(H
+èA è(H
 
 mediaIdjava.lang.String*8
 
-êJ ê(P*
+èJ è(P*
 (
 resultkotlin.jvm.functions.Function1K
 I
@@ -1270,25 +1249,25 @@ I
 __unknown_file (
 %2"__id*!
 
-ê3 ê(Q
+è3 è(Q
 
 %5kotlin.Unit*
 4*≠
 12
-ë1 ë(M»
+ê1 ê(M»
 ≈
 
-ë1 ë(M
+ê1 ê(M
 %6kotlin.Unit"ucom.simplecity.amp_library.androidauto.MediaIdHelper#listArtists(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)V*F
 
-ë1 ë(M86
+ê1 ê(M86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-ë= ë(D
+ê= ê(D
 
 mediaIdjava.lang.String*8
 
-ëF ë(L*
+êF ê(L*
 (
 resultkotlin.jvm.functions.Function1K
 I
@@ -1296,100 +1275,37 @@ I
 __unknown_file (
 %2"__id*!
 
-ë1 ë(M
+ê1 ê(M
 
 %6kotlin.Unit*
 4*◊
-1m2 o(	 
+1l2 n(	 
 «
-n n(!;
+m m(!;
 %15com.simplecity.amp_library.androidauto.MediaIdWrapper"åcom.simplecity.amp_library.androidauto.MediaIdHelper#parseMediaId(Ljava/lang/String;)Lcom/simplecity/amp_library/androidauto/MediaIdWrapper;*D
-n n(!86
+m m(!86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*)
-n n( 
+m m( 
 
 mediaIdjava.lang.Strings
 q
 
 __unknown_file (
 %0"__id*I
-n n(!=
+m m(!=
 ;
 %15com.simplecity.amp_library.androidauto.MediaIdWrapper*
 2
 3:'
-k k(#
+j j(#
 mediaIdjava.lang.String:4
-k% k(`(
+j% j(`(
 resultkotlin.jvm.functions.Function1B86
-4com.simplecity.amp_library.androidauto.MediaIdHelperHá!
+4com.simplecity.amp_library.androidauto.MediaIdHelperHœ
 com.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktò ò("0*†
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.któ ó("0*i
 3
-õ& ©(„
-‡
-
-__unknown_file (
-%2"__declareFunction*™
-
-__unknown_file (çä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0∫∑
-
-__unknown_file (ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0"__ScopeWrapperﬂ
-‹
-
-__unknown_file (‘
-ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0"E
-mediaWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapper"__id*c
-
-__unknown_file (G
-E
-mediaWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapperã
-à
-
-__unknown_file (™
-ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0"
-mediaIdjava.lang.String"__id*9
-
-__unknown_file (
-
-mediaIdjava.lang.String≠
-™
-
-__unknown_file (ª
-ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0",
-
-completionkotlin.jvm.functions.Function2"__id*J
-
-__unknown_file (.
-,
-
-completionkotlin.jvm.functions.Function2Ê
-„
-
-__unknown_file (ì
-
-%2"ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0"__id*™
-
-__unknown_file (ç
-ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0à
-Ö
-
-ú ú($
-%3java.lang.Object"scom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPredicate(Lkotlin/jvm/functions/Function1;)LSingle;*F
-
-ú ú($86
-4com.simplecity.amp_library.androidauto.MediaIdHelper*"
-
-__unknown_file (
-
-%2S
+ö& ®(S
 Q
 
 __unknown_file (
@@ -1399,25 +1315,56 @@ Q
 	<unknown>*
 1*¨
 5
-™* ±(Ã
+©* ∞(Ã
 …
 
-´3 ´(=
+™3 ™(=
 
-%4long"Ocom.simplecity.amp_library.androidauto.MediaIdWrapper$Playlist#getPlaylistId()J*^
+%2long"Ocom.simplecity.amp_library.androidauto.MediaIdWrapper$Playlist#getPlaylistId()J*^
 
-´& ´(2P
+™& ™(2P
 N
 mediaWrapper>com.simplecity.amp_library.androidauto.MediaIdWrapper$PlaylistÒ
 Ó
 
-´ ´(>
-%5java.lang.Object"dcom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPlaylistId(Ljava/lang/Long;)LSingle;*F
+™ ™(>
+%3java.lang.Object"dcom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPlaylistId(Ljava/lang/Long;)LSingle;*F
 
-´ ´(>86
+™ ™(>86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*
 
-´3 ´(=
+™3 ™(=
+
+
+%2longS
+Q
+
+__unknown_file (
+%1"__id*)
+
+__unknown_file (
+	<unknown>*
+1*†
+6
+±' ∏(√
+¿
+
+≤0 ≤(7
+
+%4long"Icom.simplecity.amp_library.androidauto.MediaIdWrapper$Genre#getGenreId()J*[
+
+≤# ≤(/M
+K
+mediaWrapper;com.simplecity.amp_library.androidauto.MediaIdWrapper$GenreÓ
+Î
+
+≤ ≤(8
+%5java.lang.Object"acom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForGenreId(Ljava/lang/Long;)LSingle;*F
+
+≤ ≤(886
+4com.simplecity.amp_library.androidauto.MediaIdHelper*
+
+≤0 ≤(7
 
 
 %4longS
@@ -1428,189 +1375,48 @@ Q
 
 __unknown_file (
 	<unknown>*
-1*†
-6
-≤' π(√
-¿
-
-≥0 ≥(7
-
-%6long"Icom.simplecity.amp_library.androidauto.MediaIdWrapper$Genre#getGenreId()J*[
-
-≥# ≥(/M
-K
-mediaWrapper;com.simplecity.amp_library.androidauto.MediaIdWrapper$GenreÓ
-Î
-
-≥ ≥(8
-%7java.lang.Object"acom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForGenreId(Ljava/lang/Long;)LSingle;*F
-
-≥ ≥(886
-4com.simplecity.amp_library.androidauto.MediaIdHelper*
-
-≥0 ≥(7
-
-
-%6longS
-Q
-
-__unknown_file (
-%1"__id*)
-
-__unknown_file (
-	<unknown>*
 1*ô
 0
-ò ò(_–
+ó ó(_–
 Õ
 
-ô ô(0;
+ò ò(0;
 %05com.simplecity.amp_library.androidauto.MediaIdWrapper"åcom.simplecity.amp_library.androidauto.MediaIdHelper#parseMediaId(Ljava/lang/String;)Lcom/simplecity/amp_library/androidauto/MediaIdWrapper;*F
 
-ô ô(086
+ò ò(086
 4com.simplecity.amp_library.androidauto.MediaIdHelper*+
 
-ô( ô(/
+ò( ò(/
 
 mediaIdjava.lang.String©
 ¶
 
-ô ô(0E
+ò ò(0E
 mediaWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapper"__id*K
 
-ô ô(0=
+ò ò(0=
 ;
 %05com.simplecity.amp_library.androidauto.MediaIdWrapper*	
 3
 5
 6*@
 1
-∫	 ª("/
+π	 ∫("/
 
 __unknown_file (
 implicit return:)
 
-ò ò(-
+ó ó(-
 mediaIdjava.lang.String::
 
-ò/ ò(^,
+ó/ ó(^,
 
 completionkotlin.jvm.functions.Function2B86
-4com.simplecity.amp_library.androidauto.MediaIdHelperHΩ
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktú% ú(w"0*V
-2
-úI ú(M@
->
-
-__unknown_file (
-%3"__id*
-
-úI ú(M
-true*
-1*Ú
-3
-úS ú(u⁄
-◊
-
-ún ú(u
-%4java.lang.Long"Wcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#getAlbumId()Ljava/lang/Long;*Z
-
-úa ú(mL
-J
-mediaWrapper:com.simplecity.amp_library.androidauto.MediaIdWrapper$Songµ≤
-
-úS ú(u
-%5boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*+
-
-úV ú(]
-
-albumIdjava.lang.Object*$
-
-ún ú(u
-
-%4java.lang.Long2equals(Ljava/lang/Object;)G
-E
-
-__unknown_file (
-%3"__id*
-
-úS ú(u
-
-%5boolean*
-1*Æ	
-0
-ú% ú(wë
-é
-
-__unknown_file (
-%0"__id*Â
-
-__unknown_file (»*≈6
-4com.simplecity.amp_library.androidauto.MediaIdHelper"ä
-ácom.simplecity.amp_library.androidauto.MediaIdHelper#getSongListForMediaId(Ljava/lang/String;Lkotlin/jvm/functions/Function2;)V$lambda0◊
-‘
-
-__unknown_file (E
-mediaWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapper"__id*k
-
-__unknown_file (O*M
-
-%0"E
-mediaWrapper5com.simplecity.amp_library.androidauto.MediaIdWrapperÉ
-Ä
-
-__unknown_file (
-mediaIdjava.lang.String"__id*A
-
-__unknown_file (%*#
-
-%0"
-mediaIdjava.lang.String•
-¢
-
-__unknown_file (,
-
-completionkotlin.jvm.functions.Function2"__id*R
-
-__unknown_file (6*4
-
-%0",
-
-completionkotlin.jvm.functions.Function2⁄
-◊
-
-ú8 ú(?
-%1java.lang.Long"Wcom.simplecity.amp_library.androidauto.MediaIdWrapper$Song#getAlbumId()Ljava/lang/Long;*Z
-
-ú+ ú(7L
-J
-mediaWrapper:com.simplecity.amp_library.androidauto.MediaIdWrapper$Songõò
-
-ú+ ú(G
-%2boolean"'kotlin.Long#equals(Ljava/lang/Object;)Z*$
-
-ú8 ú(?
-
-%1java.lang.Long*
-
-úC ú(G 2equals(Ljava/lang/Object;)*
-2
-3*3
-1
-úS ú(u""
-
-__unknown_file (
-
-%3:2
-
-__unknown_file (
-itjava.lang.ObjectB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperH≠
 mcom.simplecity.amp_library.androidauto.MediaIdHelper#handlePlayFromSearch(Ljava/lang/String;LBundle;)LSingle;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktΩ Ω("0*i
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktº º("0*i
 3
-¿; Ã(S
+ø; À(S
 Q
 
 __unknown_file (
@@ -1620,7 +1426,7 @@ Q
 	<unknown>*
 1*i
 5
-Õ: ÿ(S
+Ã: ◊(S
 Q
 
 __unknown_file (
@@ -1630,7 +1436,7 @@ Q
 	<unknown>*
 1*i
 6
-Ÿ: „(S
+ÿ: ‚(S
 Q
 
 __unknown_file (
@@ -1640,10 +1446,10 @@ Q
 	<unknown>*
 1*{
 0
-Ω Ω(;_
+º º(;_
 ]
 
-æ æ(G
+Ω Ω(G
 
 mediaFocusjava.lang.Object"__id*)
 
@@ -1653,7 +1459,7 @@ mediaFocusjava.lang.Object"__id*)
 5
 6*ﬁ
 1
-‰	 Ê(Œ
+„	 Â(Œ
 À
 
 __unknown_file (
@@ -1708,29 +1514,29 @@ w
 ucom.simplecity.amp_library.androidauto.MediaIdHelper#handlePlayFromSearch(Ljava/lang/String;LBundle;)LSingle;$lambda0à
 Ö
 
-Ê Ê(#
+Â Â(#
 %2java.lang.Object"scom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPredicate(Lkotlin/jvm/functions/Function1;)LSingle;*F
 
-Ê Ê(#86
+Â Â(#86
 4com.simplecity.amp_library.androidauto.MediaIdHelper*"
 
 __unknown_file (
 
 %1"
 
-Ê ˚(
+Â ˙(
 	<unknown>:'
 
-Ω Ω(*
+º º(*
 queryjava.lang.String:(
 
-Ω, Ω(:
+º, º(:
 extrasjava.lang.ObjectB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperH∑
 ucom.simplecity.amp_library.androidauto.MediaIdHelper#handlePlayFromSearch(Ljava/lang/String;LBundle;)LSingle;$lambda0ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÊ$ Ê(O"0*…
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÂ$ Â(O"0*…
 0
-Ê$ Ê(O˝
+Â$ Â(O˝
 ˙
 
 __unknown_file (
@@ -1772,112 +1578,112 @@ mediaFocusjava.lang.Object~
 __unknown_file (
 	<unknown>:&
 
-Ê& Ê(*
+Â& Â(*
 songjava.lang.ObjectB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHù
 ucom.simplecity.amp_library.androidauto.MediaIdHelper#listArtists(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÅ Å("0*
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÄ Ä("0*
 0
-Ä Å(∂
+ˇ Ä(∂
 ≥
 
-Ç Ç(G
+Å Å(G
 %0Acom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"ìcom.simplecity.amp_library.androidauto.MediaIdHelper#getAlbumArtistsRepository()Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;*F
 
-Ç Ç(86
+Å Å(86
 4com.simplecity.amp_library.androidauto.MediaIdHelperÙÒ
 
-Ç Ç(0
+Å Å(0
 %1java.lang.Object"_com.simplecity.amp_library.data.Repository$AlbumArtistsRepository#getAlbumArtists()LObservable;*W
 
-Ç Ç(I
+Å Å(I
 G
 %0Acom.simplecity.amp_library.data.Repository$AlbumArtistsRepository2getAlbumArtists()"/
 
 __unknown_file (
 implicit return:)
 
-Å Å(+
+Ä Ä(+
 mediaIdjava.lang.String::
 
-Å- Å(l,
+Ä- Ä(l,
 
 completionkotlin.jvm.functions.Function1B86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHä
 wcom.simplecity.amp_library.androidauto.MediaIdHelper#listPlaylists(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktç ç("0*€
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktå å("0*€
 0
-å ç(≠
+ã å(≠
 ™
 
-é é(D
+ç ç(D
 %0>com.simplecity.amp_library.data.Repository$PlaylistsRepository"çcom.simplecity.amp_library.androidauto.MediaIdHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;*F
 
-é é(86
+ç ç(86
 4com.simplecity.amp_library.androidauto.MediaIdHelperËÂ
 
-é é(*
+ç ç(*
 %1java.lang.Object"Ycom.simplecity.amp_library.data.Repository$PlaylistsRepository#getPlaylists()LObservable;*T
 
-é é(F
+ç ç(F
 D
 %0>com.simplecity.amp_library.data.Repository$PlaylistsRepository2getPlaylists()"/
 
 __unknown_file (
 implicit return:)
 
-ç ç(-
+å å(-
 mediaIdjava.lang.String::
 
-ç/ ç(n,
+å/ å(n,
 
 completionkotlin.jvm.functions.Function1B86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHÚ
 tcom.simplecity.amp_library.androidauto.MediaIdHelper#listGenres(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktô ô("0*∆
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktò ò("0*∆
 0
-ò ô(§
+ó ò(§
 °
 
-ö ö(A
+ô ô(A
 %0;com.simplecity.amp_library.data.Repository$GenresRepository"ácom.simplecity.amp_library.androidauto.MediaIdHelper#getGenresRepository()Lcom/simplecity/amp_library/data/Repository$GenresRepository;*F
 
-ö ö(86
+ô ô(86
 4com.simplecity.amp_library.androidauto.MediaIdHelper‹Ÿ
 
-ö ö($
+ô ô($
 %1java.lang.Object"Scom.simplecity.amp_library.data.Repository$GenresRepository#getGenres()LObservable;*Q
 
-ö ö(C
+ô ô(C
 A
 %0;com.simplecity.amp_library.data.Repository$GenresRepository2getGenres()"/
 
 __unknown_file (
 implicit return:)
 
-ô ô(*
+ò ò(*
 mediaIdjava.lang.String::
 
-ô, ô(k,
+ò, ò(k,
 
 completionkotlin.jvm.functions.Function1B86
 4com.simplecity.amp_library.androidauto.MediaIdHelperH·
 ácom.simplecity.amp_library.androidauto.MediaIdHelper#listAlbums(Ljava/lang/String;Ljava/lang/Integer;Lkotlin/jvm/functions/Function1;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt• •("0*ô
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt§ §("0*ô
 2
-ß3 ´(	∂
+¶3 ™(	∂
 ≥
 
-® ®("G
+ß ß("G
 %2Acom.simplecity.amp_library.data.Repository$AlbumArtistsRepository"ìcom.simplecity.amp_library.androidauto.MediaIdHelper#getAlbumArtistsRepository()Lcom/simplecity/amp_library/data/Repository$AlbumArtistsRepository;*F
 
-® ®("86
+ß ß("86
 4com.simplecity.amp_library.androidauto.MediaIdHelperÙÒ
 
-®# ®(4
+ß# ß(4
 %3java.lang.Object"_com.simplecity.amp_library.data.Repository$AlbumArtistsRepository#getAlbumArtists()LObservable;*W
 
-® ®("I
+ß ß("I
 G
 %2Acom.simplecity.amp_library.data.Repository$AlbumArtistsRepository2getAlbumArtists()S
 Q
@@ -1889,19 +1695,19 @@ Q
 	<unknown>*
 1*Ô
 3
-´ ≠(	§
+™ ¨(	§
 °
 
-¨ ¨(A
+´ ´(A
 %4;com.simplecity.amp_library.data.Repository$AlbumsRepository"ácom.simplecity.amp_library.androidauto.MediaIdHelper#getAlbumsRepository()Lcom/simplecity/amp_library/data/Repository$AlbumsRepository;*F
 
-¨ ¨(86
+´ ´(86
 4com.simplecity.amp_library.androidauto.MediaIdHelper‹Ÿ
 
-¨ ¨((
+´ ´((
 %5java.lang.Object"Scom.simplecity.amp_library.data.Repository$AlbumsRepository#getAlbums()LObservable;*Q
 
-¨ ¨(C
+´ ´(C
 A
 %4;com.simplecity.amp_library.data.Repository$AlbumsRepository2getAlbums()S
 Q
@@ -1913,24 +1719,24 @@ Q
 	<unknown>*
 1*ø
 0
-§ •(•¢
+£ §(•¢
 
-ß ß(1
+¶ ¶(1
 %0boolean"&kotlin.Int#equals(Ljava/lang/Object;)Z*/
 
-ß ß()!
+¶ ¶()!
 
 
 artistHashjava.lang.Integer*
 
-ß- ß(1 2equals(Ljava/lang/Object;)*
+¶- ¶(1 2equals(Ljava/lang/Object;)*
 2
 3*¢
 1
-´ ≠(	`
+™ ¨(	`
 ^
 
-ß ≠(	&
+¶ ¨(	&
 albumsSingleerror.NonExistentClass"__id*"
 
 __unknown_file (
@@ -1940,313 +1746,156 @@ artistHashjava.lang.Integer*
 __unknown_file (
 implicit return:)
 
-• •(*
+§ §(*
 mediaIdjava.lang.String:-
 
-•, •(<
+§, §(<
 
 artistHashjava.lang.Integer::
 
-•> •(j,
+§> §(j,
 
 completionkotlin.jvm.functions.Function1B86
-4com.simplecity.amp_library.androidauto.MediaIdHelperH†
+4com.simplecity.amp_library.androidauto.MediaIdHelperH§
 Écom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)Vä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktπ π("0*ª
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt∏ ∏("0*@
 0
-∏ π(Á
-‰
-
-__unknown_file (
-%0"__declareFunction*Æ
-
-__unknown_file (ëé
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0æª
-
-__unknown_file (é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0"__ScopeWrapperè
-å
-
-__unknown_file (Æ
-é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0"
-mediaIdjava.lang.String"__id*9
-
-__unknown_file (
-
-mediaIdjava.lang.Stringã
-à
-
-__unknown_file (¨
-é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0"
-albumIdjava.lang.Long"__id*7
-
-__unknown_file (
-
-albumIdjava.lang.Long±
-Æ
-
-__unknown_file (ø
-é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0",
-
-completionkotlin.jvm.functions.Function1"__id*J
-
-__unknown_file (.
-,
-
-completionkotlin.jvm.functions.Function1Ó
-Î
-
-__unknown_file (ó
-
-%0"é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0"__id*Æ
-
-__unknown_file (ë
-é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0à
-Ö
-
-∫ ∫(
-%1java.lang.Object"scom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPredicate(Lkotlin/jvm/functions/Function1;)LSingle;*F
-
-∫ ∫(86
-4com.simplecity.amp_library.androidauto.MediaIdHelper*"
-
-__unknown_file (
-
-%0"/
+∑ ∏("/
 
 __unknown_file (
 implicit return:)
 
-π π()
+∏ ∏()
 mediaIdjava.lang.String:'
 
-π+ π(9
+∏+ ∏(9
 albumIdjava.lang.Long::
 
-π; π(g,
+∏; ∏(g,
 
 completionkotlin.jvm.functions.Function1B86
-4com.simplecity.amp_library.androidauto.MediaIdHelperH±
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt∫ ∫(U"0*V
-2
-∫4 ∫(8@
->
-
-__unknown_file (
-%2"__id*
-
-∫4 ∫(8
-true*
-1*ê
-3
-∫> ∫(S∞≠
-
-∫> ∫(S
-%3boolean"&kotlin.Any#equals(Ljava/lang/Object;)Z*+
-
-∫A ∫(H
-
-albumIdjava.lang.Object*
-
-∫L ∫(S
-
-albumIdlong2equals(Ljava/lang/Object;)G
-E
-
-__unknown_file (
-%2"__id*
-
-∫> ∫(S
-
-%3boolean*
-1*Ä
-0
-∫ ∫(Uï
-í
-
-__unknown_file (
-%0"__id*È
-
-__unknown_file (Ã*…6
-4com.simplecity.amp_library.androidauto.MediaIdHelper"é
-ãcom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V$lambda0É
-Ä
-
-__unknown_file (
-mediaIdjava.lang.String"__id*A
-
-__unknown_file (%*#
-
-%0"
-mediaIdjava.lang.String~
-|
-
-__unknown_file (
-albumIdjava.lang.Long"__id*?
-
-__unknown_file (#*!
-
-%0"
-albumIdjava.lang.Long•
-¢
-
-__unknown_file (,
-
-completionkotlin.jvm.functions.Function1"__id*R
-
-__unknown_file (6*4
-
-%0",
-
-completionkotlin.jvm.functions.Function1†ù
-
-∫# ∫(2
-%1boolean"'kotlin.Long#equals(Ljava/lang/Object;)Z*)
-
-∫# ∫(*
-
-albumIdjava.lang.Long*
-
-∫. ∫(2 2equals(Ljava/lang/Object;)*
-2
-3*3
-1
-∫> ∫(S""
-
-__unknown_file (
-
-%2:2
-
-__unknown_file (
-itjava.lang.ObjectB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHœ
 scom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPredicate(Lkotlin/jvm/functions/Function1;)LSingle;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt« «($"0*–
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt∆ ∆($"0*–
 0
-« «(°
+∆ ∆(°
 û
 
-» »(@
+« «(@
 %0:com.simplecity.amp_library.data.Repository$SongsRepository"Öcom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsRepository()Lcom/simplecity/amp_library/data/Repository$SongsRepository;*F
 
-» »(86
+« «(86
 4com.simplecity.amp_library.androidauto.MediaIdHelper"
 
-» »(E
+« «(E
 	<unknown>:9
 
-«% «(A+
+∆% ∆(A+
 	predicatekotlin.jvm.functions.Function1B86
 4com.simplecity.amp_library.androidauto.MediaIdHelperH®
 dcom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForPlaylistId(Ljava/lang/Long;)LSingle;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÀ À(%"0*«
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt   (%"0*«
 0
-À À(≠
+   (≠
 ™
 
-Ã Ã("D
+À À("D
 %0>com.simplecity.amp_library.data.Repository$PlaylistsRepository"çcom.simplecity.amp_library.androidauto.MediaIdHelper#getPlaylistsRepository()Lcom/simplecity/amp_library/data/Repository$PlaylistsRepository;*F
 
-Ã Ã("86
+À À("86
 4com.simplecity.amp_library.androidauto.MediaIdHelperËÂ
 
-Ã# Ã(1
+À# À(1
 %1java.lang.Object"Ycom.simplecity.amp_library.data.Repository$PlaylistsRepository#getPlaylists()LObservable;*T
 
-Ã Ã("F
+À À("F
 D
 %0>com.simplecity.amp_library.data.Repository$PlaylistsRepository2getPlaylists()"
 
-Ã ‘(
+À ”(
 	<unknown>:*
 
-À& À(7
+ &  (7
 
 playlistIdjava.lang.LongB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHç
 acom.simplecity.amp_library.androidauto.MediaIdHelper#getSongsForGenreId(Ljava/lang/Long;)LSingle;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt◊ ◊(""0*≤
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt÷ ÷(""0*≤
 0
-◊ ◊(§
+÷ ÷(§
 °
 
-ÿ ÿ(A
+◊ ◊(A
 %0;com.simplecity.amp_library.data.Repository$GenresRepository"ácom.simplecity.amp_library.androidauto.MediaIdHelper#getGenresRepository()Lcom/simplecity/amp_library/data/Repository$GenresRepository;*F
 
-ÿ ÿ(86
+◊ ◊(86
 4com.simplecity.amp_library.androidauto.MediaIdHelper‹Ÿ
 
-ÿ  ÿ(+
+◊  ◊(+
 %1java.lang.Object"Scom.simplecity.amp_library.data.Repository$GenresRepository#getGenres()LObservable;*Q
 
-ÿ ÿ(C
+◊ ◊(C
 A
 %0;com.simplecity.amp_library.data.Repository$GenresRepository2getGenres()"
 
-ÿ ﬁ(
+◊ ›(
 	<unknown>:'
 
-◊# ◊(1
+÷# ÷(1
 genreIdjava.lang.LongB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHè
 icom.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(LPlaylist;Ljava/lang/String;)LMediaItem;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt„ „($"0*,
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt‚ ‚($"0*,
 0
-„ „("
+‚ ‚("
 
-‰ È(	
+„ Ë(	
 	<unknown>:(
 
-„% „(3
+‚% ‚(3
 parentjava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHå
 fcom.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(LGenre;Ljava/lang/String;)LMediaItem;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÏ Ï(!"0*,
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÎ Î(!"0*,
 0
-Ï Ï("
+Î Î("
 
-Ì Ú(	
+Ï Ò(	
 	<unknown>:(
 
-Ï" Ï(0
+Î" Î(0
 parentjava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHí
 lcom.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(LAlbumArtist;Ljava/lang/String;)LMediaItem;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktı ı('"0*,
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktÙ Ù('"0*,
 0
-ı ı("
+Ù Ù("
 
-ˆ ˚(	
+ı ˙(	
 	<unknown>:(
 
-ı( ı(6
+Ù( Ù(6
 parentjava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHå
 fcom.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(LAlbum;Ljava/lang/String;)LMediaItem;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt˛ ˛(!"0*,
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.kt˝ ˝(!"0*,
 0
-˛ ˛("
+˝ ˝("
 
-ˇ Ö(	
+˛ Ñ(	
 	<unknown>:(
 
-˛" ˛(0
+˝" ˝(0
 parentjava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperHã
 ecom.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(LSong;Ljava/lang/String;)LMediaItem;ä
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktà à( "0*,
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/androidauto/AndroidAutoHelper.ktá á( "0*,
 0
-à à("
+á á("
 
-â ê(	
+à è(	
 	<unknown>:(
 
-à! à(/
+á! á(/
 parentjava.lang.StringB86
 4com.simplecity.amp_library.androidauto.MediaIdHelperH

@@ -1,7 +1,17 @@
 
-Ccom.simplecity.amp_library.ui.modelviews.ArtworkView#getViewType()I†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javaS S("1*!
-1T T("
-T T( 
-""B86
-4com.simplecity.amp_library.ui.modelviews.ArtworkViewHX
+Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java‚ ‚(+"1*¤
+1
+ƒ ƒ(}
+{
+
+ƒ0 ƒ(4
+%0java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path"
+
+ƒ ƒ(6
+""B)'
+%com.simplecity.amp_library.model.SongH

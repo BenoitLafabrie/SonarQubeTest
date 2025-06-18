@@ -176,11 +176,13 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 TaggerUtils.copyFile(temp, fileOutputStream);
                 pfd.close();
             }
-            try {
-                java.nio.file.Files.delete(temp.toPath());
-                tempFiles.remove(temp);
-            } catch (IOException e) {
-                e.printStackTrace();
+            if (BuildConfig.DEBUG) {
+                try {
+                    java.nio.file.Files.delete(temp.toPath());
+                    tempFiles.remove(temp);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
         }
     }

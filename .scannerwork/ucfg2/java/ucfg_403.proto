@@ -1,9 +1,16 @@
 
-Sandroid.support.design.widget.CustomCollapsingTextHelper#getCollapsedTextGravity()Iç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaÀ À(&"1*%
+Ecom.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÄ Ä($"1*Ö
 1
-Ã Ã($"
+Å Å(^
+\
 
-Ã Ã(%
-""B<:
-8android.support.design.widget.CustomCollapsingTextHelperHX
+Å Å(+
+%0java.lang.String"__id*0
+
+__unknown_file (
+nag_message_read"
+
+Å Å(4
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

@@ -1,21 +1,15 @@
 
-Acom.simplecity.amp_library.ui.screens.main.MainActivity#<init>()V
-__unknown_file ("startingBlock*Ý
-startingBlock‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(¨
-¥
-‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-%0"Jcom.simplecity.amp_library.ui.screens.main.MainActivity#%field_initializer*G
- (;9
-7com.simplecity.amp_library.ui.screens.main.MainActivityô
-ñ
-‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-%1"BaseActivity#<init>()V*G
- (;9
-7com.simplecity.amp_library.ui.screens.main.MainActivity"Ÿ
-‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
-implicit returnB;9
-7com.simplecity.amp_library.ui.screens.main.MainActivity
+?com.afollestad.aesthetic.AestheticCoordinatorLayout$2#<init>()V
+__unknown_file ("startingBlock*ß
+startingBlock˜
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.java‘F ‘(Gÿ
+ü
+˜
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.java‘F ‘(G
+%0"Consumer#<init>()V*E
+ (97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$2"°
+˜
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.java‘F ‘(G
+implicit returnB97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$2

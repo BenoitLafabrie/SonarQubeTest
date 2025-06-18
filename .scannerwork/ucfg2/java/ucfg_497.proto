@@ -1,16 +1,29 @@
 
-Hcom.simplecity.amp_library.utils.SettingsManager#getStoredVersionCode()IÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaû û(#"1*Å
-1
-ü ü(Z
-X
-
-ü ü(&
-%0java.lang.String"__id*,
+_com.afollestad.aesthetic.ColorIsDarkState#create(IZ)Lcom/afollestad/aesthetic/ColorIsDarkState;å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ColorIsDarkState.java ( "1*ö
+1  (%hf
+ (/
+%0)com.afollestad.aesthetic.ColorIsDarkState")com.afollestad.aesthetic.ColorIsDarkState·
+ﬁ
+ (.
+%1"5com.afollestad.aesthetic.ColorIsDarkState#<init>(IZ)V*M
 
-__unknown_file (
-version_code"
-
-ü ü(,
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+__unknown_file (1
+/
+%0)com.afollestad.aesthetic.ColorIsDarkState*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""=
+ (/1
+/
+%0)com.afollestad.aesthetic.ColorIsDarkState: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B-"+
+)com.afollestad.aesthetic.ColorIsDarkState

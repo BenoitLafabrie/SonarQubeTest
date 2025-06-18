@@ -1,26 +1,21 @@
 
-Kcom.simplecity.amp_library.http.lastfm.LastFmAlbum$Album#%field_initializer
-__unknown_file ("1*»
-1 (∫∑
-Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java. (9
-%0java.util.ArrayList"java.util.ArrayListÿ
-’
-Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java* (;
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListÅ
-˛
-Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (<F:
-8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"
-images"__id*'
- (
-
-%0java.util.ArrayList"ú
-Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (
-implicit returnB<:
-8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album
+Lcom.simplecity.amp_library.model.CategoryItem#getSortKey()Ljava/lang/String;
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.java} }("1*Î
+1~ ~(»≈
+~ ~(
+%0java.lang.String"Hcom.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2getKey()k
+i
+~ ~(!
+%1java.lang.String"__concat*$
+~ ~(
+
+%0java.lang.String*
+~ ~(!	
+_sort"$
+~ ~("
+
+%1java.lang.StringB1/
+-com.simplecity.amp_library.model.CategoryItemH

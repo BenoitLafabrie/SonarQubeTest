@@ -1,19 +1,16 @@
 í
 Lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#<init>()V‘
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt
- ("0*<
-0
- 
-("/
+ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt	 ("0*<
+0	 	("/
 
 __unknown_file (
 implicit returnBFD
 Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHœ
 tcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule#provideRequestManager(LFragment;)LRequestManager;“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*–
-0 (
+ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/fragment/FragmentModule.kt ("0*–
+0 (
 Š
- (A
+ (A
 %0"
 __annotate*0
 
@@ -24,15 +21,15 @@ __annotate*0
 
 fragmentjava.lang.Object\
 Z
- (A
+ (A
 fragmentjava.lang.Object"__annotation*"
 
 __unknown_file (
 
 %0"
- (#
+ (#
 	<unknown>:(
- (A
+ (A
 fragmentjava.lang.ObjectBFD
 Bcom.simplecity.amp_library.di.app.activity.fragment.FragmentModuleHÇ
 lcom.simplecity.amp_library.di.app.activity.fragment.FragmentModule$Companion#getFRAGMENT()Ljava/lang/String;

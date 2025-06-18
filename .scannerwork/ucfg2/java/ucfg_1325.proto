@@ -1,101 +1,14 @@
 
-Hcom.simplecity.amp_library.model.FileObject#toString()Ljava/lang/String;}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/FileObject.java ("1*Î
-1 (h
-f
- (
-%0java.lang.String"__concat*
- (
-FileObject{*
- (
-extension='‡
-„
-  ()
-%1java.lang.String"__id*Z
+ecom.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getUpdateCommandString()Ljava/lang/String;
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderMedium.java   (("1*—
+1! !(!b
+`
+! !(!
+%0java.lang.String"__id*6
 
-__unknown_file (>*<-
-+com.simplecity.amp_library.model.FileObject"
-	extension~
-|
- ()
-%2"__calculate*
- (
-+*$
- (
+__unknown_file (
+appwidgetupdate_medium"$
+! !("
 
-%0java.lang.String*$
-  ()
-
-%1java.lang.StringZ
-X
- (0
-%3"__calculate*
-* (+
-+*
- ()
-
-%2*
-, (0
-\'`
-^
- (
-%4"__calculate*
-1 (2
-+*
- (0
-
-%3*
- (
-
-, size='Z
-X
- (!
-%5"__calculate*
- (
-+*
- (
-
-%4*
- (!
-""Z
-X
- ((
-%6"__calculate*
-" (#
-+*
- (!
-
-%5*
-$ ((
-\'Z
-X
-  (
-%7"__calculate*
-) (*
-+*
- ((
-
-%6*
-   (
-} w
-u
-   ('
-%8java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
-
-__unknown_file (
-""l
-j
-  ('
-%9"__calculate*
-   (
-+*
-  (
-
-%7*$
-   ('
-
-%8java.lang.String"
-  ((
-
-%9B/-
-+com.simplecity.amp_library.model.FileObjectH
+%0java.lang.StringB><
+:com.simplecity.amp_library.ui.widgets.WidgetProviderMediumH

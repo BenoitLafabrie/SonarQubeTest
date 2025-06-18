@@ -1,20 +1,20 @@
 
-Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)IÜ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÓ Ó("1*Œ
+^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)DÜ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaã ã(/"1*§
 1
-Ò$ Ò(7È
+å$ å(7È
 Ê
 
-Ò$ Ò(9
+å$ å(9
 %0double[]"_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D*g
 
 __unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatÓ
-Î
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat¶
+£
 
-Ú Ú(%
+ç ç(%
 
-%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToXYZ(DDD[D)V*g
+%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToXYZ(I[D)V*g
 
 __unknown_file (K"I
 Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
@@ -23,39 +23,23 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 ""*"
 
 __unknown_file (
-""*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""…
-∆
+""h
+f
 
-Û Û(>	
-%2int"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#XYZToColor(DDD)I*g
-
-__unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-"""
+è è("
+%2double"__calculate*
 
-Û Û(?
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
+è è(
+/*
+
+è è(
+""*
+
+è è("2d"
+
+è è(#
 "": 
 
 __unknown_file (
 ""BK"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatX
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatHX

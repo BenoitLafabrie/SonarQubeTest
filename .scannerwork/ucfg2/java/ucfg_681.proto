@@ -1,14 +1,96 @@
 
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getUpdateCommandString()Ljava/lang/String;å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderLarge.java   (("1*ñ
-1! !(!a
-_
-! !(!
-%0java.lang.String"__id*5
+N__sonar_lambda_40$com.simplecity.amp_library.ui.screens.folders.FolderFragmentë
+Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java¸k ô("startingBlock*Ÿ
+2
+î î('¬
+ø
+
+ï4 ï(GC
+%11<com.simplecity.amp_library.ui.screens.folders.FolderFragment"__id*f
 
-__unknown_file (
-appwidgetupdate_large"$
-! !("
-
-%0java.lang.StringB=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderLargeH
+__unknown_file (J*H>
+<com.simplecity.amp_library.ui.screens.folders.FolderFragment"
+this*
+1*{
+3
+ì1 ì(@b
+`
+
+ì1 ì(H
+%10"	__compare*
+
+ìA ì(C
+!=*
+
+ì1 ì(@
+""*
+
+ìD ì(H
+""*
+2
+1*˙
+startingBlock
+¸k ô(Â
+‚
+
+__unknown_file (N
+FolderFragment<com.simplecity.amp_library.ui.screens.folders.FolderFragment"__id*p
+
+__unknown_file (T*R>
+<com.simplecity.amp_library.ui.screens.folders.FolderFragment"
+FolderFragmentÔ
+Ï
+
+__unknown_file (S
+FolderFragment.this<com.simplecity.amp_library.ui.screens.folders.FolderFragment"__id*u
+
+__unknown_file (Y*W>
+<com.simplecity.amp_library.ui.screens.folders.FolderFragment"
+FolderFragment.this*
+4*ò
+4
+˝, ˝(2ò
+ï
+
+˛! ê(
+%4"__declareFunction*n
+
+__unknown_file (RP
+N__sonar_lambda_41$com.simplecity.amp_library.ui.screens.folders.FolderFragment´
+®
+
+__unknown_file (
+
+%4"
+FolderFragment"__id*l
+
+__unknown_file (P
+N
+FolderFragment<com.simplecity.amp_library.ui.screens.folders.FolderFragmentµ
+≤
+
+__unknown_file (
+
+%4"
+FolderFragment.this"__id*q
+
+__unknown_file (U
+S
+FolderFragment.this<com.simplecity.amp_library.ui.screens.folders.FolderFragment*
+3
+1*%
+1
+ò ò( "
+
+ò ò(!
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+	!Unknown!

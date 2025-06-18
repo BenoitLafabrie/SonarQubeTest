@@ -1,2 +1,43 @@
-Qthis (#"=com.simplecity.amp_library.utils.color.BitmapPaletteProcessor"	
- ñ(*…/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/BitmapPaletteProcessor.java
+
+
+0int
+
+2intLthisj j("8com.jp.wasabeef.glide.transformations.CropTransformation!scaledHeightj j(+"floatEAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType"m
+k
+k k("#get-field# mCropType:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType
+k t(	"Âg
+e
+l l("#get-field# TOP:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType-
++
+l l("
+#binop ==#2==:Bboolean&"$
+l l( *l l(2n n("Åj
+h
+n n("#get-field# CENTER:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType-
++
+n n("
+#binop ==#2==:Bboolean&"$
+n n( *n n(2p p("Åj
+h
+p p(	"#get-field# BOTTOM:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType-
++
+p p(
+"
+#binop ==#2==:	Bboolean&"$
+p p(
+ *p p(2r r("
+r r("
+m m("¡-
++
+o o("#get-field# mHeight:Bint.
+,
+o o(."#dependent-value#:Bfloat.
+,
+o o(3"#dependent-value#:Bfloat
+o o(4"q-
++
+q q("#get-field# mHeight:Bint.
+,
+q q(-"#dependent-value#:Bfloat
+q q(."
+s s(*€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java

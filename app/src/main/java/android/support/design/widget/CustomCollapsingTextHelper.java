@@ -44,6 +44,12 @@ import com.simplecity.amp_library.R;
 @SuppressWarnings("RestrictedApi")
 public final class CustomCollapsingTextHelper {
 
+    public static class FontFamilyTypefaceException extends RuntimeException {
+        public FontFamilyTypefaceException(String message, Throwable cause) {
+            super(message, cause);
+        }
+    }
+
     // Pre-JB-MR2 doesn't support HW accelerated canvas scaled text so we will workaround it
     // by using our own texture
     private static final boolean USE_SCALING_TEXTURE = Build.VERSION.SDK_INT < 18;
@@ -83,7 +89,6 @@ public final class CustomCollapsingTextHelper {
     private Typeface mCurrentTypeface;
     private CharSequence mText;
     private CharSequence mTextToDraw;
-    private boolean mIsRtl;
     private boolean mUseTexture;
     private Bitmap mExpandedTitleTexture;
     private Paint mTexturePaint;
@@ -96,10 +101,14 @@ public final class CustomCollapsingTextHelper {
     private Interpolator mPositionInterpolator;
     private Interpolator mTextSizeInterpolator;
 
-    private float mCollapsedShadowRadius, mCollapsedShadowDx, mCollapsedShadowDy;
+    private float mCollapsedShadowRadius;
+    private float mCollapsedShadowDx;
+    private float mCollapsedShadowDy;
     private int mCollapsedShadowColor;
 
-    private float mExpandedShadowRadius, mExpandedShadowDx, mExpandedShadowDy;
+    private float mExpandedShadowRadius;
+    private float mExpandedShadowDx;
+    private float mExpandedShadowDy;
     private int mExpandedShadowColor;
 
     private CharSequence mSub;
@@ -293,17 +302,17 @@ public final class CustomCollapsingTextHelper {
                     android.support.v7.appcompat.R.styleable.TextAppearance_android_textSize,
                     (int) mExpandedSubSize);
         }
-    }
-
-    private Typeface readFontFamilyTypeface(int resId) {
-        final TypedArray a = mView.getContext().obtainStyledAttributes(resId, Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN
-                ? new int[]{android.R.attr.fontFamily}
-                : new int[0]);
         try {
             final String family = a.getString(0);
             if (family != null) {
                 return Typeface.create(family, Typeface.NORMAL);
             }
+        } catch (Exception e) {
+            throw new FontFamilyTypefaceException("Unable to read font family typeface: " + resId, e);
+        } finally {
+            a.recycle();
+        }
+        return null;
         } catch (Exception e) {
             throw new RuntimeException("Unable to read font family typeface: " + resId);
         } finally {

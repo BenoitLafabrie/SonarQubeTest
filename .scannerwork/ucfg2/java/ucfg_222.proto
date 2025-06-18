@@ -1,42 +1,30 @@
 
-Mcom.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)ZÜ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java’ ’(0"1*†
-1
-÷ ÷(Ñ
-Å
-
-÷ ÷(N
-%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D*R
-
-__unknown_file (6"4
-2com.simplecity.amp_library.utils.color.ColorHelper*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""r
-p
-
-÷ ÷(U
-%1boolean"	__compare*
-
-÷O ÷(Q
->=*
-
-÷ ÷(N
-
-%0double*
-
-÷R ÷(U
-"""
-
-÷ ÷(V
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B6"4
-2com.simplecity.amp_library.utils.color.ColorHelperX
+jcom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEvent#nowPlayingCollapsed()Zõ
+ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetSlideEventRelay.java6 6(*"3*m
+27+ 7(0Y
+W
+7+ 7(W
+%1"	__compare*
+71 7(3
+==*
+7+ 7(0
+""*
+74 7(W
+""*
+1*p
+37 7(Y
+W
+7 7('
+%0"	__compare*
+7 7(
+==*
+7 7(
+""*
+7 7('
+""*
+2
+1*!
+17 7(X"
+7 7(X
+""BWU
+Scom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay$SlideEventHX

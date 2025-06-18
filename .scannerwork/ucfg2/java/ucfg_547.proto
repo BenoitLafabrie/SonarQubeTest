@@ -1,30 +1,15 @@
 
-@com.simplecity.multisheetview.ui.view.MultiSheetView#isHidden()Zû
-ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.javaê ê("1*⁄
-1
-ë ë(#–
-Õ
-
-í í(#I
-%0Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior"__id*n
-
-__unknown_file (R*P6
-4com.simplecity.multisheetview.ui.view.MultiSheetView"
-bottomSheetBehavior1`
-^
-
-í í(@
-%1"	__compare*
-
-í4 í(5
-<*
-
-í í(3
-""*
-
-í6 í(@
-"""
-
-í í(A
-""B86
-4com.simplecity.multisheetview.ui.view.MultiSheetViewHX
+<com.simplecity.amp_library.playback.MusicService$1#<init>()V
+__unknown_file ("startingBlock*©
+startingBlockÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÍM Í(NÒ
+Ó
+Ñ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÍM Í(N
+%0"BroadcastReceiver#<init>()V*B
+ (64
+2com.simplecity.amp_library.playback.MusicService$1"ú
+Ñ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÍM Í(N
+implicit returnB64
+2com.simplecity.amp_library.playback.MusicService$1

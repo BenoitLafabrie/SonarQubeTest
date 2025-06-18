@@ -1,21 +1,15 @@
 
-lcom.simplecity.amp_library.model.Album$Builder#lastPlayed(J)Lcom/simplecity/amp_library/model/Album$Builder;x
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.javas s(!"3*u
-3t t(a
-_
-t t(,
-%0boolean"	__compare*
-t t(
->*
-t t(
-""*
-t t(,
-""*
-1*M
-1w w(">
-w w(20
-.com.simplecity.amp_library.model.Album$Builder: 
-
-__unknown_file (
-""B20
-.com.simplecity.amp_library.model.Album$BuilderH
+Bcom.afollestad.aesthetic.AestheticBottomNavigationView$1#<init>()V
+__unknown_file ("startingBlock*å
+startingBlock™
+Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaS, S(-ƒ
+€
+™
+Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaS, S(-
+%0"Consumer#<init>()V*H
+ (<:
+8com.afollestad.aesthetic.AestheticBottomNavigationView$1"±
+™
+Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaS, S(-
+implicit returnB<:
+8com.afollestad.aesthetic.AestheticBottomNavigationView$1

@@ -1,59 +1,15 @@
 
-Bcom.simplecity.amp_library.ui.modelviews.SubheaderView#hashCode()Iˆ
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SubheaderView.java@ @("4*Z
-2A2 A(3F
-D
-A2 A(3	
-%2int"__id*'
-
-__unknown_file (
-	
-%4int*
-1*ä
-3A A($Ž
-‹
-A A($
-%5java.lang.String"__id*a
-
-__unknown_file (E*C8
-6com.simplecity.amp_library.ui.modelviews.SubheaderView"
-titlewu
-A A(/	
-%3int"java.lang.String#hashCode()I*4
-
-__unknown_file (
-
-%5java.lang.String2
-hashCode()F
-D
-A A(/	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-1*œ
-4A A(Ž
-‹
-A A(
-%0java.lang.String"__id*a
-
-__unknown_file (E*C8
-6com.simplecity.amp_library.ui.modelviews.SubheaderView"
-titlet
-r
-A A(
-%1boolean"	__compare*
-A A(
-!=*$
-A A(
-
-%0java.lang.String*
-A A(
-""*
-2
-3*!
-1A A(4"
-A A(4
-""B:8
-6com.simplecity.amp_library.ui.modelviews.SubheaderViewHX
+Kcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$1#<init>()V
+__unknown_file ("startingBlock*î
+startingBlock”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaî@ î(A–
+“
+”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaî@ î(A
+%0"!AnimatorListenerAdapter#<init>()V*Q
+ (EC
+Acom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$1"¬
+”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaî@ î(A
+implicit returnBEC
+Acom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$1

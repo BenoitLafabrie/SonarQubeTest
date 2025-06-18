@@ -1,18 +1,15 @@
 
-ccom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#screenName()Ljava/lang/String;ô
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.java« «("1*÷
-1
-» »(ú
-ô
-
-» »(
-%0java.lang.String"__id*m
-
-__unknown_file (Q*OF
-Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"
-TAG"&
-
-» »(
-
-%0java.lang.StringBHF
-Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment
+Ccom.simplecity.amp_library.ui.screens.main.MainActivity$1#<init>()V
+__unknown_file ("startingBlock*œ
+startingBlockç
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java¶õ ¶(úÖ
+Ç
+ç
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java¶õ ¶(ú
+%0"ActionBarDrawerToggle#<init>()V*I
+ (=;
+9com.simplecity.amp_library.ui.screens.main.MainActivity$1"•
+ç
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java¶õ ¶(ú
+implicit returnB=;
+9com.simplecity.amp_library.ui.screens.main.MainActivity$1

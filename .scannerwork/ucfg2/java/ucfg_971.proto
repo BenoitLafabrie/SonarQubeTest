@@ -1,39 +1,21 @@
 
-Vcom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#%field_initializer
-__unknown_file ("1*š
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#trackTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java– –( "1*ƒ
+1
+— —(,¦
+£
 
-1 (œ
-™
-–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java. (=
-%0"__declareFunction*e
- (YW
-U__sonar_lambda_70$com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView
-Š
-–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java (>UE
-Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView"
+— —(,M9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+trackTotalText"__id*@
+
+__unknown_file ($
+"
+trackTotalTextjava.lang.String"I
 
-sheet1Lock"__id*
- (
-
-%0œ
-™
-–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java. (=
-%1"__declareFunction*e
- (YW
-U__sonar_lambda_71$com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView
-Š
-–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java (>UE
-Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView"
+˜ ˜(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:0
 
-sheet2Lock"__id*
- (
-
-%1"¬
-”
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/CustomMultiSheetView.java c(
-implicit returnBGE
-Ccom.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView
+–! –(6"
+trackTotalTextjava.lang.StringB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1,7 +1,13 @@
-Othis 	  (";com.simplecity.amp_library.playback.DummyNotificationHelper(foregroundedByApp   (7"boolean"~7
-5
-! !(/isForegroundedByApp"#id#:Bboolean5
-3
-! !(/"!#set-field# isForegroundedByApp:
+Dthis	 	("0com.simplecity.amp_library.model.SuggestedHeader%title	 	('"java.lang.String(subtitle	) 	(8"java.lang.String8playlist	: 	(K" Recovered#typeBindingLPlaylist;0"²'
+%
+
+ 
+("#set-field# title:*
+(
+ ( "#set-field# subtitle:!
+
+ ( "#unknown-value#*
+(
+ ( "#set-field# playlist:
 
-" "(*ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/DummyNotificationHelper.java
+ (*x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java

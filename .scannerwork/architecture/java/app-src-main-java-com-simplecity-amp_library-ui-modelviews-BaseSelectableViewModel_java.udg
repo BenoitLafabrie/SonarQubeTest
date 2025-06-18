@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750241435566*java2.BË
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750251111135*java2.BË
 
 \
 Wapp/src/main/java/com/simplecity/amp_library/ui/modelviews/BaseSelectableViewModel.java2
@@ -185,7 +185,7 @@ fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqu
 
 
 11
-40rî
+40rØ
 
 61316*
 1R (_
@@ -278,7 +278,19 @@ fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqu
 1( ((
 
 51646*
-1+! +(%
+1+% +()
+
+51625*
+1+	 +( 
+
+512325*
+1+! +(#
+
+51625*
+1+- +(D
+
+512325*
+1+E +(G
 
 512635*
 1- -(

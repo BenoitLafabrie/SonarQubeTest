@@ -35,7 +35,7 @@ public class Album implements
     public long lastPlayed;
     public long dateAdded;
 
-    public List<String> paths = new ArrayList<>();
+    private List<String> paths = new ArrayList<>();
 
     public int songPlayCount;
 
@@ -53,7 +53,7 @@ public class Album implements
         this.year = year;
         this.lastPlayed = lastPlayed;
         this.dateAdded = dateAdded;
-        this.paths = paths;
+        setPaths(paths);
         this.songPlayCount = songPlayCount;
 
         //Populate the artwork key & sort key properties if null.
@@ -74,6 +74,14 @@ public class Album implements
         private long dateAdded;
         private List<String> paths = new ArrayList<>();
         private int songPlayCount;
+
+        public List<String> getPaths() {
+            return paths;
+        }
+
+        public void setPaths(List<String> paths) {
+            this.paths = paths != null ? new ArrayList<>(paths) : new ArrayList<>();
+        }
 
         public Builder id(long id) {
             this.id = id;
@@ -135,12 +143,20 @@ public class Album implements
 
         public Builder songPlayCount(int playCount) {
             songPlayCount = playCount;
-            return this;
-        }
+    public AlbumArtist getAlbumArtist() {
+        return new AlbumArtist.Builder()
+                .name(albumArtistName)
+                .album(this)
+                .build();
+    }
 
-        public Album build() {
-            return new Album(id, name, artists, albumArtistName, numSongs, numDiscs, year, lastPlayed, dateAdded, paths, songPlayCount);
-        }
+    public List<String> getPaths() {
+        return new ArrayList<>(paths);
+    }
+
+    public void setPaths(List<String> paths) {
+        this.paths = paths != null ? new ArrayList<>(paths) : new ArrayList<>();
+    }
     }
 
     public AlbumArtist getAlbumArtist() {
@@ -152,20 +168,20 @@ public class Album implements
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-
-        Album album = (Album) o;
-
-        if (id != album.id) return false;
-        return name != null ? name.equals(album.name) : album.name == null;
-    }
-
     @Override
-    public int hashCode() {
-        int result = (int) (id ^ (id >>> 32));
-        result = 31 * result + (name != null ? name.hashCode() : 0);
-        return result;
+    public String toString() {
+        return "Album{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", artists=" + artists +
+                ", albumArtistName='" + albumArtistName + '\'' +
+                ", year=" + year +
+                ", numSongs=" + numSongs +
+                ", lastPlayed=" + lastPlayed +
+                ", dateAdded=" + dateAdded +
+                ", paths=" + getPaths() +
+                '}';
+    }
     }
 
     @Override
@@ -225,13 +241,13 @@ public class Album implements
     }
 
     @Nullable
-    @Override
-    public InputStream getFolderArtwork() {
-        return ArtworkUtils.getFolderArtwork(getArtworkPath());
+    @WorkerThread
+    private String getArtworkPath() {
+        if (getPaths() != null && !getPaths().isEmpty()) {
+            return getPaths().get(0);
+        }
+        return null;
     }
-
-    @Override
-    public InputStream getTagArtwork() {
         return ArtworkUtils.getTagArtwork(getArtworkPath());
     }
 

@@ -1,21 +1,61 @@
 
->com.simplecity.amp_library.services.DashClockService#<init>()V
-__unknown_file ("startingBlock*Œ
-startingBlockÑ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (ü
-ú
-Ñ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
-%0"Gcom.simplecity.amp_library.services.DashClockService#%field_initializer*D
- (86
-4com.simplecity.amp_library.services.DashClockServiceÙ
-Ò
-Ñ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
-%1"DashClockExtension#<init>()V*D
- (86
-4com.simplecity.amp_library.services.DashClockService"ú
-Ñ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
-implicit returnB86
-4com.simplecity.amp_library.services.DashClockService
+Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java˛ ˛( "3*≤
+2
+Ä Ä($ß§
+
+Ä Ä(&
+%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()r
+p
+
+Ä Ä(-8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"__id*"
+
+__unknown_file (
+""*
+1*ù
+3
+ˇ ˇ(Ö
+Ç
+
+ˇ ˇ(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel|
+z
+
+ˇ ˇ(
+%1boolean"	__compare*
+
+ˇ ˇ(
+==*&
+
+ˇ ˇ(
+
+%0java.lang.String*
+
+ˇ ˇ(
+""*
+2
+1*ø
+1
+Ç Ç(Ö
+Ç
+
+Ç Ç(
+%3java.lang.String"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"&
+
+Ç Ç(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -2,14 +2,24 @@ package com.simplecity.amp_library.glide.utils;
 
 public class Size {
 
-    public int width;
-    public int height;
+    private int width;
+    private int height;
 
     public Size(int width, int height) {
-        {
-            this.width = width;
-            this.height = height;
-        }
+        initialize(width, height);
+    }
+
+    private void initialize(int width, int height) {
+        this.width = width;
+        this.height = height;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public int getHeight() {
+        return height;
     }
 
     @Override

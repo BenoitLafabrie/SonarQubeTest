@@ -1,18 +1,22 @@
 package com.simplecity.amp_library.playback.constants;
 
-public interface ExternalIntents {
+public final class ExternalIntents {
 
-    String PLAY_STATUS_REQUEST = "com.android.music.playstatusrequest";
+    private ExternalIntents() {
+        // Prevent instantiation
+    }
 
-    String PLAY_STATUS_RESPONSE = "com.android.music.playstatusresponse";
+    public static final String PLAY_STATUS_REQUEST = "com.android.music.playstatusrequest";
 
-    String AVRCP_PLAY_STATE_CHANGED = "com.android.music.playstatechanged";
+    public static final String PLAY_STATUS_RESPONSE = "com.android.music.playstatusresponse";
 
-    String AVRCP_META_CHANGED = "com.android.music.metachanged";
+    public static final String AVRCP_PLAY_STATE_CHANGED = "com.android.music.playstatechanged";
 
-    String TASKER = "net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS";
+    public static final String AVRCP_META_CHANGED = "com.android.music.metachanged";
 
-    String SCROBBLER = "com.adam.aslfms.notify.playstatechanged";
+    public static final String TASKER = "net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS";
 
-    String PEBBLE = "com.getpebble.action.NOW_PLAYING";
+    public static final String SCROBBLER = "com.adam.aslfms.notify.playstatechanged";
+
+    public static final String PEBBLE = "com.getpebble.action.NOW_PLAYING";
 }

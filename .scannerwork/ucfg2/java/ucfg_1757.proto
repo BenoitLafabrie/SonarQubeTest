@@ -1,15 +1,7 @@
 
-Mcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$3#<init>()V
-__unknown_file ("startingBlock*þ
-startingBlock–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java«^ «(_¢
-Ÿ
-–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java«^ «(_
-%0")SeekBar.OnSeekBarChangeListener#<init>()V*S
- (GE
-Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$3"®
-–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java«^ «(_
-implicit returnBGE
-Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$3
+Dcom.simplecity.amp_library.ui.modelviews.EmptyView#getLayoutResId()I„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/EmptyView.java* *("1*!
+1+ +("
++ +(
+""B64
+2com.simplecity.amp_library.ui.modelviews.EmptyViewHX

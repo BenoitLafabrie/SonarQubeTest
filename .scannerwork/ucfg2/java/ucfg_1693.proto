@@ -1,41 +1,44 @@
 
-Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;Å
-w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*Å
-1 (!Ü
-É
- (!
-%0java.lang.String"__id*Y
-
-__unknown_file (=*;1
-/com.simplecity.amp_library.model.BaseFileObject"
-path.,
- (
-%1java.io.File"java.io.File•
-¢
- ("
-%2"(java.io.File#<init>(Ljava/lang/String;)V*0
-
-__unknown_file (
-
-%1java.io.File*4
-
-__unknown_file (
-
-%0java.lang.StringZ
-X
- (#
-filejava.io.File"__id*0
-
-__unknown_file (
-
-%1java.io.Fileíè
- (#
-%3java.io.File"*java.io.File#getParentFile()Ljava/io/File;*2
-
-__unknown_file (
-
-filejava.io.File2getParentFile()" 
- ($
-
-%3java.io.FileB31
-/com.simplecity.amp_library.model.BaseFileObjectH
+Bcom.github.florent37.glidepalette.BitmapPalette#%field_initializer
+__unknown_file ("1*—
+1 (Õ 
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
+%0java.util.LinkedList"java.util.LinkedListÎ
+Ë
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
+%1"java.util.LinkedList#<init>()V*(
+ (
+
+%0java.util.LinkedListã
+à
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
+/com.github.florent37.glidepalette.BitmapPalette"	
+targets"__id*(
+ (
+
+%0java.util.LinkedListÀ»
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
+%2java.util.ArrayList"java.util.ArrayListÈ
+Ê
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListå
+â
+ï
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
+/com.github.florent37.glidepalette.BitmapPalette"
+	callbacks"__id*'
+ (
+
+%2java.util.ArrayList"¨
+î
+ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java Ô(
+implicit returnB31
+/com.github.florent37.glidepalette.BitmapPalette

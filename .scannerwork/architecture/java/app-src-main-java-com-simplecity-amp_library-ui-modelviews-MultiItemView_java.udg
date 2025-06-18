@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750241458698*java2.Bƒ
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750251133763*java2.B√
 R
 Mapp/src/main/java/com/simplecity/amp_library/ui/modelviews/MultiItemView.java2
 
@@ -46,7 +46,7 @@ E
 
 	ViewModel29
 
-T31
+E31
 O
 Icom.simplecity.amp_library.ui.modelviews.MultiItemView$ViewHolder.lineOne33
 
@@ -129,8 +129,8 @@ Jcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#recycle()V89
 Öcom.simplecity.amp_library.ui.modelviews.MultiItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/MultiItemView$ViewHolder;)V91
 
 bindView92
-
-VH94
+
+V94
 
 BaseSelectableViewModel96
 ù
@@ -142,6 +142,9 @@ Jcom.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#recycle()V89
 3	
 354j„
 
+
+30
+303115
 A
 32;
 323334 *
@@ -160,9 +163,6 @@ A
 
 13
 131415
-
-30
-303115
 
 52
 525315
@@ -196,6 +196,9 @@ A
 
 78
 787915
+
+93
+939415
 A
 54;
 545534 *
@@ -252,7 +255,7 @@ A
 @
 97:
 979823 *
-1n n(26:3B
+1l l(26:3B
 	
 9
 10
@@ -341,9 +344,6 @@ A
 
 95
 959615
-
-93
-939415
 A
 57;
 575834 *
@@ -378,13 +378,13 @@ A
 505115r˛
 
 61316*
-1U (l
+1Q (h
 
 61719*
-10 (=
+1/ (<
 
 61320*
-1U (l
+1Q (h
 
 172616*
 1-A -(O
@@ -621,10 +621,10 @@ A
 1Z Z(!
 
 909319*
-1_ _(
+1_ _(
 
 909338*
-1_ _(#
+1_ _("
 
 90681*
 1`	 `(
@@ -648,40 +648,40 @@ A
 1c c(!
 
 907120*
-1h h('
+1g] g(l
 
 906781*
-1h h('
+1g] g(l
 
 907120*
-1i i('
+1h h(#
 
 906781*
-1i i('
+1h h(#
 
 979319*
-1o o(
+1m m(
 
 979338*
-1o o(#
+1m m("
 
 97681*
-1p	 p(
+1n	 n(
 
 979520*
-1p	 p(
+1n	 n(
 
 97681*
-1p	 p(
+1n	 n(
 
 976020*
-1r r(!
+1p p(!
 
 977381*
-1r r(!
+1p p(!
 
 976020*
-1s s(!
+1q q(!
 
 977381*
-1s s(!
+1q q(!

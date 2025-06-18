@@ -1,15 +1,10 @@
-Fthis$ (6"2com.simplecity.amp_library.glide.loader.TypeLoader<model7 (L"'Recovered#typeBindingLArtworkProvider;0widthN (W"intheightY (c"int"¨8
-6
- (E"#new-object#2ConstructorBTypeFetcher!
-
- (1"#unknown-value#!
-
-3 (8"#unknown-value#*
-(
-: (>"#get-field# type:Bint3
-1
-@ (D	"#get-field# file:Bjava.io.File5
-3
- (E
-"#unknown-value#2Constructor:	
- (F*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/loader/TypeLoader.java
+Fthis
+‡ ‡("0com.simplecity.amp_library.playback.MusicService"r#
+!
+
+ˆ ˆ("#unknown-value#9
+7
+
+ˆ ˆ('"#get-field# shuffleMode:B	!Unknown!
+
+ˆ ˆ((*x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.java

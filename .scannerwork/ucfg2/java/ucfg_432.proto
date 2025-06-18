@@ -1,18 +1,16 @@
 
-Zandroid.support.design.widget.CustomCollapsingTextHelper#getText()Ljava/lang/CharSequence;ç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaí í("1*ÿ
+Ccom.simplecity.amp_library.utils.SettingsManager#getSearchAlbums()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaí í(""1*Ç
 1
-ì ì(ò
-ï
+ì ì([
+Y
 
-ì ì(
-%0java.lang.CharSequence"__id*c
+ì ì((
+%0java.lang.String"__id*-
 
-__unknown_file (G*E:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mText",
+__unknown_file (
+search_albums"
 
-ì ì(
-
-%0java.lang.CharSequenceB<:
-8android.support.design.widget.CustomCollapsingTextHelperH
+ì ì(0
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

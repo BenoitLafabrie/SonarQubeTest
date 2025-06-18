@@ -1,26 +1,16 @@
-:this (	"&com.simplecity.amp_library.model.QueryEbuilder
- (".com.simplecity.amp_library.model.Query$Builder"¦.
-,
- (uri"#get-field# uri:BUri%
-#
- ("#set-field# uri:K
-I
- ('
-projection"#get-field# projection:Bjava.lang.String[],
-*
- ('"#set-field# projection:G
-E
- (%	selection"#get-field# selection:Bjava.lang.String+
-)
- (%"#set-field# selection:?
-=
- (	args"#get-field# args:Bjava.lang.String[]&
+Hthis: :("4com.simplecity.amp_library.ui.modelviews.ArtworkViewtype: :("intFartworkProvider:! :(@"'Recovered#typeBindingLArtworkProvider;0_glideListener:B :(]"Bcom.simplecity.amp_library.ui.modelviews.ArtworkView$GlideListener file:_ :(h"java.io.FileisCustom:j :(z"boolean"‘&
 $
- (
-"#set-field# args:	=
-;
- (sort"#get-field# sort:Bjava.lang.String&
+; ;("#set-field# type:!
+
+< <(."#unknown-value#1
+/
+< <(.	"#set-field# artworkProvider:/
+-
+= =(*
+"#set-field# glideListener:&
 $
- ("#set-field# sort:
+> >("#set-field# file:*
+(
+? ?( "#set-field# isCustom:
 
- (*n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java
+@ @(*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.java

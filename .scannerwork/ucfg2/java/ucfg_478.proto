@@ -1,16 +1,15 @@
 
-Scom.simplecity.amp_library.utils.SettingsManager#canDownloadArtworkAutomatically()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaƒ ƒ(2"1*è
-1
-≈ ≈(h
-f
-
-≈ ≈(1
-%0java.lang.String"__id*:
-
-__unknown_file (
-pref_download_artwork_auto"
-
-≈ ≈(:
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+@com.simplecity.multisheetview.ui.view.MultiSheetView$1#<init>()V
+__unknown_file ("startingBlock*ã
+startingBlockú
+ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c£
+†
+ú
+ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+%0"1BottomSheetBehavior.BottomSheetCallback#<init>()V*F
+ (:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1"¥
+ú
+ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/view/MultiSheetView.java6b 6(c
+implicit returnB:8
+6com.simplecity.multisheetview.ui.view.MultiSheetView$1

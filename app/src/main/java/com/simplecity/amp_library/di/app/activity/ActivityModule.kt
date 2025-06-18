@@ -3,7 +3,6 @@ package com.simplecity.amp_library.di.app.activity
 import android.app.Activity
 import android.support.v4.app.FragmentManager
 import android.support.v7.app.AppCompatActivity
-import dagger.Module
 import dagger.Provides
 
 @Module

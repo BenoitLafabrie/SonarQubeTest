@@ -1,46 +1,16 @@
 
-Kandroid.support.design.widget.CustomCollapsingTextHelper#%field_initializer
-__unknown_file ("1*·
-1 (
-ş
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaE E(?T:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mExpandedTextGravity"__id*
- (
-""‚
-ÿ
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaF F(@U:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mCollapsedTextGravity"__id*
- (
-""ü
-ù
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaG G()Q:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mExpandedTextSize"__id*
- (2ı
-ú
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaH H(*R:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mCollapsedTextSize"__id*
- (2û
-ø
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javak k((P:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mExpandedSubSize"__id*
- (22ü
-ù
-‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javap p()Q:
-8android.support.design.widget.CustomCollapsingTextHelper"
-mCollapsedSubSize"__id*
- (2"¢
-Š
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.java, Ù(
-implicit returnB<:
-8android.support.design.widget.CustomCollapsingTextHelper
+ecom.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFoldersSortOrder()Ljava/lang/String;„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaØ Ø(2"1*–
+1
+Ù Ù(o
+m
+
+Ù Ù(>
+%0java.lang.String"__id*A
+
+__unknown_file (%#
+!folder_browser_folders_sort_order"
+
+Ù Ù(a
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerH

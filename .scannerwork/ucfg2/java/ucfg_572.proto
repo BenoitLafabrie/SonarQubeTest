@@ -1,78 +1,54 @@
 
-9com.simplecity.amp_library.model.ArtworkModel#hashCode()I
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java/ /("4*Z
-21A 1(BF
-D
-1A 1(B	
-%3int"__id*'
+B__sonar_lambda_24$com.simplecity.amp_library.playback.MusicService„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.java¡: ©("startingBlock*À
+2
+¥ ¥(©
+¦
+
+¥# ¥(46
+%30com.simplecity.amp_library.playback.MusicService"__id*Z
 
-__unknown_file (
-	
-%5int*
-1*Ì
-31/ 1(3
-}
-1/ 1(3
-%6java.io.File"__id*W
+__unknown_file (>*<2
+0com.simplecity.amp_library.playback.MusicService"
+this*
+1*À
+3
+£ £(©
+¦
+
+£# £(46
+%20com.simplecity.amp_library.playback.MusicService"__id*Z
 
-__unknown_file (;*9/
--com.simplecity.amp_library.model.ArtworkModel"
-fileom
-1/ 1(>	
-%4int"java.io.File#hashCode()I*0
+__unknown_file (>*<2
+0com.simplecity.amp_library.playback.MusicService"
+this*
+1*Å
+startingBlock
+¡: ©(É
+Æ
 
-__unknown_file (
-
-%6java.io.File2
-hashCode()F
-D
-1/ 1(>	
-%3int"__id*'
+__unknown_file (@
+MusicService0com.simplecity.amp_library.playback.MusicService"__id*b
 
-__unknown_file (
-	
-%4int*
-1*ç
-40 0(]
-[
-1 1(	
-%0int"__calculate*
-1 1(
-**
-1 1(2*
-1 1(
-""
-}
-1  1($
-%1java.io.File"__id*W
+__unknown_file (F*D2
+0com.simplecity.amp_library.playback.MusicService"
+MusicServiceÓ
+Ð
 
-__unknown_file (;*9/
--com.simplecity.amp_library.model.ArtworkModel"
-filep
-n
-1  1(,
-%2boolean"	__compare*
-1% 1('
-!=* 
-1  1($
-
-%1java.io.File*
-1( 1(,
-""*
+__unknown_file (E
+MusicService.this0com.simplecity.amp_library.playback.MusicService"__id*g
+
+__unknown_file (K*I2
+0com.simplecity.amp_library.playback.MusicService"
+MusicService.this*
 2
-3*Œ
-11 1(Ci
-g
-1 1(C	
-%7int"__calculate*
-1 1(
-+*
-1 1(
-	
-%0int*
-1 1(C
-	
-%3int"
-2 2(
-""B1/
--com.simplecity.amp_library.model.ArtworkModelHX
+3*%
+1
+§ §("
+
+¨ ¨(%
+"": 
+
+__unknown_file (
+""B
+	!Unknown!

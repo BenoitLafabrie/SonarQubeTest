@@ -1,3 +1,165 @@
-Hthiso o("4com.simplecity.amp_library.services.DashClockServicereasono  o(*"int"
 
-q q(*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java
+
+88int
+
+2int
+$Q"album_artist"java.lang.String
+D10int
+
+>9int
+
+3int
+J11int
+
+ 4int
+P12int
+S13int
+
+&5int
+
+,6int
+
+0int
+
+27int
+
+1int
+14int"ˆB
+@
+J Y(	"#new-object#2Constructor:Bjava.lang.String[]!
+
+K K("#unknown-value#1
+/
+K K( "#get-field# Audio:B	!Unknown!1
+/
+K K(&"#get-field# Media:B	!Unknown!/
+-
+K K(*"#get-field# _ID:B	!Unknown!$
+"
+J Y(	"#array-write#:!
+
+L L(	"#unknown-value#1
+/
+L L( 
+"#get-field# Audio:	B	!Unknown!1
+/
+L L(&"#get-field# Media:
+B	!Unknown!0
+.
+L L(+"#get-field# DATA:B	!Unknown!$
+"
+J Y(	"#array-write#:!
+
+M M("#unknown-value#1
+/
+M M( "#get-field# Audio:B	!Unknown!1
+/
+M M(&"#get-field# Media:B	!Unknown!1
+/
+M M(,"#get-field# TITLE:B	!Unknown!$
+"
+J Y(	"#array-write#:!
+
+N N("#unknown-value#1
+/
+N N( "#get-field# Audio:B	!Unknown!1
+/
+N N(&"#get-field# Media:B	!Unknown!5
+3
+N N(0"#get-field# ARTIST_ID:B	!Unknown!$
+"
+J Y(	"#array-write#:!
+
+O O("#unknown-value#1
+/
+O O( "#get-field# Audio:B	!Unknown!1
+/
+O O(&"#get-field# Media:B	!Unknown!2
+0
+O O(-"#get-field# ARTIST:B	!Unknown!$
+"
+J Y(	"#array-write#: !
+
+P P(!"#unknown-value#1
+/
+P P( ""#get-field# Audio:!B	!Unknown!1
+/
+P P(&#"#get-field# Media:"B	!Unknown!4
+2
+P P(/$"#get-field# ALBUM_ID:#B	!Unknown!$
+"
+J Y(	%"#array-write#:&$!
+
+Q Q('"#unknown-value#1
+/
+Q Q( ("#get-field# Audio:'B	!Unknown!1
+/
+Q Q(&)"#get-field# Media:(B	!Unknown!1
+/
+Q Q(,*"#get-field# ALBUM:)B	!Unknown!$
+"
+J Y(	+"#array-write#:,*!
+
+R R(-"#unknown-value#1
+/
+R R( ."#get-field# Audio:-B	!Unknown!1
+/
+R R(&/"#get-field# Media:.B	!Unknown!4
+2
+R R(/0"#get-field# DURATION:/B	!Unknown!$
+"
+J Y(	1"#array-write#:20!
+
+S S(3"#unknown-value#1
+/
+S S( 4"#get-field# Audio:3B	!Unknown!1
+/
+S S(&5"#get-field# Media:4B	!Unknown!0
+.
+S S(+6"#get-field# YEAR:5B	!Unknown!$
+"
+J Y(	7"#array-write#:86!
+
+T T(9"#unknown-value#1
+/
+T T( :"#get-field# Audio:9B	!Unknown!1
+/
+T T(&;"#get-field# Media::B	!Unknown!1
+/
+T T(,<"#get-field# TRACK:;B	!Unknown!$
+"
+J Y(	="#array-write#:><!
+
+U U(?"#unknown-value#1
+/
+U U( @"#get-field# Audio:?B	!Unknown!1
+/
+U U(&A"#get-field# Media:@B	!Unknown!6
+4
+U U(1B"#get-field# DATE_ADDED:AB	!Unknown!$
+"
+J Y(	C"#array-write#:DB!
+
+V V(E"#unknown-value#1
+/
+V V( F"#get-field# Audio:EB	!Unknown!1
+/
+V V(&G"#get-field# Media:FB	!Unknown!6
+4
+V V(1H"#get-field# IS_PODCAST:GB	!Unknown!$
+"
+J Y(	I"#array-write#:JH!
+
+W W(K"#unknown-value#1
+/
+W W( L"#get-field# Audio:KB	!Unknown!1
+/
+W W(&M"#get-field# Media:LB	!Unknown!4
+2
+W W(/N"#get-field# BOOKMARK:MB	!Unknown!$
+"
+J Y(	O"#array-write#:PN$
+"
+J Y(	R"#array-write#:SQ
+J Y(
+*m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java

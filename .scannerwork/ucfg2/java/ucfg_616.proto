@@ -1,15 +1,14 @@
 
-<com.simplecity.amp_library.playback.MusicService$2#<init>()V
-__unknown_file ("startingBlock*©
-startingBlock„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÚ6 Ú(7ñ
-î
-„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÚ6 Ú(7
-%0"BroadcastReceiver#<init>()V*B
- (64
-2com.simplecity.amp_library.playback.MusicService$2"œ
-„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÚ6 Ú(7
-implicit returnB64
-2com.simplecity.amp_library.playback.MusicService$2
+dcom.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getUpdateCommandString()Ljava/lang/String;Œ
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderLarge.java   (("1*–
+1! !(!a
+_
+! !(!
+%0java.lang.String"__id*5
+
+__unknown_file (
+appwidgetupdate_large"$
+! !("
+
+%0java.lang.StringB=;
+9com.simplecity.amp_library.ui.widgets.WidgetProviderLargeH

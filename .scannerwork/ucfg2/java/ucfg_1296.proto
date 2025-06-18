@@ -1,188 +1,7 @@
 
-<com.simplecity.amp_library.model.SuggestedHeader#hashCode()I‚
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java ("10*W
-2!I !(JC
-A
-!I !(J
-%16"__id*(
-
-__unknown_file (
-
-
-%18int*
-1*R
-3!3 !(;>
-<
-!3 !(F
-%16"__id*#
-
-__unknown_file (
-
-%17*
-1*½
-4   (Kj
-h
-   (K
-
-%13int"__calculate*
-   (
-+*
-   (
-	
-%6int*
-   (K
-	
-%9int^
-\
-! !(
-
-%14int"__calculate*
-! !(
-**
-! !(2*
-! !(
-""Z
-X
-!  !(0
-%15"	__compare*
-!) !(+
-!=*
-!  !((
-""*
-!, !(0
-""*
-2
-3*[
-5 I  (JG
-E
- I  (J	
-%9int"__id*(
-
-__unknown_file (
-
-
-%11int*
-4*å
-6 3  (;Œ
-‰
- 3  (;
-%12java.lang.String"__id*^
-
-__unknown_file (B*@2
-0com.simplecity.amp_library.model.SuggestedHeader"
-
-subtitleyw
- 3  (F
-
-%10int"java.lang.String#hashCode()I*5
-
-__unknown_file (
-
-%12java.lang.String2
-hashCode()G
-E
- 3  (F	
-%9int"__id*(
-
-__unknown_file (
-
-
-%10int*
-4*ø
-7 (:]
-[
-   (	
-%6int"__calculate*
-   (
-**
-   (2*
-   (
-""‹
-ˆ
-    ((
-%7java.lang.String"__id*^
-
-__unknown_file (B*@2
-0com.simplecity.amp_library.model.SuggestedHeader"
-
-subtitlet
-r
-    (0
-%8boolean"	__compare*
- )  (+
-!=*$
-    ((
-
-%7java.lang.String*
- ,  (0
-""*
-5
-6*Z
-88 (9F
-D
-8 (9	
-%2int"__id*'
-
-__unknown_file (
-	
-%4int*
-7*Þ
-9% (*ˆ
-…
-% (*
-%5java.lang.String"__id*[
-
-__unknown_file (?*=2
-0com.simplecity.amp_library.model.SuggestedHeader"
-titlewu
-% (5	
-%3int"java.lang.String#hashCode()I*4
-
-__unknown_file (
-
-%5java.lang.String2
-hashCode()F
-D
-% (5	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-7*—
-10 (ˆ
-…
- (
-%0java.lang.String"__id*[
-
-__unknown_file (?*=2
-0com.simplecity.amp_library.model.SuggestedHeader"
-titlet
-r
- ("
-%1boolean"	__compare*
- (
-!=*$
- (
-
-%0java.lang.String*
- ("
-""*
-8
-9*…
-1! !(Kb
-`
-! !(K
-%19"__calculate*
-! !(
-+*
-! !(
-
-
-%14int*
-! !(K
-
-%16"
-" "(
-""B42
-0com.simplecity.amp_library.model.SuggestedHeaderHX
+rcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getUpdateCommandString()Ljava/lang/String;š
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java (!"1*!
+1 ('"
+ (;
+""BKI
+Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge

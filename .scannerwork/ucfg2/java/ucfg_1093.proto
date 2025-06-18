@@ -1,26 +1,174 @@
 
-Ucom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#%field_initializer
-__unknown_file ("1*ù
-1 (À»
-ï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java7 (B
-%0java.util.ArrayList"java.util.ArrayListÈ
-Ê
-ï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java3 (D
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList•
-¢
-ï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java (EYD
-Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
-miniPlayerLocks"__id*'
- (
-
-%0java.util.ArrayList"´
-ì
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java *(
-implicit returnBFD
-Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager
+Acom.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Zy
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaΩ Ω("startingBlock*Ä
+2
+√= √(Dj
+h
+
+√= √(T
+%7boolean"	__compare*
+
+√E √(G
+==*
+
+√= √(D
+""*
+
+√H √(T
+""*
+1*á
+startingBlock
+Ω Ω(#ä
+á
+
+º º(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+Ω! Ω("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+10*É
+4
+√  √((j
+h
+
+√  √(9
+%6boolean"	__compare*
+
+√) √(+
+==*
+
+√  √((
+""*
+
+√, √(9
+""*
+2
+1*Ä
+5
+¡ ¡(x
+v
+
+¡ ¡(-
+song%com.simplecity.amp_library.model.Song"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+√ √(
+%5boolean"	__compare*
+
+√ √(
+==*
+
+√ √(
+""*
+
+√ √(
+""*	
+2
+4
+1*%
+6
+ø< ø(A"
+
+ø5 ø(B
+""*È
+7
+ø ø(!ß§
+
+ø ø(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2
+getClass()ïí
+
+ø' ø(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()ç
+ä
+
+ø ø(3
+%4boolean"	__compare*
+
+ø$ ø(&
+!=*%
+
+ø ø(#
+
+%2java.lang.Class*%
+
+ø' ø(3
+
+%3java.lang.Class*
+5
+6*î
+8
+ø ø({
+y
+
+ø ø(
+%1boolean"	__compare*
+
+ø ø(
+==*%
+
+ø ø(
+
+ojava.lang.Object*
+
+ø ø(
+""*
+6
+7*%
+9
+æ æ(""
+
+æ æ(#
+""*∫
+10
+æ æ(ü
+ú
+
+æ æ(
+%0boolean"	__compare*
+
+æ æ(
+==*7
+
+æ æ()'
+%com.simplecity.amp_library.model.Song*%
+
+æ æ(
+
+ojava.lang.Object*
+8
+9*%
+1
+√ √(U"
+
+√ √(U
+"":#
+
+Ω Ω("
+ojava.lang.ObjectB)'
+%com.simplecity.amp_library.model.SongHX

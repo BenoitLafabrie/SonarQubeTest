@@ -1,6 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750241441231*java2.B‡
-
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750251116554*java2.BÁ	
 F
 Aapp/src/main/java/com/simplecity/amp_library/http/HttpClient.java2
 
@@ -33,96 +32,91 @@ HttpClient12
 private19
 
 URL_LAST_FM20
-;
-5com.simplecity.amp_library.http.HttpClient.URL_ITUNES22
-
+=
+7com.simplecity.amp_library.http.HttpClient.okHttpClient22
+
+okHttpClient23
+
+OkHttpClient25
 
-URL_ITUNES23
-:
-4com.simplecity.amp_library.http.HttpClient.sInstance25
-
-	sInstance26
+unknown26
 
 is type27
 
 
 uses28
-=
-7com.simplecity.amp_library.http.HttpClient.okHttpClient30
-
-okHttpClient31
-
-OkHttpClient33
-
-unknown34
 >
-8com.simplecity.amp_library.http.HttpClient.lastFmService36
+8com.simplecity.amp_library.http.HttpClient.lastFmService30
 
-lastFmService37
+lastFmService31
 
-LastFmService39
+LastFmService33
 <
-6com.simplecity.amp_library.http.HttpClient.TAG_ARTWORK41
+6com.simplecity.amp_library.http.HttpClient.TAG_ARTWORK35
 
-TAG_ARTWORK42
-j
-dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;44
+TAG_ARTWORK36
+:
+4com.simplecity.amp_library.http.HttpClient#<init>()V38
 
-method45
-
-getInstance46
-
-returns47
+method39
+
+calls40
 
 
-references48
-
-calls49
-:
-4com.simplecity.amp_library.http.HttpClient#<init>()V51
+references41
 *
-$Recovered#typeBindingLOkHttpClient;053
+$Recovered#typeBindingLOkHttpClient;043
 &
- Recovered#typeBindingLRetrofit;055
+ Recovered#typeBindingLRetrofit;045
 +
-%Recovered#typeBindingLLastFmService;057J
+%Recovered#typeBindingLLastFmService;047
+P
+Jcom.simplecity.amp_library.http.HttpClient#getOkHttpClient()LOkHttpClient;49
+
+getOkHttpClient50
+
+returns51
+R
+Lcom.simplecity.amp_library.http.HttpClient#getLastFmService()LLastFmService;53
+
+getLastFmService54J
 
 1
 12Z
 
 3	
-354jñ
+354j¯
 @
-50:
-505145 *
-1 (26:3B
+48:
+484939 *
+1" "(26:3B
 	
 9
-19
+10
+
+
+11
+50
+@
+37:
+373839 *
+1 (26:3B
+	
+9
+10
 
 
 11
 12
 
-32
-323334
+24
+242526
 
-54
-545534
-@
-21:
-212215 *
-1 (26:3B
-	
-9
-19
-
-
-11
-23
+44
+444526
 
-56
-565734
+46
+464726
 9
 64
 678 *
@@ -146,41 +140,30 @@ $Recovered#typeBindingLOkHttpClient;053
 11
 20
 @
-40:
-404115 *
-1 (26:3B
+34:
+343515 *
+1 (26:3B
 	
 9
 10
 
 
 11
-42
+36
 
-38
-383934
+32
+323326
 @
-29:
-293015 *
-1 (26:3B
+21:
+212215 *
+1 (26:3B
 	
 9
-10
+19
 
 
 11
-31
-@
-43:
-434445 *
-1 (26:3B
-	
-9
-10
-
-
-11
-46
+23
 @
 13:
 131415 *
@@ -195,120 +178,108 @@ $Recovered#typeBindingLOkHttpClient;053
 11
 16
 @
-35:
-353615 *
-1 (26:3B
-	
-9
-10
-
-
-11
-37
-@
-24:
-242515 *
-1 (26:3B
+29:
+293015 *
+1 (26:3B
 	
 9
 19
 
 
 11
-26
+31
+@
+52:
+525339 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+54
 
-52
-525334r»
-
-24627*
-1 (
-
-24628*
-1 (
-
-24628*
-1 ((
+42
+424326rØ
+
+212427*
+1 (
+
+212428*
+1 (
+
+212428*
+1 (&
 
 293227*
-1 (
+1 (
 
 293228*
-1 (
+1 (
 
 293228*
-1 (%
-
-353827*
-1 (
-
-353828*
-1 (
-
-353828*
-1 ('
+1 ((
 
-43647*
-1  (*
-
-43628*
-1  (*
-
-43628*
-1 (
+37640*
+1 (
 
-432448*
-1 (
-
-43628*
-1 (
+372428*
+1	 (
 
-432448*
-1 (
-
-43649*
-1 ('
-
-43628*
-1 (
+372141*
+1	 (
 
-432448*
-1 (
-
-50649*
-1 (
+374228*
+1 ((
 
-503228*
-1 	  (
+374427*
+1 (#
 
-502948*
-1 	  (
+374428*
+1	 (
 
-505228*
-1   ((
+374428*
+1* (2
 
-505427*
-1$ $(#
+371741*
+1 (%
 
-505428*
-1$	 $(
+372428*
+1 (%
 
-505428*
-1$* $(2
+372141*
+1 (%
 
-501748*
-1% %(%
+373228*
+1	 (
 
-503228*
-1& &(%
+372941*
+1	 (
 
-502948*
-1& &(%
+374628*
+12 (?
 
-503828*
-1)	 )(
+482451*
+1" "(
 
-503548*
-1)	 )(
+482428*
+1" "(
 
-505628*
-1)2 )(?
+482428*
+1# #(
+
+482141*
+1# #(
+
+523251*
+1& &(
+
+523228*
+1& &(
+
+523228*
+1' '(
+
+522941*
+1' '(

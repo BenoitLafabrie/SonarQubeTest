@@ -1,25 +1,7 @@
 
-=com.simplecity.amp_library.ui.views.SnowfallView#isSnowing()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.javaÅ Å("1*Æ
-1
-Ç Ç(ç
-ä
-
-Ç Ç(
-%0java.util.List"__id*`
-
-__unknown_file (D*B2
-0com.simplecity.amp_library.ui.views.SnowfallView"
-
-snowflakeswu
-
-Ç Ç($
-%1boolean"java.util.List#isEmpty()Z*2
-
-__unknown_file (
-
-%0java.util.List2	isEmpty()"
-
-Ç Ç(%
-""B42
-0com.simplecity.amp_library.ui.views.SnowfallViewHX
+Ncom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getViewType()Ií
+á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.java# #("1*!
+1$ $(&"
+$ $('
+""BCA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX

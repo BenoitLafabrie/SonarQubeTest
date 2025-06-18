@@ -1,21 +1,22 @@
 
-Pcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#<init>()V
-__unknown_file ("startingBlock*ï
-startingBlock—
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (Ö
-Ó
-—
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-%0"Ycom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#%field_initializer*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity¸
-µ
-—
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-%1";com.simplecity.amp_library.ui.common.BaseActivity#<init>()V*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity"¯
-—
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.java (
-implicit returnBJH
-Fcom.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity
+Kcom.jp.wasabeef.glide.transformations.CropTransformation#%field_initializer
+__unknown_file ("1*ä
+1 (ô
+ñ
+‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java*! *(0G
+%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"__id*
+ (
+""¹
+¶
+‹
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java* *(1I:
+8com.jp.wasabeef.glide.transformations.CropTransformation"
+	mCropType"__id*U
+ (I
+G
+%0Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"¡
+‰
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java v(
+implicit returnB<:
+8com.jp.wasabeef.glide.transformations.CropTransformation

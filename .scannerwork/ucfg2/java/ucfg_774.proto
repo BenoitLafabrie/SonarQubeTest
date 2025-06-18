@@ -1,7 +1,22 @@
 
-Ncom.simplecity.amp_library.ui.modelviews.HorizontalAlbumView#getLayoutResId()I
-„/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalAlbumView.java ("1*!
-1 ("
- (-
-""B@>
-<com.simplecity.amp_library.ui.modelviews.HorizontalAlbumViewHX
+ccom.afollestad.aesthetic.Aesthetic#colorIconTitleInactiveRes(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÄ Ä(,"1*ž
+1
+Å Å(öó
+
+Å Å(G
+%0"^com.afollestad.aesthetic.Aesthetic#colorIconTitleActive(I)Lcom/afollestad/aesthetic/Aesthetic;*B
+
+__unknown_file (&$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""2colorIconTitleActive(I)"
+
+Å Å(H
+
+%0: 
+
+__unknown_file (
+""B&$
+"com.afollestad.aesthetic.AestheticH

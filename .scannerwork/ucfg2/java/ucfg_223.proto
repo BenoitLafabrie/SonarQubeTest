@@ -1,36 +1,62 @@
 
-Ccom.simplecity.amp_library.utils.color.ColorHelper#isColorLight(I)Z†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÙ Ù("1*û
-1
-Ú Ú(!à
-Ý
-
-Ú Ú(2
-%0double"Icom.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D*R
+tcom.simplecity.amp_library.utils.color.ColorHelper#getInstance()Lcom/simplecity/amp_library/utils/color/ColorHelper;„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java* *()"4*í
+2- -(-zx
+-  -(+8
+%32com.simplecity.amp_library.utils.color.ColorHelper"2com.simplecity.amp_library.utils.color.ColorHelper©
+¦
+- -(-
+%4"<com.simplecity.amp_library.utils.color.ColorHelper#<init>()V*V
 
-__unknown_file (6"4
-2com.simplecity.amp_library.utils.color.ColorHelper*"
+__unknown_file (:
+8
+%32com.simplecity.amp_library.utils.color.ColorHelper°
+­
+- -(-C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance"__id*V
+
+__unknown_file (:
+8
+%32com.simplecity.amp_library.utils.color.ColorHelper*
+1*â
+3, ,(°
+­
+, ,(8
+%12com.simplecity.amp_library.utils.color.ColorHelper"__id*a
+
+__unknown_file (E*C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance—
+”
+, ,(!
+%2boolean"	__compare*
+, ,(
+==*F
+, ,(:
+8
+%12com.simplecity.amp_library.utils.color.ColorHelper*
+, ,(!
+""*
+2
+1*b
+4+ +(N
+L
++ +(
+%0java.lang.Object"__id*"
 
 __unknown_file (
-""q
-o
-
-Ú Ú(9
-%1boolean"	__compare*
-
-Ú3 Ú(4
->*
-
-Ú Ú(2
-
-%0double*
-
-Ú5 Ú(9
-"""
-
-Ú Ú(:
-"": 
+""*
+3*ˆ
+1/ /(°
+­
+/ /(8
+%52com.simplecity.amp_library.utils.color.ColorHelper"__id*a
 
-__unknown_file (
-""B6"4
-2com.simplecity.amp_library.utils.color.ColorHelperX
+__unknown_file (E*C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance"F
+/ /(:
+8
+%52com.simplecity.amp_library.utils.color.ColorHelperB6"4
+2com.simplecity.amp_library.utils.color.ColorHelperH

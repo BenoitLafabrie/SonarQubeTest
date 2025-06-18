@@ -1,80 +1,34 @@
 
-Jcom.simplecity.amp_library.model.InclExclItem#toString()Ljava/lang/String;
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java   ("1*†
-1! !(b
-`
-! "(
-%0java.lang.String"__concat*
-! !(
-InclExclItem{*
-" "(
-id=h
-f
-! "(
-%1java.lang.String"__concat*$
-! "(
-
-%0java.lang.String*
-" "(
-""n
-l
-! #(
-%2java.lang.String"__concat*$
-! "(
-
-%1java.lang.String*
-# #(
-
-, path='Ñ
-Å
-# #(!
-%3java.lang.String"__id*W
+Y__sonar_lambda_102$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivityô
+é/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/search/voice/VoiceSearchActivity.javaa g("1*µ
+1b b('¢
+ü
+b4 b(n
+%12"__declareFunction*y
 
-__unknown_file (;*9/
--com.simplecity.amp_library.model.InclExclItem"
-pathz
-x
-! #(!
-%4java.lang.String"__concat*$
-! #(
-
-%2java.lang.String*$
-# #(!
-
-%3java.lang.Stringh
-f
-! #((
-%5java.lang.String"__concat*$
-! #(!
-
-%4java.lang.String*
-#$ #((
-\'m
-k
-! $(
-%6java.lang.String"__concat*$
-! #((
-
-%5java.lang.String*
-$ $(	
-, type=h
-f
-! $( 
-%7java.lang.String"__concat*$
-! $(
-
-%6java.lang.String*
-$ $( 
-""g
-e
-! %(
-%8java.lang.String"__concat*$
-! $( 
-
-%7java.lang.String*
-% %(
-}"$
-! %(
-
-%8java.lang.StringB1/
--com.simplecity.amp_library.model.InclExclItemH
+__unknown_file (][
+Y__sonar_lambda_103$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity¢
+ü
+c4 c(b
+%13"__declareFunction*y
+
+__unknown_file (][
+Y__sonar_lambda_104$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity¢
+ü
+d4 d(j
+%14"__declareFunction*y
+
+__unknown_file (][
+Y__sonar_lambda_105$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity¢
+ü
+e4 e(t
+%15"__declareFunction*y
+
+__unknown_file (][
+Y__sonar_lambda_106$com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity"
+f f()
+"": 
+
+__unknown_file (
+""B
+	!Unknown!

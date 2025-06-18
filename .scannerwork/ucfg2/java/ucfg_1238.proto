@@ -1,44 +1,10 @@
 
-Ocom.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/util/List;)Z{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/saf/SafManager.java> >(%"2*ð
-2? ?(L
-J
-? ?(
-filejava.io.File"__id*"
+=__sonar_lambda_86$com.simplecity.amp_library.utils.SleepTimer}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SleepTimer.java0 0(>"1*!
+106 0(>"
+0& 0(>
+"": 
 
-__unknown_file (
-""Š
-‡
-? ?(
-filejava.io.File"
-__arrayGet*5
-
-__unknown_file (
-
-filesjava.util.List*"
-
-__unknown_file (
-""*
-4
-1*!
-3A A("
-A A(
-""*¦
-4@ @("Ž‹
-@ @((
-%0boolean"Mcom.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z*I
-
-__unknown_file (-+
-)com.simplecity.amp_library.saf.SafManager*2
-
-__unknown_file (
-
-filejava.io.File2"requiresPermission(Ljava/io/File;)*
-2
-3*!
-1D D("
-D D(
-"":#
->& >(6
-filesjava.util.ListB-+
-)com.simplecity.amp_library.saf.SafManagerHX
+__unknown_file (
+""B
+	!Unknown!

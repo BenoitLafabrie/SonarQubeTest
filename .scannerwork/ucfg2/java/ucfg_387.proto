@@ -1,15 +1,16 @@
 
-Bcom.afollestad.aesthetic.AestheticBottomNavigationView$3#<init>()V
-__unknown_file ("startingBlock*ë
-startingBlock›
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaŸ& Ÿ('…
-‚
-›
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaŸ& Ÿ('
-%0"Consumer#<init>()V*H
- (<:
-8com.afollestad.aesthetic.AestheticBottomNavigationView$3"³
-›
-Ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaŸ& Ÿ('
-implicit returnB<:
-8com.afollestad.aesthetic.AestheticBottomNavigationView$3
+Wcom.simplecity.amp_library.utils.SettingsManager#getDocumentTreeUri()Ljava/lang/String;„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java° °($"1*†
+1
+± ±(_
+]
+
+± ±(*
+%0java.lang.String"__id*1
+
+__unknown_file (
+document_tree_uri"
+
+± ±(,
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerH

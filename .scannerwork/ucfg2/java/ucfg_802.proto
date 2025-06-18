@@ -1,53 +1,38 @@
 
-Pcom.afollestad.aesthetic.Aesthetic#isDark(Z)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java´ ´("1*­
-1
-µ µ(X
-V
-
-µ µ(*
-%0java.lang.String"__id**
+[com.simplecity.amp_library.ui.modelviews.PlaylistView#areContentsEqual(Ljava/lang/Object;)Z‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javar r(#"startingBlock*ˆ
+startingBlockr# r(1Œ
+‰
+q q(
+%1"
+__annotate*2
 
-__unknown_file (
-
-is_dark_%sÂ
-¿
-
-µ, µ(8
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
+__unknown_file (
+java.lang.Override*7
 
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""ó
-ð
-
-µ µ(9
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+r+ r(0
+otherjava.lang.Object"__annotation*"
 
 __unknown_file (
 
-%1Q
-O
-
-µ µ(:
-keyjava.lang.String"__id*"
+%1*
+1*¿
+1s s(›˜
+s s(
+%0boolean"Qcom.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Z*U
 
-__unknown_file (
-
-%2"4
-
-· ·(&$
-"com.afollestad.aesthetic.Aesthetic: 
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView*7
 
-__unknown_file (
-""B&$
-"com.afollestad.aesthetic.AestheticH
+__unknown_file (
+
+otherjava.lang.Object2equals(Ljava/lang/Object;)"
+s s(
+"":%
+r$ r(0
+otherjava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX

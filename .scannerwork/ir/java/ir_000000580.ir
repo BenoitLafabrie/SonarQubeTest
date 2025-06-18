@@ -1,11 +1,7 @@
 Qthis
-² ²()";android.support.design.widget.CustomCollapsingToolbarLayoutduration
-²* ²(Q"long"‰:
-8
+ä ä(+";android.support.design.widget.CustomCollapsingToolbarLayout"Q=
+;
 
-³" ³(*mScrimAnimationDuration"#id#:Blong;
-9
+å å($"#!#get-field# mExpandedMarginBottom:Bint
 
-³ ³(*"%##set-field# mScrimAnimationDuration:
-
-´ ´(*ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.java
+å å(%*ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingToolbarLayout.java

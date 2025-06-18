@@ -1,17 +1,73 @@
 
-Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
-1
-   (¦
-£
-
-   (8
-%0java.lang.String"__id*w
+5com.simplecity.amp_library.utils.AnimUtils#lerp(III)I|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java	 	("1*Î
+1
+ 
+(_
+]
+
+ 
+(	
+%0int"__calculate*
+
+ 
+(
+-*
+
+ 
+(
+""*
+
+ 
+(
+""d
+b
+
+ 
+(	
+%1int"__calculate*
+
+ 
+(
+**
+
+ 
+(
+	
+%0int*
+
+ 
+(
+""d
+b
+
+ 
+(	
+%2int"__calculate*
+
+ 
+(
++*
+
+ 
+(
+""*
+
+ 
+(
+	
+%1int"
+
+ 
+(
+"": 
 
-__unknown_file ([*Y2
-0com.simplecity.amp_library.utils.SettingsManager"#
-!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
-
-   (A
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B.",
+*com.simplecity.amp_library.utils.AnimUtilsHX

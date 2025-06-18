@@ -1,13 +1,7 @@
 
-qtest.com.androidnavigation.fragment.FragmentInfo$1#newArray(I)[Ltest/com/androidnavigation/fragment/FragmentInfo;î
-â/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/FragmentInfo.javaG G(&"1*—
-1H$ H((zx
-H H()8
-%02test.com.androidnavigation.fragment.FragmentInfo[]"2test.com.androidnavigation.fragment.FragmentInfo[]"F
-H H(*:
-8
-%02test.com.androidnavigation.fragment.FragmentInfo[]: 
-
-__unknown_file (
-""B64
-2test.com.androidnavigation.fragment.FragmentInfo$1H
+4com.afollestad.aesthetic.BgIconColorState#bgColor()Iå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/BgIconColorState.java& &("1*!
+1' '("
+' '(
+""B-+
+)com.afollestad.aesthetic.BgIconColorStateX

@@ -1,18 +1,28 @@
 
-\com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#screenName()Ljava/lang/String;í
-Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/qcircle/QCircleActivity.java— —("1*œ
-1
-“ “(ï
-í
-
-“ “(
-%0java.lang.String"__id*f
+Ocom.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#isParentViewType(I)Zç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerAdapter.java (#"1"2*æ
+2 3  (;A
+?
+ ?  (K	
+%0int"__id*"
 
-__unknown_file (J*H?
-=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"
-TAG"&
-
-“ “(
-
-%0java.lang.StringBA?
-=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity
+__unknown_file (
+""g
+e
+ 3  (K
+%1boolean"	__compare*
+ <  (>
+==*
+ 3  (;
+""*
+ ?  (K
+	
+%0int*
+1*!
+1   (L"
+   (L
+"": 
+
+__unknown_file (
+""B><
+:com.simplecity.amp_library.ui.screens.drawer.DrawerAdapterHX

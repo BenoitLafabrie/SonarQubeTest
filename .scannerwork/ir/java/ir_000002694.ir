@@ -1,33 +1,6 @@
-Ithis ("5com.simplecity.amp_library.ui.views.PlayPauseDrawable"Þ!
-
-% %("#unknown-value#1
-/
-% %(#"#get-field# WHITE:B	!Unknown!'
-%
-% %($"#set-field# color:1
-/
-'' '(1"#new-object#2ConstructorBPath1
-/
-'' '(1"#unknown-value#2Constructor:/
--
-' '(2"#set-field# mLeftPauseBar:1
-/
-(( ((2"#new-object#2ConstructorBPath1
-/
-(( ((2	"#unknown-value#2Constructor:0
-.
-( ((3
-"#set-field# mRightPauseBar:2
-0
-)! )(,"#new-object#2ConstructorBPaint1
-/
-)! )(,"#unknown-value#2Constructor:(
-&
-) )(-"#set-field# mPaint:2
-0
-*" *(-"#new-object#2ConstructorBRectF1
-/
-*" *(-"#unknown-value#2Constructor:)
-'
-* *(."#set-field# mBounds:	
- ´(*}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java
+Hthis
+ 
+("4com.simplecity.amp_library.glide.fetcher.TypeFetcher"
+
+
+ V(*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/fetcher/TypeFetcher.java

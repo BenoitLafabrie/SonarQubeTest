@@ -25,7 +25,6 @@ import io.reactivex.Single
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.functions.BiFunction
 import io.reactivex.schedulers.Schedulers
-import java.util.Random
 import java.util.concurrent.TimeUnit
 
 class GenreDetailPresenter @AssistedInject constructor(

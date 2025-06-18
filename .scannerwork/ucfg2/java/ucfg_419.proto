@@ -1,31 +1,16 @@
 
-Wandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedTextColor()Iç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaƒ ƒ(+"3*%
-2
-∆ ∆(&"
-
-∆ ∆(C
-""*É
-3
-≈ ≈(j
-h
-
-≈ ≈(
-%0boolean"	__compare*
-
-≈ ≈(
-!=*
-
-≈ ≈(
-""*
-
-≈ ≈(
-""*
-2
-1*%
+Dcom.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()ZÑ
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java‘ ‘(#"1*Ñ
 1
-» »(&"
+’ ’(]
+[
 
-» »(9
-""B<:
-8android.support.design.widget.CustomCollapsingTextHelperX
+’ ’(-
+%0java.lang.String"__id*/
+
+__unknown_file (
+pref_lock_queue"
+
+’ ’(6
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

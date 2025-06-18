@@ -1,8 +1,28 @@
-Dthis
- (!"0com.afollestad.aesthetic.ViewHintTextColorAction4view" (/" Recovered#typeBindingLTextView;0"Y!
-
- ("#unknown-value#&
-$
- ("#set-field# view:
+Fthis
+Ä Ä(&"0com.simplecity.amp_library.playback.QueueManager@<com.simplecity.amp_library.playback.QueueManager$ShuffleMode"Á3
+1
 
- (*ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ViewHintTextColorAction.java
+Å Å("#get-field# shuffleMode:Bint+
+)
+
+Å Å(*"#get-field# OFF:Bint/
+-
+
+Å Å(*"
+#binop ==#2==:Bboolean,"*
+
+Å Å(* *
+Å Å(
+2
+Ç
+ Ç("9#
+!
+
+Æ Æ("#unknown-value#
+
+Æ Æ("9#
+!
+
+È È("#unknown-value#
+
+È È(*x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/QueueManager.java

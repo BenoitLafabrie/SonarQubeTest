@@ -1,8 +1,3 @@
-Mthis
-á á("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
-á  á(1"boolean"A-
-+
-
-â â(""#set-field# showTrack:
-
-ã ã(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java
+Jthis ($"6com.simplecity.amp_library.constants.OpenSLESConstants"
+
+ {(*~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/constants/OpenSLESConstants.java

@@ -1,15 +1,7 @@
 
-Rcom.simplecity.amp_library.ui.views.BreadcrumbItem#getItemPath()Ljava/lang/String;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/BreadcrumbItem.java1 1("1*ƒ
-12 2(é
-ã
-2 2(
-%0java.lang.String"__id*a
-
-__unknown_file (E*C4
-2com.simplecity.amp_library.ui.views.BreadcrumbItem"
-	mItemPath"$
-2 2(
-
-%0java.lang.StringB64
-2com.simplecity.amp_library.ui.views.BreadcrumbItemH
+Xcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge#getRootViewId()Iö
+è/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java ("1*!
+1 ("
+ (.
+""BKI
+Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLargeX

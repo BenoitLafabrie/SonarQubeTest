@@ -1,21 +1,15 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#album(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaë ë("1*ù
-1
-ì ì("œ
-™
-
-ì ì("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	albumText"__id*;
-
-__unknown_file (
-
-	albumTextjava.lang.String"I
-
-í í(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
-
-ë ë(,
-	albumTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+:com.afollestad.aesthetic.AestheticDrawerLayout$1#<init>()V
+__unknown_file ("startingBlock*Å
+startingBlock‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticDrawerLayout.java35 3(6ó
+ð
+‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticDrawerLayout.java35 3(6
+%0"Consumer#<init>()V*@
+ (42
+0com.afollestad.aesthetic.AestheticDrawerLayout$1"©
+‘
+†/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticDrawerLayout.java35 3(6
+implicit returnB42
+0com.afollestad.aesthetic.AestheticDrawerLayout$1

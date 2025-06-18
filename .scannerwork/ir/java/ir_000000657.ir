@@ -1,148 +1,4 @@
-
-falseboolean
-15int
-
-0int
-
-	3int
-
-2int
-0.00001double
-
-1intcolor
-É4 É(="intother
-É? É(H"intfindFg
-ÉJ É(X"boolean minRatio
-Ñ Ñ("double".,"*
-
-Ö Ö( *
-Ö Ö(2
-Ö  Ö(!"
-
-Ö Ö("
-
-Ö" Ö('"F*fg,"*
-
-Ü Ü( *
-Ü Ü(2
-Ü  Ü(!"
-
-Ü Ü("
-
-Ü" Ü('"Ñ*bgì
-ê
-
-á á(:"a
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:Bdouble2
-0
-
-á á(F"#dependent-value#:Bboolean "
-
-á á(F *
-á á(
-"
-
-à à("p>
-<
-
-ã ã("
-hsl"#new-object#2Constructor:	Bfloat[],"*
-
-å( å(.	 
-*
-å/ å(02
-å4 å(5"	
-
-å1 å(3"
-
-
-å6 å(8"•*	
-Ñ
-Å
-
-å å(>"[
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcolorToHSL(I[F)V2
-colorToHSL:
-Bvoid)
-'
-
-é é(low"#array-read#:
-&
-$
-
-é# é($high"#id#:Bint#
-!
-
-è è(i"#id#:Bint
-
-è ú(	"Ü*)minRatio)*&bg'*$fg%*!findFg!*hsl
-*low/*high.*i--
-+
-
-è è("	#binop <#2<:Bboolean"
-
-è è( @"∫+
-)
-
-ê ê('"	#binop +#2+:Bfloat3
-1
-
-ê ê(,l"#dependent-value#:Bfloat&
-$
-
-ë ë( "#array-write#:,"*
-
-í í(! *
-í í(2
-î î("0,"*
-
-ù ù(! *
-ù ù(2
-ù ù("u+
-)
-
-è" è(,"	#binop -#2-:Bfloat2
-0
-
-è" è(6"#dependent-value#:Bboolean
-
-è" è(6":*$""
-
-è ú(	 *
-è è(8@"êÖ
-Ç
-
-ì ì(9"fg"Z
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatHSLToColor([F)I2
-HSLToColor:Bint"êÖ
-Ç
-
-ï ï(9#bg"Z
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatHSLToColor([F)I2
-HSLToColor:Bint"¶*'bg&#*%fg"$ì
-ê
-
-ó ó(>("a
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:%'Bdouble2
-0
-
-ó ó(I*"#dependent-value#:()Bboolean,"*
-
-ó ó(I* *
-ó ó(2
-ô ô("2(
-&
-
-ò ò(+high"#id#:Bfloat"1'
-%
-
-ö ö(,low"#id#:Bfloat"7*/low,*.high+"1'
-%
-
-è8 è(;-i"	#binop +#2+:"
-
-ù ù("
-
-ù ù("&*0$&
-
-ù ù( 0*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java
+\this" (+"Hcom.simplecity.amp_library.ui.views.multisheet.MultiSheetSlideEventRelay"3!
+
+ ("#unknown-value#
+ (*ê/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetSlideEventRelay.java

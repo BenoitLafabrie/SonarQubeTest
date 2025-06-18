@@ -1,7 +1,148 @@
 
-Icom.simplecity.amp_library.ui.modelviews.DiscNumberView#getLayoutResId()I‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/DiscNumberView.java ("1*!
-1 ($"
- (%
-""B;9
-7com.simplecity.amp_library.ui.modelviews.DiscNumberViewHX
+Ncom.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)Z„
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java{ {("startingBlock*·
+2
+? (Ha
+_
+
+? (V
+%8"	__compare*
+
+O (Q
+==*
+
+? (N
+""*
+
+R (V
+"">
+<
+
+? (V
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*T
+3
+ ($>
+<
+
+ (<
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlock{ {(#ˆ
+…
+z z(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+{! {("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*„
+4* (+‰
+†
+ (,?
+	genreView2com.simplecity.amp_library.ui.modelviews.GenreView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objecta
+_
+
+ (
+%5"	__compare*
+
+ (
+!=*
+
+ (
+""*
+
+ (
+""*
+2
+3*!
+5}< }(A"
+}5 }(B
+""*è
+6} }(!²¯
+} }(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.GenreView2
+getClass()“
+}' }(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+} }(3
+%4boolean"	__compare*
+}$ }(&
+!=*#
+} }(#
+
+%2java.lang.Class*#
+}' }(3
+
+%3java.lang.Class*
+4
+5*Š
+7} }(s
+q
+} }(
+%1boolean"	__compare*
+} }(
+==*#
+} }(
+
+ojava.lang.Object*
+} }(
+""*
+5
+6*!
+8| |(""
+| |(#
+""*¼
+9| |(¤
+¡
+| |(
+%0boolean"	__compare*
+| |(
+==*B
+| |(64
+2com.simplecity.amp_library.ui.modelviews.GenreView*#
+| |(
+
+ojava.lang.Object*
+7
+8*%
+1
+ (W"
+
+ (W
+"":!
+{ {("
+ojava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.GenreViewHX

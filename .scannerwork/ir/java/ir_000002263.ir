@@ -1,8 +1,269 @@
-[this ("Gcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityExtraLarge"ª!
-
- ("#unknown-value#.
+
+	255int
+255.0ffloat
+24int
+(2.2double
+16int
+B1.0double
+
+8intHthis$ $("4com.simplecity.amp_library.utils.color.ArgbEvaluatorfraction$ $(-"float*
+startValue$/ $(@"java.lang.Object(endValue$B $(Q"java.lang.Object"õ'8
+6
+% %(/startInt"#cast#:Bjava.lang.Integer)
+'
+& &(+"
+#binop >>#2>>:Bint)
+'
+& &(+"
+#binop >>#2>>:Bint'
+%
+& &(3
+"	#binop &#2&:	Bint6
+4
+& &(=startA"#dependent-value#:
+Bfloat)
+'
+' '(+"
+#binop >>#2>>:Bint)
+'
+' '(+"
+#binop >>#2>>:Bint'
+%
+' '(3"	#binop &#2&:	Bint6
+4
+' '(=startR"#dependent-value#:Bfloat)
+'
+( ((*"
+#binop >>#2>>:Bint)
+'
+( ((*"
+#binop >>#2>>:Bint'
+%
+( ((2"	#binop &#2&:	Bint6
+4
+( ((<startG"#dependent-value#:Bfloat'
+%
+) )(+"	#binop &#2&:	Bint6
+4
+) )(5startB"#dependent-value#:Bfloat6
+4
++ +(+endInt"#cast#:Bjava.lang.Integer)
+'
+, ,('"
+#binop >>#2>>:Bint)
+'
+, ,('"
+#binop >>#2>>:Bint'
+%
+, ,(/"	#binop &#2&:	Bint4
+2
+, ,(9endA"#dependent-value#:Bfloat)
+'
+- -('"
+#binop >>#2>>:Bint)
+'
+- -('"
+#binop >>#2>>:Bint'
+%
+- -(/ "	#binop &#2&:	Bint4
+2
+- -(9!endR"#dependent-value#: Bfloat)
+'
+. .(&""
+#binop >>#2>>:Bint)
+'
+. .(&#"
+#binop >>#2>>:Bint'
+%
+. .(.$"	#binop &#2&:#	Bint4
+2
+. .(8%endG"#dependent-value#:$Bfloat'
+%
+/ /('&"	#binop &#2&:	Bint4
+2
+/ /(1'endB"#dependent-value#:&Bfloat>
+<
+2 2(2)"
+java.lang.Mathpow(DD)D*2pow:(Bdouble*
+(
+2 2(2*startR"#cast#:)Bfloat>
+<
+3 3(2+"
+java.lang.Mathpow(DD)D*2pow:(Bdouble*
+(
+3 3(2,startG"#cast#:+Bfloat>
+<
+4 4(2-"
+java.lang.Mathpow(DD)D*2pow:(Bdouble*
+(
+4 4(2.startB"#cast#:-Bfloat>
+<
+6 6(./"
+java.lang.Mathpow(DD)D*2pow:!(Bdouble(
+&
+6 6(.0endR"#cast#:/Bfloat>
+<
+7 7(.1"
+java.lang.Mathpow(DD)D*2pow:%(Bdouble(
+&
+7 7(.2endG"#cast#:1Bfloat>
+<
+8 8(.3"
+java.lang.Mathpow(DD)D*2pow:'(Bdouble(
+&
+8 8(.4endB"#cast#:3Bfloat.
 ,
- ("#get-field# id:B	!Unknown!E
-C
- (-"'%#get-field# widget_layout_extra_large:B	!Unknown!
- (.*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityExtraLarge.java
+;+ ;(85"#dependent-value#:Bfloat.
+,
+; ;(96"#dependent-value#:5Bfloat,
+*
+; ;(97a"	#binop +#2+:6Bfloat.
+,
+<+ <(88"#dependent-value#:0*Bfloat.
+,
+< <(99"#dependent-value#:8Bfloat,
+*
+< <(9:r"	#binop +#2+:*9Bfloat.
+,
+=+ =(8;"#dependent-value#:2,Bfloat.
+,
+= =(9<"#dependent-value#:;Bfloat,
+*
+= =(9=g"	#binop +#2+:,<Bfloat.
+,
+>+ >(8>"#dependent-value#:4.Bfloat.
+,
+> >(9?"#dependent-value#:>Bfloat,
+*
+> >(9@b"	#binop +#2+:.?Bfloat1
+/
+A A(Aa"#dependent-value#:7Bfloat/
+-
+B$ B(-C"#dependent-value#:B(Bdouble>
+<
+B B(.D"
+java.lang.Mathpow(DD)D*2pow::CBdouble"
+ 
+B B(.E"#cast#:DBfloat1
+/
+B B(7Fr"#dependent-value#:EBfloat/
+-
+C$ C(-G"#dependent-value#:B(Bdouble>
+<
+C C(.H"
+java.lang.Mathpow(DD)D*2pow:=GBdouble"
+ 
+C C(.I"#cast#:HBfloat1
+/
+C C(7Jg"#dependent-value#:IBfloat/
+-
+D$ D(-K"#dependent-value#:B(Bdouble>
+<
+D D(.L"
+java.lang.Mathpow(DD)D*2pow:@KBdouble"
+ 
+D D(.M"#cast#:LBfloat1
+/
+D D(7Nb"#dependent-value#:MBfloat=
+;
+F F( O"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&P"
+#binop <<#2<<:OBint=
+;
+F F( Q"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&R"
+#binop <<#2<<:QBint=
+;
+F) F(6S"
+java.lang.Math	round(F)I*2round:FBint)
+'
+F) F(<T"
+#binop <<#2<<:SBint'
+%
+F F(<U"	#binop |#2|:RTBint=
+;
+F F( V"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&W"
+#binop <<#2<<:VBint=
+;
+F F( X"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&Y"
+#binop <<#2<<:XBint=
+;
+F) F(6Z"
+java.lang.Math	round(F)I*2round:FBint)
+'
+F) F(<["
+#binop <<#2<<:ZBint'
+%
+F F(<\"	#binop |#2|:Y[Bint=
+;
+F? F(L]"
+java.lang.Math	round(F)I*2round:JBint)
+'
+F? F(Q^"
+#binop <<#2<<:]Bint'
+%
+F F(Q_"	#binop |#2|:\^Bint=
+;
+F F( `"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&a"
+#binop <<#2<<:`Bint=
+;
+F F( b"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&c"
+#binop <<#2<<:bBint=
+;
+F) F(6d"
+java.lang.Math	round(F)I*2round:FBint)
+'
+F) F(<e"
+#binop <<#2<<:dBint'
+%
+F F(<f"	#binop |#2|:ceBint=
+;
+F F( g"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&h"
+#binop <<#2<<:gBint=
+;
+F F( i"
+java.lang.Math	round(F)I*2round:ABint)
+'
+F F(&j"
+#binop <<#2<<:iBint=
+;
+F) F(6k"
+java.lang.Math	round(F)I*2round:FBint)
+'
+F) F(<l"
+#binop <<#2<<:kBint'
+%
+F F(<m"	#binop |#2|:jlBint=
+;
+F? F(Ln"
+java.lang.Math	round(F)I*2round:JBint)
+'
+F? F(Qo"
+#binop <<#2<<:nBint'
+%
+F F(Qp"	#binop |#2|:moBint=
+;
+FT F(aq"
+java.lang.Math	round(F)I*2round:NBint'
+%
+F F(ar"	#binop |#2|:pqBint
+F F(br*|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java

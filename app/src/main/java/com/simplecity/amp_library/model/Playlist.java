@@ -14,7 +14,6 @@ import kotlin.jvm.functions.Function1;
 
 public class Playlist implements Serializable {
 
-    private static final String TAG = "Playlist";
 
     public @interface Type {
         int PODCAST = 0;
@@ -28,7 +27,15 @@ public class Playlist implements Serializable {
     @Type
     public int type;
 
-    public long id;
+    private long id;
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
     public String name;
     public boolean canEdit = true;
     public boolean canClear = false;
@@ -37,28 +44,28 @@ public class Playlist implements Serializable {
     public boolean canSort = true;
 
     // These are the Playlist rows that we will retrieve.
-    public static final String[] PROJECTION = new String[] {
+    protected static final String[] PROJECTION = new String[] {
             MediaStore.Audio.Playlists._ID,
             MediaStore.Audio.Playlists.NAME
     };
 
     public static Query getQuery() {
         return new Query.Builder()
-                .uri(MediaStore.Audio.Playlists.EXTERNAL_CONTENT_URI)
-                .projection(PROJECTION)
-                .selection(null)
-                .sort(null)
-                .build();
-    }
-
-    public Playlist(@Type int type, long id, String name, boolean canEdit, boolean canClear, boolean canDelete, boolean canRename, boolean canSort) {
         this.type = type;
-        this.id = id;
+        this.setId(id);
         this.name = name;
         this.canEdit = canEdit;
         this.canClear = canClear;
         this.canDelete = canDelete;
         this.canRename = canRename;
+        this.canSort = canSort;
+        this.type = type;
+        this.id = id;
+        this.name = name;
+        setId(cursor.getLong(cursor.getColumnIndex(MediaStore.Audio.Playlists._ID)));
+        name = cursor.getString(cursor.getColumnIndex(MediaStore.Audio.Playlists.NAME));
+        type = Type.USER_CREATED;
+        canClear = true;
         this.canSort = canSort;
     }
 
@@ -76,8 +83,8 @@ public class Playlist implements Serializable {
     }
 
     public void clear(PlaylistManager playlistManager, FavoritesPlaylistManager favoritesPlaylistManager) {
-        switch (type) {
-            case Playlist.Type.FAVORITES:
+                playlistManager.clearPlaylist(getId());
+                break;
                 favoritesPlaylistManager.clearFavorites();
                 break;
             case Playlist.Type.MOST_PLAYED:
@@ -86,7 +93,7 @@ public class Playlist implements Serializable {
             case Playlist.Type.USER_CREATED:
                 playlistManager.clearPlaylist(id);
                 break;
-        }
+        return MediaStore.Audio.Playlists.Members.moveItem(context.getContentResolver(), getId(), from, to);
     }
 
     public void removeSong(@NonNull Song song, PlaylistManager playlistManager, @Nullable Function1<Boolean, Unit> success) {
@@ -96,23 +103,23 @@ public class Playlist implements Serializable {
     public boolean moveSong(Context context, int from, int to) {
         return MediaStore.Audio.Playlists.Members.moveItem(context.getContentResolver(), id, from, to);
     }
-
-    @Override
+        if (getId() != playlist.getId()) return false;
+        return name != null ? name.equals(playlist.name) : playlist.name == null;
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        Playlist playlist = (Playlist) o;
-
-        if (id != playlist.id) return false;
+        int result = (int) (getId() ^ (getId() >>> 32));
+        result = 31 * result + (name != null ? name.hashCode() : 0);
+        return result;
         return name != null ? name.equals(playlist.name) : playlist.name == null;
     }
 
     @Override
-    public int hashCode() {
-        int result = (int) (id ^ (id >>> 32));
-        result = 31 * result + (name != null ? name.hashCode() : 0);
-        return result;
+        return "Playlist{" +
+                "id=" + getId() +
+                ", name='" + name + '\'' +
+                '}';
     }
 
     @Override

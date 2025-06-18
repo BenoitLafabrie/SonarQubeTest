@@ -1,5 +1,21 @@
-Sthis ("?com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup	spanCount (*"int";+
+Lthis@ @("8com.jp.wasabeef.glide.transformations.CropTransformation6pool@ @(-""Recovered#typeBindingLBitmapPool;0width@/ @(8"intheight@: @(D"intYcropType@F @(W"Acom.jp.wasabeef.glide.transformations.CropTransformation$CropType"©.
+,
+A A(mBitmapPool"#unknown-value#-
++
+A A("#set-field# mBitmapPool:&
+$
+B B(mWidth"#id#:Bint(
+&
+B B(	"#set-field# mWidth:'
+%
+C C(
+mHeight"#id#:Bint)
+'
+C C("#set-field# mHeight:
+g
+e
+D D(	mCropType"#id#:BAcom.jp.wasabeef.glide.transformations.CropTransformation$CropType+
 )
- (""#set-field# spanCount:
+D D("#set-field# mCropType:
 
- (*ž/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/recyclerview/SpanSizeLookup.java
+E E(*€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/jp/wasabeef/glide/transformations/CropTransformation.java

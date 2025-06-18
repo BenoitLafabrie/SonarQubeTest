@@ -1,17 +1,7 @@
 
-Fcom.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()ZÑ
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÆ Æ(%"1*∆
-1
-Ø Ø(û
-õ
-
-Ø Ø(0
-%0java.lang.String"__id*o
-
-__unknown_file (S*Q2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_REMEMBER_SHUFFLE"
-
-Ø Ø(9
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+2com.afollestad.aesthetic.ColorIsDarkState#color()Iå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ColorIsDarkState.java$ $("1*!
+1% %("
+% %(
+""B-+
+)com.afollestad.aesthetic.ColorIsDarkStateHX

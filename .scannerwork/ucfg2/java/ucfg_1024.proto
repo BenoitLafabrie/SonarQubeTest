@@ -1,21 +1,15 @@
 
-ãcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java“ “("1*Ô
-1
-” ”(í
-è
-
-” ”(D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-paths"__id*5
-
-__unknown_file (
-
-pathsjava.util.List"I
-
-‘ ‘(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
-
-“ “(1
-pathsjava.util.ListB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+@com.simplecity.amp_library.services.DashClockService$1#<init>()V
+__unknown_file ("startingBlock*≥
+startingBlockÜ
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.javaHN H(O˜
+Ù
+Ü
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.javaHN H(O
+%0"BroadcastReceiver#<init>()V*F
+ (:8
+6com.simplecity.amp_library.services.DashClockService$1"û
+Ü
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.javaHN H(O
+implicit returnB:8
+6com.simplecity.amp_library.services.DashClockService$1

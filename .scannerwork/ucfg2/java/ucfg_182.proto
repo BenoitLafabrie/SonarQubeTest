@@ -1,99 +1,118 @@
 
-³com.simplecity.amp_library.ui.dialog.DeleteDialog#newInstance(Lcom/simplecity/amp_library/ui/dialog/DeleteDialog$ListAlbumsRef;)Lcom/simplecity/amp_library/ui/dialog/DeleteDialog;ƒ
-y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/dialog/DeleteDialog.javam m(*"startingBlock*Q
-2pc p(d=
-;
-	pc p(†
-%4"__id*"
-
-__unknown_file (
-
-%6*
-1*P
-3pF p(G<
-:
-pF p(`
-%4"__id*"
-
-__unknown_file (
-
-%5*
-1*á
-startingBlockm* m(I²
-¯
-m+ m(3
-%10"
-__annotate*'
-
-__unknown_file (	
-NonNull*g
-
-__unknown_file (K
-I
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRef‹
-ˆ
-mB m(HI
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRef"__annotation*#
-
-__unknown_file (
-
-%10*
-4*â
-4n n("P
-N
-o o(
-%0java.lang.String"__id*$
-
-__unknown_file (
-typeA
-?
-o o()	
-%1int"__id*"
-
-__unknown_file (
-""]
-[
-p p()
-%2java.lang.String"__id*1
-
-__unknown_file (
-delete_message_idW
-U
-p+ p(C
-%3"	__compare*
-p? p(A
+Gcom.simplecity.amp_library.glide.utils.Size#equals(Ljava/lang/Object;)Z}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/Size.java ("startingBlock*v
+2 &  (,b
+`
+ &  (;
+%6boolean"	__compare*
+ -  (/
 ==*
-p+ p(>
-""*
-pB p(C2*
+ &  (,
+""*
+ 0  (;
+""*
+1*÷
+3 (|
+z
+ (3
+size+com.simplecity.amp_library.glide.utils.Size"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectb
+`
+   ("
+%5boolean"	__compare*
+   (
+==*
+   (
+""*
+   ("
+""*
 2
-3*€
-1	p p(‡S
-Q
-q q('
-%7java.lang.String"__id*'
+1*€
+startingBlock (#ˆ
+…
+ (
+%7"
+__annotate*2
 
-__unknown_file (	
-artistsxv
-r$ r(07
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog"1com.simplecity.amp_library.ui.dialog.DeleteDialog§
-¤
-r  r(2
-%9";com.simplecity.amp_library.ui.dialog.DeleteDialog#<init>()V*U
+__unknown_file (
+java.lang.Override*3
 
-__unknown_file (9
-7
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog©
-¦
-r r(3=
-fragment1com.simplecity.amp_library.ui.dialog.DeleteDialog"__id*U
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+! ("
+ojava.lang.Object"__annotation*"
 
-__unknown_file (9
-7
-%81com.simplecity.amp_library.ui.dialog.DeleteDialog"K
-t t(?
-=
-fragment1com.simplecity.amp_library.ui.dialog.DeleteDialog:U
-m+ m(HI
-albums?com.simplecity.amp_library.ui.dialog.DeleteDialog$ListAlbumsRefB5"3
-1com.simplecity.amp_library.ui.dialog.DeleteDialogH
+__unknown_file (
+
+%7*
+8*!
+4< (A"
+5 (B
+""*á
+5 (!«¨
+ (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*K
+
+__unknown_file (/-
++com.simplecity.amp_library.glide.utils.Size2
+getClass()“
+' (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()…
+‚
+ (3
+%4boolean"	__compare*
+$ (&
+!=*#
+ (#
+
+%2java.lang.Class*#
+' (3
+
+%3java.lang.Class*
+3
+4*Š
+6 (s
+q
+ (
+%1boolean"	__compare*
+ (
+==*#
+ (
+
+ojava.lang.Object*
+ (
+""*
+4
+5*!
+7 (""
+ (#
+""*µ
+8 (
+š
+ (
+%0boolean"	__compare*
+ (
+==*;
+ (/-
++com.simplecity.amp_library.glide.utils.Size*#
+ (
+
+ojava.lang.Object*
+6
+7*!
+1   (<"
+   (<
+"":!
+ ("
+ojava.lang.ObjectB/-
++com.simplecity.amp_library.glide.utils.SizeHX

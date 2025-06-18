@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750241441845*java2.Bî
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750251116867*java2.Bé
 L
 Gapp/src/main/java/com/simplecity/amp_library/androidauto/CarHelper.java2
 
@@ -19,33 +19,31 @@ Gapp/src/main/java/com/simplecity/amp_library/androidauto/CarHelper.java2
 simple name11
 
 	CarHelper12
-:
-4com.simplecity.amp_library.androidauto.CarHelper.TAG14
-
-field15
+@
+:com.simplecity.amp_library.androidauto.CarHelper#<init>()V14
+
+method15
 
 private16
-	
-TAG17
+
+calls17
 N
 Hcom.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z19
-
-method20
 
-isCarUiMode21
+isCarUiMode20
 %
-Recovered#typeBindingLContext;023
+Recovered#typeBindingLContext;022
 
-unknown24
+unknown23
 
-	has param25
+	has param24
 
-is type26
+is type25
 
 
-uses27
+uses26
 +
-%Recovered#typeBindingLUiModeManager;029J
+%Recovered#typeBindingLUiModeManager;028J
 
 1
 12Z
@@ -53,8 +51,8 @@ Hcom.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z19
 3	
 354jç
 
-22
-222324
+21
+212223
 9
 64
 678 *
@@ -67,6 +65,20 @@ Hcom.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z19
 11
 12
 @
+18:
+181915 *
+1 (26:3B
+	
+9
+10
+
+
+11
+20
+
+27
+272823
+@
 13:
 131415 *
 1 (26:3B
@@ -76,36 +88,25 @@ Hcom.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z19
 
 
 11
-17
-@
-18:
-181920 *
-1 (26:3B
-	
-9
-10
-
-
-11
-21
-
-28
-282924r¢
+12r¼
+
+13617*
+1 (
 
-182225*
-1' (.
+182124*
+1' (.
 
-182226*
-1/ (0
+182125*
+1/ (0
 
-182227*
-1' (.
+182126*
+1' (.
 
-182826*
-1 ($
+182725*
+1 ($
 
-182827*
-1	 (
+182726*
+1	 (
 
-182827*
-1( (5
+182726*
+1( (5

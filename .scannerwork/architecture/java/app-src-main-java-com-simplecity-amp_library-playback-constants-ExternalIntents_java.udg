@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750241441266*java2.B±
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750251116573*java2.B¦	
 Y
 Tapp/src/main/java/com/simplecity/amp_library/playback/constants/ExternalIntents.java2
 
@@ -8,8 +8,9 @@ Tapp/src/main/java/com/simplecity/amp_library/playback/constants/ExternalIntents
 -com.simplecity.amp_library.playback.constants5
 B
 =com.simplecity.amp_library.playback.constants.ExternalIntents7
-
-	interface8
+
+
+class8
 
 access9
 
@@ -18,89 +19,86 @@ B
 simple name11
 
 ExternalIntents12
-W
-Qcom.simplecity.amp_library.playback.constants.ExternalIntents.PLAY_STATUS_REQUEST14
-
-field15
-
-PLAY_STATUS_REQUEST16
-X
-Rcom.simplecity.amp_library.playback.constants.ExternalIntents.PLAY_STATUS_RESPONSE18
-
-PLAY_STATUS_RESPONSE19
-\
-Vcom.simplecity.amp_library.playback.constants.ExternalIntents.AVRCP_PLAY_STATE_CHANGED21
-
-AVRCP_PLAY_STATE_CHANGED22
-V
-Pcom.simplecity.amp_library.playback.constants.ExternalIntents.AVRCP_META_CHANGED24
-
-AVRCP_META_CHANGED25
-J
-Dcom.simplecity.amp_library.playback.constants.ExternalIntents.TASKER27
-
-TASKER28
 M
-Gcom.simplecity.amp_library.playback.constants.ExternalIntents.SCROBBLER30
-
-	SCROBBLER31
-J
-Dcom.simplecity.amp_library.playback.constants.ExternalIntents.PEBBLE33
+Gcom.simplecity.amp_library.playback.constants.ExternalIntents#<init>()V14
 
-PEBBLE34J
+method15
+
+private16
+
+calls17
+W
+Qcom.simplecity.amp_library.playback.constants.ExternalIntents.PLAY_STATUS_REQUEST19
+
+field20
+
+PLAY_STATUS_REQUEST21
+X
+Rcom.simplecity.amp_library.playback.constants.ExternalIntents.PLAY_STATUS_RESPONSE23
+
+PLAY_STATUS_RESPONSE24
+\
+Vcom.simplecity.amp_library.playback.constants.ExternalIntents.AVRCP_PLAY_STATE_CHANGED26
+
+AVRCP_PLAY_STATE_CHANGED27
+V
+Pcom.simplecity.amp_library.playback.constants.ExternalIntents.AVRCP_META_CHANGED29
+
+AVRCP_META_CHANGED30
+J
+Dcom.simplecity.amp_library.playback.constants.ExternalIntents.TASKER32
+
+TASKER33
+M
+Gcom.simplecity.amp_library.playback.constants.ExternalIntents.SCROBBLER35
+
+	SCROBBLER36
+J
+Dcom.simplecity.amp_library.playback.constants.ExternalIntents.PEBBLE38
+
+PEBBLE39J
 
 1
 12Z
 
 3	
-354j‰
+354jË
 @
-29:
-293015 *
-1 (26:3B
+34:
+343520 *
+1 (26:3B
 	
 9
 10
 
 
 11
-31
+36
 @
-32:
-323315 *
-1 (26:3B
+37:
+373820 *
+1 (26:3B
 	
 9
 10
 
 
 11
-34
+39
 @
-17:
-171815 *
-1 (26:3B
+22:
+222320 *
+1 (26:3B
 	
 9
 10
 
 
 11
-19
+24
 @
-13:
-131415 *
-1 (26:3B
-	
-9
-10
-
-
-11
-16
-@
-20:
-202115 *
+18:
+181920 *
 1	 	(26:3B
 	
 9
@@ -108,10 +106,10 @@ Dcom.simplecity.amp_library.playback.constants.ExternalIntents.PEBBLE33
 
 
 11
-22
+21
 @
-26:
-262715 *
+25:
+252620 *
 1 (26:3B
 	
 9
@@ -119,11 +117,22 @@ Dcom.simplecity.amp_library.playback.constants.ExternalIntents.PEBBLE33
 
 
 11
-28
+27
+@
+31:
+313220 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
 9
 64
 678 *
-1 (!:3B
+1 (#:3B
 	
 9
 10
@@ -132,13 +141,27 @@ Dcom.simplecity.amp_library.playback.constants.ExternalIntents.PEBBLE33
 11
 12
 @
-23:
-232415 *
-1 (26:3B
+28:
+282920 *
+1 (26:3B
 	
 9
 10
 
 
 11
-25
+30
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+12r
+
+13617*
+1 (

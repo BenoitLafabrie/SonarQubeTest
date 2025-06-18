@@ -1,44 +1,22 @@
 
-Hcom.simplecity.amp_library.ui.views.PlayPauseDrawable#%field_initializer
-__unknown_file ("1*è
-
-1 (ë
-è
-‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java% %($B7
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable"
-color"__id*
+Vcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#%field_initializer
+__unknown_file ("1*ç
+1 (Ž
+‹
+–
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java= =(HVE
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
+disposables"__id*
  (
-""ó
-ð
-‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java' '(2J7
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable"
-mLeftPauseBar"__id*
+""–
+“
+˜
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaÐ ù(\E
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"
+playerViewAdapter"__id*
  (
-""ô
-ñ
-‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java( ((3K7
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable"
-mRightPauseBar"__id*
- (
-""ì
-é
-‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java) )(-C7
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable"
-mPaint"__id*
- (
-""í
-ê
-‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java* *(.D7
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable"	
-mBounds"__id*
- (
-"""ž
-†
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java ´(
-implicit returnB97
-5com.simplecity.amp_library.ui.views.PlayPauseDrawable
+"""­
+•
+‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.java% ú(
+implicit returnBGE
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment

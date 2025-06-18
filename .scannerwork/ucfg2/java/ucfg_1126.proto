@@ -1,39 +1,15 @@
 
-Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer
-__unknown_file ("1*ç
-1 (ó
-î
-¶
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ()Q>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-enableLogging"__id*
- (2û
-õ
-¶
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java  (1V>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-setItemsDisposable"__id*
- (
-""‹Ÿ
-¶
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%' %(2
-%0java.util.ArrayList"java.util.ArrayList˙
-˜
-¶
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java%# %(4
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList¶
-£
-¶
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java% %(5I>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"
-items"__id*'
- (
-
-%0java.util.ArrayList"Ω
-•
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java ú(
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
+6com.afollestad.aesthetic.AestheticCardView$1#<init>()V
+__unknown_file ("startingBlock*µ
+startingBlockç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()Î
+Ë
+ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()
+%0"Consumer#<init>()V*<
+ (0.
+,com.afollestad.aesthetic.AestheticCardView$1"•
+ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()
+implicit returnB0.
+,com.afollestad.aesthetic.AestheticCardView$1

@@ -1,18 +1,8 @@
-8context
-‘3 ‘(B"Recovered#typeBindingLContext;04album
-‘D ‘(X"Recovered#typeBindingLAlbum;0"´#
-!
-
-’$ ’(+"#unknown-value##
-!
-
-’- ’(2"#unknown-value#0
-.
-
-’- ’(5"#get-field# id:B	!Unknown!£
- 
-
-’ ’(6"k
--com.simplecity.amp_library.utils.ArtworkUtils:getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;2getMediaStoreArtwork:B	!Unknown!
-
-’ ’(7*u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java
+Fthis; ;("2com.simplecity.amp_library.ui.modelviews.GenreView"¨!
+
+< <("#unknown-value#2
+0
+< <("#get-field# layout:B	!Unknown!?
+=
+< <(+"!#get-field# list_item_two_lines:B	!Unknown!
+< <(,*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java

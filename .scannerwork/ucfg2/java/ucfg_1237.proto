@@ -1,59 +1,57 @@
 
-Kcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#hashCode()I’
-‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.javaU U("4*Z
-2VH V(IF
-D
-VH V(I	
-%2int"__id*'
+fcom.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SleepTimer.java$ $(("3*Â
+2& &('lj
+& &(%1
+%2+com.simplecity.amp_library.utils.SleepTimer"+com.simplecity.amp_library.utils.SleepTimer›
+˜
+& &('
+%3"5com.simplecity.amp_library.utils.SleepTimer#<init>()V*O
 
-__unknown_file (
-	
-%4int*
-1*Ò
-3V* V(:Î
-Ë
-V* V(:B
-%5<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"__id*u
-
-__unknown_file (Y*WA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"
-viewModelAdapter¤¡
-V* V(E	
-%3int"java.lang.Object#hashCode()I*`
-
-__unknown_file (D
-B
-%5<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter2
-hashCode()F
-D
-V* V(E	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-1*Š
-4V V(Î
-Ë
-V V(B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"__id*u
-
-__unknown_file (Y*WA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"
-viewModelAdapter¡
+__unknown_file (3
+1
+%2+com.simplecity.amp_library.utils.SleepTimer¡
 ž
-V V('
+& &(';-
++com.simplecity.amp_library.utils.SleepTimer"
+
+instance"__id*O
+
+__unknown_file (3
+1
+%2+com.simplecity.amp_library.utils.SleepTimer*
+1*Ì
+3% %(¡
+ž
+% %(1
+%0+com.simplecity.amp_library.utils.SleepTimer"__id*Y
+
+__unknown_file (=*;-
++com.simplecity.amp_library.utils.SleepTimer"
+
+instance
+
+% %(
 %1boolean"	__compare*
-V  V("
-!=*P
-V V(D
-B
-%0<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter*
-V# V('
+% %(
+==*?
+% %(3
+1
+%0+com.simplecity.amp_library.utils.SleepTimer*
+% %(
 ""*
 2
-3*!
-1V V(J"
-V V(J
-""BCA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX
+1*ò
+1( ((¡
+ž
+( ((1
+%4+com.simplecity.amp_library.utils.SleepTimer"__id*Y
+
+__unknown_file (=*;-
++com.simplecity.amp_library.utils.SleepTimer"
+
+instance"?
+( ((3
+1
+%4+com.simplecity.amp_library.utils.SleepTimerB/"-
++com.simplecity.amp_library.utils.SleepTimerH

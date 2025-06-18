@@ -20,6 +20,8 @@ import org.jaudiotagger.tag.TagException;
  */
 public class TagInfo implements Serializable {
 
+    private static final String UNKNOWN = "Unknown";
+
     public String artistName;
     public String albumArtistName;
     public String albumName;
@@ -69,8 +71,8 @@ public class TagInfo implements Serializable {
                     }
                 }
             }
-        } catch (UnsupportedOperationException ignored) {
-        }
+        return UNKNOWN;
+    }
         return "Unknown";
     }
 

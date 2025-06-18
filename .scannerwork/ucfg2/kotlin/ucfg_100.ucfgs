@@ -1,26 +1,26 @@
 Ñ
 Ccom.simplecity.amp_library.di.app.activity.ActivityModule#<init>()V‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt	 ("0*<
-0	 	("/
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*<
+0 ("/
 
 __unknown_file (
 implicit returnB=;
 9com.simplecity.amp_library.di.app.activity.ActivityModuleH˜
 acom.simplecity.amp_library.di.app.activity.ActivityModule#activity(LAppCompatActivity;)LActivity;‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
-0 ("*
- (
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*9
+0 ("*
+ (
 
 activityjava.lang.Object:(
- (,
+ (,
 activityjava.lang.ObjectB=;
 9com.simplecity.amp_library.di.app.activity.ActivityModuleH´
 ocom.simplecity.amp_library.di.app.activity.ActivityModule#fragmentManager(LAppCompatActivity;)LFragmentManager;‰
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
-0 ("8
- (.,
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/di/app/activity/ActivityModule.kt ("0*G
+0 ("8
+ (.,
 *
 supportFragmentManagerjava.lang.Object:(
- (3
+ (3
 activityjava.lang.ObjectB=;
 9com.simplecity.amp_library.di.app.activity.ActivityModuleH

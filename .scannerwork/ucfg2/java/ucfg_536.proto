@@ -1,73 +1,15 @@
 
-5com.simplecity.amp_library.utils.AnimUtils#lerp(III)I|
-r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/AnimUtils.java	 	("1*Î
-1
- 
-(_
-]
-
- 
-(	
-%0int"__calculate*
-
- 
-(
--*
-
- 
-(
-""*
-
- 
-(
-""d
-b
-
- 
-(	
-%1int"__calculate*
-
- 
-(
-**
-
- 
-(
-	
-%0int*
-
- 
-(
-""d
-b
-
- 
-(	
-%2int"__calculate*
-
- 
-(
-+*
-
- 
-(
-""*
-
- 
-(
-	
-%1int"
-
- 
-(
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B.",
-*com.simplecity.amp_library.utils.AnimUtilsHX
+<com.afollestad.aesthetic.AestheticNavigationView$1#<init>()V
+__unknown_file ("startingBlock*Í
+startingBlock“
+ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()÷
+ô
+“
+ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()
+%0"Consumer#<init>()V*B
+ (64
+2com.afollestad.aesthetic.AestheticNavigationView$1"«
+“
+ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()
+implicit returnB64
+2com.afollestad.aesthetic.AestheticNavigationView$1

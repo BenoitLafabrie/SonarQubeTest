@@ -1,16 +1,15 @@
 
-Kcom.simplecity.amp_library.model.Album#getTagArtwork()Ljava/io/InputStream;z
-n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Album.javaÍ Í($"1*‚
-1
-Î Î(∫
-∑
-
-Î* Î(:
-%0java.lang.String"Icom.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;*F
-
-__unknown_file (*(
-&com.simplecity.amp_library.model.Album"
-
-Î Î(<
-""B*(
-&com.simplecity.amp_library.model.AlbumH
+5com.afollestad.aesthetic.AestheticSpinner$1#<init>()V
+__unknown_file ("startingBlock*±
+startingBlockå
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2È
+Ê
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2
+%0"Consumer#<init>()V*;
+ (/-
++com.afollestad.aesthetic.AestheticSpinner$1"§
+å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticSpinner.java81 8(2
+implicit returnB/-
++com.afollestad.aesthetic.AestheticSpinner$1

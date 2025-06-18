@@ -1,64 +1,37 @@
 
-Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;{
-q/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaw w("1*½
-1x x(^
-\
-x y(
-%0java.lang.String"__concat*
-x x(
-	Playlist{*
-y y(
-id=h
-f
-x y(
-%1java.lang.String"__concat*$
-x y(
-
-%0java.lang.String*
-y y(
-""n
-l
-x z(
-%2java.lang.String"__concat*$
-x y(
-
-%1java.lang.String*
-z z(
-
-, name='
-}
-z z(!
-%3java.lang.String"__id*S
+Gcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#hashCode()IŽ
+ƒ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/QueuePagerItemView.javaT T("4*U
+2U0 U(1A
+?
+U0 U(1
+%1"__id*'
 
-__unknown_file (7*5+
-)com.simplecity.amp_library.model.Playlist"
-namez
-x
-x z(!
-%4java.lang.String"__concat*$
-x z(
-
-%2java.lang.String*$
-z z(!
-
-%3java.lang.Stringh
-f
-x z((
-%5java.lang.String"__concat*$
-x z(!
-
-%4java.lang.String*
-z$ z((
-\'g
-e
-x {(
-%6java.lang.String"__concat*$
-x z((
-
-%5java.lang.String*
-{ {(
-}"$
-x {(
-
-%6java.lang.StringB-+
-)com.simplecity.amp_library.model.PlaylistH
+__unknown_file (
+	
+%3int*
+1*P
+3U U("<
+:
+U U(-
+%1"__id*"
+
+__unknown_file (
+
+%2*
+1*p
+4U U(Y
+W
+U U(
+%0"	__compare*
+U U(
+!=*
+U U(
+""*
+U U(
+""*
+2
+3*!
+1U U(2"
+U U(2
+""B?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemViewHX

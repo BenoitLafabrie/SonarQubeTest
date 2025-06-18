@@ -760,11 +760,7 @@ AlistPlaylists(Ljava/lang/String;Lkotlin/jvm/functions/Function1;)wcom.simpleci
 MlistSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)Écom.simplecity.amp_library.androidauto.MediaIdHelper#listSongs(Ljava/lang/String;Ljava/lang/Long;Lkotlin/jvm/functions/Function1;)V±
  parseMediaId(Ljava/lang/String;)åcom.simplecity.amp_library.androidauto.MediaIdHelper#parseMediaId(Ljava/lang/String;)Lcom/simplecity/amp_library/androidauto/MediaIdWrapper;Ç
 toMediaItem(Ljava/lang/String;)_com.simplecity.amp_library.androidauto.MediaIdHelper#toMediaItem(Ljava/lang/String;)LMediaItem;O
-;com.simplecity.amp_library.data.Repository$GenresRepositoryjava.lang.Object:
-kotlin.Throwablejava.io.Serializablejava.lang.Object*
-java.lang.Exceptionjava.lang.Throwable1
-java.lang.RuntimeExceptionjava.lang.Exception=
-java.lang.IllegalStateExceptionjava.lang.RuntimeException#
+;com.simplecity.amp_library.data.Repository$GenresRepositoryjava.lang.Object#
 kotlin.Functionjava.lang.Object#
 kotlin.Function1kotlin.FunctionU
 Acom.simplecity.amp_library.ui.screens.songs.list.SongListContractjava.lang.Objectê
@@ -1375,7 +1371,8 @@ Bcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenterKcom.simplec
 setSongsAscending(Z)Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsAscending(Z)Vp
 setSongsSortOrder(I)Xcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#setSongsSortOrder(I)V`
 shuffleAll()Pcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#shuffleAll()Vµ
-ócom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)òcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)VP
+ócom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)òcom.simplecity.amp_library.ui.screens.songs.list.SongListPresenter#unbindView(Lcom/simplecity/amp_library/ui/screens/songs/list/SongListContract$View;)V:
+kotlin.Throwablejava.io.Serializablejava.lang.ObjectP
 <com.simplecity.amp_library.playback.LocalPlayback$AudioFocusjava.lang.ObjectÎ
 Kcom.simplecity.amp_library.playback.LocalPlayback#<init>(LContext;)V$class0java.lang.Objectâ
 onReceive(LContext;LIntent;)icom.simplecity.amp_library.playback.LocalPlayback#<init>(LContext;)V$class0#onReceive(LContext;LIntent;)VL

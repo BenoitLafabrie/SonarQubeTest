@@ -1,10 +1,9 @@
-=this
- (")com.afollestad.aesthetic.BgIconColorStatebgColor (0"intJiconTitleColor2 (U",Recovered#typeBindingLActiveInactiveColors;0"é)
-'
- ("#set-field# bgColor:!
-
- (("#unknown-value#0
-.
- (("#set-field# iconTitleColor:
+$foregroundColor
+—, —(?"int$backgroundColor
+—A —(T"int"®ì
+ê
 
- (*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/BgIconColorState.java
+“ “(W"a
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatcalculateContrast(II)D2calculateContrast:Bdouble
+
+“ “(X*z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java

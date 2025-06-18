@@ -1,17 +1,17 @@
 
-Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()I„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java« «("1*Ã
-1
-¬ ¬(›
-˜
-
-¬ ¬(,
-%0java.lang.String"__id*l
+Rcom.simplecity.amp_library.sql.legacy.BlacklistedSong#toString()Ljava/lang/String;‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/BlacklistedSong.java ("1*à
+1 (ª
+§
+ (%
+%0java.lang.String"-java.lang.String#valueOf(J)Ljava/lang/String;*0
 
-__unknown_file (P*N2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_PRIMARY_COLOR"
-
-¬ ¬(2
-""B42
-0com.simplecity.amp_library.utils.SettingsManagerHX
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+"""$
+ (&
+
+%0java.lang.StringB97
+5com.simplecity.amp_library.sql.legacy.BlacklistedSongH

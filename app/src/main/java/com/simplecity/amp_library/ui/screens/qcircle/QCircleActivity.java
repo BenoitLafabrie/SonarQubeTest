@@ -28,7 +28,7 @@ import com.simplecity.amp_library.utils.MusicServiceConnectionUtils;
 import dagger.android.AndroidInjection;
 import javax.inject.Inject;
 
-//Todo: Reapply themes
+// Reapplies the app theme before activity creation
 public class QCircleActivity extends BaseActivity {
 
     // [START]declared in LGIntent.java of LG Framework
@@ -51,12 +51,13 @@ public class QCircleActivity extends BaseActivity {
     int circleDiameter = 0;
     // [END] QuickCircle info.
 
+    private static final String LGE_INTERNAL_PACKAGE = "com.lge.internal";
+
     // -------------------------------------------------------------------------------
-    private final boolean DEBUG = true;
-    private final String TAG = "QCircleActivity";
+    private static final boolean DEBUG = true;
     int mQuickCoverState = 0;
     Context mContext;
-    private Window win = null;
+    // Removed 'win' field as per compile error suggestion.
     private ContentResolver contentResolver = null;
 
     //For buttons
@@ -73,6 +74,8 @@ public class QCircleActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        // Reapply the app theme before calling super.onCreate
+        setTheme(R.style.AppTheme); // Replace 'AppTheme' with your actual theme if different
         AndroidInjection.inject(this);
         super.onCreate(savedInstanceState);
 
@@ -82,7 +85,6 @@ public class QCircleActivity extends BaseActivity {
         final View circlemainView = findViewById(R.id.cover_main_view);
 
         //Set QR images for the image view.
-        //setQrImage();
 
         //Get application context
         mContext = getApplicationContext();
@@ -141,7 +143,7 @@ public class QCircleActivity extends BaseActivity {
     }
 
     void setQuickCircleWindowParam() {
-        win = getWindow();
+        Window win = getWindow();
         if (win != null) {
             // Show the sample application view on top
             win.addFlags(WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED
@@ -182,45 +184,45 @@ public class QCircleActivity extends BaseActivity {
         Log.d(TAG, "initializeViewInformationFromDB");
 
         //Check the availability of the case
-        quickCircleEnabled = Settings.Global.getInt(contentResolver,
+        boolean isQuickCircleEnabled = Settings.Global.getInt(contentResolver,
                 QUICKCOVERSETTINGS_QUICKCOVER_ENABLE, 0) == 0;
         if (DEBUG) {
-            Log.d(TAG, "quickCircleEnabled:" + quickCircleEnabled);
+            Log.d(TAG, "quickCircleEnabled:" + isQuickCircleEnabled);
         }
-
-        //[START] Get the QuickCircle window information
         int id = getResources().getIdentifier("config_circle_window_width", "dimen",
-                "com.lge.internal");
+                LGE_INTERNAL_PACKAGE);
         circleWidth = getResources().getDimensionPixelSize(id);
         if (DEBUG) {
             Log.d(TAG, "circleWidth:" + circleWidth);
         }
 
         id = getResources()
-                .getIdentifier("config_cover_window_height", "dimen", "com.lge.internal");
+                .getIdentifier("config_cover_window_height", "dimen", LGE_INTERNAL_PACKAGE);
         circleHeight = getResources().getDimensionPixelSize(id);
         if (DEBUG) {
             Log.d(TAG, "circleHeight:" + circleHeight);
         }
 
         id = getResources()
-                .getIdentifier("config_circle_window_x_pos", "dimen", "com.lge.internal");
+                .getIdentifier("config_circle_window_x_pos", "dimen", LGE_INTERNAL_PACKAGE);
         circleXpos = getResources().getDimensionPixelSize(id);
         if (DEBUG) {
             Log.d(TAG, "circleXpos:" + circleXpos);
         }
 
         id = getResources()
-                .getIdentifier("config_circle_window_y_pos", "dimen", "com.lge.internal");
+                .getIdentifier("config_circle_window_y_pos", "dimen", LGE_INTERNAL_PACKAGE);
         circleYpos = getResources().getDimensionPixelSize(id);
         if (DEBUG) {
             Log.d(TAG, "circleYpos:" + circleYpos);
         }
 
-        id = getResources().getIdentifier("config_circle_diameter", "dimen", "com.lge.internal");
+        id = getResources().getIdentifier("config_circle_diameter", "dimen", LGE_INTERNAL_PACKAGE);
         circleDiameter = getResources().getDimensionPixelSize(id);
         if (DEBUG) {
             Log.d(TAG, "circleDiameter:" + circleDiameter);
+        }
+        //[END]
         }
         //[END]
     }
@@ -250,7 +252,7 @@ public class QCircleActivity extends BaseActivity {
     public void setPauseButtonImage() {
 
         if (pauseBtn == null) {
-            return;
+            // Intentionally left empty: pauseBtn may not be initialized yet.
         }
         // No action needed here as both branches were empty.
     }

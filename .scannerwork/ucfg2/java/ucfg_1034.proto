@@ -1,22 +1,57 @@
 
-‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#disc(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java‰ ‰("1*÷
-1
-Š Š( š
-—
-
-Š Š( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-discText"__id*:
+”com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java( (3"3*Î
+2 (2›˜
+ (0H
+%2Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerÉ
+Æ
+ (2
+%3"Lcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#<init>()V*f
 
-__unknown_file (
-
-discTextjava.lang.String"I
+__unknown_file (J
+H
+%2Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerÏ
+Ì
+ (2RD
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
 
-‹ ‹(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
+instance"__id*f
+
+__unknown_file (J
+H
+%2Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager*
+1*‘
+3 (Ï
+Ì
+ (H
+%0Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"__id*p
+
+__unknown_file (T*RD
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
 
-‰ ‰(*
-discTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+instance§
+¤
+ (
+%1boolean"	__compare*
+ (
+==*V
+ (J
+H
+%0Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager*
+ (
+""*
+2
+1*·
+1 (Ï
+Ì
+ (H
+%4Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"__id*p
+
+__unknown_file (T*RD
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
+
+instance"V
+ (J
+H
+%4Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerBF"D
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerH

@@ -1,21 +1,21 @@
 
-Šcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#title(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaæ æ("1*ù
-1
-ç ç("œ
-™
-
-ç ç("H9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-	titleText"__id*;
-
-__unknown_file (
-
-	titleTextjava.lang.String"I
-
-è è(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:+
-
-æ æ(,
-	titleTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+>com.simplecity.amp_library.services.DashClockService#<init>()V
+__unknown_file ("startingBlock*Î
+startingBlock„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (Ÿ
+œ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
+%0"Gcom.simplecity.amp_library.services.DashClockService#%field_initializer*D
+ (86
+4com.simplecity.amp_library.services.DashClockServiceô
+ñ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
+%1"DashClockExtension#<init>()V*D
+ (86
+4com.simplecity.amp_library.services.DashClockService"œ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/DashClockService.java (
+implicit returnB86
+4com.simplecity.amp_library.services.DashClockService

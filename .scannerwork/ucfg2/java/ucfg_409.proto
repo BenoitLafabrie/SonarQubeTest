@@ -1,34 +1,17 @@
 
-Fandroid.support.design.widget.CustomCollapsingTextHelper#setState([I)Z
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/android/support/design/widget/CustomCollapsingTextHelper.javaÖ Ö(!"3*õ
-2
-Ú Ú(ÍÊ
-
-Ú Ú(
-
-%1void"Gandroid.support.design.widget.CustomCollapsingTextHelper#recalculate()V*X
-
-__unknown_file (<:
-8android.support.design.widget.CustomCollapsingTextHelper2recalculate()"
-
-Û Û(
-""*è
-3
-× ×(ÎË
-
-Ù Ù(
-%0boolean"Fandroid.support.design.widget.CustomCollapsingTextHelper#isStateful()Z*X
-
-__unknown_file (<:
-8android.support.design.widget.CustomCollapsingTextHelper2isStateful()*
-2
-1*%
+Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
 1
-Ş Ş("
+   (¦
+£
 
-Ş Ş(
-"": 
+   (8
+%0java.lang.String"__id*w
 
-__unknown_file (
-""B<:
-8android.support.design.widget.CustomCollapsingTextHelperHX
+__unknown_file ([*Y2
+0com.simplecity.amp_library.utils.SettingsManager"#
+!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
+
+   (A
+""B42
+0com.simplecity.amp_library.utils.SettingsManagerHX

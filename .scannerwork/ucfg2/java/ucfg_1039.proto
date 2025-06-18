@@ -1,21 +1,7 @@
 
-Êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¢ ¢("1*Á
-1
-£% £(-ä
-á
-
-£ £(-T9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-tagCompletionListener"__id*w
-
-__unknown_file ([
-Y
-listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
-
-¤ ¤(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
-
-¢ ¢(=Y
-listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+Bcom.simplecity.amp_library.ui.modelviews.ArtworkView#isSelected()Z†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ArtworkView.javaN N("1*!
+1O O("
+O O(
+""B86
+4com.simplecity.amp_library.ui.modelviews.ArtworkViewHX
