@@ -291,7 +291,7 @@ final class EdgeGlowUtil {
         EDGE_EFFECT_COMPAT_FIELD_EDGE_EFFECT.setAccessible(true);
         edgeEffect = EDGE_EFFECT_COMPAT_FIELD_EDGE_EFFECT.get(edgeEffect);
       } catch (IllegalAccessException e) {
-        e.printStackTrace();
+        if (BuildConfig.DEBUG) e.printStackTrace();
         return;
       }
     }
@@ -310,7 +310,7 @@ final class EdgeGlowUtil {
         mEdge.setCallback(null); // free up any references
         mGlow.setCallback(null); // free up any references
       } catch (Exception ex) {
-        ex.printStackTrace();
+        if (BuildConfig.DEBUG) ex.printStackTrace();
       }
     } else {
       // EdgeEffect

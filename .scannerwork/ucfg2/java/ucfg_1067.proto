@@ -1,21 +1,17 @@
 
-Žcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#discTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaˆ ˆ("1*
-1
-‰ ‰(*¤
-¡
-
-‰ ‰(*L9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-discTotalText"__id*?
+|com.simplecity.amp_library.model.Query$Builder#selection(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java* *( "1*Û
+1+ +(‹
+ˆ
++ +(?0
+.com.simplecity.amp_library.model.Query$Builder"
+	selection"__id*5
 
-__unknown_file (#
-!
-discTotalTextjava.lang.String"I
-
-Š Š(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:/
-
-ˆ  ˆ(4!
-discTotalTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+__unknown_file (
+
+valjava.lang.String">
+, ,(20
+.com.simplecity.amp_library.model.Query$Builder:#
+*! *(+
+valjava.lang.StringB20
+.com.simplecity.amp_library.model.Query$BuilderH

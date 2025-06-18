@@ -1,15 +1,9 @@
 
-<com.afollestad.aesthetic.AestheticNavigationView$1#<init>()V
-__unknown_file ("startingBlock*Í
-startingBlock“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()÷
-ô
-“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()
-%0"Consumer#<init>()V*B
- (64
-2com.afollestad.aesthetic.AestheticNavigationView$1"«
-“
-ˆ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticNavigationView.javaO( O()
-implicit returnB64
-2com.afollestad.aesthetic.AestheticNavigationView$1
+=com.simplecity.amp_library.playback.MusicService#isPlaying()Z„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MusicService.javaÍ Í("1*%
+1
+Î Î("
+
+Î Î(+
+""B42
+0com.simplecity.amp_library.playback.MusicServiceHX

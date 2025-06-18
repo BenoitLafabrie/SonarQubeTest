@@ -1,68 +1,15 @@
 
-\com.simplecity.amp_library.http.HttpServer#getMimeType(Ljava/lang/String;)Ljava/lang/String;~
-r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/HttpServer.javaË Ë("1*ç
-1
-Ì Ì(†
-ƒ
-
-Ì Ì(
-%0java.util.Map"__id*Z
-
-__unknown_file (>*<,
-*com.simplecity.amp_library.http.HttpServer"
-
-MIME_TYPESÍÊ
-
-Ì1 Ì(J	
-%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*:
-
-__unknown_file (
-
-filePathjava.lang.String*!
-
-__unknown_file (
-.2lastIndexOf(Ljava/lang/String;)j
-h
-
-Ì1 Ì(N	
-%2int"__calculate*
-
-ÌK Ì(L
-+*
-
-Ì1 Ì(J
-	
-%1int*
-
-ÌM Ì(N2ËÈ
-
-Ì Ì(O
-%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*:
-
-__unknown_file (
-
-filePathjava.lang.String*'
-
-__unknown_file (
-	
-%2int2substring(I)š
-—
-
-Ì Ì(P
-%4java.lang.String"__mapGet*1
-
-__unknown_file (
-
-%0java.util.Map*4
-
-__unknown_file (
-
-%3java.lang.String"&
-
-Ì Ì(Q
-
-%4java.lang.String:*
-
-Ë Ë(&
-filePathjava.lang.StringB.,
-*com.simplecity.amp_library.http.HttpServer
+Kcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$2#<init>()V
+__unknown_file ("startingBlock*ã
+startingBlock”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaúP ú(Q‹
+ˆ
+”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaúP ú(Q
+%0"SimpleTarget#<init>()V*Q
+ (EC
+Acom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$2"¬
+”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaúP ú(Q
+implicit returnBEC
+Acom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment$2

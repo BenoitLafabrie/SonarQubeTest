@@ -1,14 +1,12 @@
 
-Vcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#queueIdle()Z‹
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/InputMethodManagerLeaks.javaE E( "1*’
-1F F('î
-ë
-F F()
+E__sonar_lambda_85$com.simplecity.amp_library.playback.PlaybackManager‡
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.javaÙ Ù(S"1*%
+1
+Ù Ù($"
 
-%0void"hcom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner#clearInputMethodManagerLeak()V*i
+Ù Ù(S
+"": 
 
-__unknown_file (MK
-Icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleaner"
-G G(
-""BMK
-Icom.simplecity.amp_library.utils.InputMethodManagerLeaks$ReferenceCleanerHX
+__unknown_file (
+""B
+	!Unknown!

@@ -1,9 +1,21 @@
 
-Vcom.simplecity.amp_library.ui.screens.main.MainActivity#screenName()Ljava/lang/String;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java¿ ¿("1*/
-1
-À À("
-
-À À(
-MainActivityB;9
-7com.simplecity.amp_library.ui.screens.main.MainActivity
+Fcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#<init>()V
+__unknown_file ("startingBlock*è
+startingBlock¤
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (Ï
+Ì
+¤
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
+%0"Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer*L
+ (@>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapterž
+›
+¤
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
+%1"RecyclerView.Adapter#<init>()V*L
+ (@>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"¼
+¤
+›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
+implicit returnB@>
+<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter

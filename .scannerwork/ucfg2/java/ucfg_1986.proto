@@ -1,74 +1,17 @@
 
-Dcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#hashCode()I
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaÄ Ä("4*Y
-2
-ÅD Å(EC
-A
-
-ÅD Å(E
-%1"__id*'
-
-__unknown_file (
-	
-%3int*
-1*T
-3
-Å+ Å(6>
-<
-
-Å+ Å(A
-%1"__id*"
-
-__unknown_file (
-
-%2*
-1*z
-4
-Å Å( a
-_
-
-Å Å((
-%0"	__compare*
-
-Å! Å(#
-!=*
-
-Å Å( 
-""*
-
-Å$ Å((
-""*
-2
-3*ú
+Zcom.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java (,"1*±
 1
-Å Å(Fe
-c
+Ž( Ž(g‰
+†
 
-Æ Æ(	
-%4int"__calculate*
+Ž( Ž(g
+%0"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_165$com.simplecity.amp_library.utils.FileBrowser"
 
-Æ Æ(
-**
-
-Æ Æ(2*
-
-Æ Æ(
-""l
-j
-
-Æ Æ('	
-%5int"__calculate*
-
-Æ Æ(
-+*
-
-Æ Æ(
-	
-%4int*
-
-Æ Æ('
-"""
-
-Ç Ç(
-""B<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX
+Ž Ž(h
+
+%0B0.
+,com.simplecity.amp_library.utils.FileBrowser

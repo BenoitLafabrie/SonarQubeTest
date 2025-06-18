@@ -1,19 +1,99 @@
 
-Vcom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailAlbumsSortOrder()I†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java| |(-"1*´
-1} }(N
-L
-} }(5
-%0java.lang.String"__id*"
+Acom.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I‡
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java ("4*Z
+2E (FF
+D
+E (F	
+%5int"__id*'
 
-__unknown_file (
-""A
-?
-}7 }(H	
-%1int"__id*"
+__unknown_file (
+	
+%7int*
+1*ä
+31 (7Ž
+‹
+1 (7
+%8java.lang.String"__id*a
 
-__unknown_file (
-"""
-} }(J
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folderwu
+1 (B	
+%6int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%8java.lang.String2
+hashCode()F
+D
+1 (B	
+%5int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*Å
+4 (`
+^
+" (+
+
+%0long"__calculate*
+% ((
+>>>*
+" ($
+""*
+) (+2 f
+d
+ (,
+
+%1long"__calculate*
+ ( 
+^*
+ (
+""*
+! (,
+
+
+%0long]
+[
+ (	
+%2int"__calculate*
+ (
+**
+ (2*
+ (
+""Ž
+‹
+  (&
+%3java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+foldert
+r
+  (.
+%4boolean"	__compare*
+' ()
+!=*$
+  (&
+
+%3java.lang.String*
+* (.
+""*
+2
+3*Œ
+1 (Gi
+g
+ (G	
+%9int"__calculate*
+ (
++*
+ (
+	
+%2int*
+ (G
+	
+%5int"
+ (
+""B97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolderHX

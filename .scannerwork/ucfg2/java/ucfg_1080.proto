@@ -1,15 +1,17 @@
 
-Pcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1#<init>()V
-__unknown_file ("startingBlock*Ù
-startingBlockó
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7ñ
-ì
-ó
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
-%0"PagerSnapHelper#<init>()V*V
- (JH
-Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1"Ø
-ó
-å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
-implicit returnBJH
-Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1
+Vcom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#%field_initializer
+__unknown_file ("1*Ã
+1 (ç
+ä
+ñ
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay.java (MUE
+Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay"
+
+eventRelay"__id*
+ (
+"""¨
+î
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/multisheet/MultiSheetEventRelay.java
+ .(
+implicit returnBGE
+Ccom.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay

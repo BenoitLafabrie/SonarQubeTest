@@ -1,14 +1,21 @@
 
-xcom.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;†
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java$ (/"1*Ë
-1 (r
-p
- (:
-%04com.simplecity.amp_library.utils.color.ArgbEvaluator"__id*"
-
-__unknown_file (
-"""H
- (<
-:
-%04com.simplecity.amp_library.utils.color.ArgbEvaluatorB8"6
-4com.simplecity.amp_library.utils.color.ArgbEvaluatorH
+Ftest.com.androidnavigation.fragment.BaseNavigationController#<init>()V
+__unknown_file ("startingBlock*Ê
+startingBlockž
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (É
+Æ
+ž
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (
+%0"Otest.com.androidnavigation.fragment.BaseNavigationController#%field_initializer*L
+ (@>
+<test.com.androidnavigation.fragment.BaseNavigationController’
+
+ž
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (
+%1"BaseController#<init>()V*L
+ (@>
+<test.com.androidnavigation.fragment.BaseNavigationController"¶
+ž
+•/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/BaseNavigationController.java (
+implicit returnB@>
+<test.com.androidnavigation.fragment.BaseNavigationController

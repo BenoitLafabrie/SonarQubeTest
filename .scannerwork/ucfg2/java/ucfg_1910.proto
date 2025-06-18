@@ -1,18 +1,39 @@
 
-Pcom.simplecity.amp_library.utils.FileHelper#getAudioFilter()Ljava/io/FileFilter;
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaà à(+"1*«
+R__sonar_lambda_148$com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment”
+‡/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java­ ­(x"startingBlock*†
+startingBlock
+­ ­(xë
+è
+
+__unknown_file (Q
+PlayerFragment?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*s
+
+__unknown_file (W*UA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+PlayerFragmentõ
+ò
+
+__unknown_file (V
+PlayerFragment.this?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*x
+
+__unknown_file (\*ZA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+PlayerFragment.this*
+1*ï
 1
-á ñ(	p
-n
+­  ­(-Ç
+Ä
 
-á ñ(	
-%0java.io.FileFilter"__declareFunction*3
+­. ­(AE
+%2?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"__id*i
 
-__unknown_file (
-__sonar_lambda_145$"(
+__unknown_file (M*KA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
+this"
 
-á ñ(
-
+­  ­(x
+"": 
 
-%0java.io.FileFilterB/"-
-+com.simplecity.amp_library.utils.FileHelperH
+__unknown_file (
+""B
+	!Unknown!

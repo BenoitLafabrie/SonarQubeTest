@@ -1,33 +1,15 @@
 
-@com.simplecity.amp_library.services.Equalizer#%field_initializer
-__unknown_file ("1*Ñ	
-1 (›⁄
-Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.java‘7 ‘(J,
-%0&java.util.concurrent.ConcurrentHashMap"&java.util.concurrent.ConcurrentHashMap˚
-¯
-Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.java‘3 ‘(L
-%1"0java.util.concurrent.ConcurrentHashMap#<init>()V*:
- (.
-,
-%0&java.util.concurrent.ConcurrentHashMapé
-ã
-Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.java‘ ‘(MC/
--com.simplecity.amp_library.services.Equalizer"
-mAudioSessions"__id*:
- (.
-,
-%0&java.util.concurrent.ConcurrentHashMapÌ
-Í
-Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.javaŸ (J/
--com.simplecity.amp_library.services.Equalizer"
-mAudioSessionReceiver"__id*
- (
-"""ï
-~
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/Equalizer.java ì(
-implicit returnB1/
--com.simplecity.amp_library.services.Equalizer
+@com.simplecity.amp_library.ui.common.PurchasePresenter#<init>()V
+__unknown_file ("startingBlock*´
+startingBlockÜ
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (Ô
+Ï
+Ü
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (
+%0"Presenter#<init>()V*F
+ (:8
+6com.simplecity.amp_library.ui.common.PurchasePresenter"û
+Ü
+~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (
+implicit returnB:8
+6com.simplecity.amp_library.ui.common.PurchasePresenter

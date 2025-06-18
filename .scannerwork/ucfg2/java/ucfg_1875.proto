@@ -1,20 +1,16 @@
 
-E__sonar_lambda_142$com.simplecity.amp_library.ui.views.BreadcrumbView„
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/BreadcrumbView.javaa b(&"startingBlock*ü
-startingBlocka b(&Û
-Ø
+Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;}
+s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaF F(%"1*Ê
+1G G(˜•
+G G(&
+%0java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*2
 
-__unknown_file (I
-BreadcrumbView.this2com.simplecity.amp_library.ui.views.BreadcrumbView"__id*k
-
-__unknown_file (O*M4
-2com.simplecity.amp_library.ui.views.BreadcrumbView"
-BreadcrumbView.this*
-1*!
-1a$ a(8"
-a$ b(&
-"": 
-
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+
+filejava.io.File2getCanonicalFile()" 
+G G('
+
+%0java.io.File: 
+F& F(/
+filejava.io.FileB/"-
++com.simplecity.amp_library.utils.FileHelperH

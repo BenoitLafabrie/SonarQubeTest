@@ -1,15 +1,20 @@
 
-Rcom.simplecity.amp_library.sql.legacy.WhitelistFolder#toString()Ljava/lang/String;á
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java" "("1*ƒ
-1# #(é
-ã
-# #(
-%0java.lang.String"__id*a
+Ucom.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#getId()Ljava/lang/String;é
+É/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/glide/utils/BitmapAndSizeDecoder.java7 7("1*Ü
+18 8(ª∏
+8 8(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*[
 
-__unknown_file (E*C7
-5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
-folder"$
-# #(
+__unknown_file (?=
+;com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder2
+getClass()íè
+8 8(#
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+%0java.lang.Class2	getName()"$
+8 8($
 
-%0java.lang.StringB97
-5com.simplecity.amp_library.sql.legacy.WhitelistFolderH
+%1java.lang.StringB?=
+;com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoderH

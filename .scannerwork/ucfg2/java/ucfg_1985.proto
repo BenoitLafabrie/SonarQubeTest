@@ -1,197 +1,29 @@
 
-Tcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#equals(Ljava/lang/Object;)Z
-€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.java¹ ¹("startingBlock*·
-2
-ÀL À(Pa
-_
-
-ÀL À(d
-%9"	__compare*
-
-À] À(_
-==*
-
-ÀL À(\
-""*
-
-À` À(d
-"">
-<
-
-ÀL À(d
-%7"__id*"
-
-__unknown_file (
-
-%9*
-1*T
-3
-À% À(0>
-<
-
-À% À(I
-%7"__id*"
-
-__unknown_file (
-
-%8*
-1*‰
-startingBlock
-¹ ¹(#‹
-ˆ
-
-¸ ¸(
-%10"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectX
-V
-
-¹! ¹("
-ojava.lang.Object"__annotation*#
-
-__unknown_file (
-
-%10*
-11*z
-4
-À À(a
-_
-
-À À("
-%6"	__compare*
-
-À À(
-!=*
-
-À À(
-""*
-
-À À("
-""*
-2
-3*%
-5
-¿. ¿(3"
-
-¿' ¿(4
-""*’
-6
-½1 ½(2Œ
-‰
-
-½ ½(3@
-that8com.simplecity.amp_library.ui.modelviews.AlbumArtistView"__id*3
-
-__unknown_file (
-
-ojava.lang.Objectj
-h
-
-¿ ¿(%
-%5boolean"	__compare*
-
-¿ ¿(
-!=*
-
-¿ ¿(
-""*
-
-¿ ¿(%
-""*
-4
-5*%
-7
-»< »(A"
-
-»5 »(B
-""*ü
-8
-» »(!º·
-
-» »(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*X
-
-__unknown_file (<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistView2
-getClass()•’
-
-»' »(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()
-Š
-
-» »(3
-%4boolean"	__compare*
-
-»$ »(&
-!=*%
-
-» »(#
-
-%2java.lang.Class*%
-
-»' »(3
-
-%3java.lang.Class*
-6
-7*”
-9
-» »({
-y
-
-» »(
-%1boolean"	__compare*
-
-» »(
-==*%
-
-» »(
-
-ojava.lang.Object*
-
-» »(
-""*
-7
-8*&
-10
-º º(""
-
-º º(#
-""*Î
-11
-º º(²
-¯
-
-º º(
-%0boolean"	__compare*
-
-º º(
-==*J
-
-º º(<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistView*%
-
-º º(
-
-ojava.lang.Object*
-9
-10*%
+?__sonar_lambda_165$com.simplecity.amp_library.utils.FileBrowser€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaŽ( Ž(g"1*‰
 1
-À À(e"
+Ž6 Ž(9b
+`
 
-À À(e
-"":#
+Ž6 Ž(g
+%1"__calculate*
 
-¹ ¹("
-ojava.lang.ObjectB<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX
+ŽN Ž(O
+-*
+
+Ž6 Ž(M
+""*
+
+ŽP Ž(g
+"""
+
+Ž6 Ž(g
+
+%1: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+java.util.Comparator

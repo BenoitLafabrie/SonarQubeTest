@@ -12,7 +12,7 @@ public class ThemeUtils {
         //no instance
     }
 
-    private static final Random RANDOM = new Random();
+    private static final java.security.SecureRandom RANDOM = new java.security.SecureRandom();
 
     public static Theme getRandom() {
 
@@ -35,11 +35,11 @@ public class ThemeUtils {
 
     public static class Theme {
 
-        public int id;
-        public String primaryColorName;
-        public String accentColorName;
+        private final int id;
+        private String primaryColorName;
+        private String accentColorName;
 
-        public boolean isDark;
+        private boolean isDark;
 
         @ColorRes
         public int primaryColor;
@@ -54,6 +54,22 @@ public class ThemeUtils {
             this.isDark = isDark;
             this.primaryColor = primaryColor;
             this.accentColor = accentColor;
+        }
+
+        public int getId() {
+            return id;
+        }
+
+        public String getPrimaryColorName() {
+            return primaryColorName;
+        }
+
+        public String getAccentColorName() {
+            return accentColorName;
+        }
+
+        public boolean isDark() {
+            return isDark;
         }
     }
 }

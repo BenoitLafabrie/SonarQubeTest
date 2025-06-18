@@ -1,48 +1,57 @@
 
-[com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldListSize()I¨
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaï ï(!"4*Y
+Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaÝ Ý("3*±
 2
-ð6 ð(7C
-A
+Þ  Þ(-š
+—
 
-ð6 ð(7
-%1"__id*'
+Þ  Þ(/
+
+%2void"6com.simplecity.amp_library.model.Song#setArtworkKey()V*E
 
-__unknown_file (
-	
-%3int*
-1*T
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song*
+1*œ
 3
-ð% ð(,>
-<
+Þ Þ(„
+
 
-ð% ð(3
-%1"__id*"
+Þ Þ(
+%0java.lang.String"__id*U
 
-__unknown_file (
-
-%2*
-1*z
-4
-ð ð(a
-_
+__unknown_file (9*7'
+%com.simplecity.amp_library.model.Song"
 
-ð ð("
-%0"	__compare*
+artworkKey|
+z
 
-ð ð(
-!=*
+Þ Þ(
+%1boolean"	__compare*
 
-ð ð(
-""*
+Þ Þ(
+==*&
 
-ð ð("
+Þ Þ(
+
+%0java.lang.String*
+
+Þ Þ(
 ""*
 2
-3*%
+1*¾
 1
-ð ð(8"
+ß ß(„
+
 
-ð ð(8
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+ß ß(
+%3java.lang.String"__id*U
+
+__unknown_file (9*7'
+%com.simplecity.amp_library.model.Song"
+
+artworkKey"&
+
+ß ß(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

@@ -1,21 +1,17 @@
 
-Œcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#comment(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java’ ’("1*ý
-1
-“ “(& 
-
-
-“ “(&J9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-commentText"__id*=
+wcom.simplecity.amp_library.model.Query$Builder#sort(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java4 4("1*Ö
+15 5(†
+ƒ
+5 5(:0
+.com.simplecity.amp_library.model.Query$Builder"
+sort"__id*5
 
-__unknown_file (!
-
-commentTextjava.lang.String"I
-
-” ”(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:-
-
-’ ’(0
-commentTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+__unknown_file (
+
+valjava.lang.String">
+6 6(20
+.com.simplecity.amp_library.model.Query$Builder:#
+4 4(&
+valjava.lang.StringB20
+.com.simplecity.amp_library.model.Query$BuilderH

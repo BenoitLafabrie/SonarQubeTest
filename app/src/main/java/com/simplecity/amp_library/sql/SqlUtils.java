@@ -109,7 +109,9 @@ public class SqlUtils {
                 }
             } catch (Exception e) {
                 LogUtils.logException(TAG, "createSingleQuery threw an error", e);
-                e.printStackTrace();
+                if (BuildConfig.DEBUG) {
+                    e.printStackTrace();
+                }
             } finally {
                 cursor.close();
             }

@@ -1,59 +1,21 @@
 
-3com.simplecity.amp_library.model.Header#hashCode()Iy
-o/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Header.java ("4*Z
-22 (3F
-D
-2 (3	
-%2int"__id*'
-
-__unknown_file (
-	
-%4int*
-1*Ó
-3 ($~
-|
- ($
-%5java.lang.String"__id*R
-
-__unknown_file (6*4)
-'com.simplecity.amp_library.model.Header"
-titlewu
- (/	
-%3int"java.lang.String#hashCode()I*4
-
-__unknown_file (
-
-%5java.lang.String2
-hashCode()F
-D
- (/	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-1*‹
-4 (~
-|
- (
-%0java.lang.String"__id*R
-
-__unknown_file (6*4)
-'com.simplecity.amp_library.model.Header"
-titlet
-r
- (
-%1boolean"	__compare*
- (
-!=*$
- (
-
-%0java.lang.String*
- (
-""*
-2
-3*!
-1 (4"
- (4
-""B+)
-'com.simplecity.amp_library.model.HeaderHX
+>com.simplecity.amp_library.ui.modelviews.ShuffleView#<init>()V
+__unknown_file ("startingBlock*ó
+startingBlock„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (Ÿ
+œ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
+%0"Gcom.simplecity.amp_library.ui.modelviews.ShuffleView#%field_initializer*D
+ (86
+4com.simplecity.amp_library.ui.modelviews.ShuffleView™
+–
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
+%1"Acom.simplecityapps.recycler_adapter.model.BaseViewModel#<init>()V*D
+ (86
+4com.simplecity.amp_library.ui.modelviews.ShuffleView"œ
+„
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/ShuffleView.java (
+implicit returnB86
+4com.simplecity.amp_library.ui.modelviews.ShuffleView

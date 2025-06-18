@@ -15,7 +15,9 @@ public final class Rx {
     return new Consumer<Throwable>() {
       @Override
       public void accept(@NonNull Throwable throwable) throws Exception {
-        throwable.printStackTrace();
+        if (BuildConfig.DEBUG) {
+          throwable.printStackTrace();
+        }
         throw Exceptions.propagate(throwable);
       }
     };

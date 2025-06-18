@@ -497,7 +497,9 @@ final class TintHelper {
       drawables[1] = createTintedDrawable(drawables[1], color);
       fCursorDrawable.set(editor, drawables);
     } catch (Exception e) {
-      e.printStackTrace();
+      if (BuildConfig.DEBUG) {
+        e.printStackTrace();
+      }
     }
   }
 }

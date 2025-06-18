@@ -1,7 +1,15 @@
 
-Qcom.simplecity.amp_library.ui.screens.drawer.DrawerDivider#isInitiallyExpanded()Z
-‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerDivider.java (&"1*!
-1 ("
- (
-""B><
-:com.simplecity.amp_library.ui.screens.drawer.DrawerDividerHX
+Lcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#<init>()V
+__unknown_file ("startingBlock*ð
+startingBlock“
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java (š
+—
+“
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java (
+%0"%BaseWidgetConfigureActivity#<init>()V*R
+ (FD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall"«
+“
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java (
+implicit returnBFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall

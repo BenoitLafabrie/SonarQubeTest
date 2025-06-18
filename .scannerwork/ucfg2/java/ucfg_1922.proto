@@ -1,7 +1,17 @@
 
-Jcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()Iå
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java/ /("1*!
-10 0("
-0 0((
-""B=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallHX
+^com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#screenName()Ljava/lang/String;î
+á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaÚ Ú("1*ï
+1
+Û Û(\
+Z
+
+Û Û(
+%0java.lang.String"__id*.
+
+__unknown_file (
+PlayerFragment"&
+
+Û Û(
+
+%0java.lang.StringBCA
+?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment

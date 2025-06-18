@@ -1,19 +1,39 @@
 
-Ucom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailSongsSortOrder()IÜ
-|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaZ Z(,"1*¥
-1[ [(N
-L
-[ [(4
-%0java.lang.String"__id*"
+.com.afollestad.aesthetic.Util#adjustAlpha(IF)IÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaª ª("1*è
+1
+Ω Ω(b
+`
+
+Ω Ω(6
+%0"__calculate*
+
+Ω. Ω(/
+**
+
+Ω Ω(-
+""*
+
+Ω0 Ω(6
+""É
+Ä
+
+Ω Ω(7
+%1"java.lang.Math#round(F)I*.
 
-__unknown_file (
-""A
-?
-[6 [(M	
-%1int"__id*"
+__unknown_file ("
+java.lang.Math*"
 
-__unknown_file (
-"""
-[ [(O
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+__unknown_file (
+
+%0"
+
+¡ ¡(/
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B!"
+com.afollestad.aesthetic.UtilHX

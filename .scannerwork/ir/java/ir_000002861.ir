@@ -1,22 +1,3 @@
-Gthis> >("3com.simplecity.amp_library.ui.modelviews.FolderViewMbaseFileObject? ?(2"/com.simplecity.amp_library.model.BaseFileObjectEwhitelistRepository@ @(>""Recovered#typeBindingLRepository;0EblacklistRepositoryA A(>""Recovered#typeBindingLRepository;0FsettingsManagerB B(+"'Recovered#typeBindingLSettingsManager;0"whitelistedC C("boolean"blacklistedD D("boolean"¬0
-.
-E E(,"#set-field# baseFileObject:!
-
-F# F(6	"#unknown-value#5
-3
-F F(6
-"!#set-field# whitelistRepository:	!
-
-G# G(6"#unknown-value#5
-3
-G G(6"!#set-field# blacklistRepository:!
-
-H H(."#unknown-value#1
-/
-H H(."#set-field# settingsManager:/
--
-I I(("#set-field# isWhitelisted:/
--
-J J(("#set-field# isBlacklisted:
-
-K K(*{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java
+Jthis (#"6com.simplecity.amp_library.ui.modelviews.MultiItemView"
+
+ v(*~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/MultiItemView.java

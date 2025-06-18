@@ -1,8 +1,3 @@
-Kthis( (("7com.simplecity.amp_library.playback.MediaSessionManager"±@
->
-8. 8(G"#new-object#2ConstructorBCompositeDisposable1
-/
-8. 8(G"#unknown-value#2Constructor:-
-+
-8 8(H"#set-field# disposables:	
-( Ê(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MediaSessionManager.java
+Kthis	 	("7com.simplecity.amp_library.ui.adapters.SectionedAdapter"
+
+	 (*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java

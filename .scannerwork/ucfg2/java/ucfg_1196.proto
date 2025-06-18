@@ -1,17 +1,15 @@
 
-Mcom.simplecity.amp_library.model.Song#getFolderArtworkFiles()Ljava/util/List;y
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaÇ Ç(+"1*§
-1
-É É(}
-{
-
-É0 É(4
-%0java.lang.String"__id*O
-
-__unknown_file (3*1'
-%com.simplecity.amp_library.model.Song"
-path"
-
-É É(6
-""B)'
-%com.simplecity.amp_library.model.SongH
+6com.afollestad.aesthetic.AestheticCardView$1#<init>()V
+__unknown_file ("startingBlock*µ
+startingBlockç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()Î
+Ë
+ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()
+%0"Consumer#<init>()V*<
+ (0.
+,com.afollestad.aesthetic.AestheticCardView$1"•
+ç
+Ç/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCardView.java3( 3()
+implicit returnB0.
+,com.afollestad.aesthetic.AestheticCardView$1

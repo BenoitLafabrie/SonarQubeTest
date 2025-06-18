@@ -1,15 +1,22 @@
 
-=com.afollestad.aesthetic.AestheticTextInputLayout$2#<init>()V
-__unknown_file ("startingBlock*Ñ
-startingBlock”
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticTextInputLayout.javaB( B()ù
-ö
-”
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticTextInputLayout.javaB( B()
-%0"Consumer#<init>()V*C
- (75
-3com.afollestad.aesthetic.AestheticTextInputLayout$2"¬
-”
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticTextInputLayout.javaB( B()
-implicit returnB75
-3com.afollestad.aesthetic.AestheticTextInputLayout$2
+Ycom.afollestad.aesthetic.Aesthetic#colorPrimaryRes(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÉ É(""1*Ž
+1
+Ê Ê(æã
+
+Ê Ê(?
+%0"Vcom.afollestad.aesthetic.Aesthetic#colorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;*B
+
+__unknown_file (&$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""2colorPrimary(I)"
+
+Ê Ê(@
+
+%0: 
+
+__unknown_file (
+""B&$
+"com.afollestad.aesthetic.AestheticH

@@ -1,100 +1,17 @@
 
-^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Z®
-õ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaÅ Å(&"5*ı
-2
-Ü< Ü(Cﬁ€
-
-Ü< Ü(S
-%4boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*9
-
-__unknown_file (
-
-oldItemjava.lang.Object*9
-
-__unknown_file (
-
-newItemjava.lang.Object2equals(Ljava/lang/Object;)*
-1*õ
-4
-Ü( Ü(/Å
-
-
-Ü( Ü(7
-%3boolean"	__compare*
-
-Ü0 Ü(2
-==*+
-
-Ü( Ü(/
-
-newItemjava.lang.Object*
-
-Ü3 Ü(7
-""*
-2
-1*÷
-5
-É É('∞≠
-
-É É(8
-%0java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getOldItem(I)g
-e
-
-É É(9
-oldItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%0java.lang.Object∞≠
-
-Ñ Ñ(8
-%1java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;*i
-
-__unknown_file (MK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
-
-__unknown_file (
-""2getNewItem(I)g
-e
-
-Ñ Ñ(9
-newItemjava.lang.Object"__id*4
-
-__unknown_file (
-
-%1java.lang.ObjectÅ
-
-
-Ü Ü($
-%2boolean"	__compare*
-
-Ü Ü(
-==*+
-
-Ü Ü(
-
-oldItemjava.lang.Object*
-
-Ü  Ü($
-""*	
-2
-4
-1*%
+Jcom.simplecity.amp_library.model.Song#getTagArtwork()Ljava/io/InputStream;y
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java˝ ˝($"1*§
 1
-Ü Ü(T"
+˛ ˛(}
+{
 
-Ü Ü(T
-"": 
+˛* ˛(.
+%0java.lang.String"__id*O
 
-__unknown_file (
-"": 
-
-__unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path"
+
+˛ ˛(0
+""B)'
+%com.simplecity.amp_library.model.SongH

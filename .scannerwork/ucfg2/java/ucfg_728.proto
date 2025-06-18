@@ -1,9 +1,307 @@
 
-Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;Å
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaŸ Ÿ("3*%
-3
-€ €(V"
+Mcom.simplecity.amp_library.ui.modelviews.SongView#equals(Ljava/lang/Object;)ZÖ
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaó ó("startingBlock*&
+13
+û: û(?"
 
-€ €(W
-""B1/
--com.simplecity.amp_library.ShuttleApplicationH
+û3 û(@
+""*Ü
+14
+û û(j
+h
+
+û û(1
+%6boolean"	__compare*
+
+û û(
+!=*
+
+û û(
+""*
+
+û û(1
+""*
+13
+12*&
+15
+ù2 ù(7"
+
+ù+ ù(8
+""*í
+16
+õ' õ((â
+Ü
+
+õ õ()=
+songView1com.simplecity.amp_library.ui.modelviews.SongView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+ù ù()
+%5boolean"	__compare*
+
+ù ù(
+!=*
+
+ù ù(
+""*
+
+ù ù()
+""*
+14
+15*&
+17
+ô< ô(A"
+
+ô5 ô(B
+""*¯
+18
+ô ô(!≥∞
+
+ô ô(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Q
+
+__unknown_file (53
+1com.simplecity.amp_library.ui.modelviews.SongView2
+getClass()ïí
+
+ô' ô(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()ç
+ä
+
+ô ô(3
+%4boolean"	__compare*
+
+ô$ ô(&
+!=*%
+
+ô ô(#
+
+%2java.lang.Class*%
+
+ô' ô(3
+
+%3java.lang.Class*
+16
+17*ó
+19
+ô ô({
+y
+
+ô ô(
+%1boolean"	__compare*
+
+ô ô(
+==*%
+
+ô ô(
+
+ojava.lang.Object*
+
+ô ô(
+""*
+17
+18*%
+1
+£ £(Q"
+
+£ £(Q
+""*∫
+2
+£; £(Cb
+`
+
+£; £(P
+%14"	__compare*
+
+£I £(K
+==*
+
+£; £(H
+""*
+
+£L £(P
+""@
+>
+
+£; £(P
+%12"__id*#
+
+__unknown_file (
+
+%14*
+1*V
+3
+£ £("@
+>
+
+£ £(8
+%12"__id*#
+
+__unknown_file (
+
+%13*
+1*â
+startingBlock
+ó ó(#ã
+à
+
+ñ ñ(
+%15"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectX
+V
+
+ó! ó("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%15*
+21*{
+4
+£ £(b
+`
+
+£ £(
+%11"	__compare*
+
+£ £(
+!=*
+
+£ £(
+""*
+
+£ £(
+""*
+2
+3*%
+5
+¢< ¢(A"
+
+¢5 ¢(B
+""*Ñ
+6
+¢ ¢(k
+i
+
+¢ ¢(3
+%10boolean"	__compare*
+
+¢ ¢(
+!=*
+
+¢ ¢(
+""*
+
+¢ ¢(3
+""*
+4
+5*%
+7
+°> °(C"
+
+°7 °(D
+""*É
+8
+° °(j
+h
+
+° °(5
+%9boolean"	__compare*
+
+° °(
+!=*
+
+° °(
+""*
+
+° °(5
+""*
+6
+7*%
+9
+†@ †(E"
+
+†9 †(F
+""*&
+20
+ò ò(""
+
+ò ò(#
+""*»
+21
+ò ò(´
+®
+
+ò ò(
+%0boolean"	__compare*
+
+ò ò(
+==*C
+
+ò ò(53
+1com.simplecity.amp_library.ui.modelviews.SongView*%
+
+ò ò(
+
+ojava.lang.Object*
+19
+20*Ñ
+10
+† †(j
+h
+
+† †(7
+%8boolean"	__compare*
+
+† †(
+!=*
+
+† †(
+""*
+
+† †(7
+""*
+8
+9*&
+11
+ü< ü(A"
+
+ü5 ü(B
+""*Ü
+12
+ü ü(j
+h
+
+ü ü(3
+%7boolean"	__compare*
+
+ü ü(
+!=*
+
+ü ü(
+""*
+
+ü ü(3
+""*
+10
+11:#
+
+ó ó("
+ojava.lang.ObjectB53
+1com.simplecity.amp_library.ui.modelviews.SongViewHX

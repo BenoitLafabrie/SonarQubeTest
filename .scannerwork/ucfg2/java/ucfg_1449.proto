@@ -1,150 +1,14 @@
 
-Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Z
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java) )("startingBlock*!
-20& 0(+"
-0 0(,
-""*y
-30 0(b
-`
-0 0(
-%6boolean"	__compare*
-0 0(
-!=*
-0 0(
-""*
-0 0(
-""*
-2
-1*ƒ
-startingBlock) )(#‰
-†
-( ((
-%10"
-__annotate*2
+xcom.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;†
+|/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java$ (/"1*Ë
+1 (r
+p
+ (:
+%04com.simplecity.amp_library.utils.color.ArgbEvaluator"__id*"
 
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectV
-T
-)! )("
-ojava.lang.Object"__annotation*#
-
-__unknown_file (
-
-%10*
-10*!
-4/" /('"
-/ /((
-""*ù
-5-+ -(,~
-|
-- -(-5
-that-com.simplecity.amp_library.model.InclExclItem"__id*3
-
-__unknown_file (
-
-ojava.lang.Objectb
-`
-/ /(
-%5boolean"	__compare*
-/ /(
-!=*
-/ /(
-""*
-/ /(
-""*
-3
-4*!
-6+< +(A"
-+5 +(B
-""*ã
-7+ +(!­ª
-+ +(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
-
-__unknown_file (1/
--com.simplecity.amp_library.model.InclExclItem2
-getClass()“
-+' +(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()…
-‚
-+ +(3
-%4boolean"	__compare*
-+$ +(&
-!=*#
-+ +(#
-
-%2java.lang.Class*#
-+' +(3
-
-%3java.lang.Class*
-5
-6*Š
-8+ +(s
-q
-+ +(
-%1boolean"	__compare*
-+ +(
-==*#
-+ +(
-
-ojava.lang.Object*
-+ +(
-""*
-6
-7*!
-9* *(""
-* *(#
-""*¸
-10* *(Ÿ
-œ
-* *(
-%0boolean"	__compare*
-* *(
-==*=
-* *(1/
--com.simplecity.amp_library.model.InclExclItem*#
-* *(
-
-ojava.lang.Object*
-8
-9*Š
-11 1(„
-
-1 1(
-%7java.lang.String"__id*W
-
-__unknown_file (;*9/
--com.simplecity.amp_library.model.InclExclItem"
-pathŠ
-‡
-1 1($
-%8java.lang.String"__id*]
-
-__unknown_file (A*?
-5
-that-com.simplecity.amp_library.model.InclExclItem"
-pathÒÏ
-1 1(%
-%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
-
-__unknown_file (
-
-%7java.lang.String*4
-
-__unknown_file (
-
-%8java.lang.String2equals(Ljava/lang/Object;)"
-1 1(&
-"":!
-) )("
-ojava.lang.ObjectB1/
--com.simplecity.amp_library.model.InclExclItemHX
+__unknown_file (
+"""H
+ (<
+:
+%04com.simplecity.amp_library.utils.color.ArgbEvaluatorB8"6
+4com.simplecity.amp_library.utils.color.ArgbEvaluatorH

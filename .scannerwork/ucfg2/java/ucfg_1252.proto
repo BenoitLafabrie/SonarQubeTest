@@ -1,15 +1,19 @@
 
-@com.simplecity.amp_library.ui.common.PurchasePresenter#<init>()V
-__unknown_file ("startingBlock*´
-startingBlockÜ
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (Ô
-Ï
-Ü
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (
-%0"Presenter#<init>()V*F
- (:8
-6com.simplecity.amp_library.ui.common.PurchasePresenter"û
-Ü
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/PurchasePresenter.java (
-implicit returnB:8
-6com.simplecity.amp_library.ui.common.PurchasePresenter
+àcom.simplecity.amp_library.saf.SafManager$SafDialog#getListener()Lcom/simplecity/amp_library/saf/SafManager$SafDialog$SafResultListener;}
+q/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/saf/SafManager.javaé" é(-"1"2"4*%
+2
+í+ í(6"
+
+í í(9
+""*%
+4
+ê+ ê(<"
+
+ê ê(?
+""*%
+1
+î î("
+
+î î(
+""B75
+3com.simplecity.amp_library.saf.SafManager$SafDialog

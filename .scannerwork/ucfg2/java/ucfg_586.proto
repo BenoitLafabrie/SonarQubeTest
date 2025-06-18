@@ -1,88 +1,21 @@
 
-Ecom.simplecity.amp_library.playback.MediaManager#getQueueReloading()Z„
-x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/playback/MediaManager.java÷ ÷($"4*¬
-2
-ù ù(.½
-º
-
-ù ù(<5
-%5/com.simplecity.amp_library.playback.LocalBinder"__id*o
-
-__unknown_file (S*Q>
-<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderÄÁ
-
-ù ù(I
-%6"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
-
-__unknown_file (7
-5
-%5/com.simplecity.amp_library.playback.LocalBinder2getService()"
-
-ù ù(^
-""*
-3
-øA ø(\½
-º
-
-øA ø(j5
-%2/com.simplecity.amp_library.playback.LocalBinder"__id*o
-
-__unknown_file (S*Q>
-<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderÄÁ
-
-øA ø(w
-%3"Jcom.simplecity.amp_library.playback.LocalBinder#getService()LMusicService;*S
-
-__unknown_file (7
-5
-%2/com.simplecity.amp_library.playback.LocalBinder2getService()a
-_
-
-øA ø(
-%4"	__compare*
-
-øx ø(z
-!=*
-
-øA ø(w
-
-%3*
-
-ø{ ø(
-""*
-2
-1*ö
-4
-ø ø('½
-º
-
-ø ø(55
-%0/com.simplecity.amp_library.playback.LocalBinder"__id*o
-
-__unknown_file (S*Q>
-<com.simplecity.amp_library.utils.MusicServiceConnectionUtils"
-serviceBinderœ
-™
-
-ø ø(=
-%1boolean"	__compare*
-
-ø6 ø(8
-!=*E
-
-ø ø(57
-5
-%0/com.simplecity.amp_library.playback.LocalBinder*
-
-ø9 ø(=
-""*
-3
-1*%
-1
-û û("
-
-û û(
-""B42
-0com.simplecity.amp_library.playback.MediaManagerHX
+Dcom.simplecity.amp_library.services.ArtworkDownloadService#<init>()V
+__unknown_file ("startingBlock*ñ
+startingBlock‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/ArtworkDownloadService.java* *(²
+¯
+‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/ArtworkDownloadService.java* *(
+%0"Mcom.simplecity.amp_library.services.ArtworkDownloadService#%field_initializer*J
+ (><
+:com.simplecity.amp_library.services.ArtworkDownloadServiceö
+ó
+‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/ArtworkDownloadService.java* *(
+%1"Service#<init>()V*J
+ (><
+:com.simplecity.amp_library.services.ArtworkDownloadService"£
+‹
+‚/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/services/ArtworkDownloadService.java* *(
+implicit returnB><
+:com.simplecity.amp_library.services.ArtworkDownloadService

@@ -1,8 +1,8 @@
-Lthis) )("8com.simplecity.amp_library.ui.modelviews.BreadcrumbsView"ª!
-
-* *("#unknown-value#2
-0
-* *("#get-field# layout:B	!Unknown!A
-?
-* *(-"#!#get-field# list_item_breadcrumbs:B	!Unknown!
-* *(.*€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/BreadcrumbsView.java
+Mthis
+ß ß("7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"	showTrack
+ß  ß(1"boolean"A-
++
+
+à à(""#set-field# showTrack:
+
+á á(*/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java

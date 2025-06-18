@@ -1,22 +1,18 @@
 
-‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#year(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaô ô("1*÷
+ccom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#screenName()Ljava/lang/String;™
+Œ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaÇ Ç("1*Ö
 1
-õ õ( š
-—
+È È(œ
+™
 
-õ õ( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-yearText"__id*:
+È È(
+%0java.lang.String"__id*m
 
-__unknown_file (
-
-yearTextjava.lang.String"I
+__unknown_file (Q*OF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"
+TAG"&
 
-ö ö(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
-
-ô ô(*
-yearTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+È È(
+
+%0java.lang.StringBHF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment

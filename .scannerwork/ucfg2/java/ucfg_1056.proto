@@ -1,21 +1,15 @@
 
-ãcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÃ Ã("1*Ô
-1
-Õ Õ(í
-è
-
-Õ Õ(D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-paths"__id*5
-
-__unknown_file (
-
-pathsjava.util.List"I
-
-Œ Œ(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
-
-Ã Ã(1
-pathsjava.util.ListB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+Pcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1#<init>()V
+__unknown_file ("startingBlock*Ù
+startingBlockó
+å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7ñ
+ì
+ó
+å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
+%0"PagerSnapHelper#<init>()V*V
+ (JH
+Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1"Ø
+ó
+å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javai6 i(7
+implicit returnBJH
+Fcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment$1

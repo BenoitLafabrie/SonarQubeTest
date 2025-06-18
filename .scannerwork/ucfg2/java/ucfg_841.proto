@@ -1,18 +1,18 @@
 
-Zcom.afollestad.aesthetic.Aesthetic#textColorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaı ı(#"1*¡
+acom.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÿ ÿ(*"1*§
 1
-ş ş(
-Z
-X
+€ €(
+`
+^
 
-ş ş((
-%0java.lang.String"__id*,
+€ €((
+%0java.lang.String"__id*2
 
-__unknown_file (
-primary_text"4
+__unknown_file (
+card_view_bg_color"4
 
-ÿ ÿ(&$
+ (&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

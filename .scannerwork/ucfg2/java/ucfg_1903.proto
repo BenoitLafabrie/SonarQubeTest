@@ -1,27 +1,14 @@
 
-Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z}
-s/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javax x(&"3*â
-2y! y(%us
-y! y(0
-%1boolean"java.io.File#canWrite()Z*2
-
-__unknown_file (
-
-filejava.io.File2
-canWrite()*
-1*ä
-3y y(sq
-y y(
-%0boolean"java.io.File#canRead()Z*2
-
-__unknown_file (
-
-filejava.io.File2	canRead()*
-2
-1*!
-1y y(1"
-y y(1
-"": 
-x' x(0
-filejava.io.FileB/"-
-+com.simplecity.amp_library.utils.FileHelperHX
+Hcom.simplecity.amp_library.ui.views.SquareFrameLayout#%field_initializer
+__unknown_file ("1*°
+1 (Ò
+Ó
+á
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/SquareFrameLayout.java (!J7
+5com.simplecity.amp_library.ui.views.SquareFrameLayout"
+widthDominant"__id*
+ (2"ù
+Ö
+}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/SquareFrameLayout.java +(
+implicit returnB97
+5com.simplecity.amp_library.ui.views.SquareFrameLayout

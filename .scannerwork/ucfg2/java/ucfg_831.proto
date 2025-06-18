@@ -1,18 +1,18 @@
 
-Wcom.afollestad.aesthetic.Aesthetic#activityTheme(I)Lcom/afollestad/aesthetic/Aesthetic;†
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaž ž( "1*´
+\com.afollestad.aesthetic.Aesthetic#colorNavigationBar(I)Lcom/afollestad/aesthetic/Aesthetic;†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaƒ ƒ(%"1*³
 1
-Ÿ Ÿ(_
-]
+„ „(^
+\
 
-Ÿ Ÿ(1
-%0java.lang.String"__id*1
+„ „(0
+%0java.lang.String"__id*0
 
-__unknown_file (
-activity_theme_%sÂ
+__unknown_file (
+nav_bar_color_%sÂ
 ¿
 
-Ÿ3 Ÿ(?
+„2 „(>
 %1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
 
 __unknown_file (&"$
@@ -22,7 +22,7 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/j
 ""ó
 ð
 
-Ÿ Ÿ(@
+„ „(?
 %2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
 
 __unknown_file ("
@@ -37,14 +37,14 @@ z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/j
 %1Q
 O
 
-Ÿ Ÿ(A
+„ „(@
 keyjava.lang.String"__id*"
 
 __unknown_file (
 
 %2"4
 
-¡ ¡(&$
+† †(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

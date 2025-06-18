@@ -1,7 +1,24 @@
 
-Gcom.simplecity.amp_library.ui.modelviews.PlaylistView#getLayoutResId()Iá
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.java/ /("1*!
-10 0(!"
-0 0("
-""B97
-5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX
+Çcom.simplecity.amp_library.ui.screens.main.MainController#newInstance()Lcom/simplecity/amp_library/ui/screens/main/MainController;å
+Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.java]! ](,"1*‰
+1^ ^("âÜ
+_& _(4?
+%09com.simplecity.amp_library.ui.screens.main.MainController"9com.simplecity.amp_library.ui.screens.main.MainController∑
+¥
+_" _(6
+%1"Ccom.simplecity.amp_library.ui.screens.main.MainController#<init>()V*]
+
+__unknown_file (A
+?
+%09com.simplecity.amp_library.ui.screens.main.MainControllerπ
+∂
+_ _(7E
+fragment9com.simplecity.amp_library.ui.screens.main.MainController"__id*]
+
+__unknown_file (A
+?
+%09com.simplecity.amp_library.ui.screens.main.MainController"S
+a a(G
+E
+fragment9com.simplecity.amp_library.ui.screens.main.MainControllerB=";
+9com.simplecity.amp_library.ui.screens.main.MainControllerH

@@ -59,7 +59,9 @@ public final class ViewUtil {
       if (collapseIcon != null)
         field.set(toolbar, createTintedDrawable(collapseIcon, titleIconColors.toEnabledSl()));
     } catch (Exception e) {
-      e.printStackTrace();
+      if (BuildConfig.DEBUG) {
+        e.printStackTrace();
+      }
     }
 
     // Theme menu action views
@@ -102,7 +104,9 @@ public final class ViewUtil {
       field.setAccessible(true);
       field.set(view, createTintedDrawable((Drawable) field.get(view), tintColors.toEnabledSl()));
     } catch (Exception e) {
-      e.printStackTrace();
+      if (BuildConfig.DEBUG) {
+        e.printStackTrace();
+      }
     }
   }
 

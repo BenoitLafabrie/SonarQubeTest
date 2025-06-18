@@ -98,7 +98,7 @@ public class SnowfallView extends View {
         if (!snowflakes.isEmpty()) {
             for (int i = snowflakes.size() - 1; i >= 0; i--) {
                 Snowflake snowflake = snowflakes.get(i);
-                if (round(snowflake.snowY()) > getHeight()) {
+                if (round(snowflake.getSnowY()) > getHeight()) {
                     if (snowflake.shouldRemove) {
                         snowflakes.remove(snowflake);
                     } else {
@@ -106,7 +106,7 @@ public class SnowfallView extends View {
                     }
                 }
                 snowPaint.setAlpha(snowflake.alpha);
-                canvas.drawCircle(snowflake.snowX(), snowflake.snowY(), snowflake.snowR, snowPaint);
+                canvas.drawCircle(snowflake.snowX(), snowflake.getSnowY(), snowflake.snowR, snowPaint);
             }
             invalidate();
         }
@@ -213,10 +213,11 @@ public class SnowfallView extends View {
         }
 
         float snowX() {
-            return snowX += velX;
+            snowX += velX;
+            return snowX;
         }
 
-        float snowY() {
+        float getSnowY() {
             return snowY += velY;
         }
 

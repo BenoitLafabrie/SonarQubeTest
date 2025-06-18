@@ -1,54 +1,15 @@
 
-Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;y
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.javaœ œ("3*º
-2
-— —(•¢
-
-— —(
-
-%2void"3com.simplecity.amp_library.model.Song#setSortKey()V*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song2setSortKey()*
-1*ò
-3
-– –(Ä
-~
-
-– –(
-%0java.lang.String"__id*R
-
-__unknown_file (6*4'
-%com.simplecity.amp_library.model.Song"	
-sortKey|
-z
-
-– –(
-%1boolean"	__compare*
-
-– –(
-==*&
-
-– –(
-
-%0java.lang.String*
-
-– –(
-""*
-2
-1*∫
-1
-” ”(Ä
-~
-
-” ”(
-%3java.lang.String"__id*R
-
-__unknown_file (6*4'
-%com.simplecity.amp_library.model.Song"	
-sortKey"&
-
-” ”(
-
-%3java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+?com.afollestad.aesthetic.AestheticCoordinatorLayout$2#<init>()V
+__unknown_file ("startingBlock*ﬂ
+startingBlockò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaèF è(Gˇ
+¸
+ò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaèF è(G
+%0"Consumer#<init>()V*E
+ (97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$2"∞
+ò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaèF è(G
+implicit returnB97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$2

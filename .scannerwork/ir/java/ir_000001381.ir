@@ -1,27 +1,17 @@
-Gthis
-ç ç("1com.simplecity.amp_library.ui.modelviews.SongView"d4
-2
 
-é é("#get-field# editable:Bboolean,"*
+falsebooleanPthisQ Q("<com.simplecity.amp_library.ui.screens.folders.FolderFragment"‡@
+>
+t6 t(O"#new-object#2ConstructorBCompositeDisposable1
+/
+t6 t(O"#unknown-value#2Constructor:5
+3
+t t(P"!#set-field# compositeDisposable:1
+/
+x x($"#set-field# displayedInTabs:C
+A
 
-é é( *
-é é(2
-é1 é(2"v#
-!
+î* ˆ("1/?create:Recovered#typeBindingLFolderMenuUtils;0-
++
 
-é é(""#unknown-value#;
-9
-
-é é(0"#get-field# SONG_EDITABLE:B	!Unknown!
-
-é é(0"m#
-!
-
-é3 é(;"#unknown-value#2
-0
-
-é3 é(@"#get-field# SONG:B	!Unknown!
-
-é3 é(@"&*
-
-é é(A*y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java
+î ˆ("#set-field# callbacks:	
+Q ˜(*Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java

@@ -1,22 +1,18 @@
 
-‰com.simplecity.amp_library.ui.screens.tagger.TaggerTask#disc(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaƒ ƒ("1*÷
-1
-„ „( š
-—
+~com.simplecity.amp_library.model.Query$Builder#projection([Ljava/lang/String;)Lcom/simplecity/amp_library/model/Query$Builder;x
+n/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Query.java% %(!"1*Þ
+1& &(Ž
+‹
+& &(@0
+.com.simplecity.amp_library.model.Query$Builder"
 
-„ „( G9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-
-discText"__id*:
+projection"__id*7
 
-__unknown_file (
-
-discTextjava.lang.String"I
-
-… …(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
-
-ƒ ƒ(*
-discTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+__unknown_file (
+
+valjava.lang.String[]">
+' '(20
+.com.simplecity.amp_library.model.Query$Builder:%
+%" %(.
+valjava.lang.String[]B20
+.com.simplecity.amp_library.model.Query$BuilderH

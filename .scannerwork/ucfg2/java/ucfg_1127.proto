@@ -1,20 +1,21 @@
 
-Wcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z•
-Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java ($"1*½
-1 (¢
-Ÿ
- (
-%0java.util.List"__id*w
-
-__unknown_file ([*YD
-Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
-miniPlayerLocksus
- ((
-%1boolean"java.util.List#isEmpty()Z*2
-
-__unknown_file (
-
-%0java.util.List2	isEmpty()"
- ()
-""BFD
-Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerHX
+Acom.simplecity.amp_library.ui.screens.main.MainActivity#<init>()V
+__unknown_file ("startingBlock*Ý
+startingBlock‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(¨
+¥
+‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
+%0"Jcom.simplecity.amp_library.ui.screens.main.MainActivity#%field_initializer*G
+ (;9
+7com.simplecity.amp_library.ui.screens.main.MainActivityô
+ñ
+‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
+%1"BaseActivity#<init>()V*G
+ (;9
+7com.simplecity.amp_library.ui.screens.main.MainActivity"Ÿ
+‡
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainActivity.java4 4(
+implicit returnB;9
+7com.simplecity.amp_library.ui.screens.main.MainActivity

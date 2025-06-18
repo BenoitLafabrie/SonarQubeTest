@@ -1,58 +1,36 @@
 
-\com.simplecity.amp_library.ui.modelviews.SubheaderView#areContentsEqual(Ljava/lang/Object;)Zˆ
-~/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SubheaderView.javaE E(#"startingBlock*÷
-2H$ H()n
-l
-H H(0
-%0java.lang.String"__id*B
+E__sonar_lambda_144$com.simplecity.amp_library.ui.views.BreadcrumbView†
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/BreadcrumbView.java– –(`"startingBlock*Ò
+startingBlock
+– –(`Ñ
+Î
 
-__unknown_file (&*$
-
-otherjava.lang.Object"
-titleŽ
-‹
-H8 H(=
-%1java.lang.String"__id*a
+__unknown_file (D
+BreadcrumbView2com.simplecity.amp_library.ui.views.BreadcrumbView"__id*f
 
-__unknown_file (E*C8
-6com.simplecity.amp_library.ui.modelviews.SubheaderView"
-titleÒÏ
-H H(>
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+__unknown_file (J*H4
+2com.simplecity.amp_library.ui.views.BreadcrumbView"
+BreadcrumbViewÛ
+Ø
 
-__unknown_file (
-
-%0java.lang.String*4
+__unknown_file (I
+BreadcrumbView.this2com.simplecity.amp_library.ui.views.BreadcrumbView"__id*k
 
-__unknown_file (
-
-%1java.lang.String2equals(Ljava/lang/Object;)"
-H H(?
-""*‹
-startingBlockE# E(1Œ
-‰
-D D(
-%3"
-__annotate*2
+__unknown_file (O*M4
+2com.simplecity.amp_library.ui.views.BreadcrumbView"
+BreadcrumbView.this*
+1*Ö
+1
+–$ –(2®
+«
+
+–$ –(79
+%112com.simplecity.amp_library.ui.views.BreadcrumbView"__id*\
 
-__unknown_file (
-java.lang.Override*7
-
-__unknown_file (
-
-otherjava.lang.ObjectY
-W
-E+ E(0
-otherjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%3*
-2
-1*!
-1K K("
-K K(
-"":%
-E$ E(0
-otherjava.lang.ObjectB:8
-6com.simplecity.amp_library.ui.modelviews.SubheaderViewHX
+__unknown_file (@*>4
+2com.simplecity.amp_library.ui.views.BreadcrumbView"
+this"
+
+–$ –(`
+""B
+	!Unknown!

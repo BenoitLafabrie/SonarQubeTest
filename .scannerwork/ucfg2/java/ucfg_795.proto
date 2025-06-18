@@ -1,12 +1,79 @@
 
-N__sonar_lambda_51$com.simplecity.amp_library.ui.screens.folders.FolderFragmentë
-Ñ/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.javaπ π(U"1*%
-1
-π4 π(="
-
-π& π(U
-"": 
+Xcom.simplecity.amp_library.utils.ListUtils#emptyIfNull(Ljava/util/List;)Ljava/util/List;|
+r/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ListUtils.java	 	()"4*r
+2
+, 
+(0^
+\
+
+, 
+(0
+%1java.util.List"__id*4
 
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+
+datajava.util.List*
+1*Œ
+3
+ 
+('L
+J
+
+ 
+('
+%3java.util.List"__id*"
+
+__unknown_file (
+""ç
+ä
+
+ 
+()
+%2java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections\
+Z
+
+ 
+()
+%1java.util.List"__id*2
+
+__unknown_file (
+
+%2java.util.List*
+1*ã
+4
+ 
+(t
+r
+
+ 
+(
+%0boolean"	__compare*
+
+ 
+(
+==*$
+
+ 
+(
+
+datajava.util.List*
+
+ 
+(
+""*
+2
+3*1
+1
+ 
+(1""
+
+ 
+(1
+
+%1java.util.List:"
+	* 	(6
+datajava.util.ListB.",
+*com.simplecity.amp_library.utils.ListUtilsH

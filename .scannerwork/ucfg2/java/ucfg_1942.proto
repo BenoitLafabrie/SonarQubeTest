@@ -1,37 +1,7 @@
 
-Rcom.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#%field_initializer
-__unknown_file ("1*›	
-1 (à
-Ö
-î
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaó ó(@RA
-?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
-disposables"__id*
- (
-""Ö
-Ç
-î
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java™ ™(3OA
-?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
-
-colorSet"__id*
- (
-""Å
-˛
-î
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java¬ ¬(KA
-?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
-song"__id*
- (
-""ä
-á
-î
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.java˙ º(TA
-?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment"
-paletteTarget"__id*
- (
-"""©
-ë
-á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaZ Ù(
-implicit returnBCA
-?com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment
+Gcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#getViewType()Iã
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.java[ [("1*!
+1\ \("
+\ \(
+""B<:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX

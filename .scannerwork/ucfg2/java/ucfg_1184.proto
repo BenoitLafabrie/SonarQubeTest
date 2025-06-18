@@ -1,110 +1,9 @@
 
-Mcom.simplecity.amp_library.model.Song#getTrackNumberLabel()Ljava/lang/String;y
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java… …(%"5*Ð
-2
-Š# Š()¬
-©
-
-Š# Š(8
-%5java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*"
-
-__unknown_file (
-""Š
-‡
-
-Š Š(8='
-%com.simplecity.amp_library.model.Song"
-trackNumberLabel"__id*4
-
-__unknown_file (
-
-%5java.lang.String*
-1*Õ
-3
-ˆ# ˆ()§¤
-
-ˆ2 ˆ(>
-%3";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song2getTagInfo()›
-˜
-
-ˆ# ˆ(K
-%4".java.lang.String#valueOf([C)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*"
-
-__unknown_file (
-""w
-u
-
-ˆ ˆ(K='
-%com.simplecity.amp_library.model.Song"
-trackNumberLabel"__id*"
-
-__unknown_file (
-
-%4*
-1*
-4
-‡ ‡(h
-f
-
-‡ ‡(
-%2boolean"	__compare*
-
-‡ ‡(
-==*
-
-‡ ‡(
-""*
-
-‡ ‡(2*
-2
-3*¢
-5
-† †(Š
-‡
-
-† †(
-%0java.lang.String"__id*[
-
-__unknown_file (?*='
-%com.simplecity.amp_library.model.Song"
-trackNumberLabel|
-z
-
-† †($
-%1boolean"	__compare*
-
-† †(
-==*&
-
-† †(
-
-%0java.lang.String*
-
-†  †($
-""*
-4
-1*Ä
+Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowY()F„
+x/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.javaÛ Û("1*%
 1
- (Š
-‡
+Ü Ü("
 
- (
-%6java.lang.String"__id*[
-
-__unknown_file (?*='
-%com.simplecity.amp_library.model.Song"
-trackNumberLabel"&
-
- ( 
-
-%6java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+Ü Ü(!
+""B><
+:com.simplecity.amp_library.ui.views.SnowfallView$SnowflakeX

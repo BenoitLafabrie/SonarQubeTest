@@ -1,21 +1,81 @@
 
-Fcom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#<init>()V
-__unknown_file ("startingBlock*è
-startingBlock¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (Ï
-Ì
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%0"Ocom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#%field_initializer*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapterž
-›
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-%1"RecyclerView.Adapter#<init>()V*L
- (@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter"¼
-¤
-›/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java (
-implicit returnB@>
-<com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter
+Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)Iy
+m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java‘ ‘("startingBlock*µ
+startingBlock
+‘ ‘(,˜
+•
+
+ (
+%2"
+__annotate*(
+
+__unknown_file (
+
+Nullable*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song¢
+Ÿ
+
+ (
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song—
+”
+
+‘ ‘(!
+%4"
+__annotate*'
+
+__unknown_file (	
+NonNull*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song¸
+µ
+
+‘' ‘(+-
+song%com.simplecity.amp_library.model.Song"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+1*µ
+1
+’ ’(Â¿
+
+’' ’(3
+%0java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getSortKey()ÈÅ
+
+’5 ’(F
+%1java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song2getSortKey()"
+
+’ ’(H
+"":;
+
+‘ ‘(+-
+song%com.simplecity.amp_library.model.SongB)'
+%com.simplecity.amp_library.model.SongHX

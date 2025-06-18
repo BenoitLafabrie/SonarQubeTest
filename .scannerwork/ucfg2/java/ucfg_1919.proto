@@ -1,14 +1,12 @@
 
-dcom.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getUpdateCommandString()Ljava/lang/String;å
-Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetProviderSmall.java   (("1*ñ
-1! !(!a
-_
-! !(!
-%0java.lang.String"__id*5
+R__sonar_lambda_157$com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragmentî
+á/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/nowplaying/PlayerFragment.javaÂ Â(d"1*%
+1
+Â% Â(("
+
+Â% Â(d
+"": 
 
-__unknown_file (
-appwidgetupdate_small"$
-! !("
-
-%0java.lang.StringB=;
-9com.simplecity.amp_library.ui.widgets.WidgetProviderSmallH
+__unknown_file (
+""B
+	!Unknown!

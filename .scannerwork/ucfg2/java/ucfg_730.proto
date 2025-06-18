@@ -1,9 +1,9 @@
 
->com.simplecity.amp_library.ShuttleApplication#getIsUpgraded()Z
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaç ç( "1*%
+Ycom.simplecity.amp_library.ui.modelviews.SongView$ViewHolder#toString()Ljava/lang/String;…
+y/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.javaå å("1*6
 1
-è è(/"
+æ æ(("%
 
-è è(/
-""B1/
--com.simplecity.amp_library.ShuttleApplicationHX
+æ æ()
+SongView.ViewHolderB@>
+<com.simplecity.amp_library.ui.modelviews.SongView$ViewHolderH

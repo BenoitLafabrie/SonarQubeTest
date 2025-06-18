@@ -1,21 +1,21 @@
 
-7com.simplecity.amp_library.ShuttleApplication#<init>()V
-__unknown_file ("startingBlock*ò
-startingBlock}
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaE E(â
-Ü
-}
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaE E(
-%0"@com.simplecity.amp_library.ShuttleApplication#%field_initializer*=
- (1/
--com.simplecity.amp_library.ShuttleApplication‰
-·
-}
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaE E(
-%1"DaggerApplication#<init>()V*=
- (1/
--com.simplecity.amp_library.ShuttleApplication"î
-}
-u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaE E(
-implicit returnB1/
--com.simplecity.amp_library.ShuttleApplication
+?com.simplecity.amp_library.utils.ShuttleUtils#hasMarshmallow()ZÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/ShuttleUtils.javaå å(("1*Ü
+1
+ç ç(_
+]
+
+ç ç(*
+%0"	__compare*
+
+ç% ç('
+>=*
+
+ç ç($
+""*
+
+ç( ç(*2"
+
+ç ç(+
+""B1"/
+-com.simplecity.amp_library.utils.ShuttleUtilsHX

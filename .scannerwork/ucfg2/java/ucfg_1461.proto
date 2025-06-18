@@ -1,14 +1,15 @@
 
-bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#screenName()Ljava/lang/String;–
-‹/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*ž
-1 (i
-g
- (
-%0java.lang.String"__id*=
-
-__unknown_file (!
-WidgetConfigureActivityMedium"$
- (
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+Bcom.simplecity.amp_library.ui.widgets.BaseWidgetProvider#<init>()V
+__unknown_file ("startingBlock*¾
+startingBlock‰
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (ü
+ù
+‰
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (
+%0"AppWidgetProvider#<init>()V*H
+ (<:
+8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider"¡
+‰
+€/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetProvider.java (
+implicit returnB<:
+8com.simplecity.amp_library.ui.widgets.BaseWidgetProvider

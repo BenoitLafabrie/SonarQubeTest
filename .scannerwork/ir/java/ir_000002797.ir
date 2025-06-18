@@ -1,37 +1,4 @@
-Othis
-ö ö("9com.simplecity.amp_library.ui.screens.drawer.DrawerParenttype
-õ õ('"int
-titleResId
-ú ú("int	iconResId
-ù ù("intMnavigationEvent
-ù û(I",Recovered#typeBindingLNavigationEventRelay;0#
-selectable
-ü ü("booleanHsettingsManager
-† †(+"'Recovered#typeBindingLSettingsManager;0"˝(
-&
-
-¢ ¢("#set-field# type:.
-,
-
-£ £($	"#set-field# titleResId:-
-+
-
-§ §("
-"#set-field# iconResId:#
-!
-
-• •(."#unknown-value#3
-1
-
-• •(."#set-field# navigationEvent:.
-,
-
-¶ ¶($"#set-field# selectable:#
-!
-
-ß ß(."#unknown-value#3
-1
-
-ß ß(."#set-field# settingsManager:
-
-® ®(*Å/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/DrawerParent.java
+]this (."Icom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentModule"
+
+
+ (*ë/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragmentModule.java

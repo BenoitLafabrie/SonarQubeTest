@@ -1,21 +1,44 @@
 
-Kcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()V
-__unknown_file ("startingBlock*§
-startingBlock’
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(Ç
-Ä
-’
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-%0"Tcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#%field_initializer*Q
- (EC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment‰
-†
-’
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-%1"BaseFragment#<init>()V*Q
- (EC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"ª
-’
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java' '(
-implicit returnBEC
-Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment
+Bcom.github.florent37.glidepalette.BitmapPalette#%field_initializer
+__unknown_file ("1*Ñ
+1 (ÍÊ
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=6 =(B
+%0java.util.LinkedList"java.util.LinkedListë
+è
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java=2 =(D
+%1"java.util.LinkedList#<init>()V*(
+ (
+
+%0java.util.LinkedList‹
+ˆ
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java= =(E>1
+/com.github.florent37.glidepalette.BitmapPalette"	
+targets"__id*(
+ (
+
+%0java.util.LinkedListËÈ
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>@ >(K
+%2java.util.ArrayList"java.util.ArrayListé
+æ
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java>< >(M
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListŒ
+‰
+•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java> >(N@1
+/com.github.florent37.glidepalette.BitmapPalette"
+	callbacks"__id*'
+ (
+
+%2java.util.ArrayList"¬
+”
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.java ï(
+implicit returnB31
+/com.github.florent37.glidepalette.BitmapPalette

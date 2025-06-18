@@ -1,5 +1,4 @@
-Wthis ( "Ccom.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior$allowDragging! (6"boolean"?/
--
- (*"#set-field# allowDragging:
-
- (* /Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/multisheetview/src/main/java/com/simplecity/multisheetview/ui/behavior/CustomBottomSheetBehavior.java
+Bthis (".com.simplecity.amp_library.ui.common.Presenter":(
+&
+ ("#get-field# view:BV
+ (*v/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/common/Presenter.java

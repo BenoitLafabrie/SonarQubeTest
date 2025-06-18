@@ -1,171 +1,29 @@
 
-Ocom.simplecity.amp_library.ui.modelviews.FolderView#equals(Ljava/lang/Object;)Zá
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java¬ ¬("startingBlock*%
-2
-≈% ≈(*"
-
-≈ ≈(+
-""*ø
-3
-≈ ≈(•
-¢
-
-≈ ≈(
-%5boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*"
+gcom.afollestad.aesthetic.ActiveInactiveColors#create(II)Lcom/afollestad/aesthetic/ActiveInactiveColors;ê
+Ö/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java% (+"1*Æ
+1$ (/pn
+ (#3
+%0-com.afollestad.aesthetic.ActiveInactiveColors"-com.afollestad.aesthetic.ActiveInactiveColorsÈ
+Ê
+ (?
+%1"9com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V*Q
+
+__unknown_file (5
+3
+%0-com.afollestad.aesthetic.ActiveInactiveColors*"
 
 __unknown_file (
-""*3
+""*"
 
-__unknown_file (
-
-ojava.lang.Object*
-2
-1*Ü
-startingBlock
-¬ ¬(#ä
-á
-
-¡ ¡(
-%9"
-__annotate*2
+__unknown_file (
+"""A
+ (@5
+3
+%0-com.afollestad.aesthetic.ActiveInactiveColors: 
 
-__unknown_file (
-java.lang.Override*3
+__unknown_file (
+"": 
 
-__unknown_file (
-
-ojava.lang.ObjectW
-U
-
-¬! ¬("
-ojava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%9*
-8*%
-4
-ƒ< ƒ(A"
-
-ƒ5 ƒ(B
-""*˜
-5
-ƒ ƒ(!µ≤
-
-ƒ ƒ(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
-
-__unknown_file (75
-3com.simplecity.amp_library.ui.modelviews.FolderView2
-getClass()ïí
-
-ƒ' ƒ(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()ç
-ä
-
-ƒ ƒ(3
-%4boolean"	__compare*
-
-ƒ$ ƒ(&
-!=*%
-
-ƒ ƒ(#
-
-%2java.lang.Class*%
-
-ƒ' ƒ(3
-
-%3java.lang.Class*
-3
-4*î
-6
-ƒ ƒ({
-y
-
-ƒ ƒ(
-%1boolean"	__compare*
-
-ƒ ƒ(
-==*%
-
-ƒ ƒ(
-
-ojava.lang.Object*
-
-ƒ ƒ(
-""*
-4
-5*%
-7
-√ √(""
-
-√ √(#
-""*«
-8
-√ √(≠
-™
-
-√ √(
-%0boolean"	__compare*
-
-√ √(
-==*E
-
-√ √(75
-3com.simplecity.amp_library.ui.modelviews.FolderView*%
-
-√ √(
-
-ojava.lang.Object*
-6
-7*Ÿ
-1
-«' «((á
-Ñ
-
-« «();
-that3com.simplecity.amp_library.ui.modelviews.FolderView"__id*3
-
-__unknown_file (
-
-ojava.lang.Objectµ
-≤
-
-… …(5
-%6/com.simplecity.amp_library.model.BaseFileObject"__id*g
-
-__unknown_file (K*I5
-3com.simplecity.amp_library.ui.modelviews.FolderView"
-baseFileObjectª
-∏
-
-…% …(85
-%7/com.simplecity.amp_library.model.BaseFileObject"__id*m
-
-__unknown_file (Q*O
-;
-that3com.simplecity.amp_library.ui.modelviews.FolderView"
-baseFileObject±Æ
-
-… …(9
-%8boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
-
-__unknown_file (7
-5
-%6/com.simplecity.amp_library.model.BaseFileObject*S
-
-__unknown_file (7
-5
-%7/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)"
-
-… …(:
-"":#
-
-¬ ¬("
-ojava.lang.ObjectB75
-3com.simplecity.amp_library.ui.modelviews.FolderViewHX
+__unknown_file (
+""B1"/
+-com.afollestad.aesthetic.ActiveInactiveColorsH

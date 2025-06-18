@@ -69,7 +69,9 @@ public class AestheticCoordinatorLayout extends CoordinatorLayout
         field.set(toolbar, TintHelper.createTintedDrawable(collapseIcon, colors.toEnabledSl()));
       }
     } catch (Exception e) {
-      e.printStackTrace();
+      if (BuildConfig.DEBUG) {
+        e.printStackTrace();
+      }
     }
 
     final PorterDuffColorFilter colorFilter =

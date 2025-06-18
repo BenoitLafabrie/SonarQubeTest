@@ -115,7 +115,7 @@ class PlaylistDetailPresenter @AssistedInject constructor(
                 if (albums.isEmpty()) {
                     currentSlideShowAlbum
                 } else {
-                    albums[(Random().nextInt(albums.size))]
+                    albums[(java.security.SecureRandom().nextInt(albums.size))]
                 }
             }
             .subscribeOn(Schedulers.io())

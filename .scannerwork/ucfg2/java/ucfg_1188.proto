@@ -1,152 +1,15 @@
 
-1com.simplecity.amp_library.model.Song#hashCode()Iy
-m/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/Song.java« «("1*È
-1
-» »(h
-f
-
-»" »(+
-
-%0long"__calculate*
-
-»% »((
->>>*
-
-»" »($
-""*
-
-») »(+2 n
-l
-
-» »(,
-
-%1long"__calculate*
-
-» »( 
-^*
-
-» »(
-""*
-
-»! »(,
-
-
-%0longe
-c
-
-… …(	
-%2int"__calculate*
-
-… …(
-**
-
-… …(2*
-
-… …(
-""h
-f
-
-…2 …(A
-
-%3long"__calculate*
-
-…; …(>
->>>*
-
-…2 …(:
-""*
-
-…? …(A2 n
-l
-
-…& …(B
-
-%4long"__calculate*
-
-…/ …(0
-^*
-
-…& …(.
-""*
-
-…1 …(B
-
-
-%3longr
-p
-
-… …(C	
-%5int"__calculate*
-
-… …(
-+*
-
-… …(
-	
-%2int*
-
-… …(C
-
-
-%4longe
-c
-
-   (	
-%6int"__calculate*
-
-   (
-**
-
-   (2*
-
-   (
-""h
-f
-
- 1  (?
-
-%7long"__calculate*
-
- 9  (<
->>>*
-
- 1  (8
-""*
-
- =  (?2 n
-l
-
- &  (@
-
-%8long"__calculate*
-
- .  (/
-^*
-
- &  (-
-""*
-
- 0  (@
-
-
-%7longr
-p
-
-   (A	
-%9int"__calculate*
-
-   (
-+*
-
-   (
-	
-%6int*
-
-   (A
-
-
-%8long"
-
-À À(
-""B)'
-%com.simplecity.amp_library.model.SongHX
+?com.afollestad.aesthetic.AestheticCoordinatorLayout$1#<init>()V
+__unknown_file ("startingBlock*·
+startingBlockò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÜ\ Ü(]Å
+˛
+ò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÜ\ Ü(]
+%0"BiFunction#<init>()V*E
+ (97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$1"∞
+ò
+ã/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticCoordinatorLayout.javaÜ\ Ü(]
+implicit returnB97
+5com.afollestad.aesthetic.AestheticCoordinatorLayout$1
