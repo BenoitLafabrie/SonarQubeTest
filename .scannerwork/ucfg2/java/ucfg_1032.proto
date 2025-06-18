@@ -1,11 +1,11 @@
 
 ãcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java– –("1*Ô
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java‘ ‘("1*Ô
 1
-— —(í
+’ ’(í
 è
 
-— —(D9
+’ ’(D9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 paths"__id*5
 
@@ -13,9 +13,9 @@
 
 pathsjava.util.List"I
 
-“ “(;9
+÷ ÷(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
 
-– –(1
+‘ ‘(1
 pathsjava.util.ListB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

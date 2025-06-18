@@ -1,41 +1,26 @@
 
-Icom.simplecity.amp_library.model.BaseFileObject#getParent()Ljava/io/File;Å
-w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*Å
-1 (!Ü
-É
- (!
-%0java.lang.String"__id*Y
-
-__unknown_file (=*;1
-/com.simplecity.amp_library.model.BaseFileObject"
-path.,
- (
-%1java.io.File"java.io.File•
-¢
- ("
-%2"(java.io.File#<init>(Ljava/lang/String;)V*0
-
-__unknown_file (
-
-%1java.io.File*4
-
-__unknown_file (
-
-%0java.lang.StringZ
-X
- (#
-filejava.io.File"__id*0
-
-__unknown_file (
-
-%1java.io.Fileíè
- (#
-%3java.io.File"*java.io.File#getParentFile()Ljava/io/File;*2
-
-__unknown_file (
-
-filejava.io.File2getParentFile()" 
- ($
-
-%3java.io.FileB31
-/com.simplecity.amp_library.model.BaseFileObjectH
+Kcom.simplecity.amp_library.http.lastfm.LastFmAlbum$Album#%field_initializer
+__unknown_file ("1*»
+1 (∫∑
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java. (9
+%0java.util.ArrayList"java.util.ArrayListÿ
+’
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java* (;
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayListÅ
+˛
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (<F:
+8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"
+images"__id*'
+ (
+
+%0java.util.ArrayList"ú
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (
+implicit returnB<:
+8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album

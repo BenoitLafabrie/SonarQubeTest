@@ -1,138 +1,79 @@
 
-gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java´" ´(-"8*›
+?__sonar_lambda_169$com.simplecity.amp_library.utils.FileBrowser€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java£( ¨(	"startingBlock*‰
 2
-µb µ(cº·
+¥ ¥("áÞ
 
-µb µ(p	
-%9int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*$
+¥ ¥(P
+%3"gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I*^
 
-__unknown_file (
-
-aT*$
-
-__unknown_file (
-
-bT2compareTo(Ljava/lang/Object;)H
-F
-
-µb µ(p	
-%1int"__id*'
-
-__unknown_file (
-	
-%9int*
-1*£
-3
-µN µ(UC
-A
-
-µN µ(_	
-%8int"__id*"
+__unknown_file (B
+@
+FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser*"
 
 __unknown_file (
-""H
-F
-
-µN µ(_	
-%1int"__id*'
+""*"
 
-__unknown_file (
-	
-%8int*
-1*…
-4
-µB µ(Cl
-j
+__unknown_file (
+""29nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)"
 
-µB µ(K
-%7boolean"	__compare*
+¥ ¥(Q
+
+%3*z
+3
+¤1 ¤(4a
+_
 
-µD µ(F
-==*
+¤1 ¤(N
+%2"	__compare*
 
-µB µ(C
-
-bT*
+¤G ¤(I
+==*
 
-µG µ(K
+¤1 ¤(F
+""*
+
+¤J ¤(N
 ""*
 2
-3*£
-5
-µ, µ(3C
-A
-
-µ, µ(=	
-%6int"__id*"
+1*ì
+startingBlock
+£( ¨(	É
+Æ
 
-__unknown_file (
-""H
-F
-
-µ, µ(=	
-%1int"__id*'
+__unknown_file (@
+FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser"__id*b
 
-__unknown_file (
-	
-%6int*
-1*^
-6
-µ( µ()H
-F
+__unknown_file (F*D.
+,com.simplecity.amp_library.utils.FileBrowser"
+FileBrowser.this*
+4*z
+4
+¤ ¤(a
+_
 
-µ( µ()	
-%1int"__id*'
-
-__unknown_file (
-	
-%5int*
-1*…
-7
-µ µ(l
-j
+¤ ¤(-
+%1"	__compare*
 
-µ µ(%
-%4boolean"	__compare*
+¤& ¤((
+==*
 
-µ µ( 
-==*
+¤ ¤(%
+""*
 
-µ µ(
-
-bT*
-
-µ! µ(%
+¤) ¤(-
 ""*
-5
-6*…
-8
-µ µ(l
-j
-
-µ µ(
-%0boolean"	__compare*
-
-µ µ(
-==*
-
-µ µ(
-
-aT*
-
-µ µ(
-""*
-4
-7*%
+2
+3*%
 1
-µ µ(r"
+§ §("
 
-µ µ(r
-"":
-
-´. ´(2
-aT:
-
-´3 ´(6
-bTB0.
-,com.simplecity.amp_library.utils.FileBrowserX
+§ §(T
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+java.util.Comparator

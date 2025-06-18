@@ -1,15 +1,29 @@
 
-Mcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$4#<init>()V
-__unknown_file ("startingBlock*þ
-startingBlock–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaÒ` Ò(a¢
-Ÿ
-–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaÒ` Ò(a
-%0")SeekBar.OnSeekBarChangeListener#<init>()V*S
- (GE
-Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$4"®
-–
-‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.javaÒ` Ò(a
-implicit returnBGE
-Ccom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment$4
+’com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment;–
+‰/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/equalizer/EqualizerFragment.java—$ —(/"1*¦
+1
+˜ ˜("›˜
+
+™) ™(:G
+%0Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentÉ
+Æ
+
+™% ™(<
+%1"Kcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#<init>()V*e
+
+__unknown_file (I
+G
+%0Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentË
+È
+
+™ ™(=M
+fragmentAcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"__id*e
+
+__unknown_file (I
+G
+%0Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment"]
+
+› ›(O
+M
+fragmentAcom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentBE"C
+Acom.simplecity.amp_library.ui.screens.equalizer.EqualizerFragmentH

@@ -1,37 +1,18 @@
 
-?com.simplecity.amp_library.model.BaseFileObject#canReadWrite()ZÅ
-w/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*Î
-1 (Ü
-É
-0 (4
-%0java.lang.String"__id*Y
-
-__unknown_file (=*;1
-/com.simplecity.amp_library.model.BaseFileObject"
-path.,
-+ (/
-%1java.io.File"java.io.File•
-¢
-' (5
-%2"(java.io.File#<init>(Ljava/lang/String;)V*0
-
-__unknown_file (
-
-%1java.io.File*4
-
-__unknown_file (
-
-%0java.lang.StringÊ
-„
- (6
-%3boolean"Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z*K
-
-__unknown_file (/"-
-+com.simplecity.amp_library.utils.FileHelper*0
-
-__unknown_file (
-
-%1java.io.File"
- (7
-""B31
-/com.simplecity.amp_library.model.BaseFileObjectHX
+Bcom.simplecity.amp_library.http.lastfm.LastFmAlbum$Album#<init>()V
+__unknown_file ("startingBlock*ﬂ
+startingBlockÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (
+ß
+§
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (
+
+%0"Kcom.simplecity.amp_library.http.lastfm.LastFmAlbum$Album#%field_initializer*H
+ (<:
+8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"ú
+Ñ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java (
+
+implicit returnB<:
+8com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album

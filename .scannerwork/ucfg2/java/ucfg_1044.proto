@@ -1,11 +1,11 @@
 
 ‹com.simplecity.amp_library.ui.screens.tagger.TaggerTask#lyrics(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java‘ ‘("1*û
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java• •("1*û
 1
-’ ’($ž
+– –($ž
 ›
 
-’ ’($I9
+– –($I9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 lyricsText"__id*<
@@ -15,10 +15,10 @@ lyricsText"__id*<
 
 lyricsTextjava.lang.String"I
 
-“ “(;9
+— —(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:,
 
-‘ ‘(.
+• •(.
 
 lyricsTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

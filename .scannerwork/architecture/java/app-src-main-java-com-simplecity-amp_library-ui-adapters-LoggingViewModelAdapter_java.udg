@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750239002609*java2.BÓ
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750240410418*java2.Bã
 Z
 Uapp/src/main/java/com/simplecity/amp_library/ui/adapters/LoggingViewModelAdapter.java2
 
@@ -36,12 +36,12 @@ Bcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter.TAG19
 private21
 	
 TAG22
-H
-Bcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter.tag24
+P
+Jcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter.instanceTag24
 
 	protected25
-	
-tag26
+
+instanceTag26
 `
 Zcom.simplecity.amp_library.ui.adapters.LoggingViewModelAdapter#<init>(Ljava/lang/String;)V28
 
@@ -147,17 +147,6 @@ A
 
 11
 22
-@
-23:
-232420 *
-1 (26:3B
-	
-9
-25
-
-
-11
-26
 9
 64
 678 *
@@ -202,6 +191,17 @@ A
 
 11
 59
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+25
+
+
+11
+26
 
 44
 444515
@@ -256,7 +256,7 @@ A
 1	 (
 
 272331*
-1 (
+1 (
 
 323537*
 1 (#
@@ -289,7 +289,7 @@ A
 1$ ('
 
 322331*
-1T (W
+1T (_
 
 32631*
 1 (
@@ -304,4 +304,4 @@ A
 1!, !(/
 
 512331*
-1!t !(w
+1!t !(

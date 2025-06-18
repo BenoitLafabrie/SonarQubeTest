@@ -1,11 +1,11 @@
 
 com.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaó ó(!"1*…
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java÷ ÷(!"1*…
 1
-ô ô(.¨
+ø ø(.¨
 ¥
 
-ô ô(.N9
+ø ø(.N9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 albumArtistText"__id*A
 
@@ -13,9 +13,9 @@
 #
 albumArtistTextjava.lang.String"I
 
-õ õ(;9
+ù ù(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:1
 
-ó" ó(8#
+÷" ÷(8#
 albumArtistTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

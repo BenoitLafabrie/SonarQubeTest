@@ -1,37 +1,148 @@
 
-Rcom.simplecity.amp_library.http.lastfm.LastFmAlbum#getImageUrl()Ljava/lang/String;Ñ
-z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java ("3*÷
-2 (≤
-Ø
-/ (4>
-%28com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"__id*]
+Ncom.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)ZÑ
+z/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/GenreView.java{ {("startingBlock*∑
+2
+Å? Å(Ha
+_
+
+Å? Å(V
+%8"	__compare*
+
+ÅO Å(Q
+==*
+
+Å? Å(N
+""*
+
+ÅR Å(V
+"">
+<
+
+Å? Å(V
+%6"__id*"
 
-__unknown_file (A*?4
-2com.simplecity.amp_library.http.lastfm.LastFmAlbum"
-album"
- (=
-""*Í
-3 (≤
-Ø
- (>
-%08com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"__id*]
+__unknown_file (
+
+%8*
+1*T
+3
+Å Å($>
+<
+
+Å Å(<
+%6"__id*"
 
-__unknown_file (A*?4
-2com.simplecity.amp_library.http.lastfm.LastFmAlbum"
-albumù
-ö
- (
-%1boolean"	__compare*
- (
-!=*L
- (@
->
-%08com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album*
- (
+__unknown_file (
+
+%7*
+1*Ä
+startingBlock{ {(#à
+Ö
+z z(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+{! {("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*Ñ
+4* (+â
+Ü
+ (,?
+	genreView2com.simplecity.amp_library.ui.modelviews.GenreView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objecta
+_
+
+Å Å(
+%5"	__compare*
+
+Å Å(
+!=*
+
+Å Å(
+""*
+
+Å Å(
 ""*
 2
-1*!
-1 ("
- (
-""B64
-2com.simplecity.amp_library.http.lastfm.LastFmAlbumH
+3*!
+5}< }(A"
+}5 }(B
+""*Ë
+6} }(!≤Ø
+} }(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.GenreView2
+getClass()ìê
+}' }(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()Ö
+Ç
+} }(3
+%4boolean"	__compare*
+}$ }(&
+!=*#
+} }(#
+
+%2java.lang.Class*#
+}' }(3
+
+%3java.lang.Class*
+4
+5*ä
+7} }(s
+q
+} }(
+%1boolean"	__compare*
+} }(
+==*#
+} }(
+
+ojava.lang.Object*
+} }(
+""*
+5
+6*!
+8| |(""
+| |(#
+""*º
+9| |(§
+°
+| |(
+%0boolean"	__compare*
+| |(
+==*B
+| |(64
+2com.simplecity.amp_library.ui.modelviews.GenreView*#
+| |(
+
+ojava.lang.Object*
+7
+8*%
+1
+Å Å(W"
+
+Å Å(W
+"":!
+{ {("
+ojava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.GenreViewHX

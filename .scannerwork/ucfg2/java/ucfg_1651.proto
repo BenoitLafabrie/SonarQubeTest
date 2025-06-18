@@ -1,36 +1,18 @@
 
-…com.simplecity.amp_library.ui.views.PlayPauseDrawable$1#get(Lcom/simplecity/amp_library/ui/views/PlayPauseDrawable;)Ljava/lang/Float;‡
-}/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseDrawable.java ( "startingBlock*Ê
-startingBlock  (5­
-ª
- (
-%1"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*X
-
-__unknown_file (<
-:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawablez
-x
-3 (4:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawable"__annotation*"
-
-__unknown_file (
-
-%1*
-1*ô
-1 (ÉÆ
- (*
-%0float"Dcom.simplecity.amp_library.ui.views.PlayPauseDrawable#getProgress()F*X
-
-__unknown_file (<
-:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawable2getProgress()"
- (+
-
-%0float:F
-! (4:
-d5com.simplecity.amp_library.ui.views.PlayPauseDrawableB;9
-7com.simplecity.amp_library.ui.views.PlayPauseDrawable$1H
+Dcom.simplecity.amp_library.http.lastfm.LastFmArtist$Artist#<init>()V
+__unknown_file ("startingBlock*æ
+startingBlock…
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java (
+¬
+©
+…
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java (
+
+%0"Mcom.simplecity.amp_library.http.lastfm.LastFmArtist$Artist#%field_initializer*J
+ (><
+:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist"
+…
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmArtist.java (
+
+implicit returnB><
+:com.simplecity.amp_library.http.lastfm.LastFmArtist$Artist

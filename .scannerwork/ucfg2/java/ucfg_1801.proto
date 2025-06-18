@@ -1,10 +1,28 @@
 
-gcom.github.florent37.glidepalette.BitmapPalette#use(I)Lcom/github/florent37/glidepalette/BitmapPalette;ï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javaB B("1*N
-1C C("?
-D D(31
-/com.github.florent37.glidepalette.BitmapPalette: 
+Ocom.simplecity.amp_library.model.CategoryItem#getEnabledKey()Ljava/lang/String;Å
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaÅ Å("1*˙
+1
+Ç Ç( «
+
+Ç Ç(
+%0java.lang.String"Hcom.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;*M
 
-__unknown_file (
-""B31
-/com.github.florent37.glidepalette.BitmapPaletteH
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2getKey()t
+r
+
+Ç Ç($
+%1java.lang.String"__concat*&
+
+Ç Ç(
+
+%0java.lang.String*
+
+Ç Ç($
+
+_enabled"&
+
+Ç Ç(%
+
+%1java.lang.StringB1/
+-com.simplecity.amp_library.model.CategoryItemH

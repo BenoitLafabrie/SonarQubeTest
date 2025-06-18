@@ -1,11 +1,11 @@
 
 xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¥ ¥("1*â
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java© ©("1*â
 1
-¦ ¦(0
+ª ª(0
 Œ
 
-¦H ¦(M
+ªH ª(M
 %0java.util.List"__id*b
 
 __unknown_file (F*D9
@@ -13,7 +13,7 @@ xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/
 paths•
 ’
 
-¦^ ¦(g
+ª^ ª(g
 %1java.lang.String"__id*f
 
 __unknown_file (J*H9
@@ -21,7 +21,7 @@ xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/
 	titleText•
 ’
 
-§ §(
+« «(
 %2java.lang.String"__id*f
 
 __unknown_file (J*H9
@@ -29,7 +29,7 @@ xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/
 	albumText–
 “
 
-§ §(%
+« «(%
 %3java.lang.String"__id*g
 
 __unknown_file (K*I9
@@ -38,7 +38,7 @@ xcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/
 artistText›
 ˜
 
-§' §(6
+«' «(6
 %4java.lang.String"__id*l
 
 __unknown_file (P*N9
@@ -46,7 +46,7 @@ artistText›
 albumArtistText”
 ‘
 
-§8 §(@
+«8 «(@
 %5java.lang.String"__id*e
 
 __unknown_file (I*G9
@@ -55,7 +55,7 @@ artistText›
 yearText•
 ’
 
-§B §(K
+«B «(K
 %6java.lang.String"__id*f
 
 __unknown_file (J*H9
@@ -63,7 +63,7 @@ artistText›
 	trackTextš
 —
 
-§M §([
+«M «([
 %7java.lang.String"__id*k
 
 __unknown_file (O*M9
@@ -71,7 +71,7 @@ artistText›
 trackTotalText”
 ‘
 
-¨ ¨(
+¬ ¬(
 %8java.lang.String"__id*e
 
 __unknown_file (I*G9
@@ -80,7 +80,7 @@ artistText›
 discText™
 –
 
-¨ ¨('
+¬ ¬('
 %9java.lang.String"__id*j
 
 __unknown_file (N*L9
@@ -88,7 +88,7 @@ artistText›
 discTotalText—
 ”
 
-¨) ¨(3
+¬) ¬(3
 %10java.lang.String"__id*g
 
 __unknown_file (K*I9
@@ -97,7 +97,7 @@ artistText›
 lyricsText˜
 •
 
-¨5 ¨(@
+¬5 ¬(@
 %11java.lang.String"__id*h
 
 __unknown_file (L*J9
@@ -105,7 +105,7 @@ lyricsText˜
 commentText–
 “
 
-¨B ¨(K
+¬B ¬(K
 %12java.lang.String"__id*f
 
 __unknown_file (J*H9
@@ -113,18 +113,18 @@ lyricsText˜
 	genreTextß
 Ü
 
-© ©(%T
+­ ­(%T
 %13Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"__id*r
 
 __unknown_file (V*T9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 tagCompletionListenerˆ…
 
-¦ ¦(>
+ª ª(>
 %147com.simplecity.amp_library.ui.screens.tagger.TaggerTask"7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskÍ
 Ê
 
-¦ ©(&
+ª ­(&
 %15"“com.simplecity.amp_library.ui.screens.tagger.TaggerTask#<init>(LContext;ZZLjava/util/List;Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)V*\
 
 __unknown_file (@
@@ -199,7 +199,7 @@ lyricsText˜
 T
 %13Mcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"N
 
-¦ ©('@
+ª ­('@
 >
 %147com.simplecity.amp_library.ui.screens.tagger.TaggerTaskB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

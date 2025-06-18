@@ -1,27 +1,17 @@
 
-Xcom.simplecity.amp_library.utils.FileBrowser#albumNameComparator()Ljava/util/Comparator;Ä
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java¢ ¢(*"1*¡
+Xcom.simplecity.amp_library.utils.FileBrowser#fileCountComparator()Ljava/util/Comparator;Ä
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaï ï(*"1*±
 1
-£( ®(	â
+ñ* ñ(Uâ
 Ü
 
-£( ®(	
+ñ* ñ(U
 %0"__declareFunction*_
 
 __unknown_file (CA
-?__sonar_lambda_169$com.simplecity.amp_library.utils.FileBrowserç
-ä
-
-__unknown_file (
-
-%0"
-FileBrowser.this"__id*L
-
-__unknown_file (0.
-,com.simplecity.amp_library.utils.FileBrowser"
+?__sonar_lambda_167$com.simplecity.amp_library.utils.FileBrowser"
 
-£ ®(
-
+ñ ñ(V
 
 %0B0.
 ,com.simplecity.amp_library.utils.FileBrowser

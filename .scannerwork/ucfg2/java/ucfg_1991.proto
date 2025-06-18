@@ -1,75 +1,25 @@
 
-?__sonar_lambda_168$com.simplecity.amp_library.utils.FileBrowser€
-t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.javaš( Ÿ(	"startingBlock*‰
-2
-œ œ("áÞ
-
-œ œ(R
-%3"gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I*^
-
-__unknown_file (B
-@
-FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""29nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)"
-
-œ œ(S
-
-%3*z
-3
-›2 ›(5a
-_
-
-›2 ›(P
-%2"	__compare*
-
-›I ›(K
-==*
-
-›2 ›(H
-""*
-
-›L ›(P
-""*
-2
-1*ì
-startingBlock
-š( Ÿ(	É
-Æ
-
-__unknown_file (@
-FileBrowser.this,com.simplecity.amp_library.utils.FileBrowser"__id*b
-
-__unknown_file (F*D.
-,com.simplecity.amp_library.utils.FileBrowser"
-FileBrowser.this*
-4*z
-4
-› ›(a
-_
-
-› ›(.
-%1"	__compare*
-
-›' ›()
-==*
-
-› ›(&
-""*
-
-›* ›(.
-""*
-2
-3*%
+?__sonar_lambda_166$com.simplecity.amp_library.utils.FileBrowser€
+t/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java’* ’(Y"1*‰
 1
-ž ž("
+’8 ’(;b
+`
 
-ž ž(V
-"": 
+’8 ’(Y
+%1"__calculate*
+
+’H ’(I
+-*
+
+’8 ’(G
+""*
+
+’J ’(Y
+"""
+
+’8 ’(Y
+
+%1: 
 
 __unknown_file (
 "": 

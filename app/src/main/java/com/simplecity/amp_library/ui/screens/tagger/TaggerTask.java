@@ -173,9 +173,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                             try {
                                 java.nio.file.Files.delete(file.toPath());
                             } catch (IOException e) {
-                                if (BuildConfig.DEBUG) {
-                                    e.printStackTrace();
-                                }
+                                e.printStackTrace();
                             }
                             tempFiles.remove(j);
                         }

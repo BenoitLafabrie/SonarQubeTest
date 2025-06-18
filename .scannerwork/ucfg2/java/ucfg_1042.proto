@@ -1,11 +1,11 @@
 
 âcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#disc(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;ã
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaá á("1*˜
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaã ã("1*˜
 1
-à à( ö
+å å( ö
 ó
 
-à à( G9
+å å( G9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 
 discText"__id*:
@@ -14,9 +14,9 @@
 
 discTextjava.lang.String"I
 
-â â(;9
+ç ç(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:*
 
-á á(*
+ã ã(*
 discTextjava.lang.StringB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

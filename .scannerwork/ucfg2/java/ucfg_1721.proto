@@ -1,9 +1,9 @@
 
-[com.simplecity.amp_library.ui.modelviews.FolderView$ViewHolder#toString()Ljava/lang/String;á
-{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaú ú("1*8
+Bcom.simplecity.amp_library.ui.modelviews.FolderView#getViewType()Iá
+{/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaè è("1*%
 1
-ù ù(*"'
+ê ê("
 
-ù ù(+
-FolderView.ViewHolderBB@
->com.simplecity.amp_library.ui.modelviews.FolderView$ViewHolderH
+ê ê(
+""B75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

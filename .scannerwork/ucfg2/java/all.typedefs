@@ -4144,12 +4144,13 @@ toString()7java.security.SecureRandom#toString()Ljava/lang/String;‚
 toIntExact(J)#java.lang.StrictMath#toIntExact(J)I2
 toRadians(D)"java.lang.StrictMath#toRadians(D)D&
 ulp(D)java.lang.StrictMath#ulp(D)D&
-ulp(F)java.lang.StrictMath#ulp(F)Fœ
+ulp(F)java.lang.StrictMath#ulp(F)F¢
 :com.simplecity.amp_library.ui.views.SnowfallView$Snowflakejava.lang.Object\
-<init>(FFFFFI)Jcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)VN
+<init>(FFFFFI)Jcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)VT
+
+getSnowY()Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowY()FN
 reset()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#reset()VN
-snowX()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()FN
-snowY()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowY()F‚
+snowX()Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()F‚
 +com.simplecity.amp_library.constants.Configjava.lang.ObjectA
 <init>()5com.simplecity.amp_library.constants.Config#<init>()V—
 3com.afollestad.aesthetic.AestheticCoordinatorLayout$AppBarLayout.OnOffsetChangedListenerCoordinatorLayout]
@@ -5056,9 +5057,13 @@ Bcom.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolderBaseViewHol
 +com.afollestad.aesthetic.AestheticSeekBar$1Consumerý
 +com.simplecity.amp_library.utils.ThemeUtilsjava.lang.ObjectA
 <init>()5com.simplecity.amp_library.utils.ThemeUtils#<init>()Vy
-getRandom()jcom.simplecity.amp_library.utils.ThemeUtils#getRandom()Lcom/simplecity/amp_library/utils/ThemeUtils$Theme;ß
+getRandom()jcom.simplecity.amp_library.utils.ThemeUtils#getRandom()Lcom/simplecity/amp_library/utils/ThemeUtils$Theme;Õ
 1com.simplecity.amp_library.utils.ThemeUtils$Themejava.lang.Object—
-0<init>(ILjava/lang/String;Ljava/lang/String;ZII)ccom.simplecity.amp_library.utils.ThemeUtils$Theme#<init>(ILjava/lang/String;Ljava/lang/String;ZII)VÈ
+0<init>(ILjava/lang/String;Ljava/lang/String;ZII)ccom.simplecity.amp_library.utils.ThemeUtils$Theme#<init>(ILjava/lang/String;Ljava/lang/String;ZII)Vp
+getAccentColorName()Xcom.simplecity.amp_library.utils.ThemeUtils$Theme#getAccentColorName()Ljava/lang/String;E
+getId():com.simplecity.amp_library.utils.ThemeUtils$Theme#getId()Ir
+getPrimaryColorName()Ycom.simplecity.amp_library.utils.ThemeUtils$Theme#getPrimaryColorName()Ljava/lang/String;G
+isDark();com.simplecity.amp_library.utils.ThemeUtils$Theme#isDark()ZÈ
 Ncom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListFragmentModulejava.lang.Objectd
 <init>()Xcom.simplecity.amp_library.ui.screens.playlist.list.PlaylistListFragmentModule#<init>()V"
 HttpUrlFetcherjava.lang.ObjectH

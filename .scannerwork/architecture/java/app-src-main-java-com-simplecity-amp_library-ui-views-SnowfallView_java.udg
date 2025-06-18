@@ -1,5 +1,5 @@
 
-1.0testepsisonarqube_analyseepsiJavaFrontend"1750239010907*java2.Bù%
+1.0testepsisonarqube_analyseepsiJavaFrontend"1750240417322*java2.B±%
 L
 Gapp/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.java2
 
@@ -158,8 +158,8 @@ Bcom.simplecity.amp_library.ui.views.SnowfallView#onDraw(LCanvas;)V108
 View113
 
 returns114
-J
-Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowY()F116
+M
+Fcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#getSnowY()F116
 N
 Gcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake.shouldRemove118
 J
@@ -241,8 +241,10 @@ F
 shouldRemove176
 Q
 Jcom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)V178
+
+getSnowY179
 
-reset179J
+reset180J
 
 1
 12Z
@@ -389,6 +391,16 @@ G
 
 11
 170
+G
+115@
+11511698 *
+1‹	 ‹(274:3B
+	
+9
+82
+
+11
+179
 F
 146?
 14614798 *
@@ -421,16 +433,6 @@ F
 
 11
 43
-G
-115@
-11511698 *
-1€	 €(274:3B
-	
-9
-82
-
-11
-161
 F
 152?
 15215398 *
@@ -589,13 +591,13 @@ D
 G
 119@
 11912098 *
-1ﬂ	 ﬂ(274:3B
+1‡	 ‡(274:3B
 	
 9
 82
 
 11
-179
+180
 @
 77:
 777820 *
@@ -760,7 +762,7 @@ F
 10
 
 11
-141r‚)
+141rÅ*
 
 61316*
 1# ('
@@ -934,7 +936,7 @@ F
 1e e($
 
 107115104*
-1e% e(*
+1e% e(-
 
 10711776*
 1f# f(/
@@ -973,16 +975,16 @@ F
 1m6 m(?
 
 107115104*
-1m@ m(E
+1m@ m(H
 
 10712576*
-1mS m(X
+1mV m([
 
 1076817*
-1mZ m(c
+1m] m(f
 
 1076576*
-1mZ m(c
+1m] m(f
 
 127676*
 1u	 u(
@@ -1291,25 +1293,28 @@ F
 1‘ ‘(
 
 12315676*
-1ÿ ÿ(
+1ÿ ÿ(
 
 12316876*
-1ÿ ÿ(!
+1ÿ ÿ(
+
+12315676*
+1Ÿ Ÿ(
 
 11515976*
-1‹ ‹(
+1› ›(
 
 11517176*
-1‹ ‹(!
+1› ›(!
 
 11915676*
-1‡ ‡(
-
-11916276*
-1‡ ‡(
-
-11915976*
 1· ·(
 
-11916576*
+11916276*
 1· ·(
+
+11915976*
+1‚ ‚(
+
+11916576*
+1‚ ‚(

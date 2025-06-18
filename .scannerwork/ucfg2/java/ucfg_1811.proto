@@ -1,15 +1,17 @@
 
-Acom.simplecity.amp_library.ui.adapters.SectionedAdapter#<init>()V
-__unknown_file ("startingBlock*¶
-startingBlock‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(ø
-õ
-‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(
-%0"ViewModelAdapter#<init>()V*G
- (;9
-7com.simplecity.amp_library.ui.adapters.SectionedAdapter"Ÿ
-‡
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/adapters/SectionedAdapter.java	 	(
-implicit returnB;9
-7com.simplecity.amp_library.ui.adapters.SectionedAdapter
+Êcom.github.florent37.glidepalette.BitmapPalette#setPaletteBuilderInterceptor(Lcom/github/florent37/glidepalette/BitmapPalette$PaletteBuilderInterceptor;)Lcom/github/florent37/glidepalette/BitmapPalette;•
+Š/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javat t(8"1* 
+1u u(&Ï
+Ì
+u u(&B1
+/com.github.florent37.glidepalette.BitmapPalette"
+interceptor"__id*v
+
+__unknown_file (Z
+X
+interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptor"?
+v v(31
+/com.github.florent37.glidepalette.BitmapPalette:d
+t9 t(^X
+interceptorIcom.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptorB31
+/com.github.florent37.glidepalette.BitmapPalette

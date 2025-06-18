@@ -1,73 +1,12 @@
 
-^com.simplecity.amp_library.ui.modelviews.AlbumArtistView#areContentsEqual(Ljava/lang/Object;)Zç
-Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaÀ À(#"startingBlock*'
-2Õ Õ(à"
-Õ Õ(à
-""*÷
-3
-ÕP Õ(Vâ
-Ü
-
-Õ^ Õ(d
-%0char[]"__id*d
-
-__unknown_file (H*F:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistView"
-prefixh
-f
-Õf Õ(Ü
-%1char[]"__id*C
-
-__unknown_file ('*%
-
-otherjava.lang.Object"
-prefix…
-∆
-ÕP Õ(á
-%2boolean"java.util.Arrays#equals([C[C)Z*0
-
-__unknown_file ("
-java.util.Arrays**
-
-__unknown_file (
-
-%0char[]**
-
-__unknown_file (
-
-%1char[]*
-2*î
-startingBlock
-À# À(1é
-ã
-
-   (
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*7
-
-__unknown_file (
-
-otherjava.lang.Object[
-Y
-
-À+ À(0
-otherjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%3*	
-2
-3
-1*%
+Hcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#getSpanSize(I)Iç
+Ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaù ù("1*%
 1
-œ œ("
+û û("
 
-œ œ(
-"":'
-
-À$ À(0
-otherjava.lang.ObjectB<:
+û û(
+"": 
+
+__unknown_file (
+""B<:
 8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX

@@ -1,11 +1,11 @@
 
 Êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;‹
-/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java   ("1*Á
+/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.java¤ ¤("1*Á
 1
-¡% ¡(-ä
+¥% ¥(-ä
 á
 
-¡ ¡(-T9
+¥ ¥(-T9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
 tagCompletionListener"__id*w
 
@@ -13,9 +13,9 @@
 Y
 listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
 
-¢ ¢(;9
+¦ ¦(;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
 
-   (=Y
+¤ ¤(=Y
 listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1,17 +1,136 @@
 
-mcom.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;ï
-ä/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/libraries/glidepalette/src/main/java/com/github/florent37/glidepalette/BitmapPalette.javaU U(%"1*á
-1V V(∂
-≥
-V V(!
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)ZÅ
+u/Users/gatsu/Dev/EPSI/Analyse_Code/SonarQubeTest/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaö ö("startingBlock*%
+2
+ú< ú(A"
 
-%0void"Jcom.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V*O
+ú5 ú(B
+""*Ò
+3
+ú ú(!Ø¨
+
+ú ú(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
 
-__unknown_file (31
-/com.github.florent37.glidepalette.BitmapPalette"?
-Y Y(31
-/com.github.florent37.glidepalette.BitmapPalette: 
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()ïí
+
+ú' ú(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
 
-__unknown_file (
-""B31
-/com.github.florent37.glidepalette.BitmapPalette
+__unknown_file (
+
+ojava.lang.Object2
+getClass()ç
+ä
+
+ú ú(3
+%4boolean"	__compare*
+
+ú$ ú(&
+!=*%
+
+ú ú(#
+
+%2java.lang.Class*%
+
+ú' ú(3
+
+%3java.lang.Class*
+2
+1*Ü
+startingBlock
+ö ö(#ä
+á
+
+ô ô(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+ö! ö("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*î
+4
+ú ú({
+y
+
+ú ú(
+%1boolean"	__compare*
+
+ú ú(
+==*%
+
+ú ú(
+
+ojava.lang.Object*
+
+ú ú(
+""*
+2
+3*%
+5
+õ õ(""
+
+õ õ(#
+""*¡
+6
+õ õ(ß
+§
+
+õ õ(
+%0boolean"	__compare*
+
+õ õ(
+==*?
+
+õ õ(1/
+-com.simplecity.amp_library.model.CategoryItem*%
+
+õ õ(
+
+ojava.lang.Object*
+4
+5*î
+1
+û+ û(,Ä
+~
+
+û û(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectj
+h
+
+† †( 
+%5boolean"	__compare*
+
+† †(
+==*
+
+† †(
+""*
+
+† †( 
+"""
+
+† †(!
+"":#
+
+ö ö("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX
